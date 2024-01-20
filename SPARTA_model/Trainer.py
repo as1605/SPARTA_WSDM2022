@@ -5,18 +5,19 @@ import torch.nn.functional as F
 import torch.optim as optim
 from typing import Any, NoReturn
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, classification_report  
-from .dataset.dataset import DADataset
+from dataset.dataset import DADataset
 from datasets import load_dataset
 from torch.utils.data import DataLoader
 
 
+torch.manual_seed(0)
 
 
 class LightningModel(pl.LightningModule):
     
     def __init__(self, model, tokenizer, config):
         super(LightningModel, self).__init__()
-        
+        wandb.init(mode="offline") 
         self.config = config
         self.model_config = config['model_config'][config['select_model_config']]
 
@@ -80,6 +81,7 @@ class LightningModel(pl.LightningModule):
     def training_step(self, batch, batch_idx):
         targets = batch['label']
         logits = self(batch)
+        print(batch_idx, targets)
         
         loss = F.cross_entropy(logits, targets)
         

@@ -1,10 +1,10 @@
 import torch
 config = {
     # data
-    "data_dir":"./drive/MyDrive/a2g-merged/",
+    "data_dir":"/home/aditya/Hinglish/data/",
     "data_files":{
         "train":"a2g_train.csv",
-        "valid":"a2g_valid.csv",
+        "valid":"a2g_validation.csv",
         "test":"a2g_test.csv",
     },
     # field to read from the dataset, its is limited to our dataset only
@@ -17,8 +17,8 @@ config = {
     },
     
     "max_len":512,
-    "batch_size":8,
-    "num_workers":6,
+    "batch_size":16,
+    "num_workers":8,
     
     "previous_sid":"start",
     
@@ -32,7 +32,7 @@ config = {
     "start_sid":"start",
     "window_size":6,
 
-    "speaker_classifier_ckpt_path":"./drive/MyDrive/speaker-classifier/classifier.ckpt",
+    # "speaker_classifier_ckpt_path":"./drive/MyDrive/speaker-classifier/classifier.ckpt",
     
     "num_speakers":2,
     
@@ -40,7 +40,7 @@ config = {
     
     "num_dialogue_acts":10,
     
-    "model_config":None, #model_config,
+    "model_config": [{"dac_inputs": 6}], #model_config,
     "select_model_config":-1, # it will be from [0, 1, 2, 3, 4, 5, 6, 7]
    
     

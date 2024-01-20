@@ -3,6 +3,7 @@ import torch.nn as nn
 from typing import Any, NoReturn
 
 
+torch.manual_seed(0)
 
 
 class GRUModel(nn.Module):

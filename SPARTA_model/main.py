@@ -4,7 +4,7 @@ from pytorch_lightning.callbacks import EarlyStopping, ModelCheckpoint
 from transformers import AutoTokenizer
 import pytorch_lightning as pl
 from Trainer import LightningModel
-from .models.DAC import DACModel
+from models.DAC import DACModel
 
 if __name__ == '__main__':
     
@@ -22,7 +22,7 @@ if __name__ == '__main__':
         patience=config['patience'],
     )
     checkpoints = ModelCheckpoint(
-        filepath=config["filepath"],
+        dirpath=config["filepath"],
         monitor=config["monitor"],
         save_top_k=1
     )
@@ -35,8 +35,8 @@ if __name__ == '__main__':
         default_root_dir="./",
         max_epochs=config["epochs"],
         precision=config["precision"],
-        enable_pl_optimizer=False,
-        automatic_optimization=True,
+        # enable_pl_optimizer=False,
+        # automatic_optimization=True,
     )
     
     model = DACModel(config=config)

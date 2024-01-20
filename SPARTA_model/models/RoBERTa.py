@@ -33,7 +33,10 @@ class RepresentationModel(nn.Module):
         """
         
         # feed the input_ids and attention to the representation model 
-        hidden_states, pooler = self.base(input_ids=input_ids, attention_mask=attention_mask)
-        return hidden_states, pooler
+        output = self.base(input_ids=input_ids, attention_mask=attention_mask)
+        # print("dir", dir(output))
+        # print("LH", output.last_hidden_state.shape)
+        # print("PO", output.pooler_output.shape)
+        return output.last_hidden_state, output.pooler_output
     
         
