@@ -1,4 +1,4 @@
-,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dilog_Act,Dialog_Act_1,Emotion
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
 0,87_0,0,87_0,28_0,T,"Hi Chucky, How are you doing ?",gt,,0
 1,87_1,1,87_1,28_1,P,I'm doing good. What about you?,gt,,1
 2,87_2,2,87_2,28_2,T,Yeah me too thanks for asking. I understand you've been having some difficulties that brought you in to our agency.,irq,,0

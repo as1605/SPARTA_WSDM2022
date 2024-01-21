@@ -1,4 +1,4 @@
-,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Unnamed: 3
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act
 0,21_0,0,21_0,118_0,T,"Hi, Lisa, how you doing?",gt
 1,21_1,1,21_1,118_1,P,"I'm doing pretty well, but kind of concerned about something.",gt
 2,21_2,2,21_2,118_2,T,"Yeah, I'm aware you have some symptoms that have been bothering you. You tell me about those.",irq
