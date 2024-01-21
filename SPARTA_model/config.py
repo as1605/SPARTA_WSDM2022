@@ -1,7 +1,7 @@
 import torch
 config = {
     # data
-    "data_dir":"/home/aditya/Hinglish/data/",
+    "data_dir":"../HOPE_data/english/",
     "data_files":{
         "train":"a2g_train.csv",
         "valid":"a2g_validation.csv",
