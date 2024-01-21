@@ -1,0 +1,95 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Unnamed: 3
+0,21_0,0,21_0,118_0,T,"Hi, Lisa, how you doing?",gt
+1,21_1,1,21_1,118_1,P,"I'm doing pretty well, but kind of concerned about something.",gt
+2,21_2,2,21_2,118_2,T,"Yeah, I'm aware you have some symptoms that have been bothering you. You tell me about those.",irq
+3,21_3,3,21_3,118_3,P,"Yeah. Sometimes I have problems like with my attention and you know, I was looking at online and I'm really worried that I might have ADHD",id
+4,21_4,4,21_4,118_4,T,ADHD.,ack
+5,21_5,5,21_5,118_5,T,"Alright, so we'll, we'll talk about that. Let me ask you a few quick questions before we we get to that. Do you ever feel depressed",yq
+6,21_6,6,21_6,118_6,P,No,on
+7,21_7,7,21_7,118_7,T,or anxious?,yq
+8,21_8,8,21_8,118_8,P,No,on
+9,21_9,9,21_9,118_9,T,and in trouble with drugs or alcohol?,yq
+10,21_10,10,21_10,118_10,P,Oh No,on
+11,21_11,11,21_11,118_11,T,Nothing like that. Okay.,ack
+12,21_12,12,21_12,118_12,T,?Why do you think you have have ADHD?,orq
+13,21_13,13,21_13,118_13,P,"Oh, cuz I mean, I've always had a problem with my attention. And I can get distracted pretty easily. And",od
+14,21_14,14,21_14,118_14,T,"so, so trouble establishing attention? ",yq
+15,21_15,15,21_15,118_15,P,Yeah.,ack
+16,21_16,16,21_16,118_16,T,How about difficulty in holding attention? Like once you have established it?,yq
+17,21_17,17,21_17,118_17,P,Yeah.,ack
+18,21_18,18,21_18,118_18,T,Trouble with both?,yq
+19,21_19,19,21_19,118_19,P,yeah,ack
+20,21_20,20,21_20,118_20,T,Alright. And you mentioned the word distracted.,yq
+21,21_21,21,21_21,118_21,P,Yes. Yeah.,ack
+22,21_22,22,21_22,118_22,T,"So you find yourself easily distracted? Yeah, you do. Okay.",yq
+23,21_23,23,21_23,118_23,T,"How about well give me an idea of the setting. So, is this at work or school?",irq
+24,21_24,24,21_24,118_24,P,It's everywhere.,id
+25,21_25,25,21_25,118_25,T,It's everywhere.,gc
+26,21_26,26,21_26,118_26,T,"Right. So, do you work? ",yq
+27,21_27,27,21_27,118_27,P,Yeah.,ack
+28,21_28,28,21_28,118_28,T,Do you go to school?,yq
+29,21_29,29,21_29,118_29,P,Yes.,ack
+30,21_30,30,21_30,118_30,T,How old are you?,irq
+31,21_31,31,21_31,118_31,P,I'm 24,id
+32,21_32,32,21_32,118_32,T,24. All right. And this problem with the attention affects you at work.,yq
+33,21_33,33,21_33,118_33,P,"Yeah, ",ack
+34,21_34,34,21_34,118_34,T,at a school and you said everywhere.,crq
+35,21_35,35,21_35,118_35,P,"Yeah, pretty much it's part of my everyday life now.",cd
+36,21_36,36,21_36,118_36,T,"You're 24. Now, when did you first notice the potential problems?",irq
+37,21_37,37,21_37,118_37,P,"I've always had that. I mean, even when I was in like elementary school, you know, it was always that kid.",id
+38,21_38,38,21_38,118_38,T,You've had it for a long time?,yq
+39,21_39,39,21_39,118_39,P,Yeah.,ack
+40,21_40,40,21_40,118_40,T,"How about how disturbing is like, How much is it interfering with your functioning?",irq
+41,21_41,41,21_41,118_41,P,It really It really does.,id
+42,21_42,42,21_42,118_42,T,It's really problematic. Wow. All right.,gc
+43,21_43,43,21_43,118_43,T,"Okay, so I'm going to ask you a few other questions here. We talked about the attention. So it's hard for you to give attention and hold attention. ",yq
+44,21_44,44,21_44,118_44,P,Yeah.,ack
+45,21_45,45,21_45,118_45,T,How about listening? Let's Let's go with the school environment for now. Let's talk about school. How about listening in class?,irq
+46,21_46,46,21_46,118_46,P,I don't really have a problem with that.,id
+47,21_47,47,21_47,118_47,T,That's not a problem for you.,yq
+48,21_48,48,21_48,118_48,P,No,on
+49,21_49,49,21_49,118_49,T,How about following instructions?,yq
+50,21_50,50,21_50,118_50,P,No.,on
+51,21_51,51,21_51,118_51,T,Tell me about your organizational skills,irq
+52,21_52,52,21_52,118_52,P,"I am very organized, ",id
+53,21_53,53,21_53,118_53,T,very organized?,irq
+54,21_54,54,21_54,118_54,P,Yeah Have to be in college.,id
+55,21_55,55,21_55,118_55,T,Do you find yourself avoiding,irq
+56,21_56,56,21_56,118_56,T,activities that require a lot of mental investment?,irq
+57,21_57,57,21_57,118_57,T,Until energy?,irq
+58,21_58,58,21_58,118_58,P,"No, not really No, no.",id
+59,21_59,59,21_59,118_59,T,Do to move toward those types of activities.,irq
+60,21_60,60,21_60,118_60,P,I'm not opposed to them. Like I like chess and checkers,id
+61,21_61,61,21_61,118_61,T,to ever find yourself losing things that you need to complete different jobs or tasks.,yq
+62,21_62,62,21_62,118_62,P,no.,on
+63,21_63,63,21_63,118_63,T,"Okay, I'm gonna change gears and ask you some other questions around a different area. ",yq
+64,21_64,64,21_64,118_64,P,Okay.,ack
+65,21_65,65,21_65,118_65,T,Do you ever find yourself like fidgeting? tough to stay still?,yq
+66,21_66,66,21_66,118_66,P,"Not really No, ",on
+67,21_67,67,21_67,118_67,T,"no. In school, and we'll get we'll cut stick with the school. environment. ",yq
+68,21_68,68,21_68,118_68,P,Okay.,ack
+69,21_69,69,21_69,118_69,T,Do you find it difficult to stay seated?,yq
+70,21_70,70,21_70,118_70,P,"No, not at all.",on
+71,21_71,71,21_71,118_71,T,How do you do when you are engaging in a quiet activity?,irq
+72,21_72,72,21_72,118_72,P,I do pretty well.,id
+73,21_73,73,21_73,118_73,T,You're okay with that.,yq
+74,21_74,74,21_74,118_74,P,"Yeah, ",ack
+75,21_75,75,21_75,118_75,T,you know find yourself wandering off.,yq
+76,21_76,76,21_76,118_76,P,No.,on
+77,21_77,77,21_77,118_77,T,"Did you ever feel like, again internally there's a motor running and you can't shut it off.",yq
+78,21_78,78,21_78,118_78,P,"No, no.",on
+79,21_79,79,21_79,118_79,T,How about being talkative Do you find yourself,irq
+80,21_80,80,21_80,118_80,P,"I am very talkative, very talkative, very talkative. Sometimes I end up being rude and I interrupt people. Cuz I just I gotta get it out.",id
+81,21_81,81,21_81,118_81,T,Right. So you feel like you'd talk a lot? And that you interrupt.,yq
+82,21_82,82,21_82,118_82,T,Yes.,ack
+83,21_83,83,21_83,118_83,T,"People in a situation where it would be traditional to like, wait, in line or wait your turn. Do you find that's difficult for you? ",yq
+84,21_84,84,21_84,118_84,P,ack,on
+85,21_85,85,21_85,118_85,T,"no. Do you ever find yourself like, for example in class, just saying something? Like blurting something out without giving it much thought?",yq
+86,21_86,86,21_86,118_86,P,"No, not really. No? Okay.",on
+87,21_87,87,21_87,118_87,T,All right. I think I have what I need here. And I want to get you in to see a counselor.,ci
+88,21_88,88,21_88,118_88,P,"Okay, ",ack
+89,21_89,89,21_89,118_89,T,"if that works for you, because you did mention this was affecting your function. I want to I want to make sure you get to see a counselor. It'll just take a couple days to get you in to see somebody that works for you.",ci
+90,21_90,90,21_90,118_90,P,That's great. Thank you.,ack
+91,21_91,91,21_91,118_91,T,"Yeah, I appreciate you taking this time with me. This information has been helpful. ",gt
+92,21_92,92,21_92,118_92,P,Thank you very much.,gt
+93,21_93,93,21_93,118_93,T,"Thanks, .",gt

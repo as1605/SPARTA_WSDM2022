@@ -1,0 +1,63 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,147_0,147_0,T,"Hi Ayesha, how you doing today?",gt,0
+1,147_1,147_1,P,"I'm good,",gt,0
+2,147_2,147_2,T,doing good.,crq,0
+3,147_3,147_3,P,yeah,cd,0
+4,147_4,147_4,T,I'm going to ask you some questions and give you some problems to solve. Please try to answer them as best as you can. Okay. What year is this?,"gc, irq",0
+5,147_5,147_5,P,It is 2015,id,0
+6,147_6,147_6,T,Okay. What season of the year is this?,irq,0
+7,147_7,147_7,P,It is beach season.,id,0
+8,147_8,147_8,T,beach season ?,crq,0
+9,147_9,147_9,P,Yeah,cd,0
+10,147_10,147_10,T,What is the date today?,irq,0
+11,147_11,147_11,P,Tuesday,id,0
+12,147_12,147_12,T,what day of the week is this?,irq,0
+13,147_13,147_13,P,Tuesday,id,0
+14,147_14,147_14,T,What month is this?,irq,0
+15,147_15,147_15,P,It is may,id,0
+16,147_16,147_16,T,Can you tell me what country we are in,irq,0
+17,147_17,147_17,P,America.,id,0
+18,147_18,147_18,T,What County are we in?,irq,0
+19,147_19,147_19,P,"We are in Kent County, Kent County.",id,0
+20,147_20,147_20,T,What city are we in ?,irq,0
+21,147_21,147_21,P,New Castle.,id,0
+22,147_22,147_22,T,What is the name or the address of this building?,irq,0
+23,147_23,147_23,P,We are at Wilmington college.,id,0
+24,147_24,147_24,T,What floor of the building we at?,irq,0
+25,147_25,147_25,P,Two,id,0
+26,147_26,147_26,T,"I am going to name three objects. After I've said them, I want you to repeat them back to me.",cv,0
+27,147_27,147_27,P,Okay.,cr,0
+28,147_28,147_28,T,"Apple, Table, Penny",cv,0
+29,147_29,147_29,P,"Apple, Table, Penny",cr,0
+30,147_30,147_30,T,"remember what they are, Because I'm going to ask you to name them again in a few minutes. ",cv,0
+31,147_31,147_31,P,Okay,cr,0
+32,147_32,147_32,T,"Now I'm going to give you a word and ask you to spell it forward and backward. The word is world. First, Can you spell it forward?",cv,0
+33,147_33,147_33,P,U O R D,cr,0
+34,147_34,147_34,T,"Now, can you spell it backward",cv,0
+35,147_35,147_35,P,D O O U,cv,0
+36,147_36,147_36,T,What were the three objects I asked you to remember?,irq,0
+37,147_37,147_37,P,"Apple, Table  And, um, I don't remember the last. ",id,0
+38,147_38,147_38,T,Okay. What is this called?,irq,0
+39,147_39,147_39,P,That's your watch.,id,0
+40,147_40,147_40,T,What is this called?,irq,0
+41,147_41,147_41,P,A pencil,id,0
+42,147_42,147_42,T,"I would like you to repeat a phrase after me. The phrases is no ifs, ands, or buts.",cv,0
+43,147_43,147_43,P,No If no and no buts,cr,0
+44,147_44,147_44,T,I would like you to read the words on this page. I'm going to hold up. Then do what it says.,cv,0
+45,147_45,147_45,P,Close Your eyes.,cr,0
+46,147_46,147_46,T,Okay. Are you right handed or left handed.,irq,0
+47,147_47,147_47,P,"I'm right handed, ",id,0
+48,147_48,147_48,T,right handed ?,crq,0
+49,147_49,147_49,P,Yeah,cd,0
+50,147_50,147_50,T,"I want you to take this paper in your right hand. Fold the paper once with both hands, and then put the paper down in your lap. ",ci,0
+51,147_51,147_51,P,.....,cr,0
+52,147_52,147_52,T,"Okay, thank you. All right, if you could pick up the notebook with a piece of paper. I would like you to write any complete sentence on a piece of paper for me, me.",ci,0
+53,147_53,147_53,P,Any?,cr,0
+54,147_54,147_54,T,Huh hmm,gc,0
+55,147_55,147_55,P,Okay,gc,0
+56,147_56,147_56,T,Can i see the sentence? Okay. Here's the drawing. Please copy the drawing on that same piece of paper.,ci,0
+57,147_57,147_57,P,"This is really hard, I got it.",cr,0
+58,147_58,147_58,T,You got it ?,crq,0
+59,147_59,147_59,P,Kind of.,cd,0
+60,147_60,147_60,T,Thank you Ayesha. I appreciate you participating in that assessment.,gc,0
+61,147_61,147_61,P,Thank you.,gc,0

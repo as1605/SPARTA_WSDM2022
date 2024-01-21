@@ -1,0 +1,61 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,3_0,0,3_0,101_0,T,Hello. Sam How you are doing?,gt
+1,3_1,1,3_1,101_1,P,I'm good. HOw are you?,gt
+2,3_2,2,3_2,101_2,T,I'm doing well. Thanks for asking. So you're here at the agency today to seek counseling services?,"ack,yq"
+3,3_3,3,3_3,101_3,P,Yeah. My boss sent me over.,ack
+4,3_4,4,3_4,101_4,T,"your boss said, Sure?",crq
+5,3_5,5,3_5,101_5,P,"There was this issue with a couple of the people that couldn't relate to my ideas and my boss solid has been kind of, you know, not working super well. So she wanted me to come over and talk about","cd,id"
+6,3_6,6,3_6,101_6,T,she wants you to come over and talk about your relationship with your coworkers?,irq
+7,3_7,7,3_7,101_7,P,"Um, I think more just so that, you know, my ideas were just kind of higher than what they could really Understand, so maybe learn how to like how to talk to other people so that they can understand me.",id
+8,3_8,8,3_8,101_8,T,"Okay, what would you mean by higher, like, your ideas",crq
+9,3_9,9,3_9,101_9,P,"are higher, you know, just a little bit more intelligent, you know, I'm just at a level that other people can't always reach to, you just, you know, like just a little bit higher, sometimes a lot higher, but just on this team, they just couldn't understand, you know, my language or what I was saying, and it couldn't see the vision that I had.",cd
+10,3_10,10,3_10,101_10,T,"Okay, so they were unable to reach your level of expression for this was like a project you're working on? And your boss recognized this difference, and thought that, that the counselor may be helpful. Yeah?",irq
+11,3_11,11,3_11,101_11,P,"Yeah. Yeah. Um, I think it's good, you know, so that my boss is happy that I went, but I think it could also be useful in the sense of, you know, other people are jealous of me a lot, and they just can't really relate to me. So it might be, you know, great to learn how to relate, you know, like, kind of understand what they're going through at their level.",id
+12,3_12,12,3_12,101_12,T,"Again, you stay at their level. So are you meaning again, that they're kind of below you with skills?",crq
+13,3_13,13,3_13,101_13,P,"yeah, they're just they haven't they haven't accomplished as much they have, you know, they don't know as many people, they're not hanging out with those prestigious ranks, you know, they haven't been educated to the quality that I have been. So they just sometimes it's hard for them to understand where I'm coming from, or you know, what I can see happening.",cd
+14,3_14,14,3_14,101_14,T,"Okay, so counseling can help you bridge that gap to go to communicate more effectively.",gc
+15,3_15,15,3_15,101_15,P,"Yeah, so I think you know, so I can even better you know, I'm here but I want to be like here.",gc
+16,3_16,16,3_16,101_16,T,"When you say you're here at the first level,",gc
+17,3_17,17,3_17,101_17,P,"maybe like a seven but I want to like blow it out. The park, you know, like if 10 is here, I want to be higher than that. ",gc
+18,3_18,18,3_18,101_18,T,How would you plan on accomplishing that?,irq
+19,3_19,19,3_19,101_19,P,"Well, you know, I'm always getting recruited for these really prestigious classes and to speak places and people are always calling I'm a really large social media presence when people are constantly asking me for advice, you know, just about everything, because, you know, I've just accomplished so much that I can really help people because I just, you know, I've just been really lucky to just be good at so many things.",id
+20,3_20,20,3_20,101_20,T,"Okay, so it sounds like you're you have a lot of stress.",yq
+21,3_21,21,3_21,101_21,P,"Yeah, yeah.",ack
+22,3_22,22,3_22,101_22,T,"And maybe, from your understanding that people were just getting jealous because you seem to succeed in so many things.",orq
+23,3_23,23,3_23,101_23,P,"Yeah. You know, like, sometimes people just, it's hard to admit that you're just not as good or like you can't do it. Maybe you don't want to admit that I think I make them uncomfortable because I can.",od
+24,3_24,24,3_24,101_24,T,"So calcium help you to relate to them in a way that so how would they have a more productive way? How would they describe you? You know, given this level of difference on this, you're talking about how would they describe you, if I were to ask them, if I could ask them. Could you describe sample?",irq
+25,3_25,25,3_25,101_25,P,"Would they say? I think they would say that I have a lot of people that look up to me that I'm excellent at my job that, you know, like, I should really be vice Vice President, if not president, but I mean, I don't own the company. But I should really have a more significant position. that a lot of the presentations that are happening that I could probably do, but they don't want to, you know, other people need opportunities, but it would, it would be clear for everyone if I just did them.",id
+26,3_26,26,3_26,101_26,T,Would It be easier?,yq
+27,3_27,27,3_27,101_27,P,"Yeah, you know, easier, better, more people. It would just be it would be a great presentation if I did it. So we'll just cut away all the other stuff.",ack
+28,3_28,28,3_28,101_28,T,All those stuff. That's what your coworkers would include?,yq
+29,3_29,29,3_29,101_29,P,"Yeah,",ack
+30,3_30,30,3_30,101_30,T,yeah. Things that maybe detract from them.,gc
+31,3_31,31,3_31,101_31,P,"Right. Like if you know, if I was doing the sales pitches, we could blow it out of the park. I mean, we'd be multimillionaires by now. So You know, it would get rid of all that, you know, the grunt work type of stuff, if I just did it myself,",id
+32,3_32,32,3_32,101_32,T,does it frustrates you that you're not calling for every task? ,irq
+33,3_33,33,3_33,101_33,P,"You're not recognized sometimes, but I've gotten really good at reminding people that they shouldn't be calling on me for every task. Because I'm, you know, sometimes you just have to show them, you know, I'm better than that person, or I could do it better. And I'm really good at that type of communication. So I've been able to secure a lot of positions that weren't given to me at first, because they realize like, Oh, she's better at it. So they can see your talent. ",id
+34,3_34,34,3_34,101_34,T,So they recognize you most of the time. ,crq
+35,3_35,35,3_35,101_35,P,No I mean most of the time. Yeah,cd
+36,3_36,36,3_36,101_36,T,How long have you been with this particular employer?,irq
+37,3_37,37,3_37,101_37,P,"Um, maybe like six months, six months, maybe? Eight months. Okay.",id
+38,3_38,38,3_38,101_38,T,Can you tell me about the job you've had prior like what happened there?,irq
+39,3_39,39,3_39,101_39,P,"an AI algorithm. They, so I got it, I got it to a really, you know, large leadership position. And then, you know, the other VP couldn't really see, see what I was going for. She couldn't relate to me and she, you know, she, she wasn't from the same type of like collegiate backgrounds that was kind of an issue. So I just outgrew what they had to offer. And then this company came in and made this tremendous offer with the you know, it was just, it was just fantastic. So I just had to make a move that was more strategic for me. And you know, that I could that I could even reach more. You know, I didn't I didn't want to be satisfied there.",id
+40,3_40,40,3_40,101_40,T,You want to you want to shoot higher. You want to accomplish something greater?,yq
+41,3_41,41,3_41,101_41,P,Yeah.,ack
+42,3_42,42,3_42,101_42,T,more. So more stuff. You've already achieved some level of popularity.,yq
+43,3_43,43,3_43,101_43,P,Yeah.,ack
+44,3_44,44,3_44,101_44,T,"Alright, so your last ploy or the one before the place you work now, you just outgrew that. Can you tell me how that interaction went? Like? Did you quit? Or did they encourage you to leave? Like, what happened to kind of the last moments of that job?",irq
+45,3_45,45,3_45,101_45,P,"Um, well, I mean,",gc
+46,3_46,46,3_46,101_46,T,So you initiate it and you quit. At the same time. They had a few issues with type issues they have.,
+47,3_47,47,3_47,101_47,P,"They just said I you know, I talked too much or something like that, or I think there was an issue with somebody I was working with or something. But it was really it was another situation that just didn't. We just we weren't, we weren't communicating well, but in the end I had to do what was best for me. So because afterwards they were calling me and trying to get me back, but I was already here so that I wasn't gonna go back there.",id
+48,3_48,48,3_48,101_48,T,So I have to quit the pursuit you to come,
+49,3_49,49,3_49,101_49,P,yet for them again. Yeah. Which I told them was gonna happen.,
+50,3_50,50,3_50,101_50,T,You predicted that when you left,irq
+51,3_51,51,3_51,101_51,P,"Yeah, it was like you're gonna you're gonna miss me cuz I'm the reason this company is flourishing.",id
+52,3_52,52,3_52,101_52,T,So what did you tell them when they offered you,irq
+53,3_53,53,3_53,101_53,P,the chargeback that I was had gotten a phenomenal job and it was way better and that they lost it and they could just deal with it.,id
+54,3_54,54,3_54,101_54,T,"So you rejected them at that point, okay.",crq
+55,3_55,55,3_55,101_55,P,"Yeah. And I, you know, I want to make my boss happy, but I feel like it would be good. You know, I don't want to make people feel bad because they're inferior to me. And because they're not as successful. So if I could learn how to even talk with them so that I'm not, you know, so they don't feel bad about themselves.","cd,id"
+56,3_56,56,3_56,101_56,T,"It's your boss putting, I mean, she encouraged you to come here today. Is she putting any pressure on you? Like, is this something that's strongly encouraged mandatory?","id,orq"
+57,3_57,57,3_57,101_57,P,I think it's strongly encouraged. I think she has a promotion for me in mind. So it's probably just to set me up for that.,od
+58,3_58,58,3_58,101_58,T,"So she's trying to help you for the future. Another advancement. So Sam, I'm going to get you on the calendar is to see a counselor open later this week. Is that work for you? okay? That does. So I'll get you set up for that. I really appreciate you taking the time with me it was helpful origin to see a counselor and we'll go from there. ",yq
+59,3_59,59,3_59,101_59,P,Yeah. Sure. Thank you,ack

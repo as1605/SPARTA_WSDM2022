@@ -1,0 +1,52 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,122_0,0,122_0,6_0,T,"Hello, Mr. Taylor. My name is Dr. vinita. And I'm one of the psychiatrists who works here right. Okay, can you tell me what's brought you here today?",gt,,0
+1,122_1,1,122_1,6_1,P,"Yeah, well, I was referred to by my GP, right. They referred me to you because. Well, my wife thinks I'm drinking too much.",id,,0
+2,122_2,2,122_2,6_2,T,"I see, do you think you're drinking too much?",irq,,0
+3,122_3,3,122_3,6_3,P,"Well, I",gc,,0
+4,122_4,4,122_4,6_4,T,Right? Maybe we can just explore that a little bit more. Yeah. How much would you say you drank in a day? Now?,gt,irq,0
+5,122_5,5,122_5,6_5,P,"Yeah. Oh, It has crept up over the years. Well, I suppose if I'm, if I'm honest. Yeah, I drink about a bottle of vodka a day",id,,0
+6,122_6,6,122_6,6_6,T,about bottle of vodka. And how long have you been drinking that much for?,irq,,0
+7,122_7,7,122_7,6_7,P,"Well, as I say it's crept up on for Few years now,",id,,0
+8,122_8,8,122_8,6_8,T,"a few years, can you make it a more specific two years? Three years? Five years?",irq,,0
+9,122_9,9,122_9,6_9,P,"Well, I mean, as I say, it's crept up. I mean, initially, I just used to have a couple of drinks after work, right? Because I got a pretty responsible job. And I just found the drink calmed me down, you know. And then I got more responsibility, and I found a bit more alcohol helped me so. Yeah, yeah. So drinking about it.",id,,-1
+10,122_10,10,122_10,6_10,T,"Okay, so you'd say of about the last two years three. Okay. And do you drink anything else apart from vodka?",crq,irq,0
+11,122_11,11,122_11,6_11,P,"Yeah. After work, I normally go to the pub and have two to four pints of bitter or lager.",id,,0
+12,122_12,12,122_12,6_12,T,Right. Okay. And would that be every day?,irq,,0
+13,122_13,13,122_13,6_13,P,"Yeah. Well, especially, you know, Monday to Friday when I'm working. But at weekends, I normally go down the local pub At lunchtime,",id,,0
+14,122_14,14,122_14,6_14,T,right and how much is a few?,irq,,0
+15,122_15,15,122_15,6_15,P,"Okay, and about two to four. Right.",id,,0
+16,122_16,16,122_16,6_16,T," Okay. And then so on a weekday I've got about you take about you have about two to four pints afterwards and then you come home and drink about a bottle of vodka. Yeah, well,",crq,,0
+17,122_17,17,122_17,6_17,P,"no, well, no, I don't come home and drink a bottle of vodka. I drink a drink during the day. So when you drink drought when I'm working mind, you know when you're working lunchtime, okay, when I'm at work,",crq,,0
+18,122_18,18,122_18,6_18,T,"when do you start drinking during the day? On an average day,",irq,,0
+19,122_19,19,122_19,6_19,P,when after I'm up and dressed and have me breakfast.,id,,0
+20,122_20,20,122_20,6_20,T,"Right. So after breakfast, and again, when did that start?",irq,,0
+21,122_21,21,122_21,6_21,P," Couple years ago, a couple of years ago. ",id,,0
+22,122_22,22,122_22,6_22,T,"Okay. And what about the weekends at the same at the weekend? And would you drink you go to the pub at lunchtime at the weekend? Would you drink more than a bottle of vodka during the day or the weekend? No. It'd be about the same. Okay, and then the rest regular time when you drink more than what you tell me. ",yq,,0
+23,122_23,23,122_23,6_23,P,No.,on,,0
+24,122_24,24,122_24,6_24,T,"Okay, so And is it just beer and vodka? Or do you drink wine?",irq,,0
+25,122_25,25,122_25,6_25,P,"No, no. We used to drink wine my wife used to when we had an evening meal together. Sometimes we had a bottle of red or a bottle of white together. half a bottle. But since she started complaining that she thought I was, you know, really shoving it down my throat. She sort of nailed on the head. So don't do that anymore.",id,,-1
+26,122_26,26,122_26,6_26,T,Then would you say you have to drink more to get the same effect from the from the alcohol?,irq,,0
+27,122_27,27,122_27,6_27,P,"Same common,",id,,0
+28,122_28,28,122_28,6_28,T,some common effect? Do you have days where you don't drink or periods where you don't drink? When was the last time you had that?,crq,irq,0
+29,122_29,29,122_29,6_29,P,"A few months ago now. When she really had a go at me and I thought to myself, well, maybe I'll give it a try. Again. It wasn't the first time but um",id,,-1
+30,122_30,30,122_30,6_30,T,for how long did that last for,irq,,0
+31,122_31,31,122_31,6_31,P,about three days,id,,0
+32,122_32,32,122_32,6_32,T,and it In that time did you experience any? any physical feelings at all?,irq,,0
+33,122_33,33,122_33,6_33,P,"Dude, I mean, I was shaking. very shaky. I got I was on edge all the time. I was not working properly, and I was sweating. And I just felt absolutely lousy. Yes. take time off work. No, I didn't take time I couldn't do I didn't dare take time off work. I just said I had a bit of a cold, right. But I thought to myself, well, I can't carry on like this. And so I had a couple of largers on the work. And that made that made you feel better on the straight and narrow.",id,,-2
+34,122_34,34,122_34,6_34,T,Did you ever feel? Do you ever get those similar sorts of feelings in the morning when you wake up?,yq,,0
+35,122_35,35,122_35,6_35,P,"Yeah, ",op,,0
+36,122_36,36,122_36,6_36,T,"you do. And what happens yet when you have a drink in the morning that makes you feel better? Does, right? Yeah. If you don't have that drink in the morning, what happens",crq,irq,0
+37,122_37,37,122_37,6_37,P,"over the time I get to work I just feel. Again, I feel pretty shaky and very on edge. And as I say I don't touch it when I'm at work. Got a pretty responsible job. And I do, as I said, Don't touch it at work,",id,,0
+38,122_38,38,122_38,6_38,T,and you work as a bank manager.,crq,,0
+39,122_39,39,122_39,6_39,P,I do,op,,0
+40,122_40,40,122_40,6_40,T," Okay. Has anyone has anyone commented apart from your wife about your drinking? Have you ever had any more serious health problems from your drinking? Have you ever seen a doctor or had sometimes people get loss of memory or Fitz Shams? Very serious shakes, they need to go into hospital.",irq,,0
+41,122_41,41,122_41,6_41,P,He does some blood tests.,id,,0
+42,122_42,42,122_42,6_42,T,And did that show anything?,irq,,0
+43,122_43,43,122_43,6_43,P,It wasn't too good.,id,on,-1
+44,122_44,44,122_44,6_44,T,Right?,crq,,0
+45,122_45,45,122_45,6_45,P," And then I because of my you know, my wife friend to leave me basically. That's what got me to see the GP. Oh, he did some blood tests. And he said your liver, you know, told me I've got to cut it down a bit. What did he say about a room and he said he was going to refer me to somebody to talk about it.",id,,0
+46,122_46,46,122_46,6_46,T,Right. Okay. And how did you feel about that?,irq,,0
+47,122_47,47,122_47,6_47,P,"Well, I wasn't exactly over the moon when he suggested it. But um Well, I suppose you know if it's a choice of coming to see you, and then or my wife leaving me. I came to see, I don't want to lose her.",id,,-1
+48,122_48,48,122_48,6_48,T,"So I can see that it's had quite an impact at home. Yeah, well, but outside the home, how's your drinking affected jobs or anything else? My job about relationships other than your wife with family friends? Well, any other serious consequences? Yeah,",ack,irq,0
+49,122_49,49,122_49,6_49,P,"I have to go to family dues dragged along there. But I mean, I don't I mean, I avoid mixing with my work colleagues socially. I find that bores me, because if I'm in the pub with them, I've tried it once and I found I needed a drink and you know, I thought, well, I'm going to put my foot in it if I carry on like this. I left early, and I just make excuses. I don't I don't socialize with them anymore.",id,,-1
+50,122_50,50,122_50,6_50,T,"Okay, thanks for coming to talk to me today.",gt,,0

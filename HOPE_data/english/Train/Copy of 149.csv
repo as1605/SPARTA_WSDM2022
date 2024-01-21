@@ -1,0 +1,94 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,149_0,149_0,T,"Hi Ann, how are you doing today ?",gt,0
+1,149_1,149_1,P,"I am Okay, how are you Dr. Grande?",gt,0
+2,149_2,149_2,T,"I am good, thanks for asking what's been going on?","gt, irq",0
+3,149_3,149_3,P,Not really a lot of change on the drug front.,id,-1
+4,149_4,149_4,T,Mm hmm,gc,0
+5,149_5,149_5,P,"it's as you know, the the  Adderall I'm really struggling.",id,-1
+6,149_6,149_6,T,still struggling with the Adderall?.,crq,0
+7,149_7,149_7,P,"Yeah. I'm not sure what to do because I know that I mean, I'm having such a hard time with it. But when I don't have it, I am. I'm just not functioning I'm not able to get As much accomplished","cd, id",-1
+8,149_8,149_8,T,"right, so, go ahead",gc,0
+9,149_9,149_9,P,well it's it's like it's always there to.,gc,-1
+10,149_10,149_10,T,It's always available ?,crq,0
+11,149_11,149_11,P,"it's always available, Yeah. Or so much at the time.",cd,-1
+12,149_12,149_12,T,You're having some mixed feelings about it. So I'm sensing.,gc,0
+13,149_13,149_13,P,Yeah. Yeah. Like I know I want to stop,gc,-1
+14,149_14,149_14,T,you think you think you want to stop?,yq,0
+15,149_15,149_15,P,"Yeah. No, I do. ",op,-1
+16,149_16,149_16,T,You do ?,crq,0
+17,149_17,149_17,P,"Oh my god see, I feel crazy, but I know it would be good if I didn't have it in my life.",cd,-3
+18,149_18,149_18,T,But at the same time it is in your life ?,crq,0
+19,149_19,149_19,P,"And I don't know how to get out of that. I mean, the one thing if I didn't live with my roommate, that would be one thing. Like, it wouldn't be in the apartment all the time.",cd,-1
+20,149_20,149_20,T,"So you find you have easier access to the Adderall when you're when you're in the house or apartment with your, with your roommate. ",crq,0
+21,149_21,149_21,P,Yeah.,cd,0
+22,149_22,149_22,T,"So if you physically weren't there, like with your roommate in that apartment?",crq,0
+23,149_23,149_23,P,"Yeah, like if I was oh my god living at home with my parents again or even living with somebody else, I guess. Oh my god, move ? What a hassle but that's I mean, that's the problem. It's just there. It's it's accessible.","cd,id",-1
+24,149_24,149_24,T,"So you're kind of it sounds like you're recognizing that, maybe you don't have the willpower to stop taking the drug when it's right there in front of you.",gc,0
+25,149_25,149_25,P,"Maybe you're right. Yeah, that's that's good. Because before I didn't really want to stop at some, I mean, I definitely sometimes I want to stop, I'm my mind, I'll go back and forth. You know, but for the most part I would like to be without it. You know, I really don't want to deal with this anymore.","gc, id",-1
+26,149_26,149_26,T,"So mostly so so there's still some feelings for you. You want to use it, but mostly you would like to stop ?","gc, yq",0
+27,149_27,149_27,P,"Well, it makes us so easy to get stuff done. I mean, I just take a couple and boom boom boom, I mean,",on,-1
+28,149_28,149_28,T,so there's some advantages for you ?,yq,0
+29,149_29,149_29,P,"Yeah, definitely. Definitely. And I'm so used to it. So it's just comfortable and",op,-1
+30,149_30,149_30,T,it's comfortable and it allows you To be productive. Are there any downsides to it?,"gc, yq",0
+31,149_31,149_31,P,"Well, yeah. When I don't have it, the crash, it's like a really bad crash and I'm not productive. You know, it's it's, and it's gotten worse than it used to be.Like I need it.",op,-1
+32,149_32,149_32,T,So it's painful ?,yq,0
+33,149_33,149_33,P,It's painful. Definitely. Definitely. It feels like a trap. I want out.,op,-1
+34,149_34,149_34,T,"And one of the ideas you're having was sound like potentially was moving out, moving out of the apartment, because then you wouldn't have access to the who would have access to the Adderall anymore? Or it would be hard to get ?",crq,0
+35,149_35,149_35,P,"Oh my god, like sometimes it's really weird. Sometimes it feels like that's a good idea. And then sometimes I'm like, No, no, I don't want to be You know kind of cut off from it but I think I am come ready. ",cd,-2
+36,149_36,149_36,T,You think you're ready for that?,orq,0
+37,149_37,149_37,P,Yeah,od,0
+38,149_38,149_38,T,And that moving out you really see is what you would need to do. Because stopping while living there is too difficult.,crq,0
+39,149_39,149_39,P,"Yeah, yep, I think you're right.",cd,0
+40,149_40,149_40,T,"Remember before you've tried to stop living there a few times right or, or last few months and with your roommate having it with your roommate being the one that gives it to you. It just appears that temptation so great for you.",gc,0
+41,149_41,149_41,P,"Yeah, she really doesn't get it. She doesn't understand like, What? What a problem this is for me? She's definitely not supporting me or anything like that. Yeah, God, maybe it would be better","gc, id",-2
+42,149_42,149_42,T,"Well, are there any disadvantages to living with your parents?",irq,0
+43,149_43,149_43,P,"living with my parents at my age, it just feels like a little bit humiliating a lot humiliating. ",id,-3
+44,149_44,149_44,T,"Okay, so humiliation would be one.",gc,0
+45,149_45,149_45,P,"Yeah, just this feeling of failure, embarrassment and then my mom just is in my business.",gc,-3
+46,149_46,149_46,T,So some clear disadvantages to move into Paris any advantages other than the obvious who would separate you from the  Adderall?,crq,0
+47,149_47,149_47,P,Am I would you buy laundry? fully stocked fridge?,cd,0
+48,149_48,149_48,T,Yeah.,gc,0
+49,149_49,149_49,P,"Yeah, my dad will fill my gas tank up.",gc,0
+50,149_50,149_50,T,things that happened before ?,gc,0
+51,149_51,149_51,P,Uh huh.,gc,0
+52,149_52,149_52,T,"So there's some disadvantages to this plan, but there's some advantages. And there's a key advantage of being think of narrow.",crq,0
+53,149_53,149_53,P,"Yeah. And it wouldn't necessarily have to be the rest of my life either. Just for now, just to get me out of that apartment with the Drug. Right ?",cd,-1
+54,149_54,149_54,T,That would separate you from the drug and you could potentially move out later on.,gc,0
+55,149_55,149_55,P,"Oh my god, do I want to I mean, that that's just it. Like, it's like, it sounds really good until I like really think about it.",gc,-2
+56,149_56,149_56,T,"When you really think about it, what comes to mind?",irq,0
+57,149_57,149_57,P,"Oh, like I start to shake like that feeling of, you know, when you really want something, you really want something and you can't get to it. And that desperation that I'm like, right now, I know that, you know, I'm living there, it could be my choice. I could take it, or I could not take it. You know, but at least when I want it, it's there. If I move out, I'm like making that decision for myself. ",id,-3
+58,149_58,149_58,T,That's right. It would be.,gc,0
+59,149_59,149_59,P,I don't know.,gc,0
+60,149_60,149_60,T,Is it tough?,yq,0
+61,149_61,149_61,P,Yeah,op,0
+62,149_62,149_62,T,"Before it seemed like you're really more on the side of making this change than not. Clearly, there's still some things you want to consider.","gc, crq",0
+63,149_63,149_63,P,"No, you know, you're right, though. I want out, and it's not really a choice when I'm there. Like I say, I have the choice yes or no, but the choice is always Yes. ",cd,-3
+64,149_64,149_64,T,You always end up using the Adderall ?,yq,0
+65,149_65,149_65,P,Yeah.,op,0
+66,149_66,149_66,T,"So, so make sure I understand the situation overall. You live with your roommate, she has that role and she makes it available to, you use it?",crq,0
+67,149_67,149_67,P,Yeah,cd,0
+68,149_68,149_68,T,"You've tried to stop that behavior, but that's just not working for you.",crq,0
+69,149_69,149_69,P,"Yeah, yeah, that's so clear. And I don't want to be using it.",cd,0
+70,149_70,149_70,T,"You don't want to be using it. But yet you are. Especially because the proximity, right, like cuz you're right there and she has it and it's just tougher to stop that behavior. There's another possible decision, which is moving back home, which has some disadvantages and advantages. ",id,0
+71,149_71,149_71,P,"Yeah, that's true. It would be nice having that fully stocked fridge.",gc,0
+72,149_72,149_72,T,so that there's an upside to it.,crq,0
+73,149_73,149_73,P,Yeah,cd,0
+74,149_74,149_74,T,That would be beyond just not using the drug which would which fit itself It'd be a big victory for you.,gc,0
+75,149_75,149_75,P,Yeah. And my mom would be there to talk to Yeah. Yeah.,gc,0
+76,149_76,149_76,T,So let's do this. It seems like that's the direction you're moving. Right?,crq,0
+77,149_77,149_77,P,Okay.,cd,0
+78,149_78,149_78,T,"No pun intended with moving. But that's, you're you, you're thinking that might be a better way to go?",crq,0
+79,149_79,149_79,P,Yeah.,cd,0
+80,149_80,149_80,T,"So, for the next session, let's plan out that and this wouldn't necessarily be doing anything. This would just be let's plan out the steps that you'd have to put in place to move out to move back home, talking to your parents, whatever financial arrangement, have the roommate, getting all your stuff out the logistics of moving, let's just go through the steps. ",gc,0
+81,149_81,149_81,P,Okay.,gc,0
+82,149_82,149_82,T,"And try to get a firm plan together. And of course, you can always re evaluate and change your mind. ",gc,0
+83,149_83,149_83,P,"Okay, right. ",gc,0
+84,149_84,149_84,T,"But all we're doing at this point, is just just planning and seeing how it would look. ",gc,0
+85,149_85,149_85,P,This is kind of exciting.,gc,0
+86,149_86,149_86,T,Exciting ?,crq,0
+87,149_87,149_87,P,"Yeah, it definitely is. I can do that.",cd,0
+88,149_88,149_88,T,So I will see you and next week ?,gc,0
+89,149_89,149_89,P,okay,gc,0
+90,149_90,149_90,T,"and we'll pick up where we left off and we'll, we'll start with a planning and we'll see what happens with that. ",gc,0
+91,149_91,149_91,P,Cool. All right.,gc,0
+92,149_92,149_92,T,Thanks.,gc,0

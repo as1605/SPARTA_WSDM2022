@@ -1,0 +1,81 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,69_0,0,69_0,162_0,T,"How are you Today?, Are you fine? ",gt
+1,69_1,1,69_1,162_1,P,Yeah.,gt
+2,69_2,2,69_2,162_2,T,I'm glad you could come in today or the syntek. Want to explain a little bit about the process? I understand you've already completed the informed consent.,gt
+3,69_3,3,69_3,162_3,P,"Yes. Yeah, I've done this before.",gc
+4,69_4,4,69_4,162_4,T,So you've done this before.,yq
+5,69_5,5,69_5,162_5,P,Yeah,ack
+6,69_6,6,69_6,162_6,T,So understand my obligations to report certain things. Okay.,yq
+7,69_7,7,69_7,162_7,P,Okay.,ack
+8,69_8,8,69_8,162_8,T," So, you answered some other questions in that packet that you filled out with the informed consent, sexual type of questions. information might be on your driver's license or insurance cards, things like that. I'm going to be asking you more emotionally oriented questions as part of this part, the intake ",yq
+9,69_9,9,69_9,162_9,P,"Okay,",ack
+10,69_10,10,69_10,162_10,T,all right. Some of the topics we'll be covering are sensitive for many people. And you may not want to talk about it. That's okay.,yq
+11,69_11,11,69_11,162_11,P,All right.,ack
+12,69_12,12,69_12,162_12,T,"So if I stumble upon one of those topics, you know, I discuss it, just let me know. And we don't have to talk about it.",yq
+13,69_13,13,69_13,162_13,P,Okay.,ack
+14,69_14,14,69_14,162_14,T,"If it's an area that you don't want to talk about right now, but you want to talk about later, we can talk about later. Okay. Does that make sense?",yq
+15,69_15,15,69_15,162_15,P,Yeah. Okay.,ack
+16,69_16,16,69_16,162_16,T,"So, how are you referred here to our agency?",irq
+17,69_17,17,69_17,162_17,P,"Well, I have this friend that I've known for forever. And she told me that she was really concerned about the way I was living my life and that, you know, I shouldn't be coming here. So, as a favor to her, I'm here.",id
+18,69_18,18,69_18,162_18,T,Do you feel committed to counseling?,irq
+19,69_19,19,69_19,162_19,P,"I mean, I guess there's some things I can work on, but I mean, they have problems that I really just don't i don't have.",id
+20,69_20,20,69_20,162_20,T,"Why did you say they,",irq
+21,69_21,21,69_21,162_21,P,"some of my other friends, the friend that referred me.",id
+22,69_22,22,69_22,162_22,T,"Alright, so there's some",yq
+23,69_23,23,69_23,162_23,P,Yeah.,ack
+24,69_24,24,69_24,162_24,T,And you think they might not be there at all?,yq
+25,69_25,25,69_25,162_25,P,Yeah. Okay.,ack
+26,69_26,26,69_26,162_26,T,"Fair enough. So, I want to talk about what we refer to as the presenting problem. And I know you indicated you're here because a friend referred you but in terms of the any symptoms or problems or issues that might be going on in your life. Right. Any of those you can identify? Good talk about?",irq
+27,69_27,27,69_27,162_27,P,"Well, I mean, I will admit, I do get angry a lot.",id
+28,69_28,28,69_28,162_28,T,"Anger, okay.",gc
+29,69_29,29,69_29,162_29,P,"Yeah. And sometimes when I get mad, I break a few things. Your wall alone. I won't hit anybody. So I mean, that's not a problem, you know, but I'll take it out on something that doesn't feel pain. I thought that was a good thing.",gc
+30,69_30,30,69_30,162_30,T,"So, um, and objects are the target of some, some physical and angry behavior. Yeah, but not people. ",gc
+31,69_31,31,69_31,162_31,P,Yeah.,"ack,gc"
+32,69_32,32,69_32,162_32,T,So do you view anger as a problem you want to work on?,irq
+33,69_33,33,69_33,162_33,P,"I guess I could work on being less angry. I don't think I have a anger problem, but I can be less angry.",id
+34,69_34,34,69_34,162_34,T,"Okay. So so one of the symptoms would be anger. You don't necessarily necessarily feel like it's a large problem, but you could be less angry.",gc
+35,69_35,35,69_35,162_35,P,"Yeah, you'd be okay. I think everybody can work on being a little more peaceful.",gc
+36,69_36,36,69_36,162_36,T,"Okay, that makes sense. Anything else?","yq,irq"
+37,69_37,37,69_37,162_37,P,"Um, No, this is something I have tried to stop before, but I'm having a problem. I do smoke marijuana, a lot of time and a lot of you a lot. And recently I've been getting into like, snorting some drugs","on,id"
+38,69_38,38,69_38,162_38,T,can you tell me what drugs?,irq
+39,69_39,39,69_39,162_39,P,"like Xanax. And I've tried to stop before and it didn't work. But me, I like it. So it's kind of like that. I really want to give it up. ",id
+40,69_40,40,69_40,162_40,T,I'm not sure you seem a little more torn on that.,crq
+41,69_41,41,69_41,162_41,P,Yeah.,"ack,cd"
+42,69_42,42,69_42,162_42,T,So you see a lot of marijuana. And that can mean something different depending on the person. What's it mean to you?,irq
+43,69_43,43,69_43,162_43,P,"several times during the day. Even when I'm at work, I'll go to my car on break.",id
+44,69_44,44,69_44,162_44,T,Does anybody notice that?,irq
+45,69_45,45,69_45,162_45,P,"I mean, the place I work at isn't very professional, I guess. I mean, there are managers that I hide it. But everybody that pretty much knows",id
+46,69_46,46,69_46,162_46,T,that they're okay with it.,yq
+47,69_47,47,69_47,162_47,P,Yup,ack
+48,69_48,48,69_48,162_48,T,"And you mentioned specifically Xanax. Yes, benzodiazepine, any other drugs?",irq
+49,69_49,49,69_49,162_49,P,No. Maybe it's just mainly the marijuana then. I've started the Xanax.,"on,id"
+50,69_50,50,69_50,162_50,T,It seems like it's more recent.,gc
+51,69_51,51,69_51,162_51,P,"Yeah. I mean, within the past four months, a friend introduced it to me and started to like it.",gc
+52,69_52,52,69_52,162_52,T,How often do you use that?,irq
+53,69_53,53,69_53,162_53,P,That one's less often? I'd have to say about maybe twice every weekend.,id
+54,69_54,54,69_54,162_54,T,"Okay, the marijuana sounds more like an everyday thing.",yq
+55,69_55,55,69_55,162_55,P,Yeah. Okay.,ack
+56,69_56,56,69_56,162_56,T,Any other drugs? Pretty much it?,irq
+57,69_57,57,69_57,162_57,P,No.,id
+58,69_58,58,69_58,162_58,T,"All right. How about in the past, ",irq
+59,69_59,59,69_59,162_59,P,"in my past, I have experimented with cocaine, but I Trouble with the dry for that. So, how to stop that. All right.",id
+60,69_60,60,69_60,162_60,T,Anything else?,irq
+61,69_61,61,69_61,162_61,P,no,id
+62,69_62,62,69_62,162_62,T,Any other problems you identify to work on?,irq
+63,69_63,63,69_63,162_63,P,"Um, I can sometimes let my pride get in my way, ",id
+64,69_64,64,69_64,162_64,T,pride. Tell me what,irq
+65,69_65,65,69_65,162_65,P,I don't like being told I'm doing something wrong. Because most of the time I'm not or I'm doing it in a way. Like just because I'm not doing it your way doesn't mean I'm doing it wrong. I know what I can do and I know what I'm capable of.,id
+66,69_66,66,69_66,162_66,T,So is somebody telling you that you're acting in a way that's proud?,irq
+67,69_67,67,69_67,162_67,P,"Yeah, I've had several people I've lost a few friends because over you know, little things that I won't budge on. For example, things like even like what the best TV show is. I know When's the Best TV show? isn't anybody who says any different is wrong? That's Oscars. But you know what, maybe they're not real friends.",id
+68,69_68,68,69_68,162_68,T,So you're indicating pride. But it sounds like maybe inflexibility is a part of it too. I guess. Is anybody ever said that to hear,gc
+69,69_69,69,69_69,162_69,P,"me? Not that word, but let me know that you say it, I guess. Yeah.",gc
+70,69_70,70,69_70,162_70,T,Do you think that's kind of together with the pride?,yq
+71,69_71,71,69_71,162_71,P,Yeah.,ack
+72,69_72,72,69_72,162_72,T,You feel like Okay.,yq
+73,69_73,73,69_73,162_73,P,Yeah.,ack
+74,69_74,74,69_74,162_74,T,"All right. So we have anger. Mostly objects, though. ",irq
+75,69_75,75,69_75,162_75,P,"Yeah, ",id
+76,69_76,76,69_76,162_76,T,"not people. Marijuana, a lot. xanics not as much occasionally, occasionally. And then inflexibility and price. Yeah. Does that sound like an accurate",irq od
+77,69_77,77,69_77,162_77,P,I mean that the number one record that's not sure I hate to admit it. It does.,irq
+78,69_78,78,69_78,162_78,T,So it's tough for you to talk about this form.,id
+79,69_79,79,69_79,162_79,P,"Yeah, yeah.",ack

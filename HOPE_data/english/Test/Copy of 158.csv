@@ -1,0 +1,47 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,158_0,158_0,T,"Nice to see you again, Tom. How are you today? ",gt,0
+1,158_1,158_1,P,I'm okay.,gt,0
+2,158_2,158_2,T,So I understand that since I was seeing you that while ago that you were in hospital again.,gc,0
+3,158_3,158_3,P,Yeah.,gc,0
+4,158_4,158_4,T,So can you tell me a bit more about what happened before that ?,irq,0
+5,158_5,158_5,P,"was a few months ago now. Yeah, I've done quite well, for a number of years. So kept itunder control, really, but uh",id,0
+6,158_6,158_6,T,"yeah. I mean, I've not I've not seen you since your gap years wasn't it?",crq,0
+7,158_7,158_7,P,"yeah, so that was four years ago. So yeah, it was quite disappointing to, to go through all again. But it's sort of started at the, towards the end of university. So staying low, and close on course, for first I know she's coming up to my final exams, and a lot of us as a few exams. And so I just started working really hard. I felt like right now is the real time to put the effort in and to put the work in. So I started to step a bit later and take on a bit more work. So my stress levels sort of start to increase over a while. I was drinking a lot more coffee took few caffeine tablets and energy drinks. A few people were because some of the environment at the time was a lot of people were pushing themselves that they wouldn't normally do and some people were taking Ritalin.","cd, id",0
+8,158_8,158_8,T,Okay.,gc,0
+9,158_9,158_9,P,Yeah.,gc,0
+10,158_10,158_10,T,did you take any Ritalin?,irq,0
+11,158_11,158_11,P,Yeah. Because it was just like it was that was necessary at the time. And,id,0
+12,158_12,158_12,T,how did that affect you?,irq,0
+13,158_13,158_13,P,"Well, I it's sort of increased my confidence at the time. everything that was going on, I was becoming a lot more productive and a lot more competent a lot, was working harder, my brain was working faster. And so I mmmmm momentum was building up and up throughout the period. Yeah, and so I was I was relishing it I was doing a lot work and",id,0
+14,158_14,158_14,T,"so did that mean to you then to be at that time it sounds like you put quite a lot of pressure on yourself you've been doing really well at uni and and you know, this was it This was the time. What did it mean to be feeling like that kind of more awake and more energized maybe?","gc, irq",0
+15,158_15,158_15,P,"Yeah, well, for me it was. It was my sort of time. So I spent I spent three years I thought  I was in control I was doing well. I didn't wasn't really part of my life at the time. I didn't really talk to any of my friends about it. But then I yeah, I started to just sort of grow into it. And I took the opportunity to Yeah, enjoy this time and it's so it didn't really reach its peak until after my exams I was still. I was still functioning throughout my exams, and I have since found out that I didn't get the results that I wanted to.","gc, id",0
+16,158_16,158_16,T,and what you might think that was?,orq,0
+17,158_17,158_17,P,"Well, I thought that I was working harder than ever, but it was misjudged, I think and so I, I didn't perform to the best of my ability in when it came to the to the exams, and so I didn't achieve. I didn't achieve a first time and I only got to one.","od, id",0
+18,158_18,158_18,T,"what else was happening for you around that time? I mean, you talked about the pressure of your exams and staying up for them was anything else going on? And the same time",irq,0
+19,158_19,158_19,P,"well, so to the end of the end of university, and that was the time where all as soon as that period stopped of work then I was sort of let off the leash a bit. And yeah, I just thought to grow even further. So I mentioned I was I was taking Ritalin to block coffee and as soon as our exams had stopped, I just substance abuse of took a bit more of a hold. And yeah, I just sort of grew into this person who I thought was him was the guy that everyone wanted to be around and to see and so I made sure that I was just everywhere that could be seen I was.",id,0
+20,158_20,158_20,T,"This is like there they got after you finish the exams but before the results are out,",gc,0
+21,158_21,158_21,P,"yeah. So we will just scan out a lot, but if not every night ",gc,0
+22,158_22,158_22,T,he said that you were taking Ritalin and drinking a lot of coffee.,gc,0
+23,158_23,158_23,P,Yeah,gc,0
+24,158_24,158_24,T,and then using other drugs as well.,gc,0
+25,158_25,158_25,P,Yeah. So developed into cocaine. A lot. Okay. And the Ameri and car.,"gc, id",0
+26,158_26,158_26,T,How's that affect you?,irq,0
+27,158_27,158_27,P,"I honestly was on cloud nine at the time. And yeah, I was just always the person ever wanted. Everyone wanted to know. In my head. I was like, I put myself at the center of the universe and I even I convinced a friend of mine who develops apps that we should if I had an idea to develop an app about when you go into a alcohol shop that it all the way up put out what's the most cost effective way to get wasted? ",id,0
+28,158_28,158_28,T,Right.,gc,0
+29,158_29,158_29,P,"So yeah, I mean, I, at the time I was spending a lot of money, a lot of my parents savings, I got a credit card, which I didn't tell them about. And so in this sort of role as the man as the man about town I was spent a lot on Yeah, I'll hold drugs close invested in this technology and I was",id,0
+30,158_30,158_30,T,so it sounds like it began with kind of the exam pressure and putting more pressure on yourself to stay up using kind of stimulants keep yourself awake. And then you started to feel like you were more and more the man you were you were kind of popular you were successful. How did you respond to and cope with those symptoms? What did you do once those are kind of begun?,"gc, id, irq",0
+31,158_31,158_31,P,"Well, having not had to deal with my illness throughout University and for it not being a part of that world, I I didn't confront those symptoms in a in a way that's gonna have long term stability. And as well, it began with doing the work that I needed to do. That's just, that's just what I needed to do in order to achieve my goals and to achieve what I want to. And then it just, I just let it take hold. And I it was all part of it wasn't it wasn't Yeah, it wasn't the illness It was me it was just I was in, I was the master of this whole situation and I was everything that was happening was down to my own doing.",id,0
+32,158_32,158_32,T,"So it sounds is on the one hand, you didn't confront it, you kind of just let it roll. And on the other hand, you said that you kind of took it as evidence that you were very energetic, you were powerful. This was all kind of explained about who you were. And I guess how did that affect you looking at things in that way? ","gc, irq",0
+33,158_33,158_33,P,"It just it was my time. It all been leading to like, this was the moment where I would sort of like, become the person that I want it to be. all the hard work, all everything while the work that my parents had done for me and all the work that I had been doing. It was now crystallizing",id,0
+34,158_34,158_34,T,"for you on the brink of something, yeah, mess from the sounds of it.  And, again, going back to that kind of beginnings Ah, where you started to stay up late and use stimulants. I mean, how much sleep were you getting at the beginning?","gc, irq",0
+35,158_35,158_35,P,"They saw it gradually diminished. I think it began at six, five. And was ended up about three and two.",id,0
+36,158_36,158_36,T,and what kind of things did you notice? Did you notice any changes from having less and less sleep in your body maybe the way you were thinking.,irq,0
+37,158_37,158_37,P,"Think the harder I was working, the faster my brain then will work and how much the harder I work, the more I would do. So it was it wasn't. It was just a Yeah, the momentum was building more than anything. My thoughts were firing and my goals was stronger in my Yeah, my determination was",id,0
+38,158_38,158_38,T,and how did you feel in your body? Did you notice any changes physically?,irq,0
+39,158_39,158_39,P,"No, I couldn't recall the time maybe I was trying to get my way I was avoiding avoiding confronting any negative effects but nothing powerful comes on. ",id,0
+40,158_40,158_40,T,Okay. I wants you to kind of things were a bit further along after your exams. He said you're going out a lot you convinced your friend to do this app. Was there anything else that you did that maybe you wouldn't normally do that you think might have been assigned to you that your meat was much higher than you'd like it to be?,"gc, irq",0
+41,158_41,158_41,P,"There was I hide a lot of savings. That my my parents had built up for me, which I probabiliy don't really exist anymore either through the money invested, and through drugs, clothes. I had a girlfriend at the time but because it was because I was the main character, and in a sense, it always was only the only person that matters and so sort of those around me especially, still didn't really have as much importance. So on nights out, I wouldn't. She just wouldn't be in my mind and so that would be Other women. ",id,0
+42,158_42,158_42,T,"Okay, ",gc,0
+43,158_43,158_43,P,so,gc,0
+44,158_44,158_44,T,how do you feel about that now looking back on it ?,irq,0
+45,158_45,158_45,P,"I think it's, it's those moments where it's not just me. It's those those closest to you and those around you that have to suffer the more than anyone else that brings a lot of the shame",id,0

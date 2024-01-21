@@ -1,0 +1,58 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,30_0,0,30_0,126_0,T,"So I want to switch gears a little to social relationships. Be like romantic partners, friends, co workers. Anybody notable in that realm you can tell me about",irq
+1,30_1,1,30_1,126_1,P,"I have a few friends but mainly have I meet friends as I move around a lot you know if I can't pay rent at one place another friend will offer me to stay at their house but by the time we get there, there's like seven other people. You know, they'll be my friends until I move again. I mean, some of them are strong friends. Some of them are weak or friends that are you know, on friends because I'm there. ",id
+2,30_2,2,30_2,126_2,T,close friends. Yeah.,irq
+3,30_3,3,30_3,126_3,P,One or two.,id
+4,30_4,4,30_4,126_4,T,One or two?,yq
+5,30_5,5,30_5,126_5,P,Yeah.,ack
+6,30_6,6,30_6,126_6,T,How often you talk with them?,irq
+7,30_7,7,30_7,126_7,P,One I live with my doctor every day. And the other one you know talk about every other day.,id
+8,30_8,8,30_8,126_8,T,Have any romantic interest?,irq
+9,30_9,9,30_9,126_9,P,"Um, I mean, I have I've had a few boyfriends but they get kind of annoyed because I make them do everything and you know that's how I guess guys see me now cuz I don't want to do certain things like clean or pickoff or just tell me you know I'm in pain because my accident I still went sometimes I'm in pain. Can you do this and like I'll be lazy or they call me. Whatever.",id
+10,30_10,10,30_10,126_10,T,You were in an accident.,irq
+11,30_11,11,30_11,126_11,P,"Other day, Yeah, sorry. I didn't mention that.",id
+12,30_12,12,30_12,126_12,T,"But we'll get to that in a bit. So you've had some, some boyfriends? Yeah. And they became annoyed",irq
+13,30_13,13,30_13,126_13,P,not currently? not currently.,id
+14,30_14,14,30_14,126_14,T,"So I want to switch gears again a little bit and talk about your medical history. So Becca told me, I",irq
+15,30_15,15,30_15,126_15,P,I am 24 years old 24 Do you have any health problems currently?,id
+16,30_16,16,30_16,126_16,T,So tell me about the damage sustained in the car accident.,irq
+17,30_17,17,30_17,126_17,P,"Um, well, I was under the influence of cocaine. And I crashed into a car, parked car.",id
+18,30_18,18,30_18,126_18,T,I see you're driving a car and you're on the influence cocaine and you drove it To a crime as part,yq
+19,30_19,19,30_19,126_19,P,Yes.,ack
+20,30_20,20,30_20,126_20,T,"Okay, injuries Did you sustain?",crq
+21,30_21,21,30_21,126_21,P,"Oh, my left leg was just shattered.",cd
+22,30_22,22,30_22,126_22,T,You said it still causes you to limp now.,crq
+23,30_23,23,30_23,126_23,P,"Yeah. I mean, some days are better than others. Some days are worse.",cd
+24,30_24,24,30_24,126_24,T,"In terms of the pain, ",yq
+25,30_25,25,30_25,126_25,P,yeah.,ack
+26,30_26,26,30_26,126_26,T,You take any medications for pain?,yq
+27,30_27,27,30_27,126_27,P,I'm not really. No.,on
+28,30_28,28,30_28,126_28,T,Did you have a surgery for that?,irq
+29,30_29,29,30_29,126_29,P,Yeah. After after the accident happened. Yeah.,id
+30,30_30,30,30_30,126_30,T,Any other surgeries or health problems?,irq
+31,30_31,31,30_31,126_31,P,I sprained my wrist when I was when I was in school before,id
+32,30_32,32,30_32,126_32,T,"sprained your wrist. Which wrist,",irq
+33,30_33,33,30_33,126_33,P,"right, Worse, right",id
+34,30_34,34,30_34,126_34,T,Any other health concerns in the past currently?,irq
+35,30_35,35,30_35,126_35,P,"Well, I mean, my drug use did kind of cause the accident.",id
+36,30_36,36,30_36,126_36,T,much. There's some some connection there. Maybe.,yq
+37,30_37,37,30_37,126_37,P,Yeah.,ack
+38,30_38,38,30_38,126_38,T,"I want to switch gears again, and talk about your mental health history. Okay,",gc
+39,30_39,39,30_39,126_39,P,okay.,gc
+40,30_40,40,30_40,126_40,T," Clearly, you're here today seeking treatment I've ever been treated before for mental health conditions.",orq
+41,30_41,41,30_41,126_41,P,"Um, after my accident, they sent me to, like psychiatrists, talk about like, possible PTSD.",od
+42,30_42,42,30_42,126_42,T,Post Traumatic Stress Disorder.,yq
+43,30_43,43,30_43,126_43,P,Yeah.,ack
+44,30_44,44,30_44,126_44,T,Were you ever diagnosed with that?,irq
+45,30_45,45,30_45,126_45,P,Stick around long enough,id
+46,30_46,46,30_46,126_46,T,How long did we treat it by the psychiatrists?,irq
+47,30_47,47,30_47,126_47,P,Not very long now,id
+48,30_48,48,30_48,126_48,T,and the other mental health professionals.,irq
+49,30_49,49,30_49,126_49,P,Once when I was in high school counselor pulled me aside talked about my grades and my not going to class and my behavior,id
+50,30_50,50,30_50,126_50,T,was just a one time thing that happened maybe,irq
+51,30_51,51,30_51,126_51,P,"like three times, three times, and then I just got annoyed. Stop going.",id
+52,30_52,52,30_52,126_52,T,"All right, any other diagnosis you're aware of in the past? You mentioned PTSD might have been a diagnosis you're not sure ",irq
+53,30_53,53,30_53,126_53,P,might have been,id
+54,30_54,54,30_54,126_54,T,but nothing else. Sure. How would you characterize your experience experiences so far at the mental health treatment system,irq
+55,30_55,55,30_55,126_55,P,"I mean, I haven't had that much experience. People try to tell me things are wrong with me and that's when I get annoyed.",id
+56,30_56,56,30_56,126_56,T,So so far You don't seem like you're impressed okay.,gc

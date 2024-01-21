@@ -1,0 +1,102 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,14_0,0,14_0,111_0,T,"Lisa How doing today, ",gt
+1,14_1,1,14_1,111_1,P,I'm well how are you?,gt
+2,14_2,2,14_2,111_2,T,"I'm doing well. Thanks for asking. It's nice to meet you. I'm glad you could come into the agency. Could you tell me what brings you here today? Um, well,","gt,irq"
+3,14_3,3,14_3,111_3,P,I am here now because I was caught stealing money.,id
+4,14_4,4,14_4,111_4,T,All right. So you you ordered by a court?,yq
+5,14_5,5,14_5,111_5,P,"Yeah,",ack
+6,14_6,6,14_6,111_6,T,yeah. Mm hmm when?,irq
+7,14_7,7,14_7,111_7,P,about a month ago,id
+8,14_8,8,14_8,111_8,T,A month ago.,ack
+9,14_9,9,14_9,111_9,P,"like diagnosing,",
+10,14_10,10,14_10,111_10,T,like diagnosing. Is that okay with you?,yq
+11,14_11,11,14_11,111_11,P,Sure.,ack
+12,14_12,12,14_12,111_12,T,So how old are you now?,irq
+13,14_13,13,14_13,111_13,P,25,id
+14,14_14,14,14_14,111_14,T,"All right. So you say about a month ago, you got us in trouble. Can you tell me what happened there?",irq
+15,14_15,15,14_15,111_15,P,"Well, I stole money from a friend of mine. And",id
+16,14_16,16,14_16,111_16,T,You need the money.,crq
+17,14_17,17,14_17,111_17,P,This was a friend,cd
+18,14_18,18,14_18,111_18,T,How things stand between you and your friend now.,irq
+19,14_19,19,14_19,111_19,P,"Well, She turned me in. So we're no longer friends.",id
+20,14_20,20,14_20,111_20,T,No longer friends. All right.,ack
+21,14_21,21,14_21,111_21,P,"Well, basically when I was younger, I got I used to get into a lot of fights.",id
+22,14_22,22,14_22,111_22,T,"This day,",gc
+23,14_23,23,14_23,111_23,P,my family.,gc
+24,14_24,24,14_24,111_24,T,"remember doing it? Ah,",irq
+25,14_25,25,14_25,111_25,P,"yeah, I remember doing it. Yeah.",id
+26,14_26,26,14_26,111_26,T,How old are you in that happen? Remember?,orq
+27,14_27,27,14_27,111_27,P,12 years old.,od
+28,14_28,28,14_28,111_28,T,"Will you ever treated for that, like, that type of mental health treatment?",irq
+29,14_29,29,14_29,111_29,P,"Oh, no",id
+30,14_30,30,14_30,111_30,T,"Are you aware of any diagnosis that you've been given related to mental health in the past? No, no. So you got into the sounds like a fairly serious fight when you were 12. And you're 25 now can tell me what's happened in terms of the other problems between 1215",irq
+31,14_31,31,14_31,111_31,P,"I guess the usual I mean, I enjoy And got into some drugs and would use and do stuff like that. So",id
+32,14_32,32,14_32,111_32,T,any other thefts or or assaults? Right?,irq
+33,14_33,33,14_33,111_33,P,"I mean yeah. So kept getting into fights and stuff but yeah, I think my last real fight was when I was about 20. So yeah.",id
+34,14_34,34,14_34,111_34,T,All right. And how much danger were the people that you were fighting?,crq
+35,14_35,35,14_35,111_35,P,"Yeah, yeah.",cd
+36,14_36,36,14_36,111_36,T,How many times did that happen to you seriously hurt somebody,irq
+37,14_37,37,14_37,111_37,P,probably every fight that I ever gotten into so many I don't have a number,id
+38,14_38,38,14_38,111_38,T,Can you explain what happened? Like what what caused the fight?,crq
+39,14_39,39,14_39,111_39,P,"So the one girl, she just, I felt looked at me wrong and I didn't like it. So I punched her in the mouth and continued to do so until she was on the ground and then I still continue to do so.",cd
+40,14_40,40,14_40,111_40,T,What are your feelings about that?,orq
+41,14_41,41,14_41,111_41,P,She deserved that.,od
+42,14_42,42,14_42,111_42,T,"Because of the way she looked at you, hmm.",crq
+43,14_43,43,14_43,111_43,P,Yes.,cd
+44,14_44,44,14_44,111_44,T,Do you ever have any feelings of guilt or remorse of that?,irq
+45,14_45,45,14_45,111_45,P,No.,id
+46,14_46,46,14_46,111_46,T,Have you ever apologize to the people that were hurt?,irq
+47,14_47,47,14_47,111_47,P,I'm apologize but just to appease people so that I didn't get into any more trouble.,id
+48,14_48,48,14_48,111_48,T,"Also somebody situations, apologizing was kind of required.",irq
+49,14_49,49,14_49,111_49,P,Yeah.,id
+50,14_50,50,14_50,111_50,T,So you apologize to them that you didn't really mean it. Or,crq
+51,14_51,51,14_51,111_51,P,I think I didn't mean he didn't mean it. It was just to get out of trouble and go on myself.,cd
+52,14_52,52,14_52,111_52,T,you're successful in getting into trouble,orq
+53,14_53,53,14_53,111_53,P,Absolutely. Yeah.,od
+54,14_54,54,14_54,111_54,T,You say that kind of with a little pride is something to take pride in.,crq
+55,14_55,55,14_55,111_55,P,"Yeah, yeah.",cd
+56,14_56,56,14_56,111_56,T,Being able to travel.,orq
+57,14_57,57,14_57,111_57,P,"Yeah. I mean, wouldn't you?",od
+58,14_58,58,14_58,111_58,T,So that's like something you look as like a skill that you have?,crq
+59,14_59,59,14_59,111_59,P,Absolutely. Yeah.,cd
+60,14_60,60,14_60,111_60,T,Have you ever fought like the theft type activities you ever felt any guilt or remorse there?,irq
+61,14_61,61,14_61,111_61,P,No.,id
+62,14_62,62,14_62,111_62,T,"Kind of same thing,",crq
+63,14_63,63,14_63,111_63,P,"same thing. They, I mean, they had more money than me, so why not? They probably would have done the same thing to me. So I did it to them before they could do it to me.",cd
+64,14_64,64,14_64,111_64,T,Were you ever the victim of a crime?,irq
+65,14_65,65,14_65,111_65,P,"Now, I am smarter than most people so I can probably I can one up people. So, okay.",id
+66,14_66,66,14_66,111_66,T,Do you feel the trick good in working with people like in terms of social skills?,orq
+67,14_67,67,14_67,111_67,P,"I mean, getting what I want.",od
+68,14_68,68,14_68,111_68,T,So you're effective at managing relationships to go to one?,crq
+69,14_69,69,14_69,111_69,P,Yeah. All right.,cd
+70,14_70,70,14_70,111_70,T,How would you describe your mood? Most of the time,irq
+71,14_71,71,14_71,111_71,P,"now, I guess I can get a little irritable,",id
+72,14_72,72,14_72,111_72,T,though irritable. How often does that happen?,irq
+73,14_73,73,14_73,111_73,P,few times a week.,id
+74,14_74,74,14_74,111_74,T,Does that irritability ever lead to or has ever led to some of the aggressiveness? Yeah.,irq
+75,14_75,75,14_75,111_75,P,You're more likely to be aggressive when you've been in trouble for a while. Yeah.,id
+76,14_76,76,14_76,111_76,T,What was the last time you were involved in a physical fight?,irq
+77,14_77,77,14_77,111_77,P,So that was round 20.,id
+78,14_78,78,14_78,111_78,T,About five years ago? Yeah. ,yq
+79,14_79,79,14_79,111_79,P,yeah,ack
+80,14_80,80,14_80,111_80,T,One type of things I'm,gc
+81,14_81,81,14_81,111_81,P,stealing,gc
+82,14_82,82,14_82,111_82,T,so the,gc
+83,14_83,83,14_83,111_83,P,"Ah, I'm not sure. Not sure.",gc
+84,14_84,84,14_84,111_84,T,You have a job?,irq
+85,14_85,85,14_85,111_85,P,"Yeah. Well, I did. ",id
+86,14_86,86,14_86,111_86,T,Tell me about your work performance and experience there.,irq
+87,14_87,87,14_87,111_87,P,"Well, you know, I show up when I need to most of the time and do what I have to do.",id
+88,14_88,88,14_88,111_88,T,You show up most of the time.,yq
+89,14_89,89,14_89,111_89,P,Yes.,ack
+90,14_90,90,14_90,111_90,T,We are. How is your employer described as employee.,irq
+91,14_91,91,14_91,111_91,P,"I mean, I'm pretty good at doing what I do. But I guess my boss would like me to be there more.",id
+92,14_92,92,14_92,111_92,T,"alright, so in terms of your feelings about missing work? How many jobs have you had?",irq
+93,14_93,93,14_93,111_93,P,Six,id
+94,14_94,94,14_94,111_94,T,okay. Tell me about it,irq
+95,14_95,95,14_95,111_95,P,"They wanted me and they tried to get me to conform, I feel and I'm just not a conformist. God doing things your own way. Yeah.",id
+96,14_96,96,14_96,111_96,T,What do you want to gain of treatment here?,irq
+97,14_97,97,14_97,111_97,P,I just want to get out of trouble.,id
+98,14_98,98,14_98,111_98,T,You're in trouble now. And you'd like to get out trouble.,crq
+99,14_99,99,14_99,111_99,P,Okay. Thank you.,gt
+100,14_100,100,14_100,111_100,T,Thank you.,gt

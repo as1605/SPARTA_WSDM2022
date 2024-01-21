@@ -1,0 +1,61 @@
+ID,Type,Utterance,Dialogue_Act,Dialog_Act_1,Emotion
+175_0,T,"Hi Alice, how you doing today? ",gt,,0
+175_1,P,I'm doing okay.,gt,,0
+175_2,T,You make it here okay to the office?,irq,,0
+175_3,P,I did traffic wasn't too bad.,id,,0
+175_4,T,"Good, good. So I understand that you come to see me because you have a situation, how?",irq,,0
+175_5,P,"yeah, I'm just been a lot of anxiety right now my oldest child is moving out. And I know as a mom that that's the goal is to, you know, let them be independent and you start on their own but still a little concerned that it's gonna work out and that you know that he's in a good place and living where he should and kind of eat dinner and do those things that you worry about him doing. ",id,,-1
+175_6,T,Okay. I'll try to help you that I'm sure your your get started. Right?,gc,,0
+175_7,P,Absolutely. The sooner the better.,gc,,-1
+175_8,T,"Good. I want to make sure I go over a few disclosures about the counseling relationship before we get into assessment, which is the first stage. ",gc,,0
+175_9,P,Okay.,ack,,0
+175_10,T,"Right. We'll ask you a lot of questions. Okay, that's your past and what's going on now. And then after assessment, we'll move into counseling. So we come in roughly once a week. ",gc,,0
+175_11,P,Okay.,ack,,0
+175_12,T,But first I want to get through kind of a piece on confidentiality.,id,,0
+175_13,P,Okay. So like attorneys what you what you can do and not do.,crq,,0
+175_14,T,"We kind of I'm glad you brought that up, about attorneys. Attorneys and clients have confidentiality, and counselors and clients have confidentiality, but the two types are different. So I'll explain to you how it worked between you and I. But no, that is a little bit different than it works between the attorney and their client.",cd,,0
+175_15,P,Okay. Now explain the differences to me.,cv,,0
+175_16,T,"Absolutely. So, one thing about a casting lationship all this time you spend here, the notes they'll take in during the assessment and the progress notes later on. Because all of a chart with your name on it will be stored in a secure place. All that is confidential, and next to that word confidential as an astress. Right? There's exceptions. Okay. And what I want to explain to you are those exceptions to confidentiality, because confidentiality isn't absolute.",crq,,0
+175_17,P,"So there's times you might tell someone else something that I said,",cd,,0
+175_18,T,Yes.,ack,,0
+175_19,P,Okay.,gc,,0
+175_20,T,"Yeah. But they're very specific situations that occur that permit that or mandate that. Okay, I want to review those with you before we move on. Okay. Does that make sense?","gc, yq",,0
+175_21,P,Yeah. I'd like to know that before I tell you.,op,,0
+175_22,T,"I agree. That's a good, good way to look at it. So the first exception to confidentiality is when you give me permission to release information that you've disclosed and interactions we've had during counseling This is actually fairly common. For example, do you have a primary care physician? ","gc, yq",,0
+175_23,P,I do? Yes.,op,,0
+175_24,T,"So depending on we talk about you may want him or her to know about discussions. So you may sign a release, that gives that physician the right to talk to me directly. ",gc,,0
+175_25,P,"That makes sense, ",gc,,0
+175_26,T,"right. Furthermore, your issues with are part of your concern with your son. So say and I don't necessarily foresee this but say, later on, as we work together, you want him to come in for a session just to talk about something right? You would have to sign release confidentiality, so we could be here and talk with me. ",gc,,0
+175_27,P,Okay.,gc,,0
+175_28,T,That makes sense?,yq,,0
+175_29,P,That makes a lot of sense.,op,,0
+175_30,T,"Okay. The other exceptions are insurance company. So when you fill out your screen packet insurance Insurance companies have access to like progress knows the assessment, anything on the chart and they're generally responsible this information I don't know of any instances where they're irresponsible with it. But I just think it's important that you know that anything I write in the chart anything in the chart itself technically the insurance company can ask for and periodically could review. Again, I've never seen in my career any difficulty with that, but as far as I know that information would be transmitted off site so to speak. And when this agency bills it would be transmitted your information be transmitted off site to the insurance company","gc, id",,0
+175_31,P,so it goes automatically whatever progress made you have automatically go to the insurance company?,crq,,0
+175_32,T,"the progress notes, don't for standard billing, but information about the type of session we had length of the session. any of that and some other personal information about you to identify you would go to them also they know a service was provided. ",cd,,0
+175_33,P,Okay.,ack,,0
+175_34,T,"Like I said, There They're generally very responsible information, large companies that have done this for a while, right,",gc,,0
+175_35,P,"taking all your medical stuff too. So they have,",gc,,0
+175_36,T,"they have access to different types of data. Another exception to confidentiality and again, I don't foresee necessarily a this happening, but I want to tell you about the limits of it is in the event that I feel that you're going to harm, or there's a high potential that you're gonna harm yourself or someone else. In that instance, I'm obligated to act. Now, we're gonna probably talk about a lot of different elements of your life through the next however many weeks were together. Okay? When, and if, and again, I don't predict this. You have some sort of suicidal ideation or you want to harm smell. So in the unlikely event that happens, I would only release information I have to release to protect you or the person that I'm worried about. So if you review a lie like deep, dark secrets, and then you tell me that you want to go harm a relative of yours, right? I have a duty to warn that relative of what you plan on doing, where you are at the moment, what threats you've made, but I'm certainly not going to tell them about your deepest, darkest secrets to be revealed. Okay, unless they're directly relevant to protecting. Okay, it's very unlikely they would be,","gc, id",,0
+175_37,P,"I don't know why I not hurt anybody, but I should know this",gc,,-1
+175_38,T,"I know. Yeah, but I just want to let you know that these know this confidentiality information I release is limited to just what I need to release. ",gc,,0
+175_39,P,Okay,ack,,0
+175_40,T,"Similarly, if you have any type of suicide ideation, and I was had to contact somebody come pick you up like law enforcement. I would only tell them I knew tell them from the get to the hospital and get you in a safe environment. ",id,,0
+175_41,P,Okay,ack,,0
+175_42,T,"This I want to take an opportunity Talking about the suicide ideation. So you know that just because you have suicidal ideation, like thoughts, a lot of people think about suicide from time to time, or even homicidal ideation or thoughts, you're going to harm someone by not saying kill, but it's harm does not by any means automatically me, I'm gonna call police think of it as something that opens a discussion certainly about your safety and someone else's safety. But that's not, you know, we don't go automatically from there. You know, that is, if you have a thought of suicide to the hospital. There's a discussion and many, most the vast majority, actually of people that have a suicide ideation do not have any intent or plan to commit suicide. ","gc, id",,0
+175_43,P,"So you say, so, if someone's thinking about it, you are not just gonna call the police and send you to the hospital. You're gonna try to get to the bottom of it.",crq,,0
+175_44,T,Absolutely.,cd,,0
+175_45,P,Okay.,ack,,0
+175_46,T,"Yeah. That, you know, I responsibility to make sure you're safe and I feel like I can do that. If we talk to Through an issue and you don't have any, any reason to believe you're going to harm yourself, but just had a suicidal thought, okay, okay, that's a lot different than you, you came in to me and told me about detail plan, and you really seem like you're going to do it, then I'd be a lot more worried. ",id,,0
+175_47,P,Okay That makes sense. Okay.,ack,,0
+175_48,T,So that exception to confidentiality is really used in the most extreme cases of suicidal or homicidal ideation. Another exception in the state that will let you know about is if I have any reason to believe that a child or an elderly person is being abused. I have to report it was called a mandated reporter.,id,,0
+175_49,P,Okay.,ack,,0
+175_50,T,"Now I'm sure that you're not abusing anyone or elderly people. But I want to explain how this exception works because it's a little more far reaching you may think. So say that you come in and you discuss with me a neighbor, right, that seemingly has nothing to do with your treatment, but just kidding. I mentioned that something's going on that discussion leads me to believe that your neighbor's abusing their child. I still have to report that, even though it has really nothing to do with you directly. It's something you just told me in passing. I'd have to act on it. Again, I would only release the information necessary to protect a child safety. Does that make sense?","id, yq",,0
+175_51,P,It Does. Yes. ,op,,0
+175_52,T,"So no matter how I find out about it, or who it is, I have to act on that.",id,,0
+175_53,P,Okay.,ack,,0
+175_54,T,"And then the last exception I want to review is, again, as with many of these very unlikely, but if for some reason you're involved in any type of civil or criminal litigation, and a judge orders me to testify. I have to testify. I can tell you this happens. Very Rarely, but it can happen. And I can and will try not to disclose me, I'll ask the judge to not disclose if you don't want me to, but ultimately a judge can order me and I have to. So in the end, it's up to the judge. ",id,,0
+175_55,P,Okay.,ack,,0
+175_56,T,"So, again, most of these pretty unlikely, yeah. But I'd rather have all the information going forward so you don't have any concerns about where the information you're revealing or talking about where the information is going. Okay. Do you have any questions about that?",id,,0
+175_57,P,seems pretty clear.,ack,,0
+175_58,T,"Okay. Well, I appreciate you sitting through that. Talk on confidentiality. So we're gonna get started now with the assessment. ",gc,,0
+175_59,P,Okay.,gc,,0

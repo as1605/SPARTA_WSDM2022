@@ -1,0 +1,73 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,63_0,0,63_0,157_0,T,Just go ahead do it today.,gc
+1,63_1,1,63_1,157_1,T,You're doing well.,gt
+2,63_2,2,63_2,157_2,T,I understand you've been having some difficulties recently the approach into the agency.,gc
+3,63_3,3,63_3,157_3,P,Yes.,ack
+4,63_4,4,63_4,157_4,T,Tell me about that.,irq
+5,63_5,5,63_5,157_5,P,"Well, I was in a car accident about a month and a half ago. And I've just been having these, these issues that are preventing me from doing the things I'm used to doing.",id
+6,63_6,6,63_6,157_6,T,Tell me about the accident.,irq
+7,63_7,7,63_7,157_7,P,"Well, I was on my way home from work, and I was sitting at a stop sign and waiting for my turn to go. And as I proceeded through the stop sign, a car just came in blew through and hit me on the side and pushed me straight through the stop sign.",id
+8,63_8,8,63_8,157_8,T,Were you hurt?,irq
+9,63_9,9,63_9,157_9,P,"I am not not too bad, too bit scary though. It was very scary.","on,id"
+10,63_10,10,63_10,157_10,T,And when When was this?,irq
+11,63_11,11,63_11,157_11,P,This was about a month and I guess maybe two months ago?,id
+12,63_12,12,63_12,157_12,T,About two months ago?,crq
+13,63_13,13,63_13,157_13,P,Yeah,cd
+14,63_14,14,63_14,157_14,T,Right. And when did the symptoms start?,irq
+15,63_15,15,63_15,157_15,P,shortly after.,id
+16,63_16,16,63_16,157_16,P,I've been I've been feeling feeling pretty bad for about about a month or so.,id
+17,63_17,17,63_17,157_17,T,Get some of those feelings.,gc
+18,63_18,18,63_18,157_18,P,I've had a lot of anxiety,id
+19,63_19,19,63_19,157_19,P,especially when it comes to getting in my car and going places are just getting really overwhelmed with fear. just scared that I'm going to get into another car accident.,id
+20,63_20,20,63_20,157_20,T,"You, you are still driving?",irq
+21,63_21,21,63_21,157_21,P,"Not Not a lot, not a lot.","on,id"
+22,63_22,22,63_22,157_22,T,"It's not driving a lot, but you're able to drive. But when you do drive, there's a lot of anxiety, a lot of fear. ",od
+23,63_23,23,63_23,157_23,P,Yes.,ack
+24,63_24,24,63_24,157_24,T,Are you more aware of what's going on? around you?,irq
+25,63_25,25,63_25,157_25,P,"Definitely. I think um, I would say over aware I can't. Sometimes I can't even focus on where I'm going because I'm just paying attention to all the drivers on the road, just, you know, making sure that I don't get hit again.",id
+26,63_26,26,63_26,157_26,T,"Not sure you're, you're driving with more awareness of what's going on around you. anxious and irritability.",yq
+27,63_27,27,63_27,157_27,P,"Yes, yes. A lot more than than usual.",ack
+28,63_28,28,63_28,157_28,T,Tell me about that.,irq
+29,63_29,29,63_29,157_29,P,"Well, I have to Dogs and I love my dogs and just lately everything they do just gets on my nerves you know just barking walking. I mean everything just and I don't know where it has come from I've never been like that with them before but they they just they bothered me so much that I don't even want them around sometimes.",id
+30,63_30,30,63_30,157_30,T,Have you since the accent recessive symptoms started,irq
+31,63_31,31,63_31,157_31,T,Have you had positive feelings like happiness joy?,irq
+32,63_32,32,63_32,157_32,P,Now everything just depresses me anymore. Everything. Nothing seems to be going right at all.,id
+33,63_33,33,63_33,157_33,T,not since the symptoms started.,crq
+34,63_34,34,63_34,157_34,T,"Do you know how when it's Something surprises you. And you're startled, right? That's natural for everybody. Have you noticed that that startle response is different now,",irq
+35,63_35,35,63_35,157_35,P,"after the accident? It is everything startled me just you know, a knock at the door or the phone ring in or any kind of a job here just kind of scares me out of my skin.",id
+36,63_36,36,63_36,157_36,T,"So that's, that's more so than it would would have in the past.",gc
+37,63_37,37,63_37,157_37,P,"Yeah, I've never been like that before",gc
+38,63_38,38,63_38,157_38,T,is there changes in your concentration?,irq
+39,63_39,39,63_39,157_39,P,I can't seem to focus on anything.,id
+40,63_40,40,63_40,157_40,P,"I'm in school. And when I have readings to do for school, I just, I get so distracted. I have to close the book and do something else. I can't. Yeah, I definitely can't focus when it comes to my schoolwork.",id
+41,63_41,41,63_41,157_41,T,So when you're having trouble concentrating? What kind of thoughts are you being distracted toward,irq
+42,63_42,42,63_42,157_42,P,"if I have somewhere to go on things About You know, getting in the car and driving and you know the possibility of being in another accident I just a lot of my thoughts seem to focus on one being in my car and just the accident I can't seem to shake that.",id
+43,63_43,43,63_43,157_43,T,So tried to kind of push the thoughts aside and then they're still there.,yq
+44,63_44,44,63_44,157_44,P,Yeah.,ack
+45,63_45,45,63_45,157_45,T,in trouble sleeping.,irq
+46,63_46,46,63_46,157_46,P,I'm somewhat,id
+47,63_47,47,63_47,157_47,P,I don't have any trouble getting to sleep but I have trouble staying,id
+48,63_48,48,63_48,157_48,T,to wake up several times a night.,yq
+49,63_49,49,63_49,157_49,P,yeah,ack
+50,63_50,50,63_50,157_50,T,How about your relationship with other people you feel there's the same distance or do you feel closer or more detached,irq
+51,63_51,51,63_51,157_51,P,well My mom is probably the person I'm closest to. And I haven't really wanted to spend a lot of time with her anymore. I'm really just staying in the house and just stay into myself.,id
+52,63_52,52,63_52,157_52,T,"about dreams, a change in dreams like the events of the accident come up.",irq
+53,63_53,53,63_53,157_53,P,"Well, one one night there was this dream that stuck out to me. I was driving home from work. And I was just about to get on the highway. And I heard sirens coming. And I stopped to see where the sirens were going and they got closer and closer to me and they seem to surround me and I was like, wait, what's going on? And I woke up and I was like, Oh my gosh, what I you know, I was I felt like I was right back there. In that moment where I was in a car accident and the police responded to the accident but it was so much more intensified. Like, you know, I've never had a dream like that before.",id
+54,63_54,54,63_54,157_54,T,"And when you woke up It sounds like you were alarmed not want to stress was Does that ever happened when you weren't asleep and said like a dream? Have you ever had a moment where you're kind of back in the car accident? You know in the cars accidents happening, like it feels like you're really back there",irq
+55,63_55,55,63_55,157_55,P,maybe once or twice but,id
+56,63_56,56,63_56,157_56,P,not sure,od
+57,63_57,57,63_57,157_57,T,do have any medical problems?,yq
+58,63_58,58,63_58,157_58,P,No,on
+59,63_59,59,63_59,157_59,T,"nothing going on. And the use of drugs or alcohol,",yq
+60,63_60,60,63_60,157_60,P,No,on
+61,63_61,61,63_61,157_61,T,nothing like that.,crq
+62,63_62,62,63_62,157_62,T,Do you remember all the details of the accident? Or do you feel like there's pieces of memory that are missing?,irq
+63,63_63,63,63_63,157_63,P,"I really can't remember the details. I just know about him. I don't know. I don't. I can't remember back to what happened. And people keep asking me and I just, I can't remember at all. Really what happened.",id
+64,63_64,64,63_64,157_64,T,So some memory loss surrounding that.,crq
+65,63_65,65,63_65,157_65,P,"Yeah, definitely.",ack
+66,63_66,66,63_66,157_66,T,"Do you ever have or, or since the symptoms have come on? Do you ever feel like you're not really yourself, you're separated from yourself kind of unreal experience or you're separated from the world, either one of those.",irq
+67,63_67,67,63_67,157_67,T,Feel like that. Okay.,ack
+68,63_68,68,63_68,157_68,T,"Jessica, based on our conversation here, I'm going to set you up to see a counselor if that's something you're open to. And I want to thank you for taking the time to tell me what happened and answer my questions. It's been very helpful. ",id
+69,63_69,69,63_69,157_69,P,Thank you.,gt
+70,63_70,70,63_70,157_70,T,Thanks.,gt
+71,63_71,71,63_71,157_71,P,Good Bye,gt

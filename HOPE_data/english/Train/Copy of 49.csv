@@ -1,0 +1,81 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,49_0,0,49_0,144_0,T,Jasmine how you doing today?,gt
+1,49_1,1,49_1,144_1,P,"Okay,",gt
+2,49_2,2,49_2,144_2,T,okay. What's been going on?,irq
+3,49_3,3,49_3,144_3,P,I just been dealing with so much anger that I'm having difficulty controlling in my everyday life a,id
+4,49_4,4,49_4,144_4,T,lot of anger. Yeah. Can you give me some examples?,irq
+5,49_5,5,49_5,144_5,P,"Like for instance,",id
+6,49_6,6,49_6,144_6,P,"I go to the dry cleaner, the pickup my fiance's uniforms, and the lady had them like ball bag together and I mean, I could have easily just asked her because she separate them. But I begin to yell caused a big commotion because I was so frustrated and angry. She actually was about to call the police escort me out. And I don't think I'm even allowed to go back to the driveway anymore.",id
+7,49_7,7,49_7,144_7,T,So quite a bit of anger. ,crq
+8,49_8,8,49_8,144_8,P,"Yeah. My neighbor's dog was barking late at night. I know my neighbors when they can't control that. But I get into a huge fight with my neighbors argument. We're not speaking at the moment and it's just raw uncomfortable. But, I mean, I feel bad now that it's over with none. I thought about it. And I just don't know why I was so upset that the dog was work.","cd,id"
+9,49_9,9,49_9,144_9,T,"Right. So from your perspective, it doesn't seem to make sense why he got so angry. ",irq
+10,49_10,10,49_10,144_10,P,"No, I just it's been going on for some time. Now. I just get little things just I just explode.",id
+11,49_11,11,49_11,144_11,P,So i don't know why,id
+12,49_12,12,49_12,144_12,T,did anything change around the time that I started?,yq
+13,49_13,13,49_13,144_13,P,Nothing that I can really think of just when I'm overwhelmed. I have so much to do. I kind of just break down and just become extremely upset with everything around me.,"on,id"
+14,49_14,14,49_14,144_14,T,"Alright, so you're getting upset you have some anger",crq
+15,49_15,15,49_15,144_15,T,any other time that you're feeling angry,irq
+16,49_16,16,49_16,144_16,P,when I go to the go workout at the kickboxing class I'm like the go all out like I use that as like a release. I'm punching the bags of shame before I actually had hurt my wrist last week. I just go all out in there and my trainer kind of notices like are you okay? And I'm like it's just relief kind of gained all the anger I had been out so.,id
+17,49_17,17,49_17,144_17,T,"Alright, so that experience for you. You feel like you're releasing more energy than maybe the other people in the game can wait",gc
+18,49_18,18,49_18,144_18,P,"You are way more I'm like loud, I'm sweating bullets. I'm just going all out like extremely angry.",gc
+19,49_19,19,49_19,144_19,T,"Alright, so the", gc
+20,49_20,20,49_20,144_20,T,"in recent memory, your anger has increased, but it's still not really clear what's going on. that's causing the anger.",crq
+21,49_21,21,49_21,144_21,P,"Not really I just feel like frustrated does have so much going on at the moment. So it's kind of like just feel overwhelmed, I guess not take it out.",cd
+22,49_22,22,49_22,144_22,T,"You feel busy, like in your daily life, like a lot of responsibilities?",yq
+23,49_23,23,49_23,144_23,P,"Yes, a whole lot",ack
+24,49_24,24,49_24,144_24,T,and what kind of things you're doing.,irq
+25,49_25,25,49_25,144_25,P,"Mainly, mainly take care of home does not mean I don't I don't work or anything. So I kind of just take care of home and, you know, with the kids and everything, it's just a lot. So",id
+26,49_26,26,49_26,144_26,T,see a lot of responsibilities in the home.,crq
+27,49_27,27,49_27,144_27,P,Guess all of the responsibilities all,cd
+28,49_28,28,49_28,144_28,P,It feels like all of them? Yeah.,crq
+29,49_29,29,49_29,144_29,T,What type things are you doing?,irq
+30,49_30,30,49_30,144_30,P,"I'm cooking, I'm cleaning.",id
+31,49_31,31,49_31,144_31,P,"Now I have to earn all of my husband's uniforms and get everything ready for him. I had to make sure I cook breakfast I had to make sure I pick lunch. I had to make sure I have dinner ready income I had to help the kids with their homework. I just have so much going on like it's constant, catering, catering, catering, cater and it feels like I just really don't get a break or any other help is just made every day.",id
+32,49_32,32,49_32,144_32,T,You're doing everything and has always been this way.,crq
+33,49_33,33,49_33,144_33,P,Not always but it seems it's been like this for some time.,cd
+34,49_34,34,49_34,144_34,T,Okay. Where you're really just doing everything in the home.,irq
+35,49_35,35,49_35,144_35,P,Everything.,id
+36,49_36,36,49_36,144_36,T,I want to ask you,irq
+37,49_37,37,49_37,144_37,T,"Can I ask you or mention a few words? Right? I would like you to, if you're okay with this exercise, tell me the first thing that comes to mind like and you can buy say a word, you can offer several responses. But try not to invest a lot of thought into the response more just what occurs to you. Oh, but does that make sense? ",irq
+38,49_38,38,49_38,144_38,P,Yeah.,ack
+39,49_39,39,49_39,144_39,T,All right. So the first word is,irq
+40,49_40,40,49_40,144_40,P,"structure, responsibility.",id
+41,49_41,41,49_41,144_41,P,"repetition,",id
+42,49_42,42,49_42,144_42,T,repetition.,crq
+43,49_43,43,49_43,144_43,T,"All right. Let me give you another word, relationship.",irq
+44,49_44,44,49_44,144_44,P,"conflict, power struggle.",id
+45,49_45,45,49_45,144_45,P,disagreements.,id
+46,49_46,46,49_46,144_46,T,Let me offer you another word,irq
+47,49_47,47,49_47,144_47,T,work.,irq
+48,49_48,48,49_48,144_48,P,"Independence,",id
+49,49_49,49,49_49,144_49,P,freedom,id
+50,49_50,50,49_50,144_50,P,able to express creativity.,id
+51,49_51,51,49_51,144_51,T,"Good, alright. How about another word here? Power",irq
+52,49_52,52,49_52,144_52,P,of constant struggle,id
+53,49_53,53,49_53,144_53,P,extremely controlling.,id
+54,49_54,54,49_54,144_54,T,So do you see any,irq
+55,49_55,55,49_55,144_55,T,themes and in the words that you provided back,irq
+56,49_56,56,49_56,144_56,P,Seems like everything is like really controlled and,id
+57,49_57,57,49_57,144_57,P,"structured, ",id
+58,49_58,58,49_58,144_58,T,controlled and structured?,irq
+59,49_59,59,49_59,144_59,T,What's the source of that controlling structure? Is there a source of it?,irq
+60,49_60,60,49_60,144_60,P,A lot of it may come from my fiance. Now that I'm thinking about it.,id
+61,49_61,61,49_61,144_61,T,"Somebody told me you're thinking,",gc
+62,49_62,62,49_62,144_62,P,"because I feel that he doesn't give me the freedom or the ability to do a lot of the things that I would like to do like work, and I think he should help more with the kids around the house and do things and I shouldn't have to do everything. And I feel like that's probably why I'm so frustrated because I felt that I don't have any help. It's like I'm single, and I'm doing everything on my own. So this project where the bulk of my frustration is coming from",id
+63,49_63,63,49_63,144_63,T,So as you're telling me this and you're explaining kind of that relationship with your fiance What are you feeling?,irq
+64,49_64,64,49_64,144_64,P,"I'm feeling angry and disappointed. Like I don't really know if I want to further anything because well it'd be like this forever just like angry, frustrated",id
+65,49_65,65,49_65,144_65,T,is a similar to the anger that you've been experiencing recently. Like at the dry cleaner places.,gc
+66,49_66,66,49_66,144_66,P,It's far worse than it but it's like I think that's where why I'm always so upset and angry.,gc
+67,49_67,67,49_67,144_67,T,Serious thinking that maybe that relationship or something part of that relationship is what's really causing the anger.,gc
+68,49_68,68,49_68,144_68,P,"Yeah, cuz I feel alone at the same time completely. Like I'm not in a fair relationship is like I'm in control and I don't have freedom to do anything. I don't have help and it's just it's laying a lot of stress on me.",gc
+69,49_69,69,49_69,144_69,T,So is this is your talk about this do you feel like this is new information you're kind of realizing something that you didn't realize before,crq
+70,49_70,70,49_70,144_70,P,"it because honestly, I kind of I never really focused on that aspect of it. I kind of just thought that's the way it should go. And I just thought I was angry because I just hate bad deeds. I've never really looked deep into it because I try so hard to make everything in my family, right. So I kind of really don't pay attention, I kind of ignore it. But now that I'm thinking and pointing out different things, than into how I really feel.",cd
+71,49_71,71,49_71,144_71,T,"So you feel this, this kind of big moment in terms of awareness.",crq
+72,49_72,72,49_72,144_72,P,"Definitely because I don't think I would have like I said, I think I'm kind of try to hide it and really don't focus much on it because I want things to be perfect. So they got a kind of ignore it.",cd
+73,49_73,73,49_73,144_73,T,"Okay, so maybe through this session, you develop more insight about what's contributing to the anger.",orq
+74,49_74,74,49_74,144_74,P,"Yeah, definitely. Cuz I would just go off for no reason at all and just later to think about like, why did I even do it?","od,ack"
+75,49_75,75,49_75,144_75,T,"But But this source of anchor, this relationship, you recognize this is maybe more causal or more contributing? Yeah. Where's the other objects of your ad? If you weren't really sure,",irq
+76,49_76,76,49_76,144_76,P,"I wasn't sure at all. Why. But with that, I definitely could see the reasons why.",id
+77,49_77,77,49_77,144_77,T,"All right, chess move. I feel like we've made some progress here. And I'd like you to between now and next session, if you're comfortable with it, kind of reflect on what themes have maybe come to the surface, what informations may have been revealed to you a little bit. And we can pick up there and explore this further with the anger issue. So that's like a good plan.",gc
+78,49_78,78,49_78,144_78,P,"Yeah, definitely. Definitely. It's good.","ack,gt"
+79,49_79,79,49_79,144_79,T,"Well, I appreciate you coming in today, and I'll see you in week. Okay. Thank you.",gt

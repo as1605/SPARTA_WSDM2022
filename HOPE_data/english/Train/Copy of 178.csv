@@ -1,0 +1,22 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,178_0,178_0,T,"So Steph, I know you just want to go home and you don't want to be admitted. However, I'm really concerned that you've swallowed a whole bottle of pills last night because you were feeling down. Do you think you're going to do that again?","gc, yq",0
+1,178_1,178_1,P,"No, I am feeling a lot better now. It was a stupid thing to do. I'm not going to do it again.",on,-3
+2,178_2,178_2,T,I'm still really concerned about you and I need to know that you're going to be safe when you leave here. I need you to fill out the safety plan to ensure that you have strategies in place to cope when you're feeling down.,"gc, cv",0
+3,178_3,178_3,P,I don't really feel like filling out a plan. I don't I don't need a plan.,cr,-3
+4,178_4,178_4,T,"Well, I think that you do need a plan. You obviously needed a plan last night when you swallow that whole bottle of pills. And I want you to fill out the safety plan to ensure you have strategies in place in case you feel like this. Again, it's a condition of your discharge.","gc, cv",0
+5,178_5,178_5,P,I really don't want to,cr,-3
+6,178_6,178_6,T,"this is really concerning for me Steph, perhaps you need to be admitted.",gc,0
+7,178_7,178_7,P,"Fine, I'll fill up the plan.",gc,-3
+8,178_8,178_8,T,So Steph I know you probably want to get out of here and go home and that you don't want to be admitted. It must have been a really scary experience for you. I want you to know though that anytime you're feeling unsafe or at risk of harming yourself. You're always welcome to come back to the emergency department. I'm wondering what you think might have been helpful for you. If this happens again?,"gc, irq",0
+9,178_9,178_9,P,"I don't I don't think it'll happen again. I was feeling really down, but I don't really want to die.",id,-3
+10,178_10,178_10,T,"Must have been a really hard experience to go through. Yeah, I'm wondering if you think it would be helpful to have some kind of plan in place or some strategies if by chance you feel like this again? What do you think might be helpful for you to think about or to do if you did feel like this again?","gc, irq",0
+11,178_11,178_11,P,I guess I could have called someone.,id,-3
+12,178_12,178_12,T,"Oh, so that's a good idea. Who do you think you might have called?","gc, irq",0
+13,178_13,178_13,P,"maybe my aunt Jenny, She's great. She's really easy to talk to. ",id,-3
+14,178_14,178_14,T,So it's good. You have someone in your life that you can talk to. What do you think stopped you from calling her last night?,"gc, irq",0
+15,178_15,178_15,P,"it was so late. I didn't want to Call at like three in the morning, it would have woken her and my uncle and all of my cousins up and they probably just be mad.",id,-3
+16,178_16,178_16,T,So you're worried about disturbing them. I imagine that your aunt Jenny probably would have been okay with you calling her and given the circumstances and how you were feeling. Do you think you'd be okay with maybe having a conversation with her about her being an emergency contact for you?,"gc, irq",0
+17,178_17,178_17,P,I don't know.,id,-3
+18,178_18,178_18,T,I'm wondering maybe if I could bring your dad in right now. And we could maybe all talk about this together.,gc,0
+19,178_19,178_19,P,"Yeah, that's okay. ",ack,0
+20,178_20,178_20,T,Okay.,gc,0

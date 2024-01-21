@@ -1,0 +1,45 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Emotion
+0,95_0,0,95_0,35_0,T,"Well, thanks for asking. Yeah, I understand you've had some recent difficulties that brought you into our agency.",gt,0
+1,95_1,1,95_1,35_1,P,"Yeah, I'm having some problems with with friends and family. relationships, I guess in general",id,0
+2,95_2,2,95_2,35_2,T,relationships?,crq,0
+3,95_3,3,95_3,35_3,P,"Yeah, I have a lot of stuff.",cd,0
+4,95_4,4,95_4,35_4,T,You have a lot of stuff.,cd,0
+5,95_5,5,95_5,35_5,P,"Yeah. My house is is a full things and it's it's kind of embarrassing. I don't Like to get rid of things. Hmm. I worry that um, you know, when I need them or something so. So yeah. overflowing my house stuff.",id,0
+6,95_6,6,95_6,35_6,T,So a lot of a lot of stuff in your house. And this is affecting your relationships.,crq,0
+7,95_7,7,95_7,35_7,P,"Yeah, you know, there's all this stuff is taking taking over the house, there's no room for anyone to really come over and visit me which is really become a problem. You know, you meet people and it's normal to go over to their house and have lunch or whatever. And I get really embarrassed. I don't want people to do that. I don't my family even coming over. My sister was over last week and she threw something away. She threw this newspaper away from two years ago. And I freaked out I would if I need that, you know, I those things are important to me. So that's kind of putting a strain on my relationship with my family and that way I think they're the only ones probably that would like feel brave enough to actually do something like my sister did.",id,0
+8,95_8,8,95_8,35_8,T,something away,gc,0
+9,95_9,9,95_9,35_9,P,"Yeah, yeah, so yeah it's just it's embarrassing that I can count on my friends over look like to have my family over and I just can't it's too much ",id,-1
+10,95_10,10,95_10,35_10,T,"You mentioned your your house is overflowing. How cluttered? Can you describe it? Um,",irq,0
+11,95_11,11,95_11,35_11,P,"there's there's room for me to live in there. And there's a path from my front door to the kitchen. The two bedroom, two bath Sometimes it's blocked by stuff, but when things fall or whatever, are pretty much the whole house says things",id,0
+12,95_12,12,95_12,35_12,T,and what what type of things. You mentioned a newspaper.,irq,0
+13,95_13,13,95_13,35_13,P,"Yeah, I don't like to get rid of like cards or newspapers or magazines, mail, things like that. But I've also collected things over the years. I inherited the house where my grandmother's all her stuff was in there. And yeah, I really can't get rid of that. But it has a lot of sentimental value to me. So my things have just kind of been piled up on her things.",id,-1
+14,95_14,14,95_14,35_14,T,"So you have a lot of stuff in the house. And it's congested, but you're able to move around and live there.",id,0
+15,95_15,15,95_15,35_15,P,"Yeah, I'm not freely able to move around, but you know, it works for me.",id,-1
+16,95_16,16,95_16,35_16,T,"Yeah. It'd be difficult, or it is difficult when other people come by.",cd,0
+17,95_17,17,95_17,35_17,P,"Yes, yeah, they, they wouldn't really be able to be in there.",id,0
+18,95_18,18,95_18,35_18,T,"Now, so some of these items you said you received when you receive the house? Do you ever go out and buy things or bring them in?",yq,0
+19,95_19,19,95_19,35_19,P,"Yeah, I like to go shopping. I like to get the yard sales on the weekends. Kind of a deal Hunter. So if I if I see something on sale, I don't want to pass it up. If it's a good deal, man, we'll come back to it. So","op,id",0
+20,95_20,20,95_20,35_20,T,How often do you buy things?,irq,0
+21,95_21,21,95_21,35_21,P,I probably like on the weekends I go to yard sales. I usually buy a few things every weekend from the yard sales and they're such good deals so man make a trip to the mall or TJ Maxx or something once a week at least I usually buy something I need to,id,0
+22,95_22,22,95_22,35_22,T,just your vehicle have stuff in it now. There you go.,gc,0
+23,95_23,23,95_23,35_23,P,Yeah. So I actually picked something up that I saw. That was for sale on the side of the road on the way here was a little bedside table. So it was only a few bucks.,id,0
+24,95_24,24,95_24,35_24,T,"Right. So you have some things you buy, you have some things that you otherwise obtain that are in the house. They're already there. And you have trouble parting with them. ever tried to throw anything out or do anything away?","cd,yq",0
+25,95_25,25,95_25,35_25,P,"people have suggested that I do that, but I just can't bring myself to that. I mean, like my sister came over, she tried to get rid of something for me. couldn't do it. It's too hard. Yeah. Just think I might need it, you know, but if I need it, if I need to look back and reference that, that newspaper that she tried to throw away, we'll have it.",id,-1
+26,95_26,26,95_26,35_26,T,So what would you like to gain from counseling?,irq,0
+27,95_27,27,95_27,35_27,P,"I would like to, I'd like to be able to get rid of things and would like not to worry so much",id,-1
+28,95_28,28,95_28,35_28,T,So you'd like to be able to throw things out. Clear out here.,crq,0
+29,95_29,29,95_29,35_29,P,"Yeah, well, a little bit of time. I don't think it's gonna happen right away. But I'd like to get there eventually to start working on it. Yeah.","op,id",0
+30,95_30,30,95_30,35_30,T,All right. I have a couple other questions. Okay. Do you have any medical problems?,yq,0
+31,95_31,31,95_31,35_31,P,No.,on,0
+32,95_32,32,95_32,35_32,T,Any history of mental health disorders,yq,0
+33,95_33,33,95_33,35_33,P,No,on,0
+34,95_34,34,95_34,35_34,T,and alcohol use us?,yq,0
+35,95_35,35,95_35,35_35,P,I drink socially with friends,"op,id",0
+36,95_36,36,95_36,35_36,T,"drink socially. Yeah, nothing else. ",crq,0
+37,95_37,37,95_37,35_37,P,No.,on,0
+38,95_38,38,95_38,35_38,T,And you do okay at work?,yq,0
+39,95_39,39,95_39,35_39,P,"Yeah, I love my job.",op,1
+40,95_40,40,95_40,35_40,T,"Yeah, any problems there?",yq,0
+41,95_41,41,95_41,35_41,P,"Now I work as a call receiver, the call center so I get along with everyone. Boss thinks I do a great job. So,",id,0
+42,95_42,42,95_42,35_42,T,"okay, great. All right, Jackie. If you're okay with it, I'll get you in to see a counselor with that schedule. ",gt,0
+43,95_43,43,95_43,35_43,P,"Okay, great. Thanks.",gt,0

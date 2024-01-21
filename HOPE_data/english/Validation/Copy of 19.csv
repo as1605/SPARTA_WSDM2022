@@ -1,0 +1,82 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,19_0,0,19_0,116_0,T,How are you doing today?,gt
+1,19_1,1,19_1,116_1,P,"Good, thanks. How are you? ",gt
+2,19_2,2,19_2,116_2,T,I'm doing well. Thank you for asking. I understand you've been having some symptoms that are bothersome to you. Can you tell me about what? What's going on?,irq
+3,19_3,3,19_3,116_3,P,"Yeah, I moved into my apartment about a year ago. And I've been having, I guess, like, anxious thoughts and sometimes I I'm scared I'm gonna lose my apartment.",id
+4,19_4,4,19_4,116_4,T,"So you've been having anxiety, maybe having thoughts about possibly losing your apartment? Yeah. So tell me more about that.",crq
+5,19_5,5,19_5,116_5,P,"Um, well, when I ran out my For the rent,",cd
+6,19_6,6,19_6,116_6,P,I usually would pay it online but then I would click the button and it would submit it a couple times. So after I just wanted to make sure about paid,cd
+7,19_7,7,19_7,116_7,P,so then I started to actually go in person and pay it,cd
+8,19_8,8,19_8,116_8,P,but then I check my statement just to make sure the cashier and they got to make,cd
+9,19_9,9,19_9,116_9,T,sure they really received your yeah your payment.,irq
+10,19_10,10,19_10,116_10,P," And I'm also nervous that you know, something might happen where I leave my straightener on and the apartment, like burns down or something.",id
+11,19_11,11,19_11,116_11,T,"Right. Do you find yourself like acting on that thought, like, say specifically that thought with the straightener.",crq
+12,19_12,12,19_12,116_12,P,"I'll check it and I'll just make sure that it's unplugged. And, and then I look around and make sure everything's unplugged, because I don't want anything getting caught.",cd
+13,19_13,13,19_13,116_13,T,When you say everything what what do you mean?,crq
+14,19_14,14,19_14,116_14,P,"Like the toaster and my computer with my laptop charger? And my cell phone, the charger for that. And just anything that's plugged in like television. I just want to make sure everything's unplugged before I leave",cd
+15,19_15,15,19_15,116_15,T,"before you leave. Yeah, your apartment. What do you do when you come back?",irq
+16,19_16,16,19_16,116_16,P,"I check to make sure they're still unplugged. But then when I need to use it, I plug it back in.",id
+17,19_17,17,19_17,116_17,T,"So if you need to use for instance television, to plug it in and watch it and then unplug it immediately or only before you leave, ",crq
+18,19_18,18,19_18,116_18,P,before I leave,cd
+19,19_19,19,19_19,116_19,T,"before you leave, so you leave it plugged in while you're there. ",yq
+20,19_20,20,19_20,116_20,P,Yeah.,ack
+21,19_21,21,19_21,116_21,T,When did you first notice the anxiety?,irq
+22,19_22,22,19_22,116_22,P,"I guess, like six months ago",id
+23,19_23,23,19_23,116_23,T,six months ago?,yq
+24,19_24,24,19_24,116_24,P,yeah.,ack
+25,19_25,25,19_25,116_25,T,how it start out?,irq
+26,19_26,26,19_26,116_26,P,"It started with just thinking about things, thinking about leaving, you know, the door unlocked or being unsure if I paid bills, just like thinking about it. And then I would have to like double check and triple check. And just kind of make sure",id
+27,19_27,27,19_27,116_27,T,to the start that to start with the door locks.,irq
+28,19_28,28,19_28,116_28,P,"Yeah, it started with just thinking and making sure the door is locked.",id
+29,19_29,29,19_29,116_29,T,"And you still do that now, do you check the door several times?",crq
+30,19_30,30,19_30,116_30,P,"Yeah, I just make sure it's locked.",cd
+31,19_31,31,19_31,116_31,T,So how do you do that to to get up and look at it and see the slot and then go sit down and think about it come back or do you operate the mechanism back and forth?,irq
+32,19_32,32,19_32,116_32,P,"Yeah, I just go in. I look in a niche where it's locked. And then I'll go back down and I'll just sit back down and I'll be okay.",id
+33,19_33,33,19_33,116_33,T,For a while. Yeah. When this up thought ever come back and have to go check it again?,irrq
+34,19_34,34,19_34,116_34,P,"Sometimes, not really not really. I'll just check in. It's fine.",id
+35,19_35,35,19_35,116_35,T,"Do you have kind of a checklist in your mind for when you leave your apartment do you do? Like, unplug everything in roughly the same order? And check everything is so order.",irq
+36,19_36,36,19_36,116_36,P,"Um, I haven't really thought about it, but I made sure everything's okay. I know what needs to be.",id
+37,19_37,37,19_37,116_37,T,"Alright, so you do have kind of a list in your mind of what has to be unplugged. Yeah, make sure it's all unplugged. ",orq
+38,19_38,38,19_38,116_38,P,Exactly.,od
+39,19_39,39,19_39,116_39,T,And how about when you lock your door from the outside when you're leaving? Do you check that?,irq
+40,19_40,40,19_40,116_40,P,"Yeah, I'll check it. And then if I'm sitting in my car, I just might go back just to double check and just make sure.",id
+41,19_41,41,19_41,116_41,T,"So you're you're checking the door, you know? Plugging various items that may create heat. you're careful with you're paying your rent. Yeah. So, fear and anxiety surrounding losing the apartment in some manner. How is this affecting your daily life? Sometimes,",orq
+42,19_42,42,19_42,116_42,P,"I mean, it's time consuming. Sometimes I'm late for work, because I'll think I left something plugged in and I have to go back inside. Sometimes I'll lock the door and have to go back and make sure it's locked. So I'm usually late for things because I'm double checking.",od
+43,19_43,43,19_43,116_43,T,It's just quiet causing some problems. Getting places on time. Yeah.,gc
+44,19_44,44,19_44,116_44,T,How about your level of anxiety or worry? How high Would you,irq
+45,19_45,45,19_45,116_45,T,say that is?,irq
+46,19_46,46,19_46,116_46,P,"Um, I guess it would be like,",id
+47,19_47,47,19_47,116_47,P,thinking about it.,id
+48,19_48,48,19_48,116_48,T,It's troubling for you.?,yq
+49,19_49,49,19_49,116_49,P,Yeah.,ack
+50,19_50,50,19_50,116_50,T,"If you think about from when it started, it started out sounds like with a few thoughts. Right? If we say that's relatively low anxiety. Yeah. How would what you have now compared to that?",orq
+51,19_51,51,19_51,116_51,P,is modern look a little higher?,crq
+52,19_52,52,19_52,116_52,T,"Just a little higher, Yeah.",cd
+53,19_53,53,19_53,116_53,T,But you have noticed it's worsened over?,yq
+54,19_54,54,19_54,116_54,P,Yeah.,ack
+55,19_55,55,19_55,116_55,T,Six months?,irq
+56,19_56,56,19_56,116_56,T,Is it the most things I have you've ever experienced?,irq
+57,19_57,57,19_57,116_57,P,I'm kind of consider myself an anxious person. So I guess.Yeah.,id
+58,19_58,58,19_58,116_58,T,This is the most you've experienced?,yq
+59,19_59,59,19_59,116_59,P,Yes.,ack
+60,19_60,60,19_60,116_60,T,Yes. This is particularly troubling.,yq
+61,19_61,61,19_61,116_61,P,Yes.,ack
+62,19_62,62,19_62,116_62,T,They said you've always been said anxious person.,yq
+63,19_63,63,19_63,116_63,P,Yeah.,ack
+64,19_64,64,19_64,116_64,T,Tell me about that.,irq
+65,19_65,65,19_65,116_65,P,I'm just like group settings or I refer to something when I was younger. I was like just playing with the door or something like that. And my parents took me to some doctor. And they just said I was anxious.,id
+66,19_66,66,19_66,116_66,P,They give me a treatment. I,id
+67,19_67,67,19_67,116_67,P,don't know. I don't think so they just said I was anxious.,id
+68,19_68,68,19_68,116_68,T,"So other than saying you're anxious, was there any diagnosis provided? ",crq
+69,19_69,69,19_69,116_69,P,"No, not really.",cd
+70,19_70,70,19_70,116_70,T,"Have you ever had any mental health diagnosis? Just, I guess",irq
+71,19_71,71,19_71,116_71,P,"just feeling anxious, but not necessarily like a diagnosis",id
+72,19_72,72,19_72,116_72,T,Not from a provider?,yq
+73,19_73,73,19_73,116_73,P,Yeah.,ack
+74,19_74,74,19_74,116_74,T,Okay. How about any medical conditions?,irq
+75,19_75,75,19_75,116_75,P,None,id
+76,19_76,76,19_76,116_76,T,Have you ever been in a hospital?,irq
+77,19_77,77,19_77,116_77,P,"Just to like get my tonsils taken out, But not like anything else",id
+78,19_78,78,19_78,116_78,T,"How about drugs or alcohol, any any usage of those? ",yq
+79,19_79,79,19_79,116_79,P,No,on
+80,19_80,80,19_80,116_80,P,Thank you.,gt

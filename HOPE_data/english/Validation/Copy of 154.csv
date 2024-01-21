@@ -1,0 +1,71 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,154_0,154_0,T,Hi Kylie how are you doing today?,gt,0.0
+1,154_1,154_1,P,I'm pretty good. How are you Dr. Grande ?,gt,0.0
+2,154_2,154_2,T,I'm doing I'm doing well thanks for asking. What's been going on?,"gt, irq",0.0
+3,154_3,154_3,P,"Um, so I've, I've been applying to doctor programs for this upcoming fall. And I'm like, I'm kind of stuck because I got into two of the schools that that I was looking at. I get and like I got into both of them and both of their programs are really good. Both of them have like great research track records and kind of what I want to do. ",id,-1.0
+4,154_4,154_4,T,Right,gc,0.0
+5,154_5,154_5,P,"And yeah, but the problem is is like I don't know how to decide between the two now.",gc,-1.0
+6,154_6,154_6,T,"Okay, So you, you applied to two places, and you got them both. ",crq,0.0
+7,154_7,154_7,P,Hmm,cd,0.0
+8,154_8,154_8,T,It sounds like both have programs that are really well suited to what you want to do?,yq,0.0
+9,154_9,154_9,P,Right.,op,0.0
+10,154_10,154_10,T,And you're having difficulty deciding which one to go with.,irq,0.0
+11,154_11,154_11,P,"Yeah. Um, yeah, like I've always I've always had trouble, like, within decisiveness and it's like, when I, when I had two choices of something that's very similar, like I always I always get stuck. And I like, it's very hard for me to actually like make a decision",id,-1.0
+12,154_12,154_12,T,"Let's are start to the beginning. You definitely want to go on for a PhD. Okay, so we've established that",gc,0.0
+13,154_13,154_13,P,right.,gc,0.0
+14,154_14,154_14,T,"So it's going to be one of these programs either way. So really, the only question you're really left with is which one? ",crq,0.0
+15,154_15,154_15,P,Yeah.,cd,0.0
+16,154_16,154_16,T,"So oftentimes, these situations we look at pros and cons, right? Are there any? Well, it sounds like there's a lot of pros to each one. Are there any cons to the one ?",irq,0.0
+17,154_17,154_17,P,"I mean, really not, not any that I can think of like, I've tried to, like, I've tried to write them down the piece of paper, do the pros and cons and like the pros look very close. And it's like the same number, but I mean, both programs are good. I have connections with like the some of the teachers and both of them. They're both in the same city. Like they're really close to each other. They're, they're both very similar, but like, for some reason, I just, I don't know, it would be easier if there's like some cons to one of them",id,-1.0
+18,154_18,154_18,T,It will make the decision easier if you had some negatives that for one of the programs,gc,0.0
+19,154_19,154_19,P,right,gc,0.0
+20,154_20,154_20,T,"there for the other one. So in a way, you know, I guess this we call quote unquote, good problem",gc,0.0
+21,154_21,154_21,P,right,gc,
+22,154_22,154_22,T,"It's a problem, but you're choosing between two alternatives that are both really positive for you, but it's there is a choice, right? It's still tough. And you mentioned before that you had some, in your past you're indecisive. ","gc, crq",0.0
+23,154_23,154_23,P,Yeah.,cd,0.0
+24,154_24,154_24,T,"So maybe we can do in this process is help you build decision making skills or contribute to that ability. Because whichever whichever program you get into where you choose, you're gonna have to make decisions later on to ",gc,0.0
+25,154_25,154_25,P,right,gc,0.0
+26,154_26,154_26,T,"and probably vary, or maybe some of those will be easier, maybe some of those choices won't be as easy. So I think this would be a matter of looking at what's important to you. But you mentioned the research agenda already, or agendas at both universities, that's important, too",gc,0.0
+27,154_27,154_27,P,right,gc,0.0
+28,154_28,154_28,T,"What are the aspects and maybe not so much thinking about these two universities, but in general, if you had to rank order them, what aspects are really the most important?",irq,0.0
+29,154_29,154_29,P,"Um, well, definitely, the research is up there. I definitely want to get that out of out of whichever school I go to. I think something else that's important is for the university to have kind of like maybe a post doctorate plan, whether they have connections with, like businesses where I can get a job like right after graduate or, like if I was going to move into a faculty position, like if they kind of had a pathway that would help set me up for that like that. Those are probably the biggest, like the biggest influencers,",id,0.0
+30,154_30,154_30,T,"The research and not a guarantee, necessarily, but some high probability employment?",crq,0.0
+31,154_31,154_31,P,right.,cd,0.0
+32,154_32,154_32,T,"So really what we could do here, if you want to look at these two universities, even though we don't really have any negatives to look at, we can rank these positives. So it sounds like both have the research that you're looking for that ",gc,0.0
+33,154_33,154_33,P,bright,gc,0.0
+34,154_34,154_34,T,"they're both there. But if you could rank and maybe you don't have this information right now, but if you could rank them in terms of the next most important aspect, which is really how hard Will you work to find a job? ",irq,0.0
+35,154_35,154_35,P,Right,id,0.0
+36,154_36,154_36,T,"That's, that's kind of what you're saying. ",gc,0.0
+37,154_37,154_37,P,"Okay, right. ",gc,0.0
+38,154_38,154_38,T,"I mean, it sounds like what you're saying?",gc,0.0
+39,154_39,154_39,P,right,gc,0.0
+40,154_40,154_40,T,"So, do you have any information? Or is that something you can find?",irq,0.0
+41,154_41,154_41,P,"Um, actually, that's I never thought about like that. Like, I guess I could go online and kind of look at a lot of times universities put up like job acceptance rates like afterwards and they put up percentages, kind of like what what people do afterwards. So maybe if I looked at the websites and kind of found information and see like, how many of them go on to be professors or like work in the industry, maybe maybe I should check that out. That might help me",id,9.0
+42,154_42,154_42,T,"that might allow you to have a difference between them because right now, it's like they're just kind of, they're kind of melded together",gc,0.0
+43,154_43,154_43,P,right,gc,0.0
+44,154_44,154_44,T,"You know, you have you have really no way yet to separate them",gc,0.0
+45,154_45,154_45,P,right.,gc,0.0
+46,154_46,154_46,T,"So maybe this can build a bit of a discrepancy that the gap between them so you can say, Okay, this one, neither one is bad, right? But this one might be a little better for what I want to do. ",gc,0.0
+47,154_47,154_47,P,Okay.,gc,0.0
+48,154_48,154_48,T,Does that does that kind of make sense?,yq,0.0
+49,154_49,154_49,P,"Yeah, that makes sense. Yeah.",op,0.0
+50,154_50,154_50,T,"Similarly, as the I think about it, I know whenever I leave speaking with somebody or some situation, that's right, I always think of all the questions I want to ask, right. So when you leave here, you can consider some of the other aspects and like, Think it over like really important to me and try to create that distance between them. So you can look at them as really two separate entities. Another possibility would be to find out this information, maybe talking to representatives from each university. ","gc, id",0.0
+51,154_51,154_51,P,Okay,gc,0.0
+52,154_52,154_52,T,If they may or may not have more information about potential pros and they might even have some cons right now. I'm sure they'll present a plate manner but they can let you know maybe some of the negatives.,"gc, id",0.0
+53,154_53,154_53,P,Okay.,gc,0.0
+54,154_54,154_54,T,"Associated With the other university, or maybe some of the positives that aren't quite as positive",gc,0.0
+55,154_55,154_55,P,"right, right, ",gc,0.0
+56,154_56,154_56,T,"something that they do well with others, other university doesn't do as well. ",gc,0.0
+57,154_57,154_57,P,Okay.,gc,0.0
+58,154_58,154_58,T,So it sounds like this information gathering would really be your next step.,gc,0.0
+59,154_59,154_59,P,Yeah. Yeah. I never actually thought about ranking the the pros and going from there. So I think that's a good idea. Yeah.,gc,0.0
+60,154_60,154_60,T,"One of the things that might be helpful to drive is the importance you place on these different aspects, right. So kind of clarify, and we can we meet again, we'll talk about this, but clarify your values and what's important to you. ","gc, id",0.0
+61,154_61,154_61,P,Okay.,gc,0.0
+62,154_62,154_62,T,And then that'll help you to kind of rank some of these attributes.,gc,0.0
+63,154_63,154_63,P,"Right. Okay. Yeah, that makes sense. ",ack,0.0
+64,154_64,154_64,T,"All right. Let's, let's leave it there. And we'll kind of pick up next time with looking at what we talked about. Unless you have any further questions.",gc,0.0
+65,154_65,154_65,P,"No, no, I think, yeah, I think I know what I can do afterwards, no we decided.",comp,0.0
+66,154_66,154_66,T,So I'll see you in about a week and we'll pick up there,"gc, id",0.0
+67,154_67,154_67,P,Alright sounds good.,gc,0.0
+68,154_68,154_68,T,"Thanks, Kyle.",gc,0.0
+69,154_69,154_69,P,Hmm,gc,0.0

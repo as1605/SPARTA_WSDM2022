@@ -1,0 +1,49 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,46_0,0,46_0,141_0,T,Sheree How you doing today?,gt
+1,46_1,1,46_1,141_1,P,Okay. Okay.,gt
+2,46_2,2,46_2,141_2,T,I understand you haven't been feeling too well if you've had some symptoms become it's going on.,irq
+3,46_3,3,46_3,141_3,P,"Yeah. So for you know, almost a week now I've been you know, every little thing irritates me. It's just been it's, it's distracting how much you know. Little things are bothering me.",id
+4,46_4,4,46_4,141_4,T,Little things are really irritating you.,yq
+5,46_5,5,46_5,141_5,P,Yes.,ack
+6,46_6,6,46_6,141_6,T,For the last week?,yq
+7,46_7,7,46_7,141_7,P,Yes.,ack
+8,46_8,8,46_8,141_8,T,This is the first time this has happened.,"yq,crq"
+9,46_9,9,46_9,141_9,P,Yeah.,"ack,cd"
+10,46_10,10,46_10,141_10,T,"So tell me about the irritation, like what kind of things have been, I mean?",irq
+11,46_11,11,46_11,141_11,P,"So like at work, the guy in the cubicle next to me, like, it feels like he either clears his throat or blows his nose every 15 minutes, it drives me crazy. And like, then I can't focus on my work because I just hear it. So I try to put on music. And then my boss will get upset because I have earbuds in but I can't play music out loud because I'm trying to be considerate of other people. Unlike my cubicle mate, the guy the other cubicle, then, you know, that's just like one example. And then like, when I'm driving home, there was this guy walking his dog on the side of the road, and like there's no shoulder so it's not a safe place. So, like, I just feel like he's risking his life and his dog's life and my life. I get home and I kept thinking about it. And just like everything, everything that people do is just driving me up the wall.",id
+12,46_12,12,46_12,141_12,T,"So you really, you're really irritated and You feel like these irritating events are distracting you? ",yq
+13,46_13,13,46_13,141_13,P,Yeah.,ack
+14,46_14,14,46_14,141_14,T,Do you feel like your thoughts are racing?,irq
+15,46_15,15,46_15,141_15,P,"Yeah. Because like, I'll be thinking about, you know, trying to focus on work, or whatever I'm doing. And all these things that people, other people are doing their ears. It's not even other people just like things in general are irritating me and like so my thoughts will race through different things and it just makes me more frustrated and exist and anxious.",id
+16,46_16,16,46_16,141_16,T,Have you found the mentioned work? Have you found that you're more oriented toward getting goals completed?,irq
+17,46_17,17,46_17,141_17,P,"I mean, now, not a more so than usual, no.",id
+18,46_18,18,46_18,141_18,T,Do you find yourself talking more or feeling like you should talk more,irq
+19,46_19,19,46_19,141_19,P,"No, no. In fact, they don't want to talk to people because they feel like something they're gonna say is gonna annoy me.",id
+20,46_20,20,46_20,141_20,T,How's your sleep?,irq
+21,46_21,21,46_21,141_21,P,"I'm fine. I haven't had any disturbances in it, though. Sometimes, like when I'm first going to bed like my thoughts will take me a while to like, get to sleep and like have my thoughts like, shut down, but it doesn't take too long.",id
+22,46_22,22,46_22,141_22,T,"Alright, it's your sleep spin. Okay, ",yq
+23,46_23,23,46_23,141_23,P,yeah.,ack
+24,46_24,24,46_24,141_24,T,Have you noticed that you're all down? Or like have depressed mood or anything like that?,yq
+25,46_25,25,46_25,141_25,P,"No, not really, no.",on
+26,46_26,26,46_26,141_26,T,Are you still finding activities that were pleasurable to be pleasurable now?,irq
+27,46_27,27,46_27,141_27,P,"Yeah. Well, I mean, sometimes an activity that I like, someone will come along and like I'll get distracted during it by something that like irritates me. But for the most part, I can get over it and like enjoy the activity if it's something I genuinely enjoy.",id
+28,46_28,28,46_28,141_28,T,You change your appetite.,yq
+29,46_29,29,46_29,141_29,P,No.,id
+30,46_30,30,46_30,141_30,T,How about any feelings of worthlessness?,yq
+31,46_31,31,46_31,141_31,P,No. Nothing like that. ,on
+32,46_32,32,46_32,141_32,T,You mentioned that you're being distracted easily. It's affecting your concentration.,crq
+33,46_33,33,46_33,141_33,P,A little bit.,cd
+34,46_34,34,46_34,141_34,T,Do you have any thoughts regarding death or dying?,yq
+35,46_35,35,46_35,141_35,P,No. Like that.,on
+36,46_36,36,46_36,141_36,T,And this irritable mood has been bothering you work any and you mentioned driving home and the other places.,gc
+37,46_37,37,46_37,141_37,P,"I mean, yeah, just because it's not just at work and driving home like, you know, something my mom said on the phone The other day irritated me. And then I cut the phone call shore and I get to talk to my dad, because I was mad. And so that like affected that. So a little bit of like, my personal life to",gc
+38,46_38,38,46_38,141_38,T,any drug or alcohol usage. There's really nothing.,yq
+39,46_39,39,46_39,141_39,P,No,on
+40,46_40,40,46_40,141_40,T,Have you ever seen or heard things other people can't see or hear?,yq
+41,46_41,41,46_41,141_41,P,"No, ",on
+42,46_42,42,46_42,141_42,T,that's never happened.,yq
+43,46_43,43,46_43,141_43,P,No,on
+44,46_44,44,46_44,141_44,T,Okay.,ack
+45,46_45,45,46_45,141_45,T,I like to get you in to see somebody today. That's okay. We have a counselor that's available that can talk to some more about this. That'd be all right.,gc
+46,46_46,46,46_46,141_46,P,"All right, ",gt
+47,46_47,47,46_47,141_47,T,so I'll get that arranged. And I want to thank you for answering these questions has been helpful.,gt

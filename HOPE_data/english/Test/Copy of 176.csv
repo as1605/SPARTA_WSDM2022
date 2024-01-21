@@ -1,0 +1,73 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,176_0,176_0,T,"Hi, Gabriela, I understand that you're here today because you've been experiencing some low mood.","gt, irq",0
+1,176_1,176_1,P,"Yeah, I just then recently I've just been feeling down a lot. And I can't really like snap out of it. Like sometimes if it's happened before, I can just like, get myself back on track. But recently, I've just found it really difficult to do it. ",id,-1
+2,176_2,176_2,T,So it sounds like you've been experiencing some low mood and you're kind of struggling to get going a bit.,crq,0
+3,176_3,176_3,P,"Yeah, yeah, definitely. ",cd,-1
+4,176_4,176_4,T,"You've had low mood in the past, but it's kind of you've been able to pull yourself out of it before but more recently, you found that harder. Okay, so I understand that you you first went to your GP he referred you here about two months ago. And can I ask what what led you to go to the GP in the first place?","gc, irq",0
+5,176_5,176_5,P,and my long term boyfriend broke up with me and it was such a shock like I really wasn't expecting it. And it's got me really down and felt really lonely and and I didn't really want to see people and she wanted a baby in space and the mom told me I should probably go to the doctors and and he is her family to you.,id,-1
+6,176_6,176_6,T,"Okay, so it sounds like you had that breakup and you weren't expecting it. So kind of came out of the blue a bit and, and that you've been on your own quite a lot. So you're not been seeing people as much and it sounds like your mom, notice that there's been a bit of a change in you. Okay, and how things been then since then, since that happened and since you went to the GP?","gc, irq",0
+7,176_7,176_7,P,"I just nothing's really changed, nothing's really improved. I feel down like absence and feel distant from things and like I said, I can't stop all over.",gc,-3
+8,176_8,176_8,T,"Okay, and how did you feel about coming here today? ",irq,0
+9,176_9,176_9,P,"And I was kind of disappointed in myself, because I feel like maybe else my ages doing this, like, I should have been able to snap out of it. Like, it's just another thing that I've not really affects me make me stand out for the wrong reasons.",id,-1
+10,176_10,176_10,T,"Okay, so you feel like it's kind of odd or unusual to be here, coming to see a clinical psychologist, I suppose I just want to reassure you that it's absolutely normal to have feelings of depression and anxiety. It's really very common, and it certainly isn't auto strange at all. So it sounds like it was actually quite hard for you to come here today. So what I guess led you to do that because it sounds like maybe there was a lot pushing you against coming here today, but you've managed to come anyway. ","gc, id",0
+11,176_11,176_11,P,"And I'm just hoping that it's going to help. I think I didn't I didn't really want to admit it, because like it's just another failure. But my mom was talking to me and, and she's, she's not really happy with the way I'm behaving and I don't really want to disappoint her again. And so I thought there's no harm in  this","gc, id",-1
+12,176_12,176_12,T,So sounds like partly you're doing it then your mum because you're a bit worried that she she isn't pleased with you at the moment.,crq,0
+13,176_13,176_13,P,Yeah.,cd,0
+14,176_14,176_14,T,"Okay. And I think it's great that you've come here. And definitely there's a lot of evidence to suggest that psychological therapy can help depression and particularly the type of therapy that we're going to be doing, which is called cognitive behavior therapy. And I'll tell you a bit more about that as we go on, but I'm just trying to find out a bit more about you today. So I saw from your notes that your medic student","gc, yq",0
+15,176_15,176_15,P,"Yeah, and not currently in the Unii room and but yeah, last year as a medical student,",on,-1
+16,176_16,176_16,T,"okay, so I guess what, why, what's, what's the reason that you're not in uni this year?",irq,0
+17,176_17,176_17,P,and I Like he is pretty tall fast as a then suggested I took a year out. This is the Break.,id,-1
+18,176_18,176_18,T,"Okay, so just thinking that would be about six months ago was it that your ear out started, and it sounds then maybe like your first year was also quite tough.","gc, irq",0
+19,176_19,176_19,P,"Yeah, was that I thought we still for everyone, but obviously we'll take it in different ways daily.",id,-1
+20,176_20,176_20,T,And you're planning on the panning on returning.,crq,0
+21,176_21,176_21,P,And yeah I am gonna have to really so. Yeah,cd,0
+22,176_22,176_22,T,don't sound too sure about that though?,irq,0
+23,176_23,176_23,P,"I think return is probably that's what's gonna make everyone happy. And I think you know, at least I'll be able to finally achieve something and get something right. So yeah, like next year, I'm going to get through it. Yeah. ",id,-1
+24,176_24,176_24,T,"Okay, so it doesn't, it doesn't sound like you want to go back.",crq,0
+25,176_25,176_25,P,"I do. And I do. Enjoy it, I just I just don't feel like mate the main man and I just, it's a lot of flack and a lot of pressure and but that's what comes with it and, you know, it'll work out for the best if I go.",cd,-1
+26,176_26,176_26,T,"Okay, so I guess in there's quite a lot of thoughts and feelings about going back at the moment.  And I'm just wondering In the meantime, what are you what are you up to what have you been doing?","gc, irq",0
+27,176_27,176_27,P,"And I've not really had much on the horizon men more men, have friends owns a restaurant. And like she suggested that did a better way to sit in there. Just deliver a bit like money and stuff because I've seen that in Uni. So, you know, I've done that.",gc,-1
+28,176_28,176_28,T,"Okay, how many shifts have you done there?",irq,0
+29,176_29,176_29,P,"And I've only done one so far. And yeah, I don't know whether it's something that I'd probably go back to but ",id,-1
+30,176_30,176_30,T,okay. How when was that shift?,irq,0
+31,176_31,176_31,P,It was last week actually.,id,0
+32,176_32,176_32,T,"Okay, and how was it, I suppose I'm intrigued. Can you tell me a bit more about that? ",irq,0
+33,176_33,176_33,P,"Umm it was, it was different, you know, because it was like I could. I did enjoy it because there's like, it's just different aspects and I had to like, speak to people and like, try to get their orders and try to remember it and stuff. Like, I wasn't very good. But I suppose like it was handy to have some money and, like, get out of the house.",id,-1
+34,176_34,176_34,T,So it sounds like you quite enjoyed that then?,crq,0
+35,176_35,176_35,P,Yeah.,cd,0
+36,176_36,176_36,T,And what makes you think you weren't very good?,irq,0
+37,176_37,176_37,P,"I just I just bit slow and people sometimes they didn't stand by science, so I'd have to talk louder or quieter or slower and a bit confused sometimes with the orders. And then just don't really think that I'm not really like a friendly. Like, people don't really think that I'm a friendly person. They didn't really want to talk to me and stuff. I felt like I was like inconveniencing them by like, asking them things and getting things wrong. But yeah, they said they said that apparently and most people got like a few mistakes on the fascia. But then again, she's my mom's friend so probably why she's saying it.",id,-1
+38,176_38,176_38,T,So the person who owns the restaurant is your mom's friend.,crq,0
+39,176_39,176_39,P,Yeah.,cd,0
+40,176_40,176_40,T,"Okay, so it says you're saying that you think you weren't very good that's because you're a bit slow and you got confused with some orders. ",gc,0
+41,176_41,176_41,P,Yeah.,ack,0
+42,176_42,176_42,T,"Is it? You said it's common for people to do that. Well, on that first shift, that's a she said toes,",crq,0
+43,176_43,176_43,P,"but and, but it's probably just, she's just trying to make me feel better she probably felt sorry for me because I'm obviously not very good at it. Like, I'm not very good for any things recently. I think she just felt sorry for me.",cd,-1
+44,176_44,176_44,T,"Okay, so I've just been noting down some of those thoughts that you've been having. You kind of So you feel like you're not very good, you're slow. You're confused with the orders and you feel like you're inconveniencing her and she feels sorry for you. And I suppose I'm wondering I mean what makes you think that she feels sorry for you?","gc, irq",0
+45,176_45,176_45,P,"Like, like such as my mother's friends and she's obviously feeling sorry for my mom as well because she's got a daughter it's not like anyone else who harried and she's just like all alone and she's not getting involved so I think she just feel sorry for me and she doesn't want to extend until upset me. Yeah.",id,-1
+46,176_46,176_46,T,"When you're having these kind of thoughts, because that's quite a lot of negative thoughts you're describing how do you feel?",irq,0
+47,176_47,176_47,P,"I feel empty. I do. I'm just calling as it is and just call it as reality. And I feel like I'm being honest with myself by just leasing it and not trying to get around tighten it because No, I can see myself",id,-1
+48,176_48,176_48,T,"so it sounds like you feel like these thoughts are very true then. I mean, if you're going to write them, so I'm going to pick out some of those thoughts you describe. You said, I'm not very good and I'm inconveniencing them. How much would you say you believe those on a scale out of 100? where 100 is like I absolutely believe it and zeros like I don't believe it at all.","gc, irq",0
+49,176_49,176_49,P,About 80,id,-1
+50,176_50,176_50,T,"so you feel quite sure that you definitely believe okay. And you said that when you're thinking those thoughts, she started to feel quite empty.",gc,0
+51,176_51,176_51,P,"I just feel just, like sad. I'm not really myself. I just like it's like I'm not really bad, but when I am coming through Good job, and",gc,-1
+52,176_52,176_52,T,there any other emotions that you experience?,yq,0
+53,176_53,176_53,P,"feel drained. They feel like I'm in touch with anything And just like everything's going on around me, but I'm just not there. I'm just if I can just walk in",op,-1
+54,176_54,176_54,T,"Okay, so you feel empty distance you feel drained and how when you're feeling these emotions, how do you feel in your body? Kind of what sensations do you notice?","gc, irq",0
+55,176_55,176_55,P,I didn't know how to describe it. I got like I have a bit of like we can have any kind of got like butterflies in your nerves and stuff.,id,-1
+56,176_56,176_56,T,Did you have butterflies that night when you're at the restaurant?,yq,0
+57,176_57,176_57,P,"Yeah, I was pretty nervous then. But when I got into it, they went away and like, it just talked to me for a bit. And so obviously, I realized that I wasn't doing a very good job.",op,-1
+58,176_58,176_58,T,"Okay, and when you When you have these emotions, how does it affect your energy levels? Do you feel more energetic, less energetic or about the same?",irq,0
+59,176_59,176_59,P,i am feeling down,id,-1
+60,176_60,176_60,T,Yeah. And when you're having those emotions that you were describing,gc,0
+61,176_61,176_61,P,"I feel drained like, then you will have like the energy to wake up in the morning sometimes, because y'll play less and less than the body's having and I don't want to.",id,-1
+62,176_62,176_62,T,"Yeah, sounds like you feel very tired. You're struggling to wake up. You said it's pointless. And then what do you do then when you feel like that? So I guess you just talked about when you wake up in the morning, and you feel heavy, and I suppose you've been maybe having some of these thoughts and those emotions, potentially the night before? What do you then do? How do you respond to that?","gc, irq",0
+63,176_63,176_63,P,I just have to go expose that don't really have a choice because my mom I live with my mom and I know it's hard for her. So I don't want her to be too worried. So I just I just tried to carry on as normal girl takes longer and I don't want to but I do. So now its my routine.,id,-1
+64,176_64,176_64,T,So you're a bit slower and gets getting up.,crq,0
+65,176_65,176_65,P,Yeah.,cd,0
+66,176_66,176_66,T,But you are still getting up anyway. And what about your kind of what do you think about when you're doing that?,"gc, irq",0
+67,176_67,176_67,P,"I'm just thinking that nobody else is like mate my age like, maybe we should be feeling like this. And I'm the only one that does.",id,-1
+68,176_68,176_68,T,"So it sounds like you think a bit more about the problem and you kind of spend time thinking about hey, how can it hapen to me?","gc, orq",0
+69,176_69,176_69,P,"I don't, I don't want to feel like this but i do and nobody else I know doors. So it makes me feel even more alone gets me even more down. I just don't display anyone and I should have anyone to it.",od,-1
+70,176_70,176_70,T,"Okay, so it sounds like you try and toughen up on yourself a little bit. Tell yourself to work harder to be different. Okay. And when you start telling yourself that kind of thing and how does that make you feel? Does that make you feel better afterwards or worse?","gc, irq",0
+71,176_71,176_71,P,"feels worse because it still can't snap out of it. Like, I'm aware it's happening and I just, I'm trying but I just can't. And then and then it's just another thing that I'm feeling. Just another thing that I can't really get",id,-1

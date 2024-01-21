@@ -1,0 +1,30 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,112_0,0,112_0,50_0,T,"Amanda, thanks for coming in tonight.",gt,,
+1,112_1,1,112_1,50_1,P,yeah its okay,gt,,
+2,112_2,2,112_2,50_2,T,The GP sent me a letter telling me a little bit about what's been happening. That's been having some difficulties since birth for some of you weeks ago. Tell me a little bit about what's been happening from your,id,,
+3,112_3,3,112_3,50_3,P,it's been really difficult. I've been really struggling. And I don't know why. I don't know why. This should be a really wonderful time for me and it's something that I've been looking forward to,id,,-1.0
+4,112_4,4,112_4,50_4,T,But it hasn't. It hasn't been a good time.,id,,
+5,112_5,5,112_5,50_5,P,"I could never have imagined that it would be like this. It is not what I thought it would be like, ",id,,
+6,112_6,6,112_6,50_6,T,what has what has it been like for you?,irq,,
+7,112_7,7,112_7,50_7,P,"I'm just not feeling how I think I'm meant to feel. It's difficult sometimes, to me to actually do what I'm meant to do. As a mother I, and it just feels so wrong. I'm",id,,
+8,112_8,8,112_8,50_8,T,so wrong?,crq,,
+9,112_9,9,112_9,50_9,P,"This isn't how I meant to be. I feel like I'm just meant to love looking after him and taking care of him, but he doesn't feel it's just not feeling that way. And sometimes it's even hard to want to. ",cd,,
+10,112_10,10,112_10,50_10,T,It's meant to be feeling this,id,,
+11,112_11,11,112_11,50_11,P,Yeah. And this is something that we've been trying so long for and it's Just been so important for both of us.,id,,
+12,112_12,12,112_12,50_12,T,"These this thing that has been so important, and now that it's, it's here, now that's happened. It's different to the way that you imagined ",id,,
+13,112_13,13,112_13,50_13,P,"slightly different. I thought that I kind of blossoming and just love Detroit and I do love him. It's not that I don't you know, it's not that I don't love him. It's not that I don't want to do this, I do it. This is part of me that is just really struggling.",id,,
+14,112_14,14,112_14,50_14,T,Please tell me a little bit more about that part that's struggling.,irq,,
+15,112_15,15,112_15,50_15,P,"It's really difficult to even talk about because it's like, not meant to feel this way. But there's this part of me that would just not like to get out of bed. In the mornings, I just want to sleep. I don't want to do anything. ",id,,-1.0
+16,112_16,16,112_16,50_16,T,Just want everything to go on?,yq,,
+17,112_17,17,112_17,50_17,P,"It's really hard to admit because I can't imagine that anybody else could understand what this feels like it, it feels unnatural, almost that kind of relief to say it out loud.",id,,-1.0
+18,112_18,18,112_18,50_18,T,And this is the place that you can say what needs to be said.,id,,
+19,112_19,19,112_19,50_19,P,"Yeah. Yeah. That is part of me that almost feels angry with all the stuff I've got to do, and I don't feel like I'm getting the support that I need. And it's really difficult. I feel like I have to do it all myself.",ack,id,
+20,112_20,20,112_20,50_20,T," So, feeling as though it's all on you. You're going to deal with it all the time. ",id,,
+21,112_21,21,112_21,50_21,P,"Yeah, and it's Huge it's like this little little boy that just needs me to be there. I'm struggling to be there and until want to be there even. So it's really overwhelming. Mm hmm.",id,,
+22,112_22,22,112_22,50_22,T,By yourself with,id,,
+23,112_23,23,112_23,50_23,P,"my partner, John's Bay like, he tries, but I think he is getting frustrated with me, too. He's sensing that. I guess he had expectations of how I would be and how we would be and how this would be and I think that he's disappointed in me. And then that doesn't help and so then I sort of feel like I have to do it to prove that I am okay and that I am kind of holding it all together. And I do love these. ",id,,
+24,112_24,24,112_24,50_24,T,So trying to keep a mask up. Trying to seem as though it's okay.,crq,,
+25,112_25,25,112_25,50_25,P,Yeah. You caught him. To know how I feel I'm I feel like I'm a bad mother already.,cd,,
+26,112_26,26,112_26,50_26,T,But it's painful. It's a painful feeling.,id,,-1.0
+27,112_27,27,112_27,50_27,P,"I've been tried so hard to have this child to have wanted and it's always been talking about and planning for so long and it means so much to john as well. And I'm just it's just, it's just not happening. either of us thought and I really wanted to, it's hard because I wanted to but",id,,
+28,112_28,28,112_28,50_28,T,"so at this point, and it's six weeks, they've been a really rough. Six weeks feels to me like really rough. Having waited so long to have this child gone through the birth and understand from a GPM pump was a somewhat difficult birth if it wasn't from I thought it was. So from the very start, it hasn't been as you thought.And now you're at that point where the reality is the reality of this baby. It sounds to me that there's a struggle going on for you. But a struggle that you're feeling very much alone with",id,,

@@ -1,0 +1,24 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,177_0,177_0,T,"I know when we met a few weeks ago, you were quite keen to look at some ways to try and manage your depression, maybe without medication. Is that what brings you in today? ","gc, yq",0
+1,177_1,177_1,P,"Yes, I'd like that.",op,-1
+2,177_2,177_2,T,"Right. Okay. And I'd like to take some notes if that's okay, just to keep track of what we talked about. That'd be okay with you. ","gc, yq",0
+3,177_3,177_3,P,Yes. It'll be fine.,op,0
+4,177_4,177_4,T,You can have a Coffee to take away afterwards. And what I find quite helpful is if we talk about a specific situation. I wonder if you could just think of a time maybe a recent time when you felt particularly depressed and it affected you.,"gc, irq",0
+5,177_5,177_5,P,"Umm a few weeks ago, I was due to meet up with some friends from antenatal classes. We used to meet up every week. But I felt so tired and low. Just couldn't go",id,-1
+6,177_6,177_6,T,"right to what was going through your mind when you're feeling tired and low, that stopped you wanting to go","gc, irq",0
+7,177_7,177_7,P,"when I started thinking about the other mothers laughing and chatting, and I wouldn't have anything to say. ",id,-1
+8,177_8,177_8,T,"And what would that mean, if you didn't have anything to say? ",irq,0
+9,177_9,177_9,P,They'd probably think that I was boring. Why would they want me there? If I was just going to make everyone else miserable?,id,-1
+10,177_10,177_10,T,It sound like some really difficult thoughts to have and how did it make you feel when you're thinking that ?,irq,0
+11,177_11,177_11,P,really low,id,-1
+12,177_12,177_12,T,"Okay, it's really understandable. I think that you'd feel low if you're having quite self critical, very negative thoughts and that it's quite common in depression to have those type of thoughts. Did it make you think anything about how they might see you, for example?","gc, irq",0
+13,177_13,177_13,P,"Will the other children always seem so happy, I started thinking maybe the other mother is doing a better job than me. And I worry a lot about Molly and wondered if she'd be better off for one or the other mums.",id,-1
+14,177_14,177_14,T,Right. Okay. I'm not that that must be really painful. And how does it make you feel to think that Molly might be better off with one or the other moms?,"gc, irq",0
+15,177_15,177_15,P,That made me feel really sad,id,-1
+16,177_16,177_16,T,What tells you that Molly might be better off with one or the other moms?,irq,0
+17,177_17,177_17,P,We seem so in control with my depression. I just feel guilty that I'm not very good mother.,id,-1
+18,177_18,177_18,T,"You've mentioned a number of emotional feelings. You said you feel fed up, low, sad and sometimes guilty. Do you have any physical symptoms or body reactions?",irq,0
+19,177_19,177_19,P,"I get quite tearful, although that's mainly when I'm on my own. I'm so tired. I just don't have the energy.",id,-1
+20,177_20,177_20,T,Are you getting good sleep at the moment?,yq,0
+21,177_21,177_21,P,"Molly keeps me up sometimes at night that makes me tired. But even after a good night's sleep, I'm still exhausted ",op,-1
+22,177_22,177_22,T,right,ack,0

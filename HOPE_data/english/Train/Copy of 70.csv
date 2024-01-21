@@ -1,0 +1,92 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,70_0,0,70_0,163_0,T,"Good afternoon, Bruce. I'm glad you could make it in today. Thanks for coming in. Last week when you were you had come in because you had had a positive urine analysis test for marijuana. And so we were working on ways that you could cut down or extinguish marijuana use altogether. And how did you feel about our talk last week?","gt,irq"
+1,70_1,1,70_1,163_1,P,"It was okay, I guess.",id
+2,70_2,2,70_2,163_2,T,Yeah. Just okay.,crq
+3,70_3,3,70_3,163_3,P,Yeah.,"ack,cd"
+4,70_4,4,70_4,163_4,T,"All right. Okay, so I want to refresh your memory and I've got my notes here. Do you mind if I refer to my notes? ",yq
+5,70_5,5,70_5,163_5,P,okay,ack
+6,70_6,6,70_6,163_6,T,yeah.,gc
+7,70_7,7,70_7,163_7,P,"Yeah, I wasn't in the mood.",on
+8,70_8,8,70_8,163_8,T,I'm wondering what you could have done in the world.,orq
+9,70_9,9,70_9,163_9,P,I'm not sure what I could have done.,od
+10,70_10,10,70_10,163_10,T,"And so because of the not exercising, did it make any difference in your marijuana usage this week?",irq
+11,70_11,11,70_11,163_11,P,"Yeah, it was used a bit more.",id
+12,70_12,12,70_12,163_12,T,Okay. Okay. So how would you tie those two things together By not running?,irq
+13,70_13,13,70_13,163_13,P,"I think the mix when I'm not exercising, generally I would turn to the more usage.",id
+14,70_14,14,70_14,163_14,T,"Yeah, yeah. So when you reflect back now on last week, and the rain coming down, and it was cold, I'm wondering if there was a way that you could change your perception about that, such that it wouldn't stop you from running. What do you think?","irq,orq"
+15,70_15,15,70_15,163_15,P,"Yeah To change the perception above, maybe wear a rain jacket or something.",od
+16,70_16,16,70_16,163_16,T,"Mm hmm, that would be a great idea. That would be an excellent idea.",ack
+17,70_17,17,70_17,163_17,P,"Well, I tried to stay away, but I didn't. I still saw some of them.",id
+18,70_18,18,70_18,163_18,T,So it was it was difficult to cut them out of your life? Last week?,yq
+19,70_19,19,70_19,163_19,P,Yeah.,ack
+20,70_20,20,70_20,163_20,T,"And  you tell me more but what was difficult about it,",irq
+21,70_21,21,70_21,163_21,P,"the stuff that they think something badly of the I didn't want them to think  You know, avoiding the raising.",id
+22,70_22,22,70_22,163_22,T,So you did it sounds like you didn't want to hurt their feelings.,yq
+23,70_23,23,70_23,163_23,P,Yes,ack
+24,70_24,24,70_24,163_24,T,by them thinking that you were going to avoid them.,yq
+25,70_25,25,70_25,163_25,P,yes,ack
+26,70_26,26,70_26,163_26,T,And so as a result of this what what happened?,irq
+27,70_27,27,70_27,163_27,P,"Well, I just ended up going to see them and then hanging out.And, yeah.",id
+28,70_28,28,70_28,163_28,T,"So because you were worried about them thinking that you were trying to avoid them, you ended up using marijuana. Is that correct?",yq
+29,70_29,29,70_29,163_29,P,Yeah.,ack
+30,70_30,30,70_30,163_30,T,And I'm wondering how you could do that differently this week.,irq
+31,70_31,31,70_31,163_31,P,"Well, I could, I suppose I could just try hard enough to go and see you guys.",id
+32,70_32,32,70_32,163_32,T,And what would that involve trying harder not to go see them?,yq
+33,70_33,33,70_33,163_33,P,Hmm.,ack
+34,70_34,34,70_34,163_34,T,Yeah. Sometimes it is that simple is just making that commitment. yourself and just drawing the line. And do you have any friends that do not use marijuana that you could kind of associate with?,irq
+35,70_35,35,70_35,163_35,P,"Yes i do, I don't feel that often, but I could, I could start to see that more. ",id
+36,70_36,36,70_36,163_36,T,Okay. How about motivated on a scale of one to 10? Would you say you are to kind of reignite friendships with people that don't smoke pot?,irq
+37,70_37,37,70_37,163_37,P,Three.,id
+38,70_38,38,70_38,163_38,T,"Okay. So you're still, you're still a little iffy about you about whether you want to associate with those friends again, but I have to ask you, Bruce, what do you what made you say three instead of one?",irq
+39,70_39,39,70_39,163_39,P,"Well, because I know for all, so I feel like I need to, I think I should start doing something about it.",id
+40,70_40,40,70_40,163_40,T,"I think that's great insight that you're able to see that moving towards The friends that don't smoke pot and making the effort to do that is actually going to enhance your life incredibly. And when you associated with the friends that didn't smoke pot in the past, what kind of things did you do?",irq
+41,70_41,41,70_41,163_41,P,Like what what kind of things activities and things?,crq
+42,70_42,42,70_42,163_42,T,Yeah. Was it fun to be with them?,"cd,irq"
+43,70_43,43,70_43,163_43,P,"Yeah, it was fun. Yeah, we just mostly are like doing some outdoor activities, maybe just sort of get some pressure kind of thing. Usually it's not so like, you know, there's more. They tend to do more healthy activities, I would say.",id
+44,70_44,44,70_44,163_44,T,"So you can recall living a healthier life then and having fun outdoors and basically having a healthier life overall, without using the pot.",orq
+45,70_45,45,70_45,163_45,P,Yeah You're right there. It could be I might take my mind off of it.,od
+46,70_46,46,70_46,163_46,T,"Sometimes it's good to remember having those good times with the friends that didn't smoke the pot because it makes you realize that you don't really need it. And I think that's a great, I think that's a great idea.",gc
+47,70_47,47,70_47,163_47,P,Was I really had a lot of second thoughts. I was worried about commitment and that kind of thing. So I didn't feel like that was the right the right idea.,gc
+48,70_48,48,70_48,163_48,T,"Okay, so you had some second thoughts about that. You're excited about it and last week's session, but after you had a chance to reflect upon it, you kind of realized that it wasn't getting a dog was not the best Thanks for you, ",gc
+49,70_49,49,70_49,163_49,P,a lot of commitment and a lot of time that I just don't have the motivation to be putting in.,gc
+50,70_50,50,70_50,163_50,T,"I think that's wise to recognize that right up front, I'm given the research on pets any kind of pet, and how it helps people sustained from alcohol and drug usage. I'm wondering if there is another option that you might consider. ",gc
+51,70_51,51,70_51,163_51,P,Maybe. What do you have in mind?,crq
+52,70_52,52,70_52,163_52,T,"I'm thinking, do you like pets that aren't don't require such a commitment?","cd,irq"
+53,70_53,53,70_53,163_53,P,That's a good idea. I didn't think about that.,id
+54,70_54,54,70_54,163_54,T,Because a dog is the dog is a large commitment.,gc
+55,70_55,55,70_55,163_55,P,"Yeah. You know, there's all kinds of animals, snakes or fish or something.",gc
+56,70_56,56,70_56,163_56,T,"Hey, snakes ! fish, that would definitely be a star these animals that you like. ",gc
+57,70_57,57,70_57,163_57,P,Yeah.,gc
+58,70_58,58,70_58,163_58,T," All right, I think it's important that you have an animal that you like and that you can relate to. Alright, so in the final goal was to find and join a support group for people that were trying to be abstinent from marijuana. How did you make out with that?",irq
+59,70_59,59,70_59,163_59,P,"I look into it. But like, I went to the first the first meeting, and I just felt like, like, those people were bought on the barrel and I was just not I just didn't fit in with that crowd where they are not in that place.",id
+60,70_60,60,70_60,163_60,T,So you made the effort to go and you went,crq
+61,70_61,61,70_61,163_61,P,"I couldn't, I just didn't want to stay.",cd
+62,70_62,62,70_62,163_62,T,And so you didn't stay the whole time.,yq
+63,70_63,63,70_63,163_63,P,Right.,ack
+64,70_64,64,70_64,163_64,T,And so you left early because you felt you didn't feel and you they were the bottom of the barrel and you're still higher functioning.,yq
+65,70_65,65,70_65,163_65,P,Yeah,ack
+66,70_66,66,70_66,163_66,T,I can definitely understand I'm wondering if there is any purpose for you joining some sort of support group to help you. what Do you think?,irq
+67,70_67,67,70_67,163_67,P,See there could be some positive. I just don't I don't I just don't see it that much at this point.,id
+68,70_68,68,70_68,163_68,T,And what might be some positives that you would get out of the support group?,irq
+69,70_69,69,70_69,163_69,P,"Well, I would, I would probably be able to relate to people in the same kind of situation. And maybe it's just a positive to be able to have connection with people like that. I'm not sure.",id
+70,70_70,70,70_70,163_70,T,"So you're you're saying that the past of being in a support group would be that you'd get a chance to relate to other people who are on that same journey, and to have connections with other people. And again, I can send you information that will show you that that just these two items alone are incredibly helpful for not only decreasing or being abstinent from pot, but from increasing the feel good hormones in your body, the connection and the relating to other people. It might be similar when you were younger, you had mentioned last week that you were a hockey player. And so you had support that was sort of like the team was sort of like a support group. I'm wondering if you could relate to people in head connections and wondering if you could see a support group as a team.",irq
+71,70_71,71,70_71,163_71,P,"Yeah, it would probably be the same kind of situation like Essentially, people in a support group are all there for the same goal. So it's kind of like in hockey. Very important there to win. Mm hmm.",id
+72,70_72,72,70_72,163_72,T,"And do you remember when you were playing hockey, how it felt to be encompassed in that team? ",irq
+73,70_73,73,70_73,163_73,P,"Yeah, it was good. ","id,ack"
+74,70_74,74,70_74,163_74,T,"It gave. And that's because of those good feeling hormones that come in neurotransmitters that come throughout your body when you have those connections. So how committed do you think you are? If I were to send you a list of support groups? So you could try out some others? Where there weren't the bottom of the barrel? As you say, there? how committed Do you think that you would be trying out at least two of them this coming week?",irq
+75,70_75,75,70_75,163_75,P,"Probably eight, or 10. Yeah.",id
+76,70_76,76,70_76,163_76,T,"Wow. What made you say an eight rather than a four, five was just",gc
+77,70_77,77,70_77,163_77,P,"a team analogy, I think is a good analogy.",gc
+78,70_78,78,70_78,163_78,T,So you thought How you remembered. You remember how you felt when you were on the team and how it gave you that sense of connection?,irq
+79,70_79,79,70_79,163_79,P,"Yeah. And also, you know, I don't have to be the mean, if, if I think of it as a team, maybe I would be like the star on the team, because I'm not quite so bottom of the barrel. Maybe",id
+80,70_80,80,70_80,163_80,T,"I love that analogy. Good thinking. It's thinking, Bruce. That's excellent. Wow. Well, just to summarize, today, you came in, you had made some progress, but you had some stumbling blocks. You have decided that whether it's rain or shine, you're going to run anyway, because you're going to have you raincoat and you're going to embrace more of your positive friends rather than the friends that are not such a good influence on you and getting a pet rather than getting it Dog, you're going to look into getting a snake or what was the other thing? ","gc,irq"
+81,70_81,81,70_81,163_81,P,"Oh, fish. Yeah.",id
+82,70_82,82,70_82,163_82,T," Okay. And in terms of a support group, I will send you a list of support groups. And you feel that on a scale of one to 10, that you're about an eight, and actually carrying through and trying out two of these support groups, because of the hockey team analogy. Great job. So overall, how would you rate today's session? ",yq
+83,70_83,83,70_83,163_83,P,"It was good, very good.",ack
+84,70_84,84,70_84,163_84,T,"And if we were to put it on a scale of one to 10,",irq
+85,70_85,85,70_85,163_85,P,eight,id
+86,70_86,86,70_86,163_86,T,"out of eight. All right, we did get in if we did an eight.",gc
+87,70_87,87,70_87,163_87,P,"All right, ",gc
+88,70_88,88,70_88,163_88,T,way to go.,gt
+89,70_89,89,70_89,163_89,P,Thanks.,gt
+90,70_90,90,70_90,163_90,T,All right. Thanks,gt

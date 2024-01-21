@@ -1,0 +1,55 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,167_0,167_0,T,"Hi Susan, how are you doing today? ",gt,0
+1,167_1,167_1,P,Doing good. How are you?,gt,0
+2,167_2,167_2,T,"I am doing well, thanks for asking. I want to give you a brief assessment to help measure functions like memory and thinking. Is that okay with you? ","gt, crq",0
+3,167_3,167_3,P,Okay,cd,0
+4,167_4,167_4,T,"All right. For the first part of this assessment, we're going to be handing the sheet back and forth. Okay, I have a table there, so you can write on it. half a second part. I'll get that out of your way. I'll work on some other parts of it. Okay, that sounds good?","id, crq",0
+5,167_5,167_5,P,Yeah.,cd,0
+6,167_6,167_6,T,"All right. So let's take a look at this section right here. I have my finger pointed, please draw a line going from a number to a letter in ascending order. So I want you to begin here and draw a line from one that's a than the two and so on and here?","gc, cv",0
+7,167_7,167_7,P,Okay,cr,0
+8,167_8,167_8,T,thank you. I want you to copy this drawing as accurately as you can in the space below.,"gc, cv",0
+9,167_9,167_9,P,....,cr,0
+10,167_10,167_10,T,"Thank you. So in this empty space here like to draw a clock, put in all the numbers and set the time to five past hour","gc, cv",0
+11,167_11,167_11,P,Okay.,gc,0
+12,167_12,167_12,T,Thank you for joining us. Can you tell me the name of this animal?,"gc, irq",0
+13,167_13,167_13,P,Giraffe,id,0
+14,167_14,167_14,T,what the name of this animal?,irq,0
+15,167_15,167_15,P,bear,id,0
+16,167_16,167_16,T,and the name of that animal?,irq,0
+17,167_17,167_17,P,hippopotamus.,id,0
+18,167_18,167_18,T,"Thank you. This is a memory test. I'm going to read a list of words that you will have to remember now, and later on, listen carefully. When I'm through, tell me as many words as you can remember, it does not matter in what order you said. Truck, Banana, Violin, Born, Green.","gc, cv",0
+19,167_19,167_19,P,"Banana, Truck, Violin, Green, Born. ",cr,0
+20,167_20,167_20,T,"Thank you. I'm going to read the same list for a second time. Try to remember and tell me as many words as you can including words you said the first time. Truck, Banana, Violin,  Born, Green","gc, cv",0
+21,167_21,167_21,P,truck banana violin green.,cv,0
+22,167_22,167_22,T,"Thank you. I will ask you to recall those words again at the end of the test. I am going to say some numbers when I'm through, repeat them to me exactly as I've said them...3 2 9 6 5 ","gc, cv",0
+23,167_23,167_23,P,3 2 9 6 5.,cr,0
+24,167_24,167_24,T,"Thank you. Now I'm going to say some more numbers, but when I'm through, you must repeat them to me in the backwards order. 8 5 2 ","gc, cv",0
+25,167_25,167_25,P,2 5 2008,cr,0
+26,167_26,167_26,T,Thank you.  Now I asked you to count by subtracting seven from 90 and then keep subtracting seven from your answer until I tell you to stop.,"gc, cv",0
+27,167_27,167_27,P,"Starting with 90 and then going down seven,",crq,0
+28,167_28,167_28,T,correct,cd,0
+29,167_29,167_29,P,90 83 76 69 62 55.,cr,0
+30,167_30,167_30,T,"that's good. Thank you. I'm going to read you a sentence, repeat it after me, exactly as I say it. A bird can fly into closed windows when it's dark and windy. ","gc, cv",0
+31,167_31,167_31,P,A bird can fly into close windows when it's dark and windy.,cr,0
+32,167_32,167_32,T,Thank you. Now I'm going to read you another sentence repeat it after me exactly as I say it. The caring grandmother sent groceries over a week ago.,"gc, cv",0
+33,167_33,167_33,P,The caring grandmother sent groceries over a week ago.,cr,0
+34,167_34,167_34,T,"Thank you. Tell me as many words as you can think of the beginning with a certain letter of the alphabet, that I will tell you in a moment. You can say, any kind of word you want except for proper nouns, like Bob or Boston, numbers, or words that begin with the same sound, but have a different suffix for example, love lover loving. I will tell you to stop after one minute. Are you ready?","gc, yq",0
+35,167_35,167_35,P,Yes.,op,0
+36,167_36,167_36,T,Now tell me as many words as you can think of the begin with the letter S?,cv,0
+37,167_37,167_37,P,"shoes, socks, stockings, sweater, shirt, Stripes. suitcase, Save, Strategic, Serene. Sweet, super.",cr,0
+38,167_38,167_38,T,Tell me how a carrot and a potato are like?,irq,0
+39,167_39,167_39,P,vegetables.,id,0
+40,167_40,167_40,T,Can you tell me how a diamond and Ruby are like?,irq,0
+41,167_41,167_41,P,They both are stones,id,0
+42,167_42,167_42,T,"I read some words to you earlier, which I asked you to remember. Tell me as many of those words as you can remember,",cv,0
+43,167_43,167_43,P,"banana, truck, green, born, violin",cr,0
+44,167_44,167_44,T,Can you tell me today's date?,irq,0
+45,167_45,167_45,P,February 10.,id,0
+46,167_46,167_46,T,tell me what day of week it is ?,irq,0
+47,167_47,167_47,P,Tuesday.,id,0
+48,167_48,167_48,T,Tell me what place we're in right now.,irq,0
+49,167_49,167_49,P,Willmington University,id,0
+50,167_50,167_50,T,and what city we're in ?,irq,0
+51,167_51,167_51,P,Delaware.,id,0
+52,167_52,167_52,T,"Susan, thank you very well. ",gc,0
+53,167_53,167_53,P,Thank you.,gc,0

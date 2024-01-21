@@ -1,0 +1,50 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,160_0,160_0,T,"So, good to see you again. Last week we're talking about anxiety. Do you have your diary card? ","gt, yq",0
+1,160_1,160_1,P,Yeah.,op,0
+2,160_2,160_2,T,"Okay, let's look at it real quick. Bring it over here.","gc, cv",0
+3,160_3,160_3,P,Yeah,cr,0
+4,160_4,160_4,T,"Okay, so anxiety is really high. What happened yesterday anxiety is really high can be quick summary","gc, irq",0
+5,160_5,160_5,P,anxiety is always really high. But yesterday was the worst.,id,-1
+6,160_6,160_6,T,why?,irq,0
+7,160_7,160_7,P,"We were driving. My dad was driving and I was in the passenger seat and we were in a lot of traffic and that, you know, that already makes me nervous. I like to be on time.",id,-2
+8,160_8,160_8,T,I know,gc,0
+9,160_9,160_9,P,"I don't want to be late because then what if I get in trouble. So it's already kind of on edge. And then we passed the accident that I guess was causing off the traffic. And there were two cars and they were like, mashed together like accordions, and there was a tarp. And I know that under that tarp, there was a dead body, and the car went right. by it. ","gc, id",0
+10,160_10,160_10,T,That's scary.,gc,-2
+11,160_11,160_11,P,This horrible,gc,-2
+12,160_12,160_12,T,kind of explains that number. Hmm ?,gc,0
+13,160_13,160_13,P,yeah. Who wouldn't be anxious? That's like a normal thing because there's a dead body.,gc,-2
+14,160_14,160_14,T,"Well, I'd be anxious Of course. And it's kind of scary to see that. And what else did you think when you saw that?","gc, irq",-2
+15,160_15,160_15,P,Who would drive when there's two cars mash together like accordions on a dead body? That's insane. You have to be insane to drive.,id,-2
+16,160_16,160_16,T,And your family wants you to learn to drive this year because you're 16,crq,0
+17,160_17,160_17,P,they're insane.,cd,-3
+18,160_18,160_18,T,"And yet, you all you you keep complaining how you live in the middle of nowhere. And if you had a car you could like, go see friends more and get out of your lame Old Town and get to go do fun things. ",gc,0
+19,160_19,160_19,P,I can't see my friends anymore if I'm dead.,gc,-2
+20,160_20,160_20,T,"True. That's true. And I won't get to see you anymore. Because you're dead. You know, I don't treat dead people right. Remember that? Yeah, okay. So on one hand, I know the idea of driving is completely overwhelming. And I know you're anxious, like all the time.",gc,0
+21,160_21,160_21,P,"And I get that I have to drive because you're right. It's like the middle of nowhere. And I can't just, like, not go places, but ",gc,-2
+22,160_22,160_22,T,"so I'm wondering if we can bring it back to some of those things you're talking about to help reduce your anxiety. Maybe that's one idea to help you be able to get in the driver's seat. What do you think? So, essentially, you're practicing getting the driver seat by like doing this treatment and get in the driver's seat of your anxiety, as opposed to being a passenger and you're letting anxiety outside really your life? Because that's what you're doing. What do you think?","gc, irq",0
+23,160_23,160_23,P,"There's a lot of puns, Jen.",id,-1
+24,160_24,160_24,T,"I'm punning ain't I? So, here's an idea. Let's get on board. We start treating this anxiety. We do it really, really good. job at it we work hard. And idea driving might not be quite as scary. And let's face it being anxious driver increases your risk accidents. ",gc,0
+25,160_25,160_25,P,"Well, that's helpful. Thanks. ",gc,0
+26,160_26,160_26,T,"So reducing your anxiety, It's gonna make you a safer driver.",gc,0
+27,160_27,160_27,P,"Yeah, but all these things you keep telling me that I have to do to be less anxious. They involve like feeling really anxious. ",gc,-2
+28,160_28,160_28,T,True.,gc,0
+29,160_29,160_29,P,there's no way to like can't you're supposed to like just make it go away. You're not supposed to make it worse to make it better.,gc,-2
+30,160_30,160_30,T,"So here's what's interesting. You're really good at being really anxious. So you'll be really good at this. And it will go away. I promise you, I totally promise you. ",gc,0
+31,160_31,160_31,P,That's soo hard.,gc,-1
+32,160_32,160_32,T,"You know, done well, I'm the expert here of treating anxiety, and I promise you it will get better. I know everything. I know this. What do you think?","gc, orq",0
+33,160_33,160_33,P,I think it sounds really hard. It's really hard.,od,-1
+34,160_34,160_34,T,"All I do is totally, totally hard.",gc,0
+35,160_35,160_35,P,Maybe it's just not there. Same thing that you have to be more anxious to be less anxious.,gc,0
+36,160_36,160_36,T,"I know. It isn't. It's pretty insane, isn't it? I agree. Well, another option is you could just be anxious the rest of your life. Do they have a bus where you live? ","gc, yq, irq",0
+37,160_37,160_37,P,"No,  you know that",id,0
+38,160_38,160_38,T,"live with your parents for the rest of your life. I know I forgot. So you can live with your parents for the rest of your life. Because you're too anxious to leave town you won't be able to drive. So you could just live with your parents be anxious all the time, and you could go home so ideas on how to maintain your anxiety the rest of your life. You won't need to learn to drive. I mean, your parents are fairly nice. They probably drive around for the rest of your life, you know, until they pass away or something. In the meantime, what about that? So forget the whole treatment. I'm pushing you too hard. Why don't we just talk about how to maintain your anxiety? You're good at it. ","gc, id",0
+39,160_39,160_39,P,Jenna's  thats not funny.,gc,0
+40,160_40,160_40,T,It's not meant to be funny. What do you think ?,"gc, orq",0
+41,160_41,160_41,P," that's horrible, ",od,-3
+42,160_42,160_42,T,"I really want to help you. I know being anxious every time Really hard. So one of the options is to really become good at being anxious, and do okay, and learn to sit with your anxiety. And another option is Yeah, getting more anxious to reduce your anxiety. ","gc, id",0
+43,160_43,160_43,P,"So you're saying that no matter what I choose, it's going to involve feeling anxious. ",crq,0
+44,160_44,160_44,T,Yeah. For your practice at it.,cd,0
+45,160_45,160_45,P,"Well, I mean, if those are the only options, might as well do the one that's gonna make it eventually go away rather than just be there forever.",gc,-2
+46,160_46,160_46,T,All right. Do you want to review what some of the treatment strategies will be?,"gc, yq",0
+47,160_47,160_47,P,"Yeah, I guess. ",op,0
+48,160_48,160_48,T,"Okay, let's do that.",gc,0

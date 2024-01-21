@@ -1,0 +1,77 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,71_0,0,71_0,164_0,T,Straight today?,irq
+1,71_1,1,71_1,164_1,T,even better. I understand you haven't been feeling so well lately.,irq
+2,71_2,2,71_2,164_2,P,I haven't.,"on,id"
+3,71_3,3,71_3,164_3,T,Can you tell me about that?,irq
+4,71_4,4,71_4,164_4,P,"Yeah, I think I've I've been depressed ",id
+5,71_5,5,71_5,164_5,T,and depressed?,crq
+6,71_6,6,71_6,164_6,P,"for about two months been getting worse and that's why I'm here. You know, I haven't been sleeping very well. I haven't had very much of an appetite. I've been eating very well.",id
+7,71_7,7,71_7,164_7,P,The last couple months I've lost a bit of weight from it.,id
+8,71_8,8,71_8,164_8,P,Now I'm tired,id
+9,71_9,9,71_9,164_9,T,tired all the time? You may have low energy?,yq
+10,71_10,10,71_10,164_10,T,Yeah.,ack
+11,71_11,11,71_11,164_11,T,And you said it's been going on for a couple months.,crq
+12,71_12,12,71_12,164_12,P,Yeah. for about two months,"cd,id"
+13,71_13,13,71_13,164_13,T,did anything major happen the thing to focus on?,irq
+14,71_14,14,71_14,164_14,P,I mean,id
+15,71_15,15,71_15,164_15,P,a big thing that happened,id
+16,71_16,16,71_16,164_16,P,"you know, between five and six months ago is my cat died",id
+17,71_17,17,71_17,164_17,T,sorry to hear that.,gc
+18,71_18,18,71_18,164_18,P,"And, you know, I miss them a lot but you know, sad for a little bit and I have days where I miss him. But if the last two months have been nothing like what I found when he died",gc
+19,71_19,19,71_19,164_19,T,"last two months of symptoms have been more severe or less severe,",gc
+20,71_20,20,71_20,164_20,P," more severe, ",gc
+21,71_21,21,71_21,164_21,T,more severe. See a cat passed away six months ago.,gc
+22,71_22,22,71_22,164_22,P,Yeah.,ack
+23,71_23,23,71_23,164_23,T,And these symptoms you've had for the last two months?,irq
+24,71_24,24,71_24,164_24,P,Yeah.,ack
+25,71_25,25,71_25,164_25,T,So you're not sure if they're really related?,crq
+26,71_26,26,71_26,164_26,P,"Yeah, I don't know. Like,",cd
+27,71_27,27,71_27,164_27,P,I do miss my cat.,gc
+28,71_28,28,71_28,164_28,T,Do you think about your cat? Most days?,irq
+29,71_29,29,71_29,164_29,P,"oh no, just,",id
+30,71_30,30,71_30,164_30,P,"I would say, you know, a couple times a week. It will hit me that like, he's gone. It's not there. I'll think about him. But, you know, I'll have bad days without thinking about missing him. And so I don't know if it's it That.",id
+31,71_31,31,71_31,164_31,T,I'm gonna ask you some other questions related to depression.,yq
+32,71_32,32,71_32,164_32,T,That's okay.,ack
+33,71_33,33,71_33,164_33,T,Have you noticed a change in your interest in seeking fun or pleasure? Like in how you approach pleasurable activities?,irq
+34,71_34,34,71_34,164_34,P,"I mean,",id
+35,71_35,35,71_35,164_35,T,"I feel like, I'm still trying to have fun, you know, like, I'll still, like, I know what I like to do. And I'll try to do those things.",id
+36,71_36,36,71_36,164_36,T,What types of things do you still try to do?,irq
+37,71_37,37,71_37,164_37,P,Like I like,id
+38,71_38,38,71_38,164_38,P,"going out to dinner with my sister. And I like reading books and watching movies. So I'll try to do that. Enjoy it. Sometimes it's hard for me to concentrate when I'm reading You're watching, don't get distracted, but I still try. ",id
+39,71_39,39,71_39,164_39,T,You still,crq
+40,71_40,40,71_40,164_40,T,try,crq
+41,71_41,41,71_41,164_41,T,your feel restless. Or,crq
+42,71_42,42,71_42,164_42,T,"kind of the opposite of that, like slow down. Like you can't move as fast as",crq
+43,71_43,43,71_43,164_43,P,"Yeah, I mean, I have noticed that like, as, you know, the last couple months like at work","ack,cd"
+44,71_44,44,71_44,164_44,P,it will be hard for me like it just feels like,gc
+45,71_45,45,71_45,164_45,P,"time's going so slowly and I just like I want it like, it was like, I'm in a dream and like I can't. Can't move. It's very, it's",gc
+46,71_46,46,71_46,164_46,P,weird.,gc
+47,71_47,47,71_47,164_47,T,So,gc
+48,71_48,48,71_48,164_48,T,feel slowed down?,yq
+49,71_49,49,71_49,164_49,P,Yeah.,ack
+50,71_50,50,71_50,164_50,T,Any feelings of worthlessness?,yq
+51,71_51,51,71_51,164_51,P,"I mean, yeah. ",ack
+52,71_52,52,71_52,164_52,T,You tell me about,irq
+53,71_53,53,71_53,164_53,P,"You know, I just don't think that anyone really cares about what happens to me.",od
+54,71_54,54,71_54,164_54,T,How would your ability to concentrate any changes there over the last two months?,irq
+55,71_55,55,71_55,164_55,P,"Yeah, like it's harder for me to like pay attention to movies and stuff and at work it's I don't know if it's because I'm tired or or what but it's hard for me to pay attention to the projects I'm supposed to be working on and I have noticed Yes.",id
+56,71_56,56,71_56,164_56,T,You have any thoughts related to death or dying?,yq
+57,71_57,57,71_57,164_57,P,Not really no.,on
+58,71_58,58,71_58,164_58,T,Any drug or alcohol use,yq
+59,71_59,59,71_59,164_59,T,medical conditions Then,yq
+60,71_60,60,71_60,164_60,T,give her see or hear things other people can't see or hear.,irq
+61,71_61,61,71_61,164_61,P,Not recently No. recently,on
+62,71_62,62,71_62,164_62,T,"about before that, um,",irq
+63,71_63,63,71_63,164_63,P,"well, years ago",id
+64,71_64,64,71_64,164_64,P,I was hospitalized. But it was because my neighbors said that I was like throwing things and saying things that I didn't say like about the government. But I haven't had anything like that happen for years.,id
+65,71_65,65,71_65,164_65,T,This was years ago you're hospitalized? Did they tell you anything about the hospitalization? Like exactly why?,irq
+66,71_66,66,71_66,164_66,P,I don't remember.,id
+67,71_67,67,71_67,164_67,T,Remember it?,crq
+68,71_68,68,71_68,164_68,T,Did you feel depressed back then like you do now?,irq
+69,71_69,69,71_69,164_69,P,"Maybe apparently some of the same, some of the same things.",id
+70,71_70,70,71_70,164_70,T,But sounds like it's not clear in your memory.,yq
+71,71_71,71,71_71,164_71,P,Yeah.,ack
+72,71_72,72,71_72,164_72,T,Have you ever had a period of time where you're too happy we had like a lot of energy and just couldn't stop moving. Nothing like that,irq
+73,71_73,73,71_73,164_73,P,no,on
+74,71_74,74,71_74,164_74,T,"Right Sherry, I'm gonna get you in to see a counselor. Okay, I'll just take you a couple days for us to, to get you in to see somebody and it's my hope that they can help you. I want to thank you for answering these questions. This has been helpful. '",gc
+75,71_75,75,71_75,164_75,P,Thank you.,gt

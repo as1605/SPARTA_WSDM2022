@@ -1,0 +1,55 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,92_0,0,92_0,32_0,T,"Jason, how you doing, sir? ",gt,,0
+1,92_1,1,92_1,32_1,P,Okay.,gt,,0
+2,92_2,2,92_2,32_2,T,You all right?,yq,,0
+3,92_3,3,92_3,32_3,P,I'm just here.,op,,0
+4,92_4,4,92_4,32_4,T,"You're just here, just here. I understand that you're in the hospital a couple weeks ago.",crq,,0
+5,92_5,5,92_5,32_5,P,"Yeah, I was in the hospital about two weeks ago did something and I had to go to the hospital afterwards.",cd,,0
+6,92_6,6,92_6,32_6,T,What happened?,irq,,0
+7,92_7,7,92_7,32_7,P,"yeah, so about two weeks ago, I was finishing up this wonderful machine that I was creating in my room, so that the government can't hear my thoughts or my, my actions or my behaviors. And I was just trying to finish up my last little bit that I needed to build and I went over to the neighbor, because their garage was open and just picked out a tool and brought it back to the house. And when I was in the house working on my my room, the cops came and picked me up and took me to the hospital. So it's like, see the government data to get",id,,-2
+8,92_8,8,92_8,32_8,T,what you think the government is trying to do.,irq,,0
+9,92_9,9,92_9,32_9,P,"They're trying to stop me from actually creating my room. Because they're, they're creating this new order where they want everybody to follow them. And I'm not a follower. And I know what I want. And I know what I need. And I know what my family wants, and I know what they need. And I'm just trying to protect them by creating my room.",id,,-1
+10,92_10,10,92_10,32_10,T,And tell me about your room. What what are you doing there that makes that special.,ci,,0
+11,92_11,11,92_11,32_11,P,So I was smart enough to know that there are frequencies and waves that are out there that the government is actually sending you through the lights and also through the TV and like through every electronic apparatus that is out there. And I'm actually creating doll or a wave neutralizer so that it can actually stop that from happening. So that you can actually live the life that you want and be happy and youthful and joyful all the time.,id,,0
+12,92_12,12,92_12,32_12,T,Is that how you were feeling when you were building?,yq,,0
+13,92_13,13,92_13,32_13,P,"Yeah, because I created this prototype in my room. And anytime I'm basically in there I was, it was good. I had energy. I didn't have everything that I wanted. But my prototype was running out of fuel. And so I needed to make it bigger, larger, so it can run longer.",op,id,0
+14,92_14,14,92_14,32_14,T,That's what you're trying to do,crq,,0
+15,92_15,15,92_15,32_15,P,"Yeah, that's what I was trying to do when I wouldn't borrowed the tools from my neighbor but yeah, and then also I was ordering some things that were online. And they were also supposed to become be shipped in so that the base piece that I was creating, that I use the tools for my neighbor's house. It could have been all perfect and set so that when All of the hard drives in the electrical wiring and all of that stuff came in, I could just plug it in. And then not only my room covered, but also my houses covered and all of my family, they could just be happy.",cd,,1
+16,92_16,16,92_16,32_16,T,"They could be happy, they could be happy, like, you know, you were happy.",crq,,0
+17,92_17,17,92_17,32_17,P,"I was happy, like, so two weeks ago, I was I was good. I, I was up, I did all the calculations that I need to create. So I can actually build my base in my system. But then I also did the calculations about the different types of waves being in the house, but then also out of the house, that I also had the opportunity to just not sleep because I need sleep. I wasn't tired. And if I did sleep, I slept for like 15 minutes, just because I needed to finish what I was going to do. And I was so close to finishing and my neighbour called cops.",cd,,1
+18,92_18,18,92_18,32_18,T,So you had a period of time when you had like a lot of energy and you weren't really sleeping much,crq,,0
+19,92_19,19,92_19,32_19,P,Doesn't everybody do that?,crq,,0
+20,92_20,20,92_20,32_20,T,You're also happy and felt energetic,id,,0
+21,92_21,21,92_21,32_21,P,I felt good. Like when I when I sleep I don't like when I sleep because it just feels wrong.,id,,1
+22,92_22,22,92_22,32_22,T,And how do you feel now in comparison?,irq,,0
+23,92_23,23,92_23,32_23,P,"I'm alright guy. All right. Just All right, right now. The government maybe get on different medication. So just all right.",id,,0
+24,92_24,24,92_24,32_24,T,So not happy or sad.,crq,,0
+25,92_25,25,92_25,32_25,P,not sad either. It's just you In the middle,cd,,0
+26,92_26,26,92_26,32_26,T,Do you want to get back to that happiness,yq,,0
+27,92_27,27,92_27,32_27,P,of course who doesn't want to get back to the happiness of their life. That's the reason why you need to finish machine,op,id,1
+28,92_28,28,92_28,32_28,T,Yeah. You mentioned you ordered some products online. How much did you order?,irq,,0
+29,92_29,29,92_29,32_29,P,"um, I think I ordered probably know the exact number I ordered 236 hard drives, because 236 is the perfect number that I needed to not only cover my bedroom, so I can always be happy and if the system went down, my room was always going to be covered. But then within that 236 it also covered my house so that my family could be happy, and like my four neighbors around us so we can all be happy. And that's the reason why I'm kind of angry at my one neighbor because I was including his house in all By my grid so that he can also be happy all the time.",id,,0
+30,92_30,30,92_30,32_30,T,He would have been affected by a machine.,crq,,0
+31,92_31,31,92_31,32_31,P,"Of course, he's the helping hand. He helped me out. He let me borrow his tools. but evidently he didn't let me borrow him this time. So just pull him out. Have another neighbor take his place.",cd,,0
+32,92_32,32,92_32,32_32,T,Were all those hard drives fairly expensive?,yq,,0
+33,92_33,33,92_33,32_33,P,"I don't know. When I was up cleaning and running around the house trying to find more equipment. I found my mom's purse and I was just like, oh my god, she has a credit card in there. Oh my god, I can use our credit card. So I was using our credit card because it's trying to make her happy. And so I don't know I added the 236. They were probably 50 to $100 apiece, depending on where it could get them and I just ordered them.",id,,0
+34,92_34,34,92_34,32_34,T,How'd your mother respond to that?,irq,,0
+35,92_35,35,92_35,32_35,P,"My mom came to the hospital and was like, where are all these boxes coming from? It's like this, but I'm in my room. And she put them into my room. And then, like a week ago, she has, like, I see my credit card, and she wants to happen.",id,,0
+36,92_36,36,92_36,32_36,T,Is that strange relationship?,yq,,0
+37,92_37,37,92_37,32_37,P,"No, that's just how we have a relationship generally",on,,0
+38,92_38,38,92_38,32_38,T,"you get along, okay. ",crq,,0
+39,92_39,39,92_39,32_39,P,"we get along perfectly fine. Like that's, that's how we talk to each other. Like, we talk to each other minimally, because she's not in my room, so she's not happy. So anytime she does come into my room, it messes up the balance. So I get unhappy, and then I just tell her to stay out so that I can be happy and she can be happy in her own place.",cd,,-1
+40,92_40,40,92_40,32_40,T,And you mentioned that they changed medications in the hospital.,crq,,0
+41,92_41,41,92_41,32_41,P,The government changed for Medications,cd,,0
+42,92_42,42,92_42,32_42,T,How are you feeling about taking your medications?,orq,,0
+43,92_43,43,92_43,32_43,P,while so,od,,0
+44,92_44,44,92_44,32_44,T,"Right, you you really want to get back to work on that machine.",crq,,0
+45,92_45,45,92_45,32_45,P,"Yes, I want to be back in my happy place. ",op,,0
+46,92_46,46,92_46,32_46,T,Have you found yourself as motivated these last couple weeks as you were before you're hospitalized?,yq,,0
+47,92_47,47,92_47,32_47,P,"Now? I haven't been that motivated. Big. I know I'm going to get it done. It's just I just don't know if I'm gonna get it done today or tomorrow, but I know what's gonna get done.",on,id,0
+48,92_48,48,92_48,32_48,T,You still want to get that done. It's important to know.,crq,,0
+49,92_49,49,92_49,32_49,P,it's really important because I Can't be controlled by the government anymore.,cd,,0
+50,92_50,50,92_50,32_50,T,"by Jason, I'd like you to continue seeing a counselor here. If you found the counsellor to be helpful.",gt,id,0
+51,92_51,51,92_51,32_51,P,The Counselor has been okay.,id,,1
+52,92_52,52,92_52,32_52,T,"But that okay, it's been okay. But we'll continue to counseling and hope that can can help you a bit. I appreciate you spending this time with me and explain what happened. ",gt,,0
+53,92_53,53,92_53,32_53,P,Thank you.,gt,,0

@@ -1,0 +1,103 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,194_0,194_0,T,"Hi. Alvina, how are you doing today? It's good to see you?",gt,0
+1,194_1,194_1,P,I'm just tired.,gt,-1
+2,194_2,194_2,T,just tired?,crq,0
+3,194_3,194_3,P,Yeah,cd,-1
+4,194_4,194_4,T,"you know, we did some pre visit planning with you and your Ph. Q two, which is a short depression screen was actually positive. So we asked the nurse to give you a little longer screening tool, which is a pH q nine. And that actually did come up with a score of eight, which is in mild depression range. So how does that How does that feel?","gc, irq",0
+5,194_5,194_5,P,"Well, I knew I felt different. I didn't know I was depressed.",id,-1
+6,194_6,194_6,T,But you knew something was something was wrong.,gc,0
+7,194_7,194_7,P,I didn't feel like myself. I haven't been feeling like myself Now.,gc,-1
+8,194_8,194_8,T,Tell me a little bit more about not feeling like yourself.,irq,0
+9,194_9,194_9,P,"I mean, I just go to work, and I come home, and I sleep. I wake up in the morning and I'm still tired. I just have no energy.",id,-1
+10,194_10,194_10,T,So you sleep a lot. But even though you're sleeping you don't wake up rested.,crq,0
+11,194_11,194_11,P,"No, not at all.",cd,-1
+12,194_12,194_12,T,Doesn't sound like good quality sleep.,crq,0
+13,194_13,194_13,P,No. I just have no energy. I don't want to do anything but just sleep.,cd,-1
+14,194_14,194_14,T,How long has that been going on?,irq,0
+15,194_15,194_15,P,I guess a couple months.,id,-1
+16,194_16,194_16,T,Two or three months?,crq,0
+17,194_17,194_17,P,Yeah.,cd,0
+18,194_18,194_18,T,What else is going on?,irq,0
+19,194_19,194_19,P,"Well, you know, I been drinking more. I mean, I drink socially. But I find myself that when I come home, you know, I have a glass of wine and then I just go to sleep.",id,-1
+20,194_20,194_20,T,And that's where its increased?,crq,0
+21,194_21,194_21,P,It is Because I don't usually drink that often during the week. So it's increased. Yeah.,cd,-1
+22,194_22,194_22,T,And I can see where that would be bothersome to you. What else? What else is going on with you?,"gc, irq",0
+23,194_23,194_23,P,"Well, you know, my mom died a year ago. So Mother's Day is coming up so you don't have to think about mama law. I miss her a lot.",id,-1
+24,194_24,194_24,T,And anniversaries is close?,crq,0
+25,194_25,194_25,P,Yeah.,cd,0
+26,194_26,194_26,T,That's particularly hard. When those anniversaries come around for the passings of our parents. that's a that's a very difficult time.,gc,0
+27,194_27,194_27,P,"Yeah. And I took care of mom. So that's hard, because for a long time, well, she was sick and she died from cancer. So I took care of her So for a long time, that's all I did was take care of mom and work that was. So now that she's gone. It just kind of brings up everything all over again.",gc,-1
+28,194_28,194_28,T,Kind of a hole in your life?,yq,0
+29,194_29,194_29,P,"Yeah, we were really close.",op,0
+30,194_30,194_30,T,"I'm really sorry for your loss. And thank you for sharing that with me. I know that's, I know, that's very difficult. So it sounds like your sleep has really been affected. You're not getting good quality sleep. You're really fatigued. ","ap, gc",-1
+31,194_31,194_31,P,Yeah,gc,0
+32,194_32,194_32,T,just kind of going through the motions. It sounds like during the day And then how's your appetite then?,irq,0
+33,194_33,194_33,P,"Not really eating that much. You know, I don't have energy, you know, before I would come home cooked dinner or, you know, meet some friends after work, but I don't want to do that I just come home and have a glass of wine. Just go to bed.",id,-1
+34,194_34,194_34,T,So you used to be more socially involved than you aren't now.,yq,0
+35,194_35,194_35,P,"Yeah, I don't do anything now. ",op,-1
+36,194_36,194_36,T,A little more isolated.,yq,0
+37,194_37,194_37,P,Yeah. Just working from home and sleep.,op,-1
+38,194_38,194_38,T,"So if there was something that you could do about this, what do you think you might like to do?",irq,0
+39,194_39,194_39,P,"Well, I don't want to stay like this. This isn't who I am. You know, just sleeping all the time. It's just, I don't want to stay this way.",id,-1
+40,194_40,194_40,T,kind of feels like you're stuck at this point.,gc,0
+41,194_41,194_41,P,"Yeah, I just don't want to do anything or Go out my friends anymore and just work and come home and sleep. I don't want to do that. It's kind of the same old routine.",gc,-1
+42,194_42,194_42,T,"I wonder if it would be okay, if we could talk about some of the options that are out there for folks that have some mild depression like you would that be right? ",gc,0
+43,194_43,194_43,P,Hmmm,ack,0
+44,194_44,194_44,T,"Most of the time, we typically think about medication as a as a possible answer. So, no medication at this point. ",gc,0
+45,194_45,194_45,P,No.,gc,0
+46,194_46,194_46,T,"All right. Then, I think as important, certainly perhaps more important than medication is counseling, and getting you to talk with someone about your feelings on a regular basis and, and getting some feedback on that. ",gc,0
+47,194_47,194_47,P,"I'm okay with that. You know, when mom was sick, you know, she was in hospice care. So she had cancer. And the nurses and the doctors, you know, had our family talk to someone you know about what we were feeling. You know,",gc,-1
+48,194_48,194_48,T,so that was a pretty good experience?,crq,0
+49,194_49,194_49,P,"Yeah. Yeah. To talk to someone that understood what we were going through, sure.",cd,-1
+50,194_50,194_50,T,Something else might be exercise another possibility would be a natural product or some things over the counter that I think for mild depression may be appropriate. And those that some it's another thing that we could talk about if you want to learn a little bit more about those.,gc,0
+51,194_51,194_51,P,"Maybe something natural exercise, oh, heavy energy. I don't want to I just don't feel like doing anything. So no, I'm not going to exercise right now. But if it's something that's natural, you know, I can maybe try that.",gc,-1
+52,194_52,194_52,T,"Okay. If it's okay, let's go back to talking about the counseling for a minute. And then we can hit some of those Other things, too. ",gc,0
+53,194_53,194_53,P,Okay.,ack,0
+54,194_54,194_54,T,"So is there a counselor that you know, or that you have a relationship with this lady that worked with you during your mom's death? Is she someone that's out in the community? ",yq,0
+55,194_55,194_55,P,She was really nice. Yeah. I liked her.,op,1
+56,194_56,194_56,T,"So it sounds like you're pretty ready to do that. Could you say on a scale of zero to 10, 10 being really ready, zero being not ready at all. How ready would you be to do some counseling?",irq,0
+57,194_57,194_57,P,Maybe like a six or seven,id,-
+58,194_58,194_58,T,Six or seven? Why a six or seven and not a four or five?,irq,0
+59,194_59,194_59,P,"Well, because I don't want to stay like this. And, you know, I've already talked to her before. She was really nice. So I wouldn't mind going back to her and she told me you know, when I saw her last time, if I ever needed I could come back",id,1
+60,194_60,194_60,T,So it sounds like you've got a connection there already. That's really good. Does that sound like something you're ready to do then and maybe make a plan about that?,"gc, yq",0
+61,194_61,194_61,P,"Yeah, I can definitely check with her and see if she can see me again yeah. ",op,1
+62,194_62,194_62,T,"Well, that's okay. Then it would it be alright, if we talked a little bit about the exercise? I know you. So that didn't really sound like an option for you at this time and that's perfectly fine. Only you can make those decisions Alvina. But if it's okay, I wanted to give you a little bit of information about exercise and its effect on the brain.",gc,0
+63,194_63,194_63,P,Okay.,ack,0
+64,194_64,194_64,T,Exercises is again in a number of studies has been shown to be as effective as prescription antidepressants.,gc,0
+65,194_65,194_65,P,Okay. I didn't know that.,ack,0
+66,194_66,194_66,T,"Yeah, it actually raises serotonin You heard about serotonin. ",gc,0
+67,194_67,194_67,P,Yeah.,ack,0
+68,194_68,194_68,T,"Happy hormone. Yes. So it actually raises serotonin and also something called BDNF, which is, well, it doesn't really matter what it is, but it helps actually your your brain actually grow and help repair itself. So exercise can help in lots of ways by improving serotonin and decreasing stress certainly in and actually improving the quality of sleep. How does that sound at this point?","gc, irq",0
+69,194_69,194_69,P,"Well, if I try to exercise and if I call her to talk to her again, does that mean I don't have to be on the medication Right now we can try that.",id,0
+70,194_70,194_70,T,"Absolutely. Again, those are yours, your decisions and I'm, I'm here to really support you in those if those sound like things that you might be willing to do, I'm, I'm all for it.",gc,0
+71,194_71,194_71,P,I'll try them on the medication. I have some friends exercise and workout I could probably call and exercise with them.,gc,-
+72,194_72,194_72,T,So you have some friends that are already involved in an exercise program? Yeah. Is this something you talk with them about and that you possibly could get into that group?,yq,0
+73,194_73,194_73,P,"Yeah, I have friends that run and friends that go to the gym. I have some friends that walk after work.",op,0
+74,194_74,194_74,T,So it sounds like a wide variety of things that you could do.,yq,0
+75,194_75,194_75,P,Yeah.,op,0
+76,194_76,194_76,T,Which of those tend to interest you most?,irq,0
+77,194_77,194_77,P,"Well, and then also, you know, my church on the weekends, they have exercise classes, too. So, yeah, but I think I guess I don't have energy really to exercise but I'll try it, but I'll definitely call the person I had talked to a mom passed away and I'll do that right away.",id,-1
+78,194_78,194_78,T,"Very good. Well, I think it sounds like this is an important for you to feel better. And it sounds like you're really ready to kind of make a plan. How do you see this fitting into your Life at this pointagain, kind of getting back to the counseling and, and the exercise.","gc, irq",0
+79,194_79,194_79,P,"Well, when I saw her, I could see her after work. So I can call her and see if I could still see her after work for therapy, and exercise. And I can do that, you know, after work or on the weekends, my friends, they exercise various time. So, yeah.",id,0
+80,194_80,194_80,T,"Let's talk a little bit more about that Your say on a scale, if we can do another one of those scales, zero being confident that you could start an exercise program. Zero being not very competent at all and 10 being very confident. Tell me where you are in this exercise thing.","gc, irq",0
+81,194_81,194_81,P,"Honestly, maybe five and I'll try it. Anything if if I have to do that, so I have to go on medication, then I'll try it. Okay.",id,-1
+82,194_82,194_82,T,That sounds like a pretty strong commitment.,gc,0
+83,194_83,194_83,P,"Yes, I'll try it.",ack,0
+84,194_84,194_84,T,"Okay. And tell me a little bit more about your plan for exercise at this point, then.",irq,0
+85,194_85,194_85,P,"Well, you know, my friends have been calling, but you know, I'm just sleeping all the time. So when they call I'm sleep, so I haven't really call them back. But I, you know, I can just return their calls and just let them know, I'll want to meet up with them. And, you know, at least maybe just start walking.",id,-1
+86,194_86,194_86,T,I think that's a great decision. You have a couple of friends in mind that you could call.,gc,0
+87,194_87,194_87,P,"Yeah, have real close, close friends that lives not too far from me. Yeah.",gc,-1
+88,194_88,194_88,T,So tell me how to tell me about a plan that you would think could perhaps get you going with with the exercise.,irq,0
+89,194_89,194_89,P,"Well, I probably shouldn't come home. I probably would need to call one of my friends and make a plan to maybe walk after work and take a change of clothes and maybe drive to one of my friend's house after work and change with her. ",id,-1
+90,194_90,194_90,T,So it would be difficult to do it in the morning. You don't see that happening,crq,0
+91,194_91,194_91,P,"No, because it's so hard when I get up in the air. I'm so tired that I can't. I can't say do it in the morning.",cd,-1
+92,194_92,194_92,T,Do you think it would be easier to do it after work?,orq,0
+93,194_93,194_93,P,"Because I'm already out Yeah, as long as I don't come home, come home I just Want to go to sleep ",od,0
+94,194_94,194_94,T,come home its over?,gc,0
+95,194_95,194_95,P,"Yeah, yeah.",ack,0
+96,194_96,194_96,T,"All right. Well, good. It sounds like we have a plan for the counselor. And when you check out today, I'll put this in your record. And that will want to get in touch with the counselor that you work with when your mom was going through. ",gc,0
+97,194_97,194_97,P,Okay,ack,0
+98,194_98,194_98,T,her passing in the grief situation and then I'll want to depend upon you to call your friends and then get involved in the exercise program.,gc,0
+99,194_99,194_99,P,"Okay, I'll try that.",ack,0
+100,194_100,194_100,T,"Alright. And if it's okay, I'd like to call you in a week to one, see how you're feeling and two, if the exercise is helping, you may really find that after you give the exercise a good trial, you may actually look forward to it. Because my hope is that will actually help you feel better and improve your mood. And then I would also like to see you back in two weeks, just to check on things now. We've talked about exercise department, we've talked about medication not being on the table at this point. But I want you to know, you know, you can call anytime, and I will work to get you in. And that might be something that we need to do if if our plan is not working. ",gc,0
+101,194_101,194_101,P,Okay.,ack,0

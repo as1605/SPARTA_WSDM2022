@@ -1,0 +1,59 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,31_0,0,31_0,127_0,T,Tell me about sure for any spiritual beliefs.,irq
+1,31_1,1,31_1,127_1,P,"Well, I was raised Catholic.",id
+2,31_2,2,31_2,127_2,T,So you consider yourself Catholic. But you feel like there's a lot of rules.,irq
+3,31_3,3,31_3,127_3,P,"Yeah. I mean, there's a lot of do's and don'ts. Our church was very like, hell oriented. Like, if you do this, you're gonna go to hell to do this. We're gonna go to hell and like, well, let's let that's fun.",gc
+4,31_4,4,31_4,127_4,T,How do you think those spiritual values influence your daily life?,irq
+5,31_5,5,31_5,127_5,P,"I mean, sometimes I do. Feel guilty about what I do. I feel guilty about, you know, spending more money than I'm willing to admit on drugs and parties, but I mean, I think you know, God forgive me. Hmm.",id
+6,31_6,6,31_6,127_6,T,How about racial ethnic identity?,irq
+7,31_7,7,31_7,127_7,P,"Well, I am Mexican.",id
+8,31_8,8,31_8,127_8,T,Mexican.,crq
+9,31_9,9,31_9,127_9,P,"Well, I'm very, very family oriented.",cd
+10,31_10,10,31_10,127_10,T,Family oriented.,crq
+11,31_11,11,31_11,127_11,P,"Yeah,","cd,ack"
+12,31_12,12,31_12,127_12,T,Can you tell me about your living housing situation?,irq
+13,31_13,13,31_13,127_13,P,"unsteady, or just really the word? Yeah. I mean, usually it's about there's a lot of us in one house. Like, right now I'm living with about six other people. And, you know, the fight happens or somebody can't pay the rent or I can't pay the rent. You know, I've moved probably about 12 times within the past year,",id
+14,31_14,14,31_14,127_14,T,the past year.,crq
+15,31_15,15,31_15,127_15,P,Yeah.,"ack,cd"
+16,31_16,16,31_16,127_16,T,"So, there's a part of it's not so bad.",gc
+17,31_17,17,31_17,127_17,P,"Yeah, but I could see it having an effect on my kids.",gc
+18,31_18,18,31_18,127_18,T,How much for financial outlook,irq
+19,31_19,19,31_19,127_19,P," By financial outlook, well, I get assistance from the state. And I mean, I usually have enough to pay for everything. I mean, there's been some days that I've had to tell, you know, my roommate say, Can you lend me some money? Or my sister's always there if I need that from her?",id
+20,31_20,20,31_20,127_20,T,So occasionally you'll borrow money.,crq
+21,31_21,21,31_21,127_21,P,Yeah.,"ack,cd"
+22,31_22,22,31_22,127_22,T,All right. How about your sleep? Do you feel like you sleep as much as you should? More than you should or less than you're sure,irq
+23,31_23,23,31_23,127_23,P,much less than I should.,id
+24,31_24,24,31_24,127_24,T,Tell me about that.,irq
+25,31_25,25,31_25,127_25,P,"I mean, just to kids and getting them down and then taking trying to take some time for myself and sometimes I'm up late with, you know, being with people. smoking, drinking. I just don't that much.",id
+26,31_26,26,31_26,127_26,T,Or is that a problem that you want to work on?,irq
+27,31_27,27,31_27,127_27,P,"Yeah, I guess. Yeah. Yeah. I really like to get some more sleep.",id
+28,31_28,28,31_28,127_28,T,How about food intake eating? Do you feel like you eat more than you should less than you should or about right?,irq
+29,31_29,29,31_29,127_29,P,"More than I should more, I find myself like snacking a lot during the day. And I'll still have regular meal. So it's like meals on top of snacking on top of meals on top of snack and it's just a lot of food.",id
+30,31_30,30,31_30,127_30,T,Is that an area that you want to work on? Do you see that as a problem?,irq
+31,31_31,31,31_31,127_31,P,"Yeah, I guess I could work on that problem, but I guess now that you mentioned it. That'd be interesting.",id
+32,31_32,32,31_32,127_32,T,"And maybe I want to switch gears again here. Trauma history. Now. You already told me about the What do you think may have happened or could have happened with your father? How about any physical abuse? I think you mentioned that earlier, right?",irq
+33,31_33,33,31_33,127_33,P,"Yes. Well, my dad would hit us while we're younger. And then after he went to jail, um, me and my mom would get into fights, sometimes.",id
+34,31_34,34,31_34,127_34,T,"Physical fights, yeah.",crq
+35,31_35,35,31_35,127_35,P,"Had a few cousins that you know, would step over the line.",cd
+36,31_36,36,31_36,127_36,T,Tell me what you mean by involved.,irq
+37,31_37,37,31_37,127_37,P,"You know, I punch back. ",id
+38,31_38,38,31_38,127_38,T,"Well, what do you think happened in those situations? You feel like that?",irq
+39,31_39,39,31_39,127_39,P,"No, they were they were picking on me. ",id
+40,31_40,40,31_40,127_40,T,You were targeted?,irq
+41,31_41,41,31_41,127_41,P,"Yeah. Because I'm small. I'm sure. You know, my cousin's really towering over me so they would try to disrespect me Because they thought they could.",id
+42,31_42,42,31_42,127_42,T,And you would act out physically against them to defend yourself.,orq
+43,31_43,43,31_43,127_43,P,So naives,od
+44,31_44,44,31_44,127_44,T,on occasion?,crq
+45,31_45,45,31_45,127_45,P,Yeah.,cd
+46,31_46,46,31_46,127_46,T,How about emotional abuse?,irq
+47,31_47,47,31_47,127_47,P,My mom always tried to make me like I was the scapegoat a lot,id
+48,31_48,48,31_48,127_48,T,"about that,",irq
+49,31_49,49,31_49,127_49,P,"even if it was her fault that the lights weren't on and there were no there was no water. It would somehow be my fault. No while you're, I had to bail your sister out again. So you know this happened and I had to drive around town to find your sister because you know, she was just off doing her own thing. So I spent all the money on gas couldn't pay them like that was always my fault. Everything was always my fault, even though I knew it wasn't but still harbor.",id
+50,31_50,50,31_50,127_50,T,That was painful for you.,crq
+51,31_51,51,31_51,127_51,P,Yeah.,cd
+52,31_52,52,31_52,127_52,T,Do you think that had an impact or that or the physical abuse had an impact on your life? What's happening now?,irq
+53,31_53,53,31_53,127_53,P,"physical abuse, I guess I try to end fights with violence, I guess, because I know how bad it can get. So I've tried to shut it down really fast, but probably not the most healthiest way. What's been the honest, that's why I think my sister and me are close. And so I blame my mom for that because she used me as the scapegoat. And then my sister was like, Oh, well, that's the bad sister.",id
+54,31_54,54,31_54,127_54,T,So you think your mother's behavior led to the way your sister treats you now?,yq
+55,31_55,55,31_55,127_55,P,Yeah.,ack
+56,31_56,56,31_56,127_56,T,Any other instances of physical or emotional abuse?,yq
+57,31_57,57,31_57,127_57,P,"No, not really.",on

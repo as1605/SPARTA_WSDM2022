@@ -1,0 +1,91 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,186_0,186_0,T,Come in. This is awesome.,"cv, gc",0
+1,186_1,186_1,P,"Yes, thank you.",cr,0
+2,186_2,186_2,T,How are you today?,gt,0
+3,186_3,186_3,P,I'm feeling really tired and been having this breathlessness you've really been worried about.,gt,0
+4,186_4,186_4,T,You came in to see one of my colleagues recently didn't you.,crq,0
+5,186_5,186_5,P,Yes.,cd,0
+6,186_6,186_6,T,And she sent you for a blood test.,crq,0
+7,186_7,186_7,P,"That's right, doctor. ",cd,0
+8,186_8,186_8,T,"Yeah, we think he might be anemic. ",gc,0
+9,186_9,186_9,P,Oh gosh. Yes.,gc,-2
+10,186_10,186_10,T,"What I want to do today was firstly to give you a blood test result. And then talk to you a little bit about the condition of anemia, and then talk about some potential treatments. ",id,0
+11,186_11,186_11,P,So right up to dear.,gc,0
+12,186_12,186_12,T,Does that sound okay with you?,yq,0
+13,186_13,186_13,P,"That sounds fine. Yes, doctor. ",op,0
+14,186_14,186_14,T,"Great. So should we have a look at your blood test? Yes. Yeah. Here it is. So what we're testing for is the level of hemoglobin in your blood, right and just to show you the normal range for Women is between 11.5 and 16 grams per deciliter of hemoglobin, right? And this is your level of hemoglobin. It's 8.7. ",id,0
+15,186_15,186_15,P,All that slows.,gc,0
+16,186_16,186_16,T,"It's a bit lower than we would like. So what we're looking to do is to get that back within the normal range, right. Just  to reassure you iron deficiency anemia, which I think you've got is fairly common, up to around 15% of women can experience this type of anemia. ",id,0
+17,186_17,186_17,P,Right.,ack,0
+18,186_18,186_18,T,And it's very treatable as well. Yeah.,id,0
+19,186_19,186_19,P,"Yeah. Oh, yes. I mean, this tightness, so it's just just getting me down doctor. ","ack, gc",0
+20,186_20,186_20,T,"I must be, because you've got quite a busy lifestyle.",gc,0
+21,186_21,186_21,P,"Yes, yeah. And I just can't cope with it. ",gc,0
+22,186_22,186_22,T,Okay. Yeah. Shall I tell you a bit more about anemia? Do you know anything about the condition?,yq,0
+23,186_23,186_23,P,"I don't know. I mean, I've heard of it, but I don't know what it is.",on,0
+24,186_24,186_24,T,"It is the condition relates to your blood right. Within your blood there's several components, one of which is plasma. Within the plasma you have your red blood cells. And within that you have a protein called hemoglobin which carries the oxygen around your body to all the different organs. Okay? Now if that's not working efficiently, you start to experience the kind of symptoms that you've been having like breathlessness. dizziness, tiredness.",id,0
+25,186_25,186_25,P,"Yeah, definitely. Yes. ",gc,0
+26,186_26,186_26,T,One of the causes can be blood loss. So I wondered about your periods. How are they?,"gc, irq",0
+27,186_27,186_27,P,"Well, they've been heavy these last few months really heavier. I pass it down to my age, you know, this stuff getting irregular and heavy. And, but you might be right.",id,0
+28,186_28,186_28,T,"Yeah, that may be a fact. Yeah. Yeah. So I want to talk to you about treatments. Now. There are a couple of things that I would suggest that you try. The first thing we'd like to do is to increase the amount of iron in your diet. Can you tell me a bit about the sort of diet you have at the moment?","gc, irq",0
+29,186_29,186_29,P,"So I mean, I'm really busy and I think they have a reasonable, you know, well balanced diet. We eat a lot of ready meals. And then on a weekend we always have a good breakfast it was cooked bacon bowties so so I think it's quite good diet rightYes ",id,0
+30,186_30,186_30,T,teenage children they keep you busy.,yq,0
+31,186_31,186_31,P,"Oh they do. Yes. I mean, you know it's like having a taxi service you know what with that and and then at work you know so busy at work it just just so tired. I'm just getting tired ",op,0
+32,186_32,186_32,T,It must be hard for you to do all those things.,yq,0
+33,186_33,186_33,P,"Yes. Yeah, it's difficult. I just feel yourself can't cope anymore. ",op,-3
+34,186_34,186_34,T,yeah. Now you mentioned ready meals. I can understand you relying on those for convenience. But the problem is sometimes you don't get the proper balance of nutrients.,gc,0
+35,186_35,186_35,P,All right doctor,gc,0
+36,186_36,186_36,T,So what I'd ask you to do is perhaps to adapt your diet slightly and include more iron rich foods in your diet.,cv,0
+37,186_37,186_37,P,"Oh, right. Okay.",cr,0
+38,186_38,186_38,T,"Before I tell you about what some of those foods are, can ask if you're a vegetarian.",yq,0
+39,186_39,186_39,P,No No,on,0
+40,186_40,186_40,T,"You know, the reason I asked that is because one of the best sources of iron in your Diet is lean red meat.",gc,0
+41,186_41,186_41,P,"Oh, yes. Yeah, you're nice day.",gc,0
+42,186_42,186_42,T,"Yeah, exactly. Also liver is a good source of iron. ",gc,0
+43,186_43,186_43,P,"No, no, no, no couldn't eat liver.",gc,-2
+44,186_44,186_44,T,What about something like steak that you mentioned? Would you consider eating that a bit more regularly?,irq,0
+45,186_45,186_45,P,"Well, yes. I mean state one day to Kaku toll, you know, because now to go good. Yes. Yeah. ",id,0
+46,186_46,186_46,T,"There's also leafy green vegetables, things like kale and spinach, a good source of iron. ",gc,0
+47,186_47,186_47,P,"Ohh the kids wouldn't eat that. But, I mean, they like sweet corn so they can have the sweet conch and they were the same and I could go for the leafy green vegetables. Broccoli, so there's broccoli? ",gc,0
+48,186_48,186_48,T,"Yes. Yeah, I like broccoli. You know, ",gc,0
+49,186_49,186_49,P,"Ohh good, good I would go with that.",gc,0
+50,186_50,186_50,T,There's other things too. You might want to consider things like fortified cereals which have iron. And,cv,0
+51,186_51,186_51,P,what are those?,crq,0
+52,186_52,186_52,T,"Well, if you look on the ingredients, panel, cereals, you'll see some are enriched with iron so you could perhaps incorporate some of those. ",cd,0
+53,186_53,186_53,P,"Oh, yes, yes, ill Look in the supermarket. I mean, I've got some of those. We could have a tweak and and that gives me more time to cook or die ",cr,0
+54,186_54,186_54,T,could make your life a bit easier.,gc,0
+55,186_55,186_55,P,"Yeah, definitely I would be happy to vote yes,",gc,0
+56,186_56,186_56,T,white bread is a good source of iron as well.,gc,0
+57,186_57,186_57,P,"Yes. Yeah. No, they only like white bread only buy white bread, but I could buy myself some brown bread. cobs and have it for lunch. Yes. Yeah. No good. ",gc,0
+58,186_58,186_58,T,So do you think you could give some of those things a try?,orq,0
+59,186_59,186_59,P,Yeah. I would try doctor definitely,od,0
+60,186_60,186_60,T,"right. Yeah, it's the other thing I'd like you to consider is taking a course of iron tablets.",cv,0
+61,186_61,186_61,P,"Oh, I'm not into tablets. Why? ",crq,0
+62,186_62,186_62,T,Okay. This can be a really effective treatment for iron deficiency anemia. And what it does is it supplements the amount of iron and iron you're getting in your diet.,cd,0
+63,186_63,186_63,P,"So will that be short term,",yq,0
+64,186_64,186_64,T,"yes, yes. Often people respond very well to those. You can have some side effects. Sometimes they can upset your tummy if you have them on, you know, on an empty stomach. So Do you take them after a meal?",op,0
+65,186_65,186_65,P,All right you how to remember to do that? Yes. Yeah.,crq,0
+66,186_66,186_66,T,"I think those two things adapting your diet and taking a course of iron tablets, I think he might respond very well to treatment. ",op,0
+67,186_67,186_67,P,Yes. Yeah. Have a go. Doctor,cr,0
+68,186_68,186_68,T,how do you feel about the information I've given you so far outside?,irq,0
+69,186_69,186_69,P,"Yes, I'll definitely try if it makes me feel any better. It's worth it.",id,0
+70,186_70,186_70,T,"Yes. Excellent. Yeah, excellent. I've given you quite a lot of information about anemia today. I've got a leaflet here about anemia, which I thought you might like to take home and read in your own time. ",gc,0
+71,186_71,186_71,P,"Ohh thank you. Yes, yeah. Oh, yes. Yeah, I'll read this talk. This is sometimes difficult to remember what what your tells so yes, having a look at this at home would be really helpful. ",gc,0
+72,186_72,186_72,T,That's right.,gc,0
+73,186_73,186_73,P,Yes.,gc,0
+74,186_74,186_74,T,"That's right. So just to check that I've explained things to you correctly, that you could just recap on the the two treatments that you're going to try",gc,0
+75,186_75,186_75,P,"what you said that the Navy was due to a lack of iron and I can get this from Having some red meat I mean, steak lamb chops would that be? ","gc, yq",0
+76,186_76,186_76,T,Yeah.,op,0
+77,186_77,186_77,P,"Yeah. And green vegetables and wholemeal bread and have these iron tablets and you know, hopefully I'll feel better. Thank you. ",gc,0
+78,186_78,186_78,T,"Yes, excellent. So what I'd like you to do is come back in a couple of weeks, and then we can see how you're doing. ",gc,0
+79,186_79,186_79,P,Yeah.,ack,0
+80,186_80,186_80,T,Have you got any questions?,yq,0
+81,186_81,186_81,P,Are there any other tests I'll have to have?,"op, yq",0
+82,186_82,186_82,T,"I think at this stage, when you come back to see me again, we'll do another blood test and check on your hemoglobin level than if you haven't, if it hasn't gone back into the normal range. It might be then that we look at doing some other investigations. But I don't want to worry about that. At this stage. I think let's see how you do with the dietary change in the iron tablets. And we can discuss that next time.",op,0
+83,186_83,186_83,P,"All right, thank you. Yes. ",gc,0
+84,186_84,186_84,T,Is there anything else?,yq,0
+85,186_85,186_85,P,"No, I think that's it. Thank you.",on,0
+86,186_86,186_86,T,"Okay. Well, good to see you. And I'll see you again in a few weeks.",gc,0
+87,186_87,186_87,P,Okay. Thank you.,gc,0
+88,186_88,186_88,T,Bye,gt,0
+89,186_89,186_89,P,bye.,gt,0

@@ -1,0 +1,15 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,166_0,166_0,T,"Hi, August I'm Angie. I'm one of the nurses here.","gt, id",0
+1,166_1,166_1,P,I'm not feeling very well. I am very sad. I am. I'm really scared.I want to run away.,id,-2
+2,166_2,166_2,T,"Okay. All right. Well, I'm sorry to hear that. When you're sad what helps you feel better?","gc, op",-1
+3,166_3,166_3,P,Coming to the hospital,gc,0
+4,166_4,166_4,T,okay. What else helps you feel better? I see you have a phone there. Do you play any games on that?,irq,0
+5,166_5,166_5,P,"Yes, I know lots of good games. ",id,0
+6,166_6,166_6,T,"Okay, well, why don't you play one of your games that might help you feel better and I'm gonna go and come back in a few minutes. Okay?",gc,0
+7,166_7,166_7,P,Okay.,ack,0
+8,166_8,166_8,T,"Okay, that's good. August, you feeling better now? ","gc, yq",0
+9,166_9,166_9,P,I am feeling a bit better.,op,-1
+10,166_10,166_10,T,"Good. Okay, that's really good. And this time when you go back home, when you go home, can you talk to your group home worker, let him or her know that you've been here again, and that you were feeling sad again. ",gc,0
+11,166_11,166_11,P,"Yes, I can do that.",gc,0
+12,166_12,166_12,T,"Okay, great. I'm gonna go get the doctor. ",gc,0
+13,166_13,166_13,P,Okay.,gc,0

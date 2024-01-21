@@ -1,0 +1,18 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,114_0,0,114_0,52_0,T,Did you know you were telling me a few minutes ago about some stuff that's been going on for you recently? That seems to have been quite upsetting for you. I'm wondering if you can give me a bit more information.,irq,,
+1,114_1,1,114_1,52_1,P,"Yeah, look, it hasn't been a good week for me this week and I'm telling you about the problems my boyfriend and we broke up and I'm not coping with i. I'm hurt. Just you don't understand why this is happening one more time. Just one more time. And it's just pushed me over the edge. And it just happens to me all the time.",id,,-1.0
+2,114_2,2,114_2,52_2,T,Do you think it'll get any better?,orq,,
+3,114_3,3,114_3,52_3,P,"it won't get better and you don't understand. It happens to me all the time. Meaning given to me now, serving in the wrong with me. I feel like there's something really wrong with me. People don't just reject me all the time. I don't know why. ",id,,
+4,114_4,4,114_4,52_4,T,"So I mean, I can say that you're really upset about this stuff. That's your boyfriend journey. just keeps you just like always happy.",id,,
+5,114_5,5,114_5,52_5,P,"Now he doesn't want to talk to me and I feel like if I was, if I was a better person, then this wouldn't happen. I just feel like, isn't because of me. Nobody understands and I just can't do this. I can't do this again.",id,,
+6,114_6,6,114_6,52_6,T,"I mean, I Has there been other stuff that's been going on for you during the week?",irq,,
+7,114_7,7,114_7,52_7,P,He does break up with me just the other day. I cant' sleep and I can't eat And he just keeps going and he just won't answer the phone and why you need me and you just don't,id,,-1.0
+8,114_8,8,114_8,52_8,T,"want to know I know that when you break up with someone, it's really upsetting. Over time, this sort of stuff should get better, I think.",id,,
+9,114_9,9,114_9,52_9,P,how long?,crq,,
+10,114_10,10,114_10,52_10,T,"Well, it just takes a bit of time.",cd,,
+11,114_11,11,114_11,52_11,P,I can't make it through the time he may help me get through the time it gets. This time. It just feels like it's never gonna end. When is that?,irq,,
+12,114_12,12,114_12,52_12,T,"It certainly sounds really tough. I think it's important that we talk about other stuff also, though, that went on during the week other than the breakup.",id,,
+13,114_13,13,114_13,52_13,P,"Just Yeah,",ack,,
+14,114_14,14,114_14,52_14,T,I can see that's really upsetting.,id,,
+15,114_15,15,114_15,52_15,P,Because He rejected me because I'm not good enough. Maybe there's something inside me that's been broken or something. And I won't even talk to me now. I need someone that say that it's gonna be okay. And it's okay.,id,,-1.0
+16,114_16,16,114_16,52_16,T,Sure it will be fine in the long term. Even though it's tough right now.,ack,,

@@ -1,0 +1,21 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,81_0,0,81_0,22_0,T,"Well, how can I help you today? ",irq,,
+1,81_1,1,81_1,22_1,P,I'm exhausted and shattered the whole time. And I'm fed up. I'd like you to do something.,id,,-1.0
+2,81_2,2,81_2,22_2,T,And how long has this been going on for?,irq,,
+3,81_3,3,81_3,22_3,P,"about six months, and I've been in loads of times, I've seen lots of different doctors. I've had scans and blood tests that you name it, and nobody can find out that they will. Nobody can see there isn't anything wrong with me. The last doctor I saw, so it was all in my mind. ",id,,
+4,81_4,4,81_4,22_4,T,I see. Perhaps we can start by getting a fairer understanding of what's been happening. What is the main problem for you?,irq,,
+5,81_5,5,81_5,22_5,P,I feel exhausted the whole time and I can't get anything done. Work is becoming a problem.,id,,-1.0
+6,81_6,6,81_6,22_6,T," I Understand, and what sort of work do you do?",irq,,
+7,81_7,7,81_7,22_7,P,I work as a computer programmer. Luckily I can work from home a lot of the time because I find it difficult to get up in the morning.,id,,
+8,81_8,8,81_8,22_8,T,And how's your sleep?,irq,,
+9,81_9,9,81_9,22_9,P,"sort of okay, but then I I toss and turn all night and. And I feel terrible in the morning. So you don't find sleep very refreshing, but no, it makes it worse. If anything. I wake up feeling awful then late wake up really late and not often after 11:11am ",id,,
+10,81_10,10,81_10,22_10,T,do you get sleepy in the daytime?,yq,,
+11,81_11,11,81_11,22_11,P,"Yes, I do. Because I get so tired. I often need to take a rest or a nap during the day.",op,id,
+12,81_12,12,81_12,22_12,T,Are there any other physical symptoms that are causing you problems at the moment?,irq,,
+13,81_13,13,81_13,22_13,P,"My muscles ache quite a lot. My legs, my arms, my back. All over. Really.",id,,
+14,81_14,14,81_14,22_14,T,muscle aches all over your body. any symptoms?,irq,,
+15,81_15,15,81_15,22_15,P,I get a lot of sore throats. And I think there might be some kind of infection running around my system.,id,,
+16,81_16,16,81_16,22_16,T,You feel that there's an infection running through your system?,crq,,
+17,81_17,17,81_17,22_17,P,Yes. And why else would I feel so ill all the time.,op,cd,
+18,81_18,18,81_18,22_18,T,I see. Is there any other reason you think your symptoms might be caused through an infection?,ack,irq,
+19,81_19,19,81_19,22_19,P,"Well, it all started when I had a really bad dose of the flu.",id,,

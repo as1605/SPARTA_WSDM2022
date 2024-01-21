@@ -1,0 +1,66 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,36_0,0,36_0,131_0,T,How are you today?,gt
+1,36_1,1,36_1,131_1,P,oh I'm okay could be better could be worse. I'm hanging in there,gt
+2,36_2,2,36_2,131_2,T,hanging in there. I understand you've been having some symptoms that have been bothering you can you tell me about those?,irq
+3,36_3,3,36_3,131_3,P,"Oh, I'm worried all the time and just everyday all day just so worried about everything I I've just started back to school. After 20 years I've been a housewife the kids are now grown. So why not go back to school and now for the past seven, eight months it's just been nothing but Worry, worry worry constantly all the time worried about home worried about school and it's affecting Life.",id
+4,36_4,4,36_4,131_4,T,"So, so a lot of lot of worrying, and how many? How many days? Would you say you're worried a typical week?",irq
+5,36_5,5,36_5,131_5,P,"How many days Don't worry,",id
+6,36_6,6,36_6,131_6,P,"I would say most days, Monday to Friday, Saturday, so it's always worrying when I'm on Monday through Friday, I'm worried about school, or when I'm at school, I'm worried about home and then on the weekends, I noticed school is coming up. And then they're just worried about managing everything. How am I going to deal with everything so it's a it's a lot.",id
+7,36_7,7,36_7,131_7,T,"So it's very, very distressing for you",irq
+8,36_8,8,36_8,131_8,P,very much so.,id
+9,36_9,9,36_9,131_9,T,And you mentioned it's impacting school,irq
+10,36_10,10,36_10,131_10,P,"on school. I'm not doing too well right now. When I was in undergrad, I used to be a straight A student. I thought I could do it again. Just pick up where I left off, but right now I'm worried so much that I'm so focused on worrying worrying that I'm worried about what assignment is too worried about Dude, I have just turned in the microwave. They're slipping right now. Because I'm so or when I'm in school, I'm still worried about home. What's going on at home that I can't pay attention in class and it's just all consuming.",id
+11,36_11,11,36_11,131_11,T,"Right? So both at school and at home? Oh,",yq
+12,36_12,12,36_12,131_12,P,"yes, definitely. You",ack
+13,36_13,13,36_13,131_13,T,find difficult to control the anxiety.,yq
+14,36_14,14,36_14,131_14,P,Yes.,ack
+15,36_15,15,36_15,131_15,T,That's affecting in a major way.,yq
+16,36_16,16,36_16,131_16,P,Yes. Very much.,ack
+17,36_17,17,36_17,131_17,T,So might ask you some other questions that may be tied in with this. Okay. Do you do you use any alcohol or drugs?,irq
+18,36_18,18,36_18,131_18,P,"Some, some some. I have a drink occasionally. But I'm so worried right now. My nerves are always on edge right now. I find it helps. So I mean, I got him troll, but",id
+19,36_19,19,36_19,131_19,T,it's under control. Yeah. How often would you say you drink?,irq
+20,36_20,20,36_20,131_20,P,"Um, maybe some here and there every day.",id
+21,36_21,21,36_21,131_21,T,And how much would you So you drink.,irq
+22,36_22,22,36_22,131_22,P,"Um, maybe it's a question of wine at night, but I'm not an alcoholic or anything but, okay, about the drug use a little pot.",id
+23,36_23,23,36_23,131_23,P,But I find it helps my nerves.,id
+24,36_24,24,36_24,131_24,T,So just down then,irq
+25,36_25,25,36_25,131_25,P,"I'm like maybe a couple times a week, a couple",id
+26,36_26,26,36_26,131_26,T,times a week.,crq
+27,36_27,27,36_27,131_27,P,All right. Have you ever had a panic attack? No.,cd
+28,36_28,28,36_28,131_28,T,Have you ever had,irq
+29,36_29,29,36_29,131_29,T,any trauma in your history?,irq
+30,36_30,30,36_30,131_30,P,"Well, my grandma, she died. When I was young. She used to take care of us. She was like a second mom to me. And I saw her that way. And she died when I was young, and she was really young. And it just, I was really close to her. And just I think about her a lot and especially since I have started back to school, been thinking about she's always encouraged me to get to education, get along with 10 and now just up Thinking about our ally. So she's,",id
+31,36_31,31,36_31,131_31,T,"she's been on your mind. And when you think about her, what's the feeling that comes up?",orq
+32,36_32,32,36_32,131_32,P,"Um, I worry a lot about because I'm thinking I'm upsetting her and her memory that if I don't do well then she will be upset even though she's not here anymore. She'll be upset if I'm not doing well.",od
+33,36_33,33,36_33,131_33,T,"Alright, so when you're when you're thinking about her, you're having some sort of worry.",yq
+34,36_34,34,36_34,131_34,P,Yes.,ack
+35,36_35,35,36_35,131_35,T,That's been distressing.,yq
+36,36_36,36,36_36,131_36,P,yes,ack
+37,36_37,37,36_37,131_37,T,"Alright, so I'm going to ask you some different symptoms. Let me know if you've had these symptoms as part of what's going on now. Do you feel restless, keyed up or on edge? ",yq
+38,36_38,38,36_38,131_38,P,all the time,ack
+39,36_39,39,36_39,131_39,T,Yeah.,gc
+40,36_40,40,36_40,131_40,P,So tense.,ack
+41,36_41,41,36_41,131_41,T,How about you feel like you get tired easily.,irq
+42,36_42,42,36_42,131_42,P,I'm tired all the time.,id
+43,36_43,43,36_43,131_43,T,Yes. How about do you find your mind going blank or having trouble concentrating?,irq
+44,36_44,44,36_44,131_44,P,"Well, I find my head trying to think of so many things at once so I can't focus just on things on Yes, definitely I'm in trouble concentration",id
+45,36_45,45,36_45,131_45,T,will concentrate.,irq
+46,36_46,46,36_46,131_46,T,Have you noticed that you're more irritable,irq
+47,36_47,47,36_47,131_47,P,"I'm not sleeping a lot, so I'm cranky,",id
+48,36_48,48,36_48,131_48,T,cranky? Maybe a little safe.,orq
+49,36_49,49,36_49,131_49,P,According to my husband a lot irritable. Okay.,od
+50,36_50,50,36_50,131_50,T,You mentioned you're tense all the time. Is that like a muscle tension.,irq
+51,36_51,51,36_51,131_51,P,I'm pretty much so just feel awake. Like my muscles are going to snap. Just I feel so rigid all the time.,id
+52,36_52,52,36_52,131_52,T,And tell me about your sleep.,irq
+53,36_53,53,36_53,131_53,P,Sleep span. With sleep. It's just like non existent pretty much right now is like the actors think trying to go to sleep when you have so much on your mind is hard.,id
+54,36_54,54,36_54,131_54,T,So you have difficulty falling asleep. But once you fall asleep,crq
+55,36_55,55,36_55,131_55,P,I'm no because I find like even though,cd
+56,36_56,56,36_56,131_56,P,"I'll have nightmares that would just wouldn't be up and better just by myself when I get up. Oh my gosh. What do I have to do? What am I forgetting? So I just always feel like there's something always on my mind that just makes it if I'm asleep, I can't stay asleep because I wake up thinking about it. I can't go back to sleep. This is some ugly cycle going on right now.",cd
+57,36_57,57,36_57,131_57,T,"Versus sleep has been a big, big problem for you.",yq
+58,36_58,58,36_58,131_58,P,Yes.,ack
+59,36_59,59,36_59,131_59,T,So I like to get you in to see a counselor. I can probably get you into see one in just a couple of days,ci
+60,36_60,60,36_60,131_60,P,"That's okay. Oh, I would appreciate it that",ack
+61,36_61,61,36_61,131_61,T,"that'd be helpful. Yes, yes.",gt
+62,36_62,62,36_62,131_62,T,And I want to thank you for answering these questions. For me. This has been very helpful.,gt
+63,36_63,63,36_63,131_63,P,Thank you very much.,gt
+64,36_64,64,36_64,131_64,T,Thanks.,gt

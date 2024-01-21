@@ -1,0 +1,27 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,164_0,164_0,T,"Sometimes when people are feeling sad, they have thoughts of wanting to hurt themselves. If you had ever had any of those thoughts,",yq,0
+1,164_1,164_1,P,yes.,op,-3
+2,164_2,164_2,T,Have you ever hurt yourself?,yq,0
+3,164_3,164_3,P,Sometimes I cut myself.,op,-3
+4,164_4,164_4,T,Have you ever cut deep enough so that you needed stitches?,yq,0
+5,164_5,164_5,P,"No, no, ",on,-3
+6,164_6,164_6,T,or had to go to the hospital?,crq,0
+7,164_7,164_7,P,No.,cd,-3
+8,164_8,164_8,T,"Does anyone know that you know what you and I say is confidential but when I'm worried about people's safety, and usually I need to tell someone about it. Because it's so that they stay safe. But I wonder if we talk about you cutting a little bit more and help understand it. If you and I can tell someone in your family together so that when you feel like cutting, they can help you. And so you don't cut anymore. Can you tell me about those thoughts?","gc, irq",0
+9,164_9,164_9,P,Want to stick a knife right here and this slit my wrists,id,-3
+10,164_10,164_10,T,at some pretty rough.,crq,0
+11,164_11,164_11,P,All right.,cd,0
+12,164_12,164_12,T,"Is it is it all the time that you want to do it? I just some of the time, ",irq,0
+13,164_13,164_13,P,"all the time, all the time. ",id,-3
+14,164_14,164_14,T,"Some people say that when they cut themselves, it makes them feel and that helps them because they just feel nothing otherwise it's not you. ",gc,0
+15,164_15,164_15,P,Yes.,ack,0
+16,164_16,164_16,T,Okay. Have you ever had thoughts of wanting to kill yourself or in your life?,yq,0
+17,164_17,164_17,P,"Yes, I do, putting my face on your pillow.",op,-3
+18,164_18,164_18,T,Have you ever put a pillow over your face to try to kill yourself?,yq,0
+19,164_19,164_19,P,"I triedd, but I got scared. ",op,-2
+20,164_20,164_20,T,You got scared? What kept you from doing it? Let me just stop.,"crq, irq",0
+21,164_21,164_21,P,I wrote for my family and friends.,id,-1
+22,164_22,164_22,T,"I wonder Victor, if we made a plan of what to do when you're feeling like wanting to hurt yourself or kill yourself if we made a plan with your sisters here today? ",gc,0
+23,164_23,164_23,P,Yes.,gc,0
+24,164_24,164_24,T,"So if we made a plan with your sister of what to do, so that you go to your sister if you're feeling sad, and you have a list of what to do when you feel like you want to die or hurt yourself, so you don't hurt yourself. ",gc,0
+25,164_25,164_25,P,Alright,gc,0

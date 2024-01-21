@@ -1,0 +1,76 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,35_0,0,35_0,130_0,T,"Sarah, how are you doing today?",gt
+1,35_1,1,35_1,130_1,P,"I'm doing okay. It could be a little better but could always be worse, but I'm going okay,",gt
+2,35_2,2,35_2,130_2,T,good. Okay. I understand you have some symptoms that have been bothering you.,irq
+3,35_3,3,35_3,130_3,P,"They have been bothering me. Well, I just started back to school last year, I was staying at home while my husband was working with the kids are crawling now out of the house. So I said I was gonna go back to school. I have been in school in 20 years, and I thought I could handle it. But right now, I just find myself so anxious and just so worried all the time. And I just don't know what to do with it. It's been going on for around the past seven, eight months now.",id
+4,35_4,4,35_4,130_4,T,About seven or eight months?,yq
+5,35_5,5,35_5,130_5,P,Yeah.,ack
+6,35_6,6,35_6,130_6,T,Would you say that this anxiety has been affecting you? more days? That doesn't?,irq
+7,35_7,7,35_7,130_7,P,"Um, I would say it's been affecting me. Yes. For some time, though. Yes. More often than not, yes.",id
+8,35_8,8,35_8,130_8,T,More often than not. Yeah. Do you find yourself struggling to control the anxiety?,irq
+9,35_9,9,35_9,130_9,P,So control it. I'm just anxious all the time. Yes.,id
+10,35_10,10,35_10,130_10,T,Sounds like you're struggling to get under control.,yq
+11,35_11,11,35_11,130_11,P,Yes.,ack
+12,35_12,12,35_12,130_12,T,Tell me about how it's been affecting. You mentioned in school.,irq
+13,35_13,13,35_13,130_13,P,"It's, I'm not doing too well at school right now. ",id
+14,35_14,14,35_14,130_14,T,Not at all?,irq
+15,35_15,15,35_15,130_15,P,"I thought it would be a better student. I was always a steady student back. Back before when I was an undergrad. I was always a straight A student, but now I'm failing and I just can't, I can't concentrate school failing. I'm just so worried all the time about what how I'm going to do in this class, what assignments are due. If I'm getting the work done in time, it's controlling. It's taking over everything I do in school. So I'm so more I'm more worried about how I'm going to do, then having time to focus on my grades. Like it's just to that level.",id
+16,35_16,16,35_16,130_16,T,"It's really distressing for you. Yes, that's a school about a home",irq
+17,35_17,17,35_17,130_17,P,"and home. I'm so worried about school, that it's affecting my life at home. Like I'm okay, I have this assignment but then, oh my goodness, I'm so focused on this assignment. We'll have time to make dinner for the kids. Oh, my husband's been all over the house is such a mess all the time. And it's just causing so much conflict at home. My husband thinks I should be doing my house workout. I'm so consumed with school and then it's just such a big mess right now. So I'm constantly worried when I'm when I'm at school, I'm worried about home and when I'm home, I'm worried Got school.",id
+18,35_18,18,35_18,130_18,T,So good deal with deal worrying,irq
+19,35_19,19,35_19,130_19,P,"all the time, all the time.",id
+20,35_20,20,35_20,130_20,T,"Okay, so I'll ask you a few questions about this. And some that might be related to drink or use any drugs?",yq
+21,35_21,21,35_21,130_21,P,"No, not at all. Not at all.",on
+22,35_22,22,35_22,130_22,T,Do you have any medical conditions?,yq
+23,35_23,23,35_23,130_23,P,"No, not at all. ",on
+24,35_24,24,35_24,130_24,T,Nothing. Have you ever been diagnosed with any other mental health disorders?,yq
+25,35_25,25,35_25,130_25,P,No.,on
+26,35_26,26,35_26,130_26,T,"Not ever have panic attacks , have you ever had one in the past?",yq
+27,35_27,27,35_27,130_27,P,"No, no.",on
+28,35_28,28,35_28,130_28,T,So a lot of anxiety but no panic just just,irq
+29,35_29,29,35_29,130_29,P,anxiety like overwhelming anxiety.,id
+30,35_30,30,35_30,130_30,T,Intense anxiety?,yq
+31,35_31,31,35_31,130_31,P,"Yes,",ack
+32,35_32,32,35_32,130_32,T,but but never situation where you felt you had to flee from a room or anything like that.,irq
+33,35_33,33,35_33,130_33,T,Any past trauma,yq
+34,35_34,34,35_34,130_34,P,No,on
+35,35_35,35,35_35,130_35,T,"Okay,",ack
+36,35_36,36,35_36,130_36,T,Do you sometimes feel keyed up on edge or restless?,irq
+37,35_37,37,35_37,130_37,P,restless?,crq
+38,35_38,38,35_38,130_38,T,"restless, yes",cd
+39,35_39,39,35_39,130_39,P,restless.,id
+40,35_40,40,35_40,130_40,T,Do you find yourself easily fatigued? I'm,irq
+41,35_41,41,35_41,130_41,P,tired all the time.,id
+42,35_42,42,35_42,130_42,T,tired all the time.,yq
+43,35_43,43,35_43,130_43,P,Yes.,ack
+44,35_44,44,35_44,130_44,T,Do you have any trouble concentrating or finding your mind go blank?,yq
+45,35_45,45,35_45,130_45,P,"No, not really notice. ",on
+46,35_46,46,35_46,130_46,T,"How about irritability find yourself. irritable.,",irq
+47,35_47,47,35_47,130_47,P,"no, not really irritable.",id
+48,35_48,48,35_48,130_48,T,Any muscle tension?,yq
+49,35_49,49,35_49,130_49,P,Not really. No. Okay.,on
+50,35_50,50,35_50,130_50,T,"Hello. trouble sleeping. So to be falling asleep, staying asleep having unsatisfying sleep, anything like that?",irq
+51,35_51,51,35_51,130_51,P,"Well, I have unsatisfied sleep. But we just moved and we live next to a factory. There's trucks in and out all the time who can sit with that? There's crackling noise",id
+52,35_52,52,35_52,130_52,T,so you think that might be causing Your sleep disturbance.,orq
+53,35_53,53,35_53,130_53,P,"It's entirely possible. It's like who can sleep? Well, we got trucks in and out all hours of the night overnight, and in the wee hours of the morning, so it's pretty much impossible to fall asleep when you have just this noise",od
+54,35_54,54,35_54,130_54,T,about before you moved there.,crq
+55,35_55,55,35_55,130_55,P,I don't remember.,cd
+56,35_56,56,35_56,130_56,T,How long ago was it that you moved to the florida?,irq
+57,35_57,57,35_57,130_57,P,"Um, a couple years",id
+58,35_58,58,35_58,130_58,T,couple years?,yq
+59,35_59,59,35_59,130_59,P,Yes.,ack
+60,35_60,60,35_60,130_60,T,So you've had the stories that by for a couple years?,yq
+61,35_61,61,35_61,130_61,P,Yes.,ack
+62,35_62,62,35_62,130_62,T,So symptoms started eight months ago.,irq
+63,35_63,63,35_63,130_63,P,"Yes. So I don't know if they've made it. I don't know if it made it if made it worse, or just the noises just been. So I don't know if it's the noise or why but I can't sleep.",id
+64,35_64,64,35_64,130_64,T,"Okay, how about any vacations or anything? ",irq
+65,35_65,65,35_65,130_65,P,I'm sorry.,id
+66,35_66,66,35_66,130_66,T,No vacation.,gc
+67,35_67,67,35_67,130_67,T,So you've pretty much been sleeping. Your home every night for as long as the symptoms have been around.,yq
+68,35_68,68,35_68,130_68,P,"Oh, yes, yeah. ",ack
+69,35_69,69,35_69,130_69,T,All right.,gc
+70,35_70,70,35_70,130_70,T,"All right, sir.",gc
+71,35_71,71,35_71,130_71,T,I appreciate you answering these questions. For me. This has been helpful. I'm gonna get your schedule with a counselor. And they should be. I'll see you in a couple of days.,gt
+72,35_72,72,35_72,130_72,P,"Oh, thank you. Thank you. I would I would so appreciate it just to get this under control. ",gt
+73,35_73,73,35_73,130_73,T,"Absolutely. Take care, sir. ",gt
+74,35_74,74,35_74,130_74,P,Thank you.,gt

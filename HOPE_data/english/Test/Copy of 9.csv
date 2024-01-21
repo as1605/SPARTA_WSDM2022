@@ -1,0 +1,69 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,9_0,0,9_0,107_0,T,How are you? Not well?,yk
+1,9_1,1,9_1,107_1,P,No,on
+2,9_2,2,9_2,107_2,T,what's going on.,irq
+3,9_3,3,9_3,107_3,P,"Well, remember I had told you that they were downsizing at my job.",id
+4,9_4,4,9_4,107_4,T,I remember that.,ack
+5,9_5,5,9_5,107_5,P,"So I, you know, been there 20 years at my job. Yeah. And they're downsizing lately and they let me go.",id
+6,9_6,6,9_6,107_6,T,That's terrible. I'm sorry to hear that.,gt
+7,9_7,7,9_7,107_7,P,"No, no, no. So yeah, it's just, you know, they let me go. I have really nothing to go on. I don't know what to do. I've been at that. job so long. I really don't know how to do anything else. ",gc
+8,9_8,8,9_8,107_8,T,You should talk about the job. You're happy there.,irq
+9,9_9,9,9_9,107_9,P,"Yeah. I was, I thought, you know, I envision doing that job for a long time. So, you know,",id
+10,9_10,10,9_10,107_10,T,"and that's not gonna happen. No, no. How does this affect your financial outlook like your bills and such?",irq
+11,9_11,11,9_11,107_11,P,"Oh, it's awful. I mean, we definitely my husband and I, it's really spiraled out of control. My husband and I have kind of like, joint, we pay the bills together. And so this was half of our income, and that's gone. And because it was kind of more sudden, we didn't really have time to do anything else, you know, time to prepare.",id
+12,9_12,12,9_12,107_12,T,So it definitely caught you off guard. Do you have enough income with your husband's job to cover your basic bills?,irq
+13,9_13,13,9_13,107_13,P,"were a little bit. Yeah, so far. But if I don't find the job soon, then I don't know what's gonna happen. I don't know how bad it's gonna get",id
+14,9_14,14,9_14,107_14,T,to know about how long you have for you fail to meet any financial commitments.,irq
+15,9_15,15,9_15,107_15,P,"My husband usually deals with the bills, so I'm not quite sure. But probably in another month or so it's going to get really bad for about a month.",id
+16,9_16,16,9_16,107_16,T,What thoughts have you been having?,crq
+17,9_17,17,9_17,107_17,P,"All sorts. I mean, I, I've worried that, you know, like, my husband and I are arguing because we're under all this stress. I worry, we're gonna lose our house. You know, I'm worried I'm going to be homeless. You know, it's embarrassing. I don't have a job now. What if I don't find another job? You know, what are my kids gonna do? My kids are, you know, relying on us to meet their needs. Yeah, yeah. So I mean, we could be homeless. I might not ever get a job again, you know, I'm not getting any younger. So I just am afraid that I won't get another job.",cd
+18,9_18,18,9_18,107_18,T,"Now, you said you were laid off, right? ",yq
+19,9_19,19,9_19,107_19,P,Yeah.,ack
+20,9_20,20,9_20,107_20,T,For the position. Are you eligible for unemployment?,orq
+21,9_21,21,9_21,107_21,P,I'm not sure I'm still looking into that.,od
+22,9_22,22,9_22,107_22,T,"Because if you I mean, I'm not a labor law expert. But I think if you're, if you're laid off, there's probably decent probability you could get on employment. How much for educational?",crq
+23,9_23,23,9_23,107_23,P,I just have my bachelor's.,cd
+24,9_24,24,9_24,107_24,T,"Well, that's, that's more than most bachelor's degree. Yeah. You just haven't had to look for a job in a long time, right here. Because I'm guessing you thought you're gonna retire.",orq
+25,9_25,25,9_25,107_25,P,Yeah,od
+26,9_26,26,9_26,107_26,T,"So this is upsetting for a lot of reasons. So you have The financial stressors, right? I can't be minimized. The relational stressors mentioned, it's kind of embarrassing. Yeah, that's more like an identity thing I see identify with what you did right now. You don't as much, because you're not actively working in it. Yeah. Did you ever have any co workers who voluntarily left for other jobs?",crq
+27,9_27,27,9_27,107_27,P,Not that No.,cd
+28,9_28,28,9_28,107_28,T,Not at the time you worked there.,crq
+29,9_29,29,9_29,107_29,P,"Not that I was aware of that. I think maybe it maybe like one A while ago, but it was a pretty good job. So. ",cd
+30,9_30,30,9_30,107_30,T,So a lot of people stay.,crq
+31,9_31,31,9_31,107_31,P,Yeah.,cd
+32,9_32,32,9_32,107_32,T,Have you ever known anybody who worked for a similar company or in the same field? Who change jobs?,orq
+33,9_33,33,9_33,107_33,P,"Yeah, one of my friends was in a similar field and he left the job and eventually found another job. You know how long it took. It took a while. It took a while. Like, maybe like two years or so at least almost, yeah, it was a struggle for their family. So I think about that",od
+34,9_34,34,9_34,107_34,T,would you need to replace that full income to pay your bills or part of that income?,irq
+35,9_35,35,9_35,107_35,P,"I mean, probably part of it maybe full would be ideal because, you know, we were comfortable the way we were living so far would be ideal, but you know, we could probably survive on on part of it, it just not as well as we were living.",id
+36,9_36,36,9_36,107_36,T,"So we've talked about problem solving skills before in earlier sessions, right. So have you applied a those concepts to what's going on now.",crq
+37,9_37,37,9_37,107_37,P,"I mean, I've been trying to think of think of, you know, different opportunities that might be open to me now and you know, being able to spend more time with my kids and things like that. I've been trying to think of it other ways my situation.",cd
+38,9_38,38,9_38,107_38,T,"So there's sort of an upside, and then sense the time part, at some point need to replace the income. Yeah, that's very pragmatic in the money. Have you considered that if you attempted to seek a full time job to work out, you could look at part time jobs.",orq
+39,9_39,39,9_39,107_39,P,"I've thought about it, but I'm really having a hard time with it.",od
+40,9_40,40,9_40,107_40,T,"What would it What would it mean about you? What would it say about you if you had to take a part time job, so finding another full time job is so much of the loss?",orq
+41,9_41,41,9_41,107_41,P,"What would it mean about me is That I think if I only had a part time jobs that I wasn't qualified, that I wasn't good enough for full time.",od
+42,9_42,42,9_42,107_42,T,So you would you would internalize that and Meaning would be that you're not as valuable.,yq
+43,9_43,43,9_43,107_43,P,Yeah.,ack
+44,9_44,44,9_44,107_44,T,So it speaks to self worth.,crq
+45,9_45,45,9_45,107_45,P,"Well, right now it's not good. Well, I mean, I've been arguing with my husband, I've been drinking a lot more, you know, the depression has come back a lot worse. So it's just starting to become the cycle where you know, drinking and getting into arguments and situations not getting better and it just keeps snowballing keeps snowballing.",cd
+46,9_46,46,9_46,107_46,T,"Yeah. And these these behaviors are all things that potentially could impede your goal. So it is kind of like a self fulfilling prophecy element to this. Yeah. Do you agonize you worry, invest in these thoughts? Right? And then to temporarily take away the pain you drink? Yeah. That ends up being more dysfunction, right with a relationship with your husband. Yeah. Imagine if you're intoxicated, you're not looking for new work. Yeah. That wouldn't be ideal timing. So, in a sense, you're, you're not helping things to improve. And it all kind of starts without thinking, ",crq
+47,9_47,47,9_47,107_47,P,"but it's hard when I'm really depressed and the situation's not getting better. And I'm just home sitting about, you know, drinking, while everyone else is carrying on with their life, and I'm stuck here.",cd
+48,9_48,48,9_48,107_48,T,"And that ties into that kind of worthless, type five. So you're fulfilling that role. worthless. That sounds manifesting for you. And that's one thing you can do. That's an option you can drink and you could have relational struggles. But is that really? Is that really what you want at all? Is that the most useful? ",crq
+49,9_49,49,9_49,107_49,P,"Really? No, it's not helping. ",cd
+50,9_50,50,9_50,107_50,T,How do you think you could break that cycle?,irq
+51,9_51,51,9_51,107_51,P,"I've been thinking about, you know, trying to get more organized, like we talked about before with the finances and, and trying to, you know, figure out exactly how much income we need to be where we want, what to do and maybe by baby steps, so it's not like, so overwhelming for me like the thought of getting a new job and making enough money and providing for my family. And like breaking it down.",id
+52,9_52,52,9_52,107_52,T,"Well, that makes sense. Yeah, so the first step would be figuring out what The minimum amount you really need, right? So you'll shoot for hire full time, but you realize that you kind of need to know what the minimum is because you know what job offer you could accept in which I want free time to decline. Right? So it makes sense. So armed with that information and you could go into the workplace, right? And it was less anxiety kind of just know this Job's gonna if I get it, that's good, right Lord, I might as well not apply to this one because it's not gonna work. So as efficient as time say, it's good. That sounds logical.",crq
+53,9_53,53,9_53,107_53,P,"I think just sometimes like the fear of the unknown, like, worry about what if this never happens for me? You know, what if I don't get a job? You know, what if we lose our house?",cd
+54,9_54,54,9_54,107_54,T,"That worries Yeah, no worries. nagging Yeah. Yeah. So",gc
+55,9_55,55,9_55,107_55,P,"I mean, worst case, if we don't get a job, I mean, probably. I don't know, like, get a smaller house, or find a way around it. I mean, she would need to have some tough times. ",gc
+56,9_56,56,9_56,107_56,T,"Yeah. It would be difficult, right? To be fair, right? It would be difficult, but you would adapt.",crq
+57,9_57,57,9_57,107_57,P,"Right? So like, it would be difficult but I think if I really thought about it, you know, we would probably get through it.",cd
+58,9_58,58,9_58,107_58,T,"So if we pick up with that we say that's really an adaptive response when we talk about adaptive responses to automatic thoughts, right? So if you're telling yourself that you have the depression and certainly anxiety, craving to drink, you tell yourself well, the worst that could happen is I don't work the rest of my life again, acknowledging that's pretty unlikely. But the worst thing to happen is I won't work again. And I might have to adapt, I might have to have a simpler life in terms of material goods and small house, but I would survive would affect my battery that have on on your mood, or your thoughts?",orq
+59,9_59,59,9_59,107_59,P,"I mean, I think when I really think about it, you know, like you said, I think I'm less depressed or think that I, you know, I'm more able to cope with it. You know, knowing Okay, well, this is the worst that could happen, but maybe it's not as bad as I thought. would be embed. ",od
+60,9_60,60,9_60,107_60,T,"So there's a piece that comes with clarity that comes with accepting what the worst case scenario could be. Right? And probably another part of the adaptive response could be, you know, I could live to the worst case scenario. I think it's important to acknowledge that it's unlikely. that's unlikely. Right? So statistics probability is on your side here. Right? So, as you go out to the workplace and the workforce and seek employment, you'll probably have some, some interviews, we don't get a job offers, right. But eventually, if I have one where you do, yeah, right. It's, it's just math. Right? If you can accept the worst case that maybe reduce or limit that alcohol consumption, reduce that depression, anxiety.",crq
+61,9_61,61,9_61,107_61,P,Yeah.,cd
+62,9_62,62,9_62,107_62,T,"So Let's end there for today. But I want you to try for the next week. I want to try plan that adaptive response, right? Actually, there's two we're talking about right? One is you could survive the worst case scenario. And the other one is that probabilistically It won't happen. Right? So you have kind of two. Well, you do have two adaptive responses I want you to apply when those automatic thoughts come up, like, I'm never gonna work again. Okay, this is a catastrophe. So like that self talk. Yeah, apply that self talk. So identify that automatic thought, because we've talked about that skill, right? And then apply that self talk right away. All right, and let's see, you have the thought record. Right. So when that you know, when you can fill one of those out, okay, when that happens when you have that automatic thought and you apply the adaptive response, even if you can't get it completely filled out, I understand that. I know there's a lot on there. Just what you can get done on that. Anything you can do. That would be helpful. ",crq
+63,9_63,63,9_63,107_63,P,Okay.,cd
+64,9_64,64,9_64,107_64,T,Sound good?,gt
+65,9_65,65,9_65,107_65,P,Yeah,gt
+66,9_66,66,9_66,107_66,T,So scheduled for one week. So I'll see you then we'll see how this goes to progress we can make on this on the alcohol and the depression and anxiety.,ci
+67,9_67,67,9_67,107_67,P,"Okay, thanks",ack

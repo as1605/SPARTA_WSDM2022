@@ -1,0 +1,65 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,38_0,0,38_0,133_0,T,"Okay, I understand you've been having some symptoms with a which have been bothersome. You tell me about those",irq
+1,38_1,1,38_1,133_1,P,main thing is I'm just sleeping all the time. I'm really tired,id
+2,38_2,2,38_2,133_2,P,"You know, I",id
+3,38_3,3,38_3,133_3,P,"I'm tired when I have to go to work and then I go home and I it's, you know, I just sleep a lot and it's I think it's abnormal. I haven't been eating as much lately I've I've lost a bit of weight and it's just the fact My life so I'm just one come in",id
+4,38_4,4,38_4,133_4,T,alright so you have excessive sleep you feel like what is excessive sleep,irq
+5,38_5,5,38_5,133_5,P,like just hours like I'll I'll get home from work and I'll take you know three hour nap and then I wake up and you know do do something that I enjoy but that will be bedtime again and I'll be ready for bed even though I took a nap and I'll just sleep some asleep and I can't chance I get I don't wake up early or anything.,id
+6,38_6,6,38_6,133_6,T,And you mentioned your appetite as well.,irq
+7,38_7,7,38_7,133_7,P,"Yeah, I just I don't know if it's just because I I'm sleeping so much I'm not eating but I just like when I wake up. It's not like, Oh, I'm hungry. Nothing like I just",id
+8,38_8,8,38_8,133_8,T,how long have these symptoms been present?,irq
+9,38_9,9,38_9,133_9,P,"I mean, I would say I've noticed that in the last Two weeks or so, like I'm",id
+10,38_10,10,38_10,133_10,T,over the last two weeks.,irq
+11,38_11,11,38_11,133_11,P,Notice that it's been getting worse.,id
+12,38_12,12,38_12,133_12,T,"out of, say one week, how many days do you have these symptoms?",irq
+13,38_13,13,38_13,133_13,P,Probably every day,id
+14,38_14,14,38_14,133_14,T,every day?,yq
+15,38_15,15,38_15,133_15,P,Yeah.,ack
+16,38_16,16,38_16,133_16,T,"So I'm gonna ask you some other questions related to this. Okay, just provide me the best answer you can. In the last two weeks, have you found yourself? depressed, sad, hopeless. I know that.",yq
+17,38_17,17,38_17,133_17,P,"No, no, not really.",on
+18,38_18,18,38_18,133_18,T,Have you lost interest in activities that used to be fun for you?,yq
+19,38_19,19,38_19,133_19,P,"Um,no",on
+20,38_20,20,38_20,133_20,P,"no, I mean, I still like still like all the things I did like all my hobbies. I like hanging out with friends and stuff.",on
+21,38_21,21,38_21,133_21,P,"Sometimes it's it's hard for me to,",on
+22,38_22,22,38_22,133_22,P,"to remember to make plans with people and I just end up sleeping instead. But I genuinely enjoy it. So, I'd like to go and see if people think of us. Thanks.",on
+23,38_23,23,38_23,133_23,T,Do you ever feel agitated in terms of like movement? Like you can't stop moving or find yourself trying to resist moving?,irq
+24,38_24,24,38_24,133_24,P,I guess I guess like,id
+25,38_25,25,38_25,133_25,P,"not so much I can't stop living but I do like try to like, stop it. I guess I do try to like stop myself. fidgety. Right.",id
+26,38_26,26,38_26,133_26,T,That's been happening.,irq
+27,38_27,27,38_27,133_27,T,Any changes in terms of your level of energy?,irq
+28,38_28,28,38_28,133_28,P,"Yeah, I mean, I like I said I'm tired all the time. I just sometimes I just can't get up and late to work. Just because I haven't had the energy to get up and stop sleeping, wake up.",id
+29,38_29,29,38_29,133_29,T,So the excessive sleep has affected your level of energy. How about any type of feeling of worthlessness or anything like that?,crq
+30,38_30,30,38_30,133_30,P,"I mean,",cd
+31,38_31,31,38_31,133_31,P,"I guess yeah, I mean, I'm not",cd
+32,38_32,32,38_32,133_32,P,"it sounds harsh, but I'm not really a valuable person. Really, I you know, I don't have a very important job or anything. No one really depends on me or,",cd
+33,38_33,33,38_33,133_33,T,"you know, be yourself desirable.",irq
+34,38_34,34,38_34,133_34,P,"I mean, no, not really, but it is. It is what it is.",id
+35,38_35,35,38_35,133_35,T,I'm always up to swear,irq
+36,38_36,36,38_36,133_36,P,"You know for for a while, you know just you know when you don't contribute very much so it's it is what it is",id
+37,38_37,37,38_37,133_37,T,about your concentration Have you found any changes there and your ability to concentrate,irq
+38,38_38,38,38_38,133_38,P,"at work? Yes, definitely. No. Because I'll be tired and yawning and even when it comes to like outside of work I guess I'll forget to take plane friends or forget No, no little things just little things that I do forget a lot. It's hard for me to",id
+39,38_39,39,38_39,133_39,P,to pay attention to movies. Because I'm tired or not like I just,id
+40,38_40,40,38_40,133_40,T,should you having trouble focusing?,yq
+41,38_41,41,38_41,133_41,P,Yeah.,ack
+42,38_42,42,38_42,133_42,T,Do you ever have any Thoughts of death or dying?,yq
+43,38_43,43,38_43,133_43,P,"No,",on
+44,38_44,44,38_44,133_44,T,"no, no.",gc
+45,38_45,45,38_45,133_45,T,You mentioned that,irq
+46,38_46,46,38_46,133_46,T,these symptoms have been causing problems at work any other areas where they've been,irq
+47,38_47,47,38_47,133_47,T,causing trouble? Like limiting or functioning,irq
+48,38_48,48,38_48,133_48,P,"mean like it was like social life,",id
+49,38_49,49,38_49,133_49,T,social life Relationships life at home,crq
+50,38_50,50,38_50,133_50,P,"yeah, I mean I live on my own and",cd
+51,38_51,51,38_51,133_51,P,"you know like sleeping all the time like I don't see anyone else and it's hard to meet new people. If I was looking for a relationship I yeah, I would say it affects it because I'm not like putting myself out there anything. And, you know, I forget or I'll sleep instead of making plans with friends on Friday night so that can't be good. ",cd
+52,38_52,52,38_52,133_52,T,How about substances you use any alcohol or drugs like that?,irq
+53,38_53,53,38_53,133_53,P,"Now, I mean, altering socially. I haven't really",id
+54,38_54,54,38_54,133_54,T,thought about medical conditions,irq
+55,38_55,55,38_55,133_55,T,do you ever see or hear things that other people can't see or hear?,irq
+56,38_56,56,38_56,133_56,T,Have you ever had that happen?,irq
+57,38_57,57,38_57,133_57,T,Have you ever had a period your life were you having it now? Where? You're extremely happy how a lot of energy,irq
+58,38_58,58,38_58,133_58,P,"No, it's never happened like that.",id
+59,38_59,59,38_59,133_59,T,oaky,gc
+60,38_60,60,38_60,133_60,T,oaky,gc
+61,38_61,61,38_61,133_61,T,"Sherry I'm going to refer you to see a counselor. I've just scheduled and so you can see them in next couple days if that works for you. Yeah, that works fine. I appreciate you answering these questions. This has been helpful. ",ci
+62,38_62,62,38_62,133_62,P,Thank you.,gt
+63,38_63,63,38_63,133_63,T,Thanks.,gt

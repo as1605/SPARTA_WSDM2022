@@ -1,0 +1,212 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,145_0,145_0,T,"Hi Sharon, How you're doing today ?",gt,0.0
+1,145_1,145_1,P,"Well, I'm all right. My counselor, you know, my counselor sent me over because she's a little worried about me that I might hurt myself. So","gt, id",-1.0
+2,145_2,145_2,T,she's a little worried about you ?,crq,0.0
+3,145_3,145_3,P,Yeah.,cd,0.0
+4,145_4,145_4,T,What do  she  think's gonna happen?,irq,0.0
+5,145_5,145_5,P,I mean that. I don't know. I guess she thinks that I'm I guess the things that I'm thinking are dangerous.,id,-1.0
+6,145_6,145_6,T,"Right, you mind If I  to do an assessment to measure your risk of harm.",gc,0.0
+7,145_7,145_7,P,That's fine.,gc,0.0
+8,145_8,145_8,T," Okay. All right. Sharon, how old are you?","gc, irq",0.0
+9,145_9,145_9,P,28,id,0.0
+10,145_10,145_10,T,"28. Now, think about your family for a moment. Is there any history of suicide? or any type of suicidal behavior in your family?","gc, irq",0.0
+11,145_11,145_11,P,"Yeah, my dad committed suicide. ",id,-1.0
+12,145_12,145_12,T,Your father committed suicide.,crq,0.0
+13,145_13,145_13,P,Yes,cd,0.0
+14,145_14,145_14,T,Any other?,crq,0.0
+15,145_15,145_15,P,"Um, I mean, I think that my sister has, like had an attempt. ",cd,-1.0
+16,145_16,145_16,T,an attempt ?,crq,0.0
+17,145_17,145_17,P,yeah,cd,0.0
+18,145_18,145_18,T,How long ago did your father commit suicide?,irq,0.0
+19,145_19,145_19,P,Ohh like 15 years ago,id,-1.0
+20,145_20,145_20,T,15 years ago ?,crq,0.0
+21,145_21,145_21,P,Yeah. Something like that.,cd,-1.0
+22,145_22,145_22,T,How can you think about that?,irq,0.0
+23,145_23,145_23,P,"I try not to think about it. Oh, I don't I don't know.",cd,-3.0
+24,145_24,145_24,T,"That must be hard, though.",gc,0.0
+25,145_25,145_25,P,"Yeah, I mean, yeah. It's hard. ",gc,-1.0
+26,145_26,145_26,T,Is that on your mind now?,yq,0.0
+27,145_27,145_27,P,"No,  that we're talking about it? Yes.",op,-1.0
+28,145_28,145_28,T,But on your mind before we talk.,crq,0.0
+29,145_29,145_29,P,"Mmm not really no, not really",cd,-1.0
+30,145_30,145_30,T,Alright. Are there any mental health disorders that you're aware of in your family? Or do you suspect in your family?,"irq, yq",0.0
+31,145_31,145_31,P,"I don't know. I mean, I don't know. ",id,-3.0
+32,145_32,145_32,T,Okay. Can you tell me about any disorders you've been diagnosed with?,irq,0.0
+33,145_33,145_33,P,"Um, well, right now, I think that I've been diagnosed with depression. And in the past, I've had some problems with anxiety.",id,-3.0
+34,145_34,145_34,T,But How about now?,crq,0.0
+35,145_35,145_35,P,How about now I'm having problems with anxiety ?,crq,0.0
+36,145_36,145_36,T,Hmm,cd,0.0
+37,145_37,145_37,P,Umm not as bad as in the past.,cd,
+38,145_38,145_38,T,How is depression?,irq,0.0
+39,145_39,145_39,P,"Yeah, ",id,-1.0
+40,145_40,145_40,T,right now ?,crq,0.0
+41,145_41,145_41,P,Yeah.,cd,0.0
+42,145_42,145_42,T,And how bad?,irq,0.0
+43,145_43,145_43,P,pretty bad.,id,-1.0
+44,145_44,145_44,T,Yeah. On a scale of one to 10 with 10 being the worst it's ever been. How  depressed you're now ?,irq,0.0
+45,145_45,145_45,P,"Probably Like an eight or nine,",id,-1.0
+46,145_46,145_46,T,Eight or Nine that's depressed ?,crq,0.0
+47,145_47,145_47,P,Yeah.,cd,0.0
+48,145_48,145_48,T,How about anxiety at the same scale?,irq,0.0
+49,145_49,145_49,P,Probably like a four or five.,id,-1.0
+50,145_50,145_50,T,You're fine. So not quite as bad as its been ?,"gc, irq",0.0
+51,145_51,145_51,P,"No, not as bad as it's been, but it's getting up there.",id,-1.0
+52,145_52,145_52,T,"Yeah, it's getting worse lately.",crq,0.0
+53,145_53,145_53,P,"Yeah, I think yeah, it's been worse lately. Yeah.",cd,-1.0
+54,145_54,145_54,T,"So if you'r think back, say a couple days ago. How bad was the anxiety and depression?",irq,0.0
+55,145_55,145_55,P,anxiety probably like a three or four. Depression about an eight or nine still same.,id,-1.0
+56,145_56,145_56,T,same intensity?,crq,0.0
+57,145_57,145_57,P,"Yeah, yeah.",cd,-1.0
+58,145_58,145_58,T,"Alright, Do you have any medical illnesses?",yq,0.0
+59,145_59,145_59,P,"Um, no.",on,0.0
+60,145_60,145_60,T,Do you live alone?,yq,0.0
+61,145_61,145_61,P,Yeah,op,0.0
+62,145_62,145_62,T,you do ?,crq,0.0
+63,145_63,145_63,P,Yeah,cd,0.0
+64,145_64,145_64,T,How often you see your relatives?,irq,0.0
+65,145_65,145_65,P,"probably see my relatives like every, like, maybe once a month, maybe",id,0.0
+66,145_66,145_66,T,"once a month, how about friends ?",crq,0.0
+67,145_67,145_67,P,"friends, it depends. Not as much lately, I used to be better friends with my coworkers and I lost my job. So I haven't seen them as much. And so probably maybe like once a week, maybe once a week depends on the week.",cd,-1.0
+68,145_68,145_68,T,How long ago you lost your job?,irq,0.0
+69,145_69,145_69,P,"Umm about two months ago,",id,0.0
+70,145_70,145_70,T,"two months ago, ",crq,0.0
+71,145_71,145_71,P,Hmm,cd,0.0
+72,145_72,145_72,T,"I'm sorry to hear that happens to you. how would you characterize the strength of your social network? Like, is it as strong as you want it to be?","ap, gc",-1.0
+73,145_73,145_73,P,"No, sometimes I feel pretty alone. Yeah, I feel like you know, nobody really wants me around. Nobody really needs me. So yeah. I feel pretty alone a lot of time. Sometimes even when I'm with other people,",gc,-1.0
+74,145_74,145_74,T,so you're with people when you still feel isolated.,crq,0.0
+75,145_75,145_75,P,Yeah.,cd,0.0
+76,145_76,145_76,T,"When you are with people when you're not feeling isolated, how would you characterize the quality of the relationships you have? Let's start with your family. How good do you think those relationships are?",irq,0.0
+77,145_77,145_77,P,"I mean, they're okay. Like not really that great. But everybody has like, trouble with their family. I guess so. I don't know.",id,-1.0
+78,145_78,145_78,T,You think its more or less normal?,crq,0.0
+79,145_79,145_79,P,"Yeah, yeah.",cd,-1.0
+80,145_80,145_80,T,How is it with your friends?,irq,0.0
+81,145_81,145_81,P,"It's okay. You know, I guess I'm always like, second guessing everything. Like, do they really like me? Do they really want to spend time with me? I know I'm bothering them. That kind of thing. But I mean, it's not for the most part. I mean, I think they care about me. It's a pretty, you know, we have a good time. I think When we're together for the most part but",id,-3.0
+82,145_82,145_82,T,most part positive ?,crq,0.0
+83,145_83,145_83,P,yeah,cd,0.0
+84,145_84,145_84,T,Do you have any conflict or crisis going on right now? You mentioned the loss of your job.,irq,0.0
+85,145_85,145_85,P,"Yeah, I'm, I'm gonna be evicted from my house or you know, my apartment because I can't pay my bills because I lost my job so I really don't know what I'm going to do or where I'm going to go. I just don't know what to do. I'm feeling really lost and like helpless and like everything's just pointless.",id,-2.0
+86,145_86,145_86,T,I'm sorry to hear that. When are you going to be evicted?,"ap, irq",-1.0
+87,145_87,145_87,P,"Um, well, I'm not quite sure. Um, it sounds like it's going to be at the end of the month.",id,-2.0
+88,145_88,145_88,T,So then month are going to be evicted from the is it  house or  apartment ?,irq,0.0
+89,145_89,145_89,P,Its an apartment,id,0.0
+90,145_90,145_90,T,when did you find this out?,irq,0.0
+91,145_91,145_91,P,"Um, well, you know, before I lost my job, I had some trouble paying the rent as it was. So, um, you know, the last time I missed my rent was probably like, a month and a half ago, my landlord kind of told me that I couldn't live there anymore, but I didn't know, you know, how much stock to put in Then and Now, at the beginning of the month, he said, you know, you have to, you're gonna have to get out of here, you're gonna be evicted. We're gonna change the locks. And",id,0.0
+92,145_92,145_92,T,so it's all fairly recent.,crq,0.0
+93,145_93,145_93,P,"Yeah. I guess that's why having more anxiety than before because like, it feels really out of control, and I don't know what is going to happen like when he's going to do it, you know, for sure and how you know what I'm going to do. So",cd,-2.0
+94,145_94,145_94,T,there's a lot of uncertainty around what's going to happen and what's going to happen to you?,crq,0.0
+95,145_95,145_95,P,Exactly,cd,0.0
+96,145_96,145_96,T,hmmm...have you in the past thought about suicide?,yq,0.0
+97,145_97,145_97,P,"Yeah, yeah, definitely.",op,-1.0
+98,145_98,145_98,T,Can you tell me about how many times or about how often ?,irq,0.0
+99,145_99,145_99,P,"Umm probably like, every time I get depressed like this, I, I, you know, have those thoughts. So I don't know. I mean, how often? That's that's a really hard question.",id,-1.0
+100,145_100,145_100,T,All right. Have you ever attempted to commit suicide?,yq,0.0
+101,145_101,145_101,P,"Yeah, one time, probably like four years ago.",op,0.0
+102,145_102,145_102,T,What did you do?,irq,0.0
+103,145_103,145_103,P,"I cut my wrists, but it wasn't, you know, nothing really happened. Like I just put a I just wrapped him up. It wasn't really that bad",id,-3.0
+104,145_104,145_104,T,You didn't need to go to hospital,crq,0.0
+105,145_105,145_105,P,No,cd,0.0
+106,145_106,145_106,T,Have you ever thought about committing suicide and we're about to attempt and stopped ?,yq,0.0
+107,145_107,145_107,P,"Yeah, yeah. ",op,-1.0
+108,145_108,145_108,T,How many times does that happen?,irq,0.0
+109,145_109,145_109,P,Umm maybe like three or four. It's hard to remember cuz sometimes is a long time ago but more recently like maybe once or twice at least.,id,-1.0
+110,145_110,145_110,T,So once or twice in the recent past ?,crq,0.0
+111,145_111,145_111,P,Yeah.,cd,0.0
+112,145_112,145_112,T,Have you ever injured yourself intentionally?,yq,0.0
+113,145_113,145_113,P,Yeah.,op,-1.0
+114,145_114,145_114,T,"Okay, can you tell me about that.",irq,0.0
+115,145_115,145_115,P,"Well, there was that time that I tried to commit suicide and then there have been times before that where I like, you know, kind of like tested the waters like, you know, just cut myself a little bit to see what it would be like and that kind of thing.",id,-1.0
+116,145_116,145_116,T,was the last time  You have done that ?,irq,0.0
+117,145_117,145_117,P,"Um, it would be the last time I tried to commit suicide like that with time I was telling you about that really freaked me out. So I don't think I would try that again.",id,-1.0
+118,145_118,145_118,T,so you don't think you'd try that again.,crq,0.0
+119,145_119,145_119,P,No  Not like cutting myself up.,cd,-1.0
+120,145_120,145_120,T,"Okay. Have you ever been abused, physically, sexually, emotionally? ",yq,0.0
+121,145_121,145_121,P,I don't know.,on,-3.0
+122,145_122,145_122,T,"So if you get evicted, you're worried you'd have to live with your mother. ",yq,0.0
+123,145_123,145_123,P,Yeah.,op,0.0
+124,145_124,145_124,T,And you guys had a rough time in the past.,yq,0.0
+125,145_125,145_125,P,Yeah.,op,0.0
+126,145_126,145_126,T,You don't want to repeat that.,yq,0.0
+127,145_127,145_127,P,"No, I don't wanna live like that ",on,-2.0
+128,145_128,145_128,T,What is your attitude towards suicide? What are your feelings about suicide as a concept in general?,irq,0.0
+129,145_129,145_129,P,"I don't know. I mean, I guess it's really sad like, nobody wants that. You know, whenever you hear somebody committed suicide, everybody's really sad about it, but sometimes it just feels like what else is there? You know, like, I don't know how I can go on like this, like things just keep getting worse and worse. And I don't know what to do. So I mean, I'm sure. Like, it's not a great thing, but at the same time, I don't know.",id,0.0
+130,145_130,145_130,T,"You disapprove it, But you're considering it because you're running out of options.",crq,0.0
+131,145_131,145_131,P,Yeah,cd,0.0
+132,145_132,145_132,T,Have you ever been impulsive in the past?,yq,0.0
+133,145_133,145_133,P,"Um, I don't know. Like, I guess not really. Because there have been times when I've like thought about committing suicide and getting really close and still haven't done it. You know,",op,-1.0
+134,145_134,145_134,T,Do you have other areas other than suicide. Generally impulsive,irq,0.0
+135,145_135,145_135,P,I don't think so.,id,0.0
+136,145_136,145_136,T,Ever violent or aggressive?,crq,0.0
+137,145_137,145_137,P,"Not really, no, no.",cd,-1.0
+138,145_138,145_138,T,"Have you ever experienced a couple loose nations, which should be like hearing things other people can't hear seeing things that people can't see. ",irq,0.0
+139,145_139,145_139,P,I don't think so. I,id,0.0
+140,145_140,145_140,T,You don't think so.,crq,0.0
+141,145_141,145_141,P,"No, I mean, it's hard to tell what other people can't hear when no one's around to tell you whether they can hear it or not. But I don't think that I have",cd,-1.0
+142,145_142,145_142,T,"to be fairly certain, you know that?",crq,0.0
+143,145_143,145_143,P,Yeah.,cd,0.0
+144,145_144,145_144,T,Can you tell me about any alcohol or drug use?,irq,0.0
+145,145_145,145_145,P,"Sometimes I drink, you know, alone when I'm in my house, because like I said, I don't see a lot of other people. I don't really do any drugs.",id,0.0
+146,145_146,145_146,T,When's the last time you had a drink?,irq,0.0
+147,145_147,145_147,P,Last night,id,0.0
+148,145_148,145_148,T,How much did you had ?,irq,0.0
+149,145_149,145_149,P,Probably like a bottle of wine.,id,0.0
+150,145_150,145_150,T,A bottle of wine. Is that typical for you?,crq,0.0
+151,145_151,145_151,P,"Yeah, it is. ",cd,0.0
+152,145_152,145_152,T,How often would you say you drink a bottle of wine ?,irq,0.0
+153,145_153,145_153,P,"maybe like three or four times a week,",id,0.0
+154,145_154,145_154,T,three or four times a week  ?,crq,0.0
+155,145_155,145_155,P,Yeah,cd,0.0
+156,145_156,145_156,T,So I want to ask you about these suicidal thoughts that you're having now. How frequently Are you having these thoughts?,gc irq,0.0
+157,145_157,145_157,P,Like really often,id,0.0
+158,145_158,145_158,T,coming all the time or not?,yq,0.0
+159,145_159,145_159,P,"Yeah, yeah. ",op,0.0
+160,145_160,145_160,T,how intense would you say the thoughts are ?,irq,0.0
+161,145_161,145_161,P,"fairly intense, Like it's scary the thought of it, you know, but at the same time, like, I'm having them so much it's, I don't know.",id,-2.0
+162,145_162,145_162,T,It's frightening for you.,crq,0.0
+163,145_163,145_163,P,Yeah.,cd,0.0
+164,145_164,145_164,T,Do you have a plan laid out if you're trying to commit suicide?,irq,0.0
+165,145_165,145_165,P,I guess I would just drink a bottle of wine like I usually do and then maybe take some pills.,id,-1.0
+166,145_166,145_166,T,What kind of pills ?,irq,-2.0
+167,145_167,145_167,P,"um, there's like ibuprofen in my medicine cabinet. That's like the only thing I have in there other than vitamin. So I guess I just take that. I don't know how many. 4 I guess I dont know.",id,-1.0
+168,145_168,145_168,T,So you would drink a bottle of wine and take a lot of ibuprofen ?,yq,-2.0
+169,145_169,145_169,P,Hmm mmm,op,0.0
+170,145_170,145_170,T,Do you have an intent to commit suicide? You're gonna you're gonna fall through ?,irq,-2.0
+171,145_171,145_171,P,"I don't know like sometimes I think about it I get really close to doing it, but I you know, I haven't like taken any pill so I guess yeah, like I think about it a lot and I've gotten close to doing it so yeah, I guess Yeah, I guess so ",id,-1.0
+172,145_172,145_172,T,Do you feel like you have an intent ?,yq,0.0
+173,145_173,145_173,P,Yeah,op,0.0
+174,145_174,145_174,T,Can you tell me about some of the reasons for staying alive for not committing suicide?,orq,-2.0
+175,145_175,145_175,P,"Well, I don't really want to die. Um, I guess my friend family would be really upset and I probably my friends, too. I don't know.",od,-3.0
+176,145_176,145_176,T,Do you have any religious or cultural values surrounding suicide?,irq,0.0
+177,145_177,145_177,P,Not really,id,0.0
+178,145_178,145_178,T,You have an pets at home,irq,0.0
+179,145_179,145_179,P,I have a cat. Yeah.,id,0.0
+180,145_180,145_180,T,What would happen to your cat?,irq,0.0
+181,145_181,145_181,P,"I give her to my sister shorty has a couple cats. So, you know, I've already asked her, you know, if anything were to happen to me, you know, just in general, if she would take the cat, you know,",id,-1.0
+182,145_182,145_182,T,when did you ask for that?,irq,0.0
+183,145_183,145_183,P,"Kind of like, two months ago,",id,0.0
+184,145_184,145_184,T,so not related to what's going on now?,irq,0.0
+185,145_185,145_185,P,"No, I guess not. I mean, I don't know. Like I just asked her in general like if anything happened to me. So",id,0.0
+186,145_186,145_186,T,do you have any other reasons for living?,irq,0.0
+187,145_187,145_187,P,"I don't know. I mean, I lost my job. I I live alone. I don't know, like, I'm gonna have to, like move out and I don't even know where I'm going to go.",id,-3.0
+188,145_188,145_188,T,That's scary for you. And anxiety is provoking?,crq,0.0
+189,145_189,145_189,P,Yes.,cd,0.0
+190,145_190,145_190,T,What did you do when you worked?,irq,0.0
+191,145_191,145_191,P,I just You mean like what kind of job did I do ?,crq,0.0
+192,145_192,145_192,T,Yes,cd,0.0
+193,145_193,145_193,P,I worked at a gas station.,id,0.0
+194,145_194,145_194,T,Did you like the work?,yq,0.0
+195,145_195,145_195,P,"I liked it. You know we had some regular customers and kind of get to know them its a little. I don't know. You just you know that my coworkers are nice. And you know, we have not like great benefits, but there was some stuff you know, you could get like couple vacation days and stuff. So",op,-1.0
+196,145_196,145_196,T,do you ever look forward to get another job?,irq,0.0
+197,145_197,145_197,P,I just don't see how I would.,id,0.0
+198,145_198,145_198,T,What is that ?,irq,0.0
+199,145_199,145_199,P,"I mean, I lost this job. So why would I be good enough to get another job?",id,-3.0
+200,145_200,145_200,T,Because you lose a strike?,crq,0.0
+201,145_201,145_201,P,I went to work drunk.,cd,0.0
+202,145_202,145_202,T,Can you tell me about some of your strengths? What are some of your positive qualities? ....can't think of any ?,irq,0.0
+203,145_203,145_203,P,I don't know,id,0.0
+204,145_204,145_204,T,What would ? What was your family say your strengths were ?,irq,0.0
+205,145_205,145_205,P,"screaming and yelling, right? I don't know, I don't know. I don't know.",id,-3.0
+206,145_206,145_206,T,It's hard for you to think positively right now is it?,yq,0.0
+207,145_207,145_207,P,Yes,op,-1.0
+208,145_208,145_208,T,"Alright Sharon, here's, we're gonna do, I'm gonna appreciate you allow me to complete this assessment. I'm gonna bring it back over to your counselor, or we're gonna put together a plan to keep you safe right now. So I'm going to take care of their estimate. Okay.",gc,0.0
+209,145_209,145_209,P,Thank you.,gc,0.0
+210,145_210,145_210,T,Thanks.,gc,0.0

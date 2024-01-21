@@ -1,0 +1,84 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,43_0,0,43_0,139_0,P,"Okay, ",gc
+1,43_1,1,43_1,139_1,T,you're doing okay?,gt
+2,43_2,2,43_2,139_2,P,Yeah,"ack,gt"
+3,43_3,3,43_3,139_3,T,I understand your father budget today is a little worried about I might be feeling.,gc
+4,43_4,4,43_4,139_4,P,"yeah. I mean, he's worried that I'm depressed, but I am not.",gc
+5,43_5,5,43_5,139_5,T,"Yeah, he had mentioned that you had some concerns about some things going on in a neighborhood and you call the police a few times. ",gc
+6,43_6,6,43_6,139_6,P,He told you that?,irq
+7,43_7,7,43_7,139_7,T,They told me about that.,id
+8,43_8,8,43_8,139_8,P,"Well, yeah, I mean, I had called I have called the police a few times because there's something going on in my neighborhood. And it's, yeah, makes me seem like I'm depressed but I'm not I just I'm concerned. about what's going on.",id
+9,43_9,9,43_9,139_9,T,"sure you're not depressed, you're more concerned. So what's going on? We live it's misleading to these feelings.",irq
+10,43_10,10,43_10,139_10,P,"Um, well, it's actually very scary, huh. There I know about. The government has been kidnapping girls in this area and taking them away for sex trafficking and prostitution.",id
+11,43_11,11,43_11,139_11,T,"to boot the government is apprehending people in the area relive I know they are, you know they are ",yq
+12,43_12,12,43_12,139_12,P,Yes.,ack
+13,43_13,13,43_13,139_13,T,And did you see things that's specifically led you to believe this?,irq
+14,43_14,14,43_14,139_14,P,"Yeah, yes. So, there specifically were two girls that lived down the street. And I saw a man Come come down the street and The girls were taken. And that's when I initially called the police. But I found that they're in on it to the",id
+15,43_15,15,43_15,139_15,T,police are in on it too.,crq
+16,43_16,16,43_16,139_16,P,Yes.,ack
+17,43_17,17,43_17,139_17,P,"They tried to tell me that the girls were they're safe and where they're at, but I know they're not.",cd
+18,43_18,18,43_18,139_18,T,So then they investigated what you saw. And they came back and told you that,crq
+19,43_19,19,43_19,139_19,P,"they pretended to, ",cd
+20,43_20,20,43_20,139_20,T,they pretended to investigate. Yeah. And they came back and told you everything was okay. But you're not.,gc
+21,43_21,21,43_21,139_21,P,"I know. I mean, I know it's a lie. Because, you know, I saw that I haven't seen a girl since like, I saw the girls on the street. The man came, the girls went out there.",gc
+22,43_22,22,43_22,139_22,P,And,gc
+23,43_23,23,43_23,139_23,P,"they told me everything's fine. But I know there's a lie and I won't go back to the police again, because I know that they're now on it.",gc
+24,43_24,24,43_24,139_24,T,"They're in on the, what the government's been doing. So what do you think of your father's concerns with, he's concerned that you're, that you're down there depressed, and that your thinking hasn't been been clear? When you think about his concerns? ",orq
+25,43_25,25,43_25,139_25,P,"I mean I know he's, he's worried about me. But, you know, it's interesting to understand the severity of the situation. And, you know, it's hard. It's hard to sleep. I'm thinking about these poor girls. And, you know, it's the government, like, the government has cameras everywhere, and they can watch what I'm doing it all times. And it's, you know, it's exhausting. So I can see how he would think I'm depressed. Because, you know, I'm bored. I, you know, I'm not sleeping well, and I'm not eating because what if they poisoned my food? You know, they're poisoning water all the time. So, you know, it is scary and it is affecting anybody. It's not depression.",od
+26,43_26,26,43_26,139_26,T,You're not you're not depressed.,yq
+27,43_27,27,43_27,139_27,P,No,on
+28,43_28,28,43_28,139_28,P,"I'm sad for those girls. And I'm scared for, for me and like what's going on? But, you know, I want to make sure that this doesn't happen again because you know, I can't let it happen. We can't let this continue. So that's, that's what's taking up my time right now.",od
+29,43_29,29,43_29,139_29,T,And how long has this been going on?,irq
+30,43_30,30,43_30,139_30,P,"For a few months, a few months",id
+31,43_31,31,43_31,139_31,T,is that when you first saw what You what you believe to be in kidnapping,yq
+32,43_32,32,43_32,139_32,P,when I saw the kidnapping? Yes,"crq,ack"
+33,43_33,33,43_33,139_33,T,those few months ago?,irq
+34,43_34,34,43_34,139_34,T,Were there any beliefs like this before? Two months?,irq
+35,43_35,35,43_35,139_35,P,"I mean, yes. I've always been aware that the government you know, is probably up just to things that they probably shouldn't be and that they have access and abilities beyond, you know, the normal person. But after I saw the kidnapping, I had proof and so it's it's gotten worse because I feel like they know that I know.",id
+36,43_36,36,43_36,139_36,T,"So you felt this way for a while, but seeing what you saw two months ago that made you more short?",irq
+37,43_37,37,43_37,139_37,P,Yes. Because now I have proof,id
+38,43_38,38,43_38,139_38,T,because I have proof Have you ever been treated for depression in the past?,irq
+39,43_39,39,43_39,139_39,P,"Yes. My dad has taken me before when he was worried about me. But I, you know, it's never really been depression. It's always been something else. Like, I'm fine. I just, I'm aware of what's going on around me. And I don't think my dad understands that I don't think the places he takes me understands that. So",id
+40,43_40,40,43_40,139_40,P,"what have the people at the places where he has taken, you know, what have they said about your condition?",irq
+41,43_41,41,43_41,139_41,P,"Um, you know, they, they try to say the same thing that you know, I'm depressed or whatever, but, you know, I know I know the truth and sometimes I just have to play along.",id
+42,43_42,42,43_42,139_42,T,Just play along with it.,gc
+43,43_43,43,43_43,139_43,P,"Yeah, because, you know, this is what the government wants, they want me to look crazy. So there's nothing I can do about it.",gc
+44,43_44,44,43_44,139_44,T,You think they want to discredit you?,irq
+45,43_45,45,43_45,139_45,P,"Because if I if, you know, it's kind of like smearing my good name. They see me in and out of different agencies and appearing crazy. You know, obviously a lot of people don't believe the story they choose not to believe where they get paid off. And they write what they write on my file but it's not true. I'm just know what's going on.",id
+46,43_46,46,43_46,139_46,T,Because you know what's going on. That's what's led to all these occurrences. This is This has led to the symptoms.,"id,crq"
+47,43_47,47,43_47,139_47,P,"Yeah, like lately Yeah. Like, you know, I haven't been asleep, you know, and, you know, I feel guilty about what's going on. Right. mean that I know and that, you know, I feel it's hard for me to help them, like with, you know, cameras everywhere and I came to the grocery store without being watched. And I know they're watching me so you know, I I do everything else was too, you know like I go to work I do the chores, because I have to make sure they see me going to work chores.","id,cd"
+48,43_48,48,43_48,139_48,T,So you see you kind of play along.,crq
+49,43_49,49,43_49,139_49,P,Yeah.,cd.ack
+50,43_50,50,43_50,139_50,T,All right. So do you ever have any thoughts related to death or dying or anything like that?,yq
+51,43_51,51,43_51,139_51,P,No.,on
+52,43_52,52,43_52,139_52,P,"No, like I'm worried. No.","on,id"
+53,43_53,53,43_53,139_53,T,You worried about what?,irq
+54,43_54,54,43_54,139_54,P,"I mean. I'm worried about the government, you know, destroying My life, you know, but I don't want to die and I don't think they're going to kill me. I think that'd be too easy. And it would just be more proof.",id
+55,43_55,55,43_55,139_55,T,So there'll be more proof that the way you've seen this real,crq
+56,43_56,56,43_56,139_56,P,"correct, because obviously I'm trying to tell people about it. And if I suddenly show up missing, like there, people are going to know. So I know that they're not going to hurt me, but they could make me look crazy and I'm worried about my life. Like them worried in my life.",cd
+57,43_57,57,43_57,139_57,T,About that way. Hmm. How about any drug or alcohol? abuse? Right?,irq
+58,43_58,58,43_58,139_58,P,"No, nothing. I dont like to use those things. All right.",id
+59,43_59,59,43_59,139_59,T,Any medical conditions?,yq
+60,43_60,60,43_60,139_60,P,No,on
+61,43_61,61,43_61,139_61,T,"Has there ever been a time when you felt like really very happy, like how lotta energy it was very happy for several days.",yq
+62,43_62,62,43_62,139_62,P,Not really.,on
+63,43_63,63,43_63,139_63,T,That's never happened?,yq
+64,43_64,64,43_64,139_64,P,No.,on
+65,43_65,65,43_65,139_65,T,Okay.,ack
+66,43_66,66,43_66,139_66,T,Have you ever heard or seen things other people can't hear or see.,yq
+67,43_67,67,43_67,139_67,P,I think that I'm aware of things that people but no like,on
+68,43_68,68,43_68,139_68,T,who'd been hospitalized before?,yq
+69,43_69,69,43_69,139_69,P,Yes.,ack
+70,43_70,70,43_70,139_70,P,"But again, it was I tried to initially tell my my dad about some things that I never knew about and he had taken me to the hospital but that was before.",id
+71,43_71,71,43_71,139_71,T,"So, I would like to get him to talk to a counselor today.",id
+72,43_72,72,43_72,139_72,T,How do you feel about that?,irq
+73,43_73,73,43_73,139_73,P,"So really necessary today like, Can I come back another day?","id,irq"
+74,43_74,74,43_74,139_74,T,I think it would be helpful for you. We had a counselor talk to you today.,id
+75,43_75,75,43_75,139_75,P,"Well,",gc
+76,43_76,76,43_76,139_76,P,"I understand that's what you need to do. So I guess that's what the you know, that's what we need to do to get this over with. That's fine.",gc
+77,43_77,77,43_77,139_77,T,You can. you can be okay with that.,gc
+78,43_78,78,43_78,139_78,P,"I can play along,",ack
+79,43_79,79,43_79,139_79,T,you can play along.,crq
+80,43_80,80,43_80,139_80,T,"Sure. I want to thank you for answering these questions. I know this is a tough experience for you have a tough time with everything that's going on that you've described. So it's, it's been helpful for you to answer these questions for me. And I just need a couple minutes and I'll get you over to see a counselor and we'll kind of go from there. ","cd,id"
+81,43_81,81,43_81,139_81,P,"Okay,",gt
+82,43_82,82,43_82,139_82,T,"thanks, Sherry.",gt

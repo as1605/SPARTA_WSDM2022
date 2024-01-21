@@ -1,0 +1,56 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,143_0,143_0,T,"Hi Jack, how are you doing today ?",gt,0
+1,143_1,143_1,P,"Hey, I am doign well. How are you ?",gt,0
+2,143_2,143_2,T,"I am not doing bad, Thanks for asking. I'd like to give you an assessment to test your thinking and memory. Is that right? ","gt, crq",0
+3,143_3,143_3,P,Yeah.,cd,0
+4,143_4,143_4,T,So I'll be asking you a series of questions. If you could just answer them to the best your ability that'd be great.,gc,0
+5,143_5,143_5,P,Okay.,gc,0
+6,143_6,143_6,T,Okay. What is today's date?,irq,0
+7,143_7,143_7,P,The 26th,id,0
+8,143_8,143_8,T,What is today's year?,irq,0
+9,143_9,143_9,P,2015,id,0
+10,143_10,143_10,T,What is the month?,irq,0
+11,143_11,143_11,P,May,id,0
+12,143_12,143_12,T,what day is today ?,irq,0
+13,143_13,143_13,P,Tuesday,id,0
+14,143_14,143_14,T,Can you also tell me what season it is?,irq,0
+15,143_15,143_15,P,Summer,id,0
+16,143_16,143_16,T,Can you tell me the name of the building that we're in right now?,irq,0
+17,143_17,143_17,P,Wilmington University.,id,0
+18,143_18,143_18,T,"What floor, are we on?",irq,0
+19,143_19,143_19,P,The first floor?,id,0
+20,143_20,143_20,T,What city are we in?,irq,0
+21,143_21,143_21,P,Newcastle,id,0
+22,143_22,143_22,T,What County are we in ?,irq,0
+23,143_23,143_23,P,Newcastle.,id,0
+24,143_24,143_24,T,And what state are we in ?,irq,0
+25,143_25,143_25,P,Delware,id,0
+26,143_26,143_26,T,"Okay. I'm going to ask you to memorize few objects. So read them to ask you to repeat them back to me. The objects are ball, flag and tree.  Can you give those back to me ?",cv,0
+27,143_27,143_27,P,"ball, flag and tree.",cr,0
+28,143_28,143_28,T,Thank you. I would like you to begin with the number 100 and count backward by seven and continue to do so until i try to stop.,cv,0
+29,143_29,143_29,P,94 88 70 65 53,cr,0
+30,143_30,143_30,T,That's good. Thank you. I would like you to spell the word world backwards.,cv,0
+31,143_31,143_31,P,D L  O R W,cr,0
+32,143_32,143_32,T,Can you recall the three words I read to you few minutes ago?,cv,0
+33,143_33,143_33,P,"ball, Flower tree. ",cr,0
+34,143_34,143_34,T,Thank you.,gc,0
+35,143_35,143_35,P,hmm,gc,0
+36,143_36,143_36,T,Can you tell me what this is?,irq,0
+37,143_37,143_37,P,the pen,id,0
+38,143_38,143_38,T,"I'm going to read a phrase to like you to repeat it back to me. The phrase is no ifs, ands, or buts. Repeat that back to me.",cv,0
+39,143_39,143_39,P,"No ifs, ands or buts.",cr,0
+40,143_40,143_40,T,Are you right handed or left handed?,irq,0
+41,143_41,143_41,P,Right hand.,id,0
+42,143_42,143_42,T,"I'd like you to take this paper in your right hand, fold in half and then put it on the floor.",cv,0
+43,143_43,143_43,P,......,cr,0
+44,143_44,143_44,T,Thank you. I'm gonna hold up a sign. As instructions I'll point to it. I'd like you to follow those instructions.,"gc, cv",0
+45,143_45,143_45,P,......,cr,0
+46,143_46,143_46,T,"Thank you. On the left side chair, you'll find a clipboard if you could retrieve that.","gc, cv",0
+47,143_47,143_47,P,.....,cr,0
+48,143_48,143_48,T,spaced toward the bottom. Like you to write a sentence ?,cv,0
+49,143_49,143_49,P,.....,cr,0
+50,143_50,143_50,T,"Thank you. You'll see on that same paper, there's an image in the same area wrote that sentence. Can you copy that image form?","gc, cv",0
+51,143_51,143_51,P,....,cr,0
+52,143_52,143_52,T,"Good, thank you.",gc,1
+53,143_53,143_53,P,This has been helpful. I want to thank you for participating.,gc,0
+54,143_54,143_54,T,Thank you.,gc,0

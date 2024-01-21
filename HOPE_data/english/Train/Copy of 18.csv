@@ -1,0 +1,71 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,18_0,0,18_0,115_0,T,Am I doing today?,gt
+1,18_1,1,18_1,115_1,P,I'm doing good thanks. How are you?,gt
+2,18_2,2,18_2,115_2,T,I'm doing well. Thank you for asking. I understand you've been having some symptoms that have been bothering you lately.,gt
+3,18_3,3,18_3,115_3,T,Can you? Can you tell me about that?,irq
+4,18_4,4,18_4,115_4,P,"Well, I just moved into an apartment.",id
+5,18_5,5,18_5,115_5,P,It's the first time that,id
+6,18_6,6,18_6,115_6,P,I'm on my own. And I kind of had heard that someone got robbed and ever since then. I'm kind of nervous about my apartment getting wrong.,id
+7,18_7,7,18_7,115_7,T,Someone someone was robbed. near where you live.,crq
+8,18_8,8,18_8,115_8,P,"Yeah. Someone in the same complex. Okay. So Sometimes when I'm sleeping, I'll wake up in the middle of the night, and I'll think that",cd
+9,18_9,9,18_9,115_9,P,I locked the door. Is the door locked? And I can't fall back asleep.,cd
+10,18_10,10,18_10,115_10,T,How long does it take you to fall back to sleep?,irq
+11,18_11,11,18_11,115_11,P,Sometimes it takes maybe an hour two.,id
+12,18_12,12,18_12,115_12,T,And what are you thinking about during that time?,irq
+13,18_13,13,18_13,115_13,P,"I'm just worried that I left the door unlocked. And sometimes I'll hear sounds. And I think maybe someone's in the apartment or I just, I get nervous. I just get scared.",id
+14,18_14,14,18_14,115_14,T,That sounds scary.,ack
+15,18_15,15,18_15,115_15,T,And you said a couple hours to stay away.,gc
+16,18_16,16,18_16,115_16,T,Yeah. So,gc
+17,18_17,17,18_17,115_17,T,yeah. So this is this is troubling for you. Have you ever gotten up and check the door?,irq
+18,18_18,18,18_18,115_18,P,"Now I sit in bed, and I just try to I just think about it.",id
+19,18_19,19,18_19,115_19,T,So you just keep thinking about it. Does it get worse as the time goes on? Or does it get better? What happens?,irq
+20,18_20,20,18_20,115_20,P,"It gets, it gets worse.",id
+21,18_21,21,18_21,115_21,P,"I mean, I try to fall back asleep, and I stay in bed and I just think, you know, maybe I did leave the door unlocked. And then I just keep thinking that maybe it isn't locked.",id
+22,18_22,22,18_22,115_22,T,So keep cycling through the same,yq
+23,18_23,23,18_23,115_23,P,Yeah.,ack
+24,18_24,24,18_24,115_24,T,Do you ever do anything to try to get those thoughts to go away like focusing on something else?,irq
+25,18_25,25,18_25,115_25,P,"Um, well, I have like a ceiling fan above me. So sometimes, I'll just like, count how many times it goes around and just to distract myself from thinking about it. But I still think about the door being unlocked. Sometimes it helps.",id
+26,18_26,26,18_26,115_26,T,"Right? So you have have a fear that somebody is going to enter break in To where you live, and you're staying up at night thinking about whether the doors been secured. That's been that's been troubling. Anything else?",irq
+27,18_27,27,18_27,115_27,P,"Um, sometimes if I'm leaving for work, I'll get to my car and I'll think I let the hair Sugarland. And I'll think to myself, should I go back? I don't know what to do. And I'll just, like, kind of debate whether or not I should just go double check. I'm just worried that if I left the straightener on something, you know, that would happen, ",id
+28,18_28,28,18_28,115_28,T,What do you think  happen?,orq
+29,18_29,29,18_29,115_29,P,"Well, I mean, if I left the strainer on something, you know, it's if I have like clothes or something and it's it's on a quad like that burn, or if it's I just don't want anything. I don't want to place the burn down was nervous about.",od
+30,18_30,30,18_30,115_30,T,"So when you leave, you're thinking about it was a hairspray Are you thinking about whether you unplugged it or not? Or turn it off or not?",yq
+31,18_31,31,18_31,115_31,P,Yeah.,ack
+32,18_32,32,18_32,115_32,T,And how long those thoughts go on for?,irq
+33,18_33,33,18_33,115_33,P,"Normally I think about it before I get to my car, and I'm like, well, maybe I should just go just to make sure I unplugged it and I turned it off. And then sometimes during the day, I'll be at work and I can't focus just because I'm thinking about, I'll come back and I'll see you know, my apartment burned down so I left the strainer plugged in.",id
+34,18_34,34,18_34,115_34,T,"Alright, so remember with the door you're saying that you you struggle with those thoughts, but you don't get up and check the door. Have you ever come back and checked to see if something was left on?",crq
+35,18_35,35,18_35,115_35,P,"No, I haven't. But it just I think about it. I would if I did leave it. If I did leave it on or plugged in.",cd
+36,18_36,36,18_36,115_36,T,So you're worried anxious,yq
+37,18_37,37,18_37,115_37,P,Yeah.,ack
+38,18_38,38,18_38,115_38,T,"Yeah, afraid?",yq
+39,18_39,39,18_39,115_39,P,"Yeah, definitely. All three.",ack
+40,18_40,40,18_40,115_40,T,"And how, how often does this happen? Like the cycle of thoughts?",irq
+41,18_41,41,18_41,115_41,P,Probably throughout the day.,id
+42,18_42,42,18_42,115_42,T,So every day?,yq
+43,18_43,43,18_43,115_43,P,"every day, yeah.",ack
+44,18_44,44,18_44,115_44,T,And how long has this been going on?,irq
+45,18_45,45,18_45,115_45,P,"For Ever since I moved, I guess into the apartment. So about I guess a year ",id
+46,18_46,46,18_46,115_46,T,this specific a year,crq
+47,18_47,47,18_47,115_47,P,yeah.,cd
+48,18_48,48,18_48,115_48,T,And in that year timeframe hasn't become any worse.,yq
+49,18_49,49,18_49,115_49,P,Yeah.,ack
+50,18_50,50,18_50,115_50,T,Yeah. How did it start out?,irq
+51,18_51,51,18_51,115_51,P,"Um, it started out with just, you know, I would go to bed and I would wake up in the light and think to myself tonight, the door I'm pretty sure I locked the door. And then I would just be fine. I could go back to sleep and be like, no, I remember I locked it. But then as it progressed, I really, I would wake up multiple times throughout the night. And I would",id
+52,18_52,52,18_52,115_52,P,it would just keep me up.,id
+53,18_53,53,18_53,115_53,T,I should as you thought about it.,yq
+54,18_54,54,18_54,115_54,P,yeah,ack
+55,18_55,55,18_55,115_55,T,"All right, I want to ask a few other questions, try to help me figure out what's going on. Have you ever been diagnosed with any condition like a mental health condition?",yq
+56,18_56,56,18_56,115_56,P,No,on
+57,18_57,57,18_57,115_57,T,Have a medical condition?,yq
+58,18_58,58,18_58,115_58,P,"No, never.",on
+59,18_59,59,18_59,115_59,T,Have you ever used alcohol or any other substances?,yq
+60,18_60,60,18_60,115_60,P,No,on
+61,18_61,61,18_61,115_61,T,And is this been the first time in your life you've experienced these symptoms? Starting a year ago up till now?,yq
+62,18_62,62,18_62,115_62,T,"Yeah, ",ack
+63,18_63,63,18_63,115_63,T,never anything like this before.,yq
+64,18_64,64,18_64,115_64,P,No,ack
+65,18_65,65,18_65,115_65,T,I'm going to get you in to see one of our counselors here.,ci
+66,18_66,66,18_66,115_66,P,okay,ack
+67,18_67,67,18_67,115_67,T,I appreciate you spending this time with me. It's been helpful for me to try to understand what's going on.,gt
+68,18_68,68,18_68,115_68,P,Thank you.,gt
+69,18_69,69,18_69,115_69,T,Thanks,gt

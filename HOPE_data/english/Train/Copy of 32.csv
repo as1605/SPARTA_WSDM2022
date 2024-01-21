@@ -1,0 +1,58 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,32_0,0,32_0,128_0,T,"Okay, I want to switch gears. Again, I want to talk about risk, like suicide or harming others. ",gc
+1,32_1,1,32_1,128_1,P,Okay,gc
+2,32_2,2,32_2,128_2,T,"I know all these things don't apply to everybody, but I'm gonna make sure I go through and ask certain questions that Okay, ",gc
+3,32_3,3,32_3,128_3,P,okay.,gc
+4,32_4,4,32_4,128_4,T,Have you ever had a suicide attempt?,yq
+5,32_5,5,32_5,128_5,P,NO.,on
+6,32_6,6,32_6,128_6,T,So no attempts I've ever had thoughts of suicide.,crq
+7,32_7,7,32_7,128_7,P,"I mean, sometimes when I get really sad, I thought think that the world would be better without me. But I bring myself out of that. I don't think it's anything I'd never do but",cd
+8,32_8,8,32_8,128_8,T,"that's all you ever do. But sometimes, yeah, the thought crosses your mind like that. Yeah, remember the last time I thought like that crossed your mind?",irq
+9,32_9,9,32_9,128_9,P,We were getting evicted from our last place. Cuz I just felt like a complete failure.,id
+10,32_10,10,32_10,128_10,T,How long ago was that?,irq
+11,32_11,11,32_11,128_11,P,"was about a month and a half ago? Yeah, all the my friends in the house turned against me because I couldn't pay rent. And it would have been like, the third month but like not consecutively, so I don't see the big issue. Um, and so they told me that if I didn't get out, they would call the police. And I had to stay with my sister and I just, I felt like a failure. I felt like a failure and myself to my kids.",id
+12,32_12,12,32_12,128_12,T,So it's a tough time for you.,yq
+13,32_13,13,32_13,128_13,P,Yeah.,ack
+14,32_14,14,32_14,128_14,T,So you had some sounds like maybe passing thoughts.,yq
+15,32_15,15,32_15,128_15,P,Yeah.,ack
+16,32_16,16,32_16,128_16,T,that ever changes would you tell me?,yq
+17,32_17,17,32_17,128_17,P,Yeah,ack
+18,32_18,18,32_18,128_18,T,So how about harm to others? Meaning Do you ever feel like you have good thoughts? Have you ever develop a plan to hurt someone else?,irq
+19,32_19,19,32_19,128_19,P,When I was younger not anymore,id
+20,32_20,20,32_20,128_20,T,What was the last time,irq
+21,32_21,21,32_21,128_21,P,"probably when I was in high school well but yeah when I was still in that like violent stage in my life where I would fight but I never went to anything like out kill this person. It was always just you know, I'll knock you out, but I won't kill you.",id
+22,32_22,22,32_22,128_22,P,"And that was a while ago, but presently no thoughts of harming anybody else. No,",id
+23,32_23,23,32_23,128_23,P,"if I ever feel really, really angry, because held onto a wall I have like special plates. That all thrown on the ground and break them",id
+24,32_24,24,32_24,128_24,T,like the suicidal thoughts if thoughts of harming others do come up would you tell me about those?,irq
+25,32_25,25,32_25,128_25,P,"Oh yeah, I don't want to go jail over hurting somebody. So I tell you ",id
+26,32_26,26,32_26,128_26,T,Thank you,gc
+27,32_27,27,32_27,128_27,P,"No, no.",gc
+28,32_28,28,32_28,128_28,T,How about under the influence of drugs?,irq
+29,32_29,29,32_29,128_29,P,Ah well when I used to do go cocaine sometimes I would like think that somebody is at the door and they're not at the door. Nobody's nobody's there. think somebody in the house when there's nobody in the house?,irq
+30,32_30,30,32_30,128_30,T,"Alright, so I want to switch gears again. I want to talk about if you're okay with this, the goals for counseling, okay? So the goals that you want to meet",id
+31,32_31,31,32_31,128_31,P,"Okay, ",ack
+32,32_32,32,32_32,128_32,T,so let's start with if you're okay if your goals in life in general,gc
+33,32_33,33,32_33,128_33,P,"that's I haven't really felt lunch about it, but I would like to just have a real I mean, it doesn't care. I don't care what the job is just a nice cushy job without a job where I can just relax and when my kids will have a good future. I'll have a good future.",id
+34,32_34,34,32_34,128_34,T,better future for your children.,crq
+35,32_35,35,32_35,128_35,P,"Oh yeah,","ack,cd"
+36,32_36,36,32_36,128_36,T,Have any other general life goals?,irq
+37,32_37,37,32_37,128_37,P,"I guess be drug free Like I said, I'd really like to quit. ",id
+38,32_38,38,32_38,128_38,T,"But I have a goal specifically for counseling, like what you hope to get out of this counseling?",irq
+39,32_39,39,32_39,128_39,P,I'd like to learn to be less angry. Blood pressure down a little bit.,id
+40,32_40,40,32_40,128_40,T,eat less?,irq
+41,32_41,41,32_41,128_41,P,"And again, guess try to quit. Quit drugs,",id
+42,32_42,42,32_42,128_42,T,quitting drugs.,crq
+43,32_43,43,32_43,128_43,P,"kind of, I guess isn't the answer. To answer, kind of kind of confident, yeah, I mean, like I said, I haven't really move forward anywhere. And every time I go to a counseling place, so",cd
+44,32_44,44,32_44,128_44,T,"Alright, so you're kind of confident and wanting to try again.",crq
+45,32_45,45,32_45,128_45,P,Yeah.,"ack,cd"
+46,32_46,46,32_46,128_46,T,"So, throughout this intake of Sq, a lot of questions, I want to thank you for answering them. Do you have any questions for me?",yq
+47,32_47,47,32_47,128_47,P,No.,on
+48,32_48,48,32_48,128_48,T,"So next time, I see you, sorry, if you would be about a week. And we'll start with the actual counseling sessions. And so I'll still have some questions, but not as many as I've asked today. ",id
+49,32_49,49,32_49,128_49,P,Okay.,ack
+50,32_50,50,32_50,128_50,T,Does that make sense how it's structured,yq
+51,32_51,51,32_51,128_51,P,Yeah,ack
+52,32_52,52,32_52,128_52,T,"Alright, so we've completed intake. Also some more questions, but we'll get to the Catholics, the counseling sessions. Next week, we'll get started working on specific details of what's happened to and what might be causing it, how we can treat it. ",gt
+53,32_53,53,32_53,128_53,P,Alright.,gt
+54,32_54,54,32_54,128_54,T,"So I appreciate again, you taking this time and answer these questions, and I'll see you next week. ",gt
+55,32_55,55,32_55,128_55,P,Thank you.,gt
+56,32_56,56,32_56,128_56,T,"Thanks, Rhonda.",gt

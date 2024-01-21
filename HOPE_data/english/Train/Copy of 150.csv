@@ -1,0 +1,105 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,150_0,150_0,T,"Hi Ann, How are you doing today ? ",gt,0
+1,150_1,150_1,P,I guess I'm okay. How are you?,gt,0
+2,150_2,150_2,T,"I'm well, thanks for asking. So you sau you doing okay, what's going on?","gt, irq",0
+3,150_3,150_3,P,"I'm definitely no better than last week. When we talked. I mean, it's been I had some major binges this week. and I don't even honestly know why we're bothering to talk about it. Because I've been down this road before.",id,-1
+4,150_4,150_4,T,Umm hmm,gc,0
+5,150_5,150_5,P,"I should just, I should just like give up and buy some momos and, you know, just resign myself to the pack. I'm going to get fat and I'm going to stay bad.",gc,-1
+6,150_6,150_6,T,Tell me about some of the foods that you've been eating that have been kind of leading to this problem for you.,irq,0
+7,150_7,150_7,P,"brownies, brownies, brownies, brownies. And well, that's what got it started. You know, I was great the first half of the week and of staying away from the sugar away from the flour. I signed a stay at home from school, you know, hurt his head. He wanted to bake brownies with my son. Okay, let's bake brownies. So then we eat the whole pan and we bake two more pans. And then it didn't just stay the brownies, you know? Went out like hamburgers, french fries, candy, you know, stopped in wah wah on the way up. It's disgusting. I can't I didn't want to tell you how Because it's disgusting, and the clothes aren't fitting. It's just really, really sad.",id,-1
+8,150_8,150_8,T,You've had a rough week ?,yq,0
+9,150_9,150_9,P,Yeah.,op,-1
+10,150_10,150_10,T,"So, let's talk about for a second. I'd like to the kind of your relationship to this problem. How do you how do you view this problem?","gc, irq",0
+11,150_11,150_11,P,It's disgusting. It's like it's slavery. Food owns me.,id,-3
+12,150_12,150_12,T,So the so the food is in control of this situation?,crq,0
+13,150_13,150_13,P,"sounds ridiculous when you say it like that, but that's what it is.",cd,-3
+14,150_14,150_14,T,It's in control ?,crq,0
+15,150_15,150_15,P,Yeah,cd,-3
+16,150_16,150_16,T,"Alright. So, now I want to ask you a couple of questions about the importance and the confidence of changing clearly, you have some desire to change or we wouldn't be be here. ",gc,0
+17,150_17,150_17,P,"Oh my god, I would love to Yeah.",gc,1
+18,150_18,150_18,T,"So if you're looking at a scale of one to 10, one was, it's not important to change and 10 was extremely important change. This is just how important it is for you to curtail your eating 10 times very important to you.",irq,0
+19,150_19,150_19,P,"Yeah, it's very important",id,0
+20,150_20,150_20,T,"very important. Okay. So what if I asked the same question except this time? You're confidence. So, one is you're not confident, all you can change, but 10 you're very confident you could change.","gc, irq",0
+21,150_21,150_21,P,"I could probably change for half a day. I've done it. And sometimes if I'm lucky, I'll get a week. But overall?","id, crq",-1
+22,150_22,150_22,T,overall  yeah,cd,0
+23,150_23,150_23,P,it's impossible. Like you want a number at zero.,id,-1
+24,150_24,150_24,T,So it's below the below the scale of one to 10 this is,crq,0
+25,150_25,150_25,P,Yeah,cd,0
+26,150_26,150_26,T,so you can have no confidence at all.,crq,0
+27,150_27,150_27,P,"I've tried it. I know. I mean, it's like beating my head against the wall.",cd,-3
+28,150_28,150_28,T,"So, on one hand you'd like to, you'd like to stop the eating, It's important to but on the other hand, you don't believe you can do it. ","gc, crq",0
+29,150_29,150_29,P,I can't do it.,cd,-1
+30,150_30,150_30,T,You can't do it?,crq,0
+31,150_31,150_31,P,I can't.,cd,0
+32,150_32,150_32,T,"it can't be done. Have there been any other changes you have been able to make, say in the last few years that have been positive.","gc, irq",0
+33,150_33,150_33,P,I stopped biting my nails.,id,0
+34,150_34,150_34,T,So you had some small successes in terms of making changes.,crq,0
+35,150_35,150_35,P,Yeah. Yeah.,cd,0
+36,150_36,150_36,T,What do you think makes the this thought I'll just refer to as the food problem so much more powerful ? So much more difficult to tackle?,orq,0
+37,150_37,150_37,P,"I wish I know. I mean, there's so many things it's it's everywhere.",od,-1
+38,150_38,150_38,T,The food is everywhere?,crq,0
+39,150_39,150_39,P,It is everywhere. I mean,cd,0
+40,150_40,150_40,T,You mentioned before that brownies were the culprit for this last week.,crq,0
+41,150_41,150_41,P,"brownies, Hershey bars, Hershey Kisses, Yeah, chocolate.",cd,0
+42,150_42,150_42,T,You enjoy chocolate?,yq,0
+43,150_43,150_43,P,Yeah.,ack,0
+44,150_44,150_44,T,Okay. How about other foods that could be contributing the problem? Maybe you don't enjoy as much as chocolate.,irq,0
+45,150_45,150_45,P," Oh, potato chips. French fries. Mexican food. What else? Cheese?",id,-3
+46,150_46,150_46,T,Definitely any of the types of candies ?,irq,0
+47,150_47,150_47,P,"start naming Skittles, cherry Starburst basically any candy.",id,-3
+48,150_48,150_48,T,Pretty much any candy?,crq,0
+49,150_49,150_49,P,Yeah.,cd,0
+50,150_50,150_50,T,"So of the candy, so I want to focus just on the candies. Okay, and not to the foods just for now. The thought of like I introduced the idea of stopping eating chocolate. How would you react to that? ","gc, irq",0
+51,150_51,150_51,P,Not gonna happen.,id,-2
+52,150_52,150_52,T,"That's not gonna happen?  All right,",crq,0
+53,150_53,150_53,P,I would love for it to happen.,cd,0
+54,150_54,150_54,T,"right, But that's not gonna happen ?",crq,0
+55,150_55,150_55,P,I can just tell you I don't even want to pretend.,cd,-1
+56,150_56,150_56,T,"So you know that for sure. How about the let's, let's go, for example with the Skittles. What if I introduce the idea of stopping the consumption of Skittles?","gc, irq",0
+57,150_57,150_57,P,Just the Candy Skittles ?,crq,0
+58,150_58,150_58,T,Just Just that one candy. Yeah.,cd,0
+59,150_59,150_59,P,"Why bother that? Like, can I not eat Skittles? Is that what you're saying? Like,","id, crq",-1
+60,150_60,150_60,T,"you could. It's up to you whether or not but if I introduced that idea of stopping the consumption of Skittles, how would you react to that?","gc, cd",0
+61,150_61,150_61,P,I don't really understand why.,id,-1
+62,150_62,150_62,T,"Well, it represents a change in the direction that you want to move.",gc,0
+63,150_63,150_63,P,"But if I stopped eating Skittles, I'm still going to eat brownies I'm still going to eat. Yeah,",gc,-3
+64,150_64,150_64,T,"we know we know that scenario that you know, you can't really make a change right now from what you're saying. Like that's the idea of stuffing chocolate is not going over well, with you",gc,0
+65,150_65,150_65,P,"no, it's not gonna happen.",gc,-3
+66,150_66,150_66,T,and that's fine. But the idea of stopping Skittles,orq,0
+67,150_67,150_67,P,Its fine.,od,0
+68,150_68,150_68,T,that doesn't seem as daunting?,yq,0
+69,150_69,150_69,P,No.,on,0
+70,150_70,150_70,T,"Would you agree still on, say the 110 scale that it's important to stop Skittles?",yq,0
+71,150_71,150_71,P,Yeah.,op,0
+72,150_72,150_72,T,Okay.,gc,0
+73,150_73,150_73,P,Yeah.,gc,0
+74,150_74,150_74,T,How confident are you you could not eat  ?,irq,0
+75,150_75,150_75,P,"it's kind of funny now you're talking about it, I've sort of wants Skittles more. But, you know, I like from now till next week when I come in here, I'd say like I am 99% confident I could not eat Skittles and it would not be a major problem.",id,-1
+76,150_76,150_76,T,So this is a change that you think you could accomplish.,crq,0
+77,150_77,150_77,P,Yeah,cd,0
+78,150_78,150_78,T,Even though you're not sure it'll actually contribute to solving the larger problem. We know that that's something that that's an area where you don't really see a change as as likely,gc,0
+79,150_79,150_79,P,"If I don't eat Skittles, this week or even for the rest of my life, is it going to solve my problem? No, but will I do it? If that's what you want me to do? Yeah, that's fine.",gc,0
+80,150_80,150_80,T,"Well, I would hope it's something that that you would want to do. I mean, what I want is one thing, what you want is really important here. Is this something that mean your Skittles, part of the problem? ",orq,0
+81,150_81,150_81,P,"Yeah, ",od,0
+82,150_82,150_82,T,small?,crq,0
+83,150_83,150_83,P,Yeah,cd,0
+84,150_84,150_84,T,"Alrigh. No pun intended, right. But it's a small part of the problem, but you'd agree it's still part of the problem. ",gc,0
+85,150_85,150_85,P,"Yeah, sure.",gc,0
+86,150_86,150_86,T,Not a huge change. But it's one that we can work on.,gc,0
+87,150_87,150_87,P,Alright,gc,0
+88,150_88,150_88,T,"And we want you to be able to, you know, genuinely buy into the goal. I mean, if you don't think it's important, we can talk about other areas of change.",gc,0
+89,150_89,150_89,P,"No, I guess I see what you're saying. I mean, if I'm gonna be completely honest with you, I Well, that's what I'm paying you for. Right? So I don't think it's gonna work. I'll just tell you that ",gc,-1
+90,150_90,150_90,T,"right. You think you could stop eating Skittles, but you don't think it's gonna solve the larger problem or lead to?",crq,0
+91,150_91,150_91,P,Exactly.,cd,0
+92,150_92,150_92,T,But that's what we have to work with right now. Because the larger problem is not something you mean the way you put it is it has control.,gc,0
+93,150_93,150_93,P,Yeah. Yeah.,gc,0
+94,150_94,150_94,T,"So if I introduced the idea of stopping brownies, ",gc,0
+95,150_95,150_95,P,"no, no, no, sorry.",gc,0
+96,150_96,150_96,T,"So let's let's go after the change that we can achieve in this case. You know, it's not perfect. It's not ideal, but it's what you can do. you saw the plan so suffer  so for this week so you can week for this week just Just continue eating Skittles. ",gc,0
+97,150_97,150_97,P,Now Skittles alright,gc,0
+98,150_98,150_98,T," And let's see, let's see how we do with that change.",gc,0
+99,150_99,150_99,P,So that seemed to make sense.,gc,0
+100,150_100,150_100,T,Yeah.,gc,0
+101,150_101,150_101,P,So work with that and I'll see you again week.,gc,0
+102,150_102,150_102,T,Thanks.,gc,0
+103,150_103,150_103,P,Thank you,gc,0

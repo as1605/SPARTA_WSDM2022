@@ -1,0 +1,61 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,90_0,0,90_0,30_0,T,"Jackie, how are you?",gt,,0
+1,90_1,1,90_1,30_1,P," Okay, How are you?",gt,,0
+2,90_2,2,90_2,30_2,T,thanks for asking. I see that you have signed a release so I could talk to your mother and that she brought you in today.  What's What's going on there?,id,irq,0
+3,90_3,3,90_3,30_3,P,They think I have a drinking problem. My family..,id,,-1
+4,90_4,4,90_4,30_4,T,your family thinks show drinking problem.,crq,,0
+5,90_5,5,90_5,30_5,P,Yeah. So we really started this was this past weekend. They came to pick me up for my bridal shower. And I was I was drunk when they came to get me so I couldn't go and now everybody's pretty pissed at me.,op,id,0
+6,90_6,6,90_6,30_6,T,So they asked you to come into the agency.,crq,,0
+7,90_7,7,90_7,30_7,P,"Yeah, you know, I don't want them to hate me or anything. So I agreed to come.",cd,,-1
+8,90_8,8,90_8,30_8,T,Do you believe that you have a drinking problem?,yq,,0
+9,90_9,9,90_9,30_9,P,"I mean, I like to drink.",op,,0
+10,90_10,10,90_10,30_10,T,You think It's okay?,yq,,0
+11,90_11,11,90_11,30_11,P,Yeah. I like I like it like drinking.,op,id,0
+12,90_12,12,90_12,30_12,T,"Come on, you mind if I ask you a few questions related to drinking,",yq,,0
+13,90_13,13,90_13,30_13,P,that's fine.,op,,0
+14,90_14,14,90_14,30_14,T,"So, how often do you drink now?",irq,,0
+15,90_15,15,90_15,30_15,P,"Pretty much every day. I drink every day on the weekends for sure. Like, during the week, I'll go to the whatever the best local happy hour is, you know, scope out what's going on. So I'll go after work and have some drinks.",id,,0
+16,90_16,16,90_16,30_16,T,What about on the weekend?,irq,,0
+17,90_17,17,90_17,30_17,P,"weekend I gotta keep to myself. still drink a little whatever I have in the house, but I don't really go out a lot of weekend mostly to stay at home and yeah, drink whatever I have there.",id,,0
+18,90_18,18,90_18,30_18,T,"How much you're drinking, let's say on the weekend",irq,,0
+19,90_19,19,90_19,30_19,P,"it's hard to keep track of thing. Say a couple cases over maybe like two or three cases of beer throughout the weekend. If there's something on sale, you know, at the liquor store down the street, okay, I like a bottle of vodka or something to go along with it.",id,,0
+20,90_20,20,90_20,30_20,T,"All right, how about during the week?",irq,,0
+21,90_21,21,90_21,30_21,P,"during the week, I just stayed at the bar for a few hours maybe have like, six or seven drinks and then go home.",id,,0
+22,90_22,22,90_22,30_22,T,Are you drinking More than you want to?,yq,,0
+23,90_23,23,90_23,30_23,P,"Um, I guess so. I mean, I've kind of tried to make a plan to just say on the weekends to drink some. And that hasn't really kept up because I like to go to the happy hours and stuff.",op,id,0
+24,90_24,24,90_24,30_24,T,"So, so you've tried to cut down before?",yq,,0
+25,90_25,25,90_25,30_25,P,"yeah, it's not really happening. Not really see it happening.",on,,0
+26,90_26,26,90_26,30_26,T,Do you have cravings for alcohol?,yq,,0
+27,90_27,27,90_27,30_27,P,"Um, you could say so yeah. I'm at work I want to drink and out doing stuff. I want to drink.",op,,-1
+28,90_28,28,90_28,30_28,T,So are you using exclusively alcohol or are there other drugs involved?,irq,,0
+29,90_29,29,90_29,30_29,P,"Right now just alcohol and all legal stuff . I was impatient. A couple times for cocaine, but I've stopped. That's not really something I want to do anymore. So",id,,0
+30,90_30,30,90_30,30_30,T,when was the last time you're impatient?,irq,,0
+31,90_31,31,90_31,30_31,P,"About four months ago, five months ago,",id,,0
+32,90_32,32,90_32,30_32,T,four or five months ago? And at that time you use cocaine.,crq,,0
+33,90_33,33,90_33,30_33,P,Yeah. I was using,op,cd,0
+34,90_34,34,90_34,30_34,T,And why did you stop using cocaine?,irq,,0
+35,90_35,35,90_35,30_35,P,"Well, I graduated from college, I was kind of a partier in college, and then I had to get a job and it's kind of now had a fear of losing my job because of the cocaine and I'd get a drug test and stuff. So that's kind of in the back of my mind with that. So yeah. I think that the treatment helped with that.",id,,0
+36,90_36,36,90_36,30_36,T,You crave cocaine?,yq,,0
+37,90_37,37,90_37,30_37,P,"No, mostly just alcohol. Just",on,,0
+38,90_38,38,90_38,30_38,T,how about Your work are you having a trouble keeping your job or your performance your job?,yq,,0
+39,90_39,39,90_39,30_39,P,"Um, I think I'm not doing tip top of what I could be doing but yeah, it hasn't really been a problem. I haven't been threatened to be fired or anything like that. But you know, I'll come in late every once in a while but I I sneak in so nobody notices",on,id,0
+40,90_40,40,90_40,30_40,T,any social problems because of the alcohol use?,irq,,0
+41,90_41,41,90_41,30_41,P,"Um, with my family kind of right now. Yeah. Not really getting along with them very well. My friends, though, when I go out them during the week where you get along fine, but they're just not really as fun as they used to be. So sometimes, yeah. Sometimes they want to do stuff and go to the movies or whatever. And the ello mad because I don't want to go I'd rather go party somewhere. So",id,,0
+42,90_42,42,90_42,30_42,T,you have some social problems. Not so much with your friends a little bit but more with your family,crq,,0
+43,90_43,43,90_43,30_43,P,"more with my family. Yeah. I mean, I guess my friends aren't that happy with me but I don't think it's a huge deal. My best friend I haven't talked to in a couple days because she she is mad at me for not coming to dinner with her the other night because I look rather drunk and I want to do that. ",cd,,0
+44,90_44,44,90_44,30_44,T,Have you found that you're engaging in any activities are physically dangerous because of alcohol?,yq,,0
+45,90_45,45,90_45,30_45,P,"Um I've gotten hurt a couple times. I mean, fallen down the steps, but I'm not calling like, skydiving or anything, you know? So I did sprained my ankle a couple months ago because I fell on the steps but Okay.",op,id,0
+46,90_46,46,90_46,30_46,T,Do you find that you have any exacerbation of symptoms you have already? Like any medical or mental health problems made worse by the alcohol?,yq,,0
+47,90_47,47,90_47,30_47,P,"It's a pretty healthy. Yeah, yeah.",id,,0
+48,90_48,48,90_48,30_48,T,So did you notice the point after you started drinking when you had to increase the amount that you're trying to get the same effect?,yq,,0
+49,90_49,49,90_49,30_49,P," Oh, yeah. ",op,,0
+50,90_50,50,90_50,30_50,T,When did that happen?,irq,,0
+51,90_51,51,90_51,30_51,P,"I think I kind of go through phases with it, you know, I'll drink a certain amount for a little while and then I'll notice the I'm not drunk anymore, so I'll have to drink some more.",id,,0
+52,90_52,52,90_52,30_52,T,When was the last time you noticed that when you had to drink a lot more to get the same effect.,irq,,0
+53,90_53,53,90_53,30_53,P,"Let's say like, last weekend, you know, I was Got a couple beers in my house and the few hours have passed and I drank probably like, and 12 beers and I wasn't feeling anything. So start drinking a little faster and let us start, you know, feel a little better.",id,,0
+54,90_54,54,90_54,30_54,T,How about withdraw? Do you have any symptoms of withdrawal when you stop drinking? Like physical symptoms anxiety?,irq,,0
+55,90_55,55,90_55,30_55,P,"I mean, I want some more. For sure. craving",id,,0
+56,90_56,56,90_56,30_56,T,"Ok, Jackie, are you open to seeing a counselor here at the agency?",yq,,0
+57,90_57,57,90_57,30_57,P,"I think that's what my mom really wants. So, so maybe they'll try it out once or twice and see what happens but I guess to make her happy.",op,,-1
+58,90_58,58,90_58,30_58,T,So you are not sure what to try it out. Yeah. I'll get you scheduled to see a counselor. I want to thank you for telling me about what's going on and for answering my questions. It's been helpful.,id,gt,0
+59,90_59,59,90_59,30_59,P,"Yeah, sure.",gt,,0

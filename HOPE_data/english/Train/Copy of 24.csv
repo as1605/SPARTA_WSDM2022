@@ -1,0 +1,101 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,24_0,0,24_0,120_0,T,How you doing today?,gt
+1,24_1,1,24_1,120_1,P,I guess I'm doing okay. Good. I'm having some problems and some problems.,gt
+2,24_2,2,24_2,120_2,T,What's going on?,irq
+3,24_3,3,24_3,120_3,P,"Ah, I find myself getting really distracted, kind of fidgety and stuff. And I think I might have that one disorder that I hear about all the time on TV",id
+4,24_4,4,24_4,120_4,T,like ADHD. That's the one you think you might have ADHD?,yq
+5,24_5,5,24_5,120_5,P,Yeah.,ack
+6,24_6,6,24_6,120_6,T,"Alright, so let me ask you some other questions, and then we'll get into some questions specifically about that and see what's going on there. ",gc
+7,24_7,7,24_7,120_7,P,Okay.,gc
+8,24_8,8,24_8,120_8,T,Do you ever find yourself depressed or anxious?,yq
+9,24_9,9,24_9,120_9,P,Yes,ack
+10,24_10,10,24_10,120_10,T,A trouble with drugs or alcohol?,yq
+11,24_11,11,24_11,120_11,P," Oh, no. ",on
+12,24_12,12,24_12,120_12,T,Nothing like that. When did you first Notice you had the symptoms?,irq
+13,24_13,13,24_13,120_13,P,early teens maybe before,id
+14,24_14,14,24_14,120_14,T,Do you Do you know what age?,yq
+15,24_15,15,24_15,120_15,P,"No, no. ",on
+16,24_16,16,24_16,120_16,T,All right. But you're thinking early teens maybe before?,yq
+17,24_17,17,24_17,120_17,P,Yeah.,ack
+18,24_18,18,24_18,120_18,T,Do the symptoms of a really bothersome to you that caused me.,yq
+19,24_19,19,24_19,120_19,P,Yeah.,ack
+20,24_20,20,24_20,120_20,T,Yeah. What kind of areas they cause you problems?,irq
+21,24_21,21,24_21,120_21,P,"I mean really all everywhere, I guess.",id
+22,24_22,22,24_22,120_22,P,Yeah. Yeah.,id
+23,24_23,23,24_23,120_23,T,Do do you work?,yq
+24,24_24,24,24_24,120_24,P,Yes. ,ack
+25,24_25,25,24_25,120_25,T,this cause problems at work?,yq
+26,24_26,26,24_26,120_26,P,Yes.,ack
+27,24_27,27,24_27,120_27,T,How about college?,yq
+28,24_28,28,24_28,120_28,P,"Yes, it does",ack
+29,24_29,29,24_29,120_29,T,Okay. Have it at home?,yq
+30,24_30,30,24_30,120_30,P,"Oh, yeah. ",ack
+31,24_31,31,24_31,120_31,T,Good. Okay. All right. So tell me a little bit about the symptoms that you think might indicate ADHD. What's going on?,irq
+32,24_32,32,24_32,120_32,P,"Well, When I go to class, and I find myself, you know, kind of going off into my own little world where the teachers talking, it's kind of like I just, I can't stand sitting down and then I'll stand up. And the teachers look at me like, Do you need something? And I'm like, No, I just really needed to stand up.",id
+33,24_33,33,24_33,120_33,T,"So you feel compelled to, to stand up in class? ",yq
+34,24_34,34,24_34,120_34,P,Yes.,ack
+35,24_35,35,24_35,120_35,T,"Even though you know, it might draw some attention.",irq
+36,24_36,36,24_36,120_36,P,"Yeah, unfortunately, I mean, I know it, but I still I need to do it.",id
+37,24_37,37,24_37,120_37,T,"Alright, so I'm going to ask you a few questions. And as you can have two categories of questions. ",gc
+38,24_38,38,24_38,120_38,P,"Okay, ",gc
+39,24_39,39,24_39,120_39,T,"so let's start with the first category. Do you feel like you have trouble establishing intention? And let's, let's look at this in terms of school? ",yq
+40,24_40,40,24_40,120_40,P,"Yes, ",ack
+41,24_41,41,24_41,120_41,T,you do. Okay. How about when you have established attention Do you find yourself struggling to hold on to it?,yq
+42,24_42,42,24_42,120_42,P,"Yes, yes.",ack
+43,24_43,43,24_43,120_43,T,"And again, I'll just stick with the school environment. Right. That's a place to be symptoms bother. Well, that's cool. ",yq
+44,24_44,44,24_44,120_44,P,Yeah.,ack
+45,24_45,45,24_45,120_45,T,"Again, they bought other places, but that's a big issue?",irq
+46,24_46,46,24_46,120_46,P,That's a big one. ,id
+47,24_47,47,24_47,120_47,T,Okay. Do you have trouble listening in class?,yq
+48,24_48,48,24_48,120_48,P,"Yes, ",ack
+49,24_49,49,24_49,120_49,T,you do. How about following through on instructions that are provided by say the professor?,yq
+50,24_50,50,24_50,120_50,P,"Yes, ",ack
+51,24_51,51,24_51,120_51,P,yeah. class projects are the hardest.,id
+52,24_52,52,24_52,120_52,T,Do you do you find yourself organized?,irq
+53,24_53,53,24_53,120_53,P,"Yeah, I pretty organized so",id
+54,24_54,54,24_54,120_54,T,pretty organized.,id
+55,24_55,55,24_55,120_55,T,"Do you find yourself in school or other settings, avoiding activities that require a lot of mental effort?",irq
+56,24_56,56,24_56,120_56,P,"Yeah, they give me a headache and I just don't want to deal with it.",id
+57,24_57,57,24_57,120_57,T,"What are some things you avoid? Oh,",irq
+58,24_58,58,24_58,120_58,P,games. I can't stand chess. I just So understand it and then people explained to me the rules and I just zoned out.,id
+59,24_59,59,24_59,120_59,T,They were find yourself losing things that you need to to function at work or school.,yq
+60,24_60,60,24_60,120_60,P,No. No.,on
+61,24_61,61,24_61,120_61,T,distracted??,yq
+62,24_62,62,24_62,120_62,P,Yes. distracted. distracted.,ack
+63,24_63,63,24_63,120_63,T,fairly easily?,yq
+64,24_64,64,24_64,120_64,P,"Yeah, yeah.",ack
+65,24_65,65,24_65,120_65,T,How about forgetfulness?,irq
+66,24_66,66,24_66,120_66,P," Yeah, I am pretty forgetful.",id
+67,24_67,67,24_67,120_67,T,"Okay, so I'm gonna move and ask you another category of questions.",gc
+68,24_68,68,24_68,120_68,P,Okay.,gc
+69,24_69,69,24_69,120_69,T,Okay. How do you find yourself? fidgeting?,yq
+70,24_70,70,24_70,120_70,P,"Yes, yeah.",ack
+71,24_71,71,24_71,120_71,T,"How do you deal with I think you touched on this before, but I did it with quiet activities. Like for example, reading.",irq
+72,24_72,72,24_72,120_72,P,I really struggle with that.,id
+73,24_73,73,24_73,120_73,T,You start with that? Yeah.,irq
+74,24_74,74,24_74,120_74,P,"I can play video game for an hour, but I can't Read or play game or draw? ",id
+75,24_75,75,24_75,120_75,T,"So when you are engaged in quiet activities, do you find yourself kind of wandering off?",yq
+76,24_76,76,24_76,120_76,P,"Yes, ",ack
+77,24_77,77,24_77,120_77,T,you do. feel like you have an internal motor that won't shut off?,yq
+78,24_78,78,24_78,120_78,P,"No, I wouldn't say that.",on
+79,24_79,79,24_79,120_79,T,No. Okay.,gc
+80,24_80,80,24_80,120_80,T,Do you feel like you talk excessively?,irq
+81,24_81,81,24_81,120_81,P,"Yes. Yeah, yeah, almost to the point that I allow even almost I interrupt people a lot.",id
+82,24_82,82,24_82,120_82,T,What settings to find that's a problem.,irq
+83,24_83,83,24_83,120_83,P,at schools a big one.,id
+84,24_84,84,24_84,120_84,T,That's a big one?,irq
+85,24_85,85,24_85,120_85,P,"Yeah. Because I'll talk and I'll talk. I mean, I'll get off track when called on by the teacher. And then somebody else will say something and be like, Oh, yeah, no, I forgot. Yeah, that too. And, I mean, I feel horrible, but I just I can't stop it.",id
+86,24_86,86,24_86,120_86,T,Do you ever find that same class you blurt things out?,yq
+87,24_87,87,24_87,120_87,P,Yes. Yeah.,ack
+88,24_88,88,24_88,120_88,T,do you interrupt people?,yq
+89,24_89,89,24_89,120_89,P,"Yes, I do",ack
+90,24_90,90,24_90,120_90,T,"have a situation where, like, say at work or school or at home, where you have to wait your turn for something. Do you find that subproblem?",irq
+91,24_91,91,24_91,120_91,P,"What, like at a drive thru?",crq
+92,24_92,92,24_92,120_92,T,It could be a drive thru dude. If your drive thru Do you find?,cd
+93,24_93,93,24_93,120_93,P,"I mean, I don't get it.",crq
+94,24_94,94,24_94,120_94,T,You don't have any trouble with like waiting in lines or waiting for your turn? I guess not. It's not okay. Okay.,cd
+95,24_95,95,24_95,120_95,T,"All right. So I'm gonna get you in to see one of our counselors, you mentioned that these symptoms are bothersome to you. And I want to make sure you get treated. We'll take a couple days to get you in to see somebody that okay, ",id
+96,24_96,96,24_96,120_96,P,"yes, that's fine. ",ack
+97,24_97,97,24_97,120_97,T,So I want to thank you for spending this time with me and answering these questions. This has been really helpful.,gt
+98,24_98,98,24_98,120_98,P,Thank you.,gt
+99,24_99,99,24_99,120_99,T,Thanks.,gt

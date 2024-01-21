@@ -1,0 +1,46 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,165_0,165_0,T,"Hi, Victor I'm Dr. Sawyer. Victor, can you tell me how old you are?","gt, irq",0
+1,165_1,165_1,P,I am 20.,id,0
+2,165_2,165_2,T,"You're 20 Okay, where do you live?","ack, irq",0
+3,165_3,165_3,P,At home,id,0
+4,165_4,165_4,T,you live at home? Who do you live with?,"ack, irq",0
+5,165_5,165_5,P,"My mom, my dad, my sister.",id,-1
+6,165_6,165_6,T,"Okay, so you live with mom, dad and sister. what do you do for work?","ack, irq",0
+7,165_7,165_7,P,I go to cop.,id,-1
+8,165_8,165_8,T,"Okay, so you came to me. It's See me cuz I'm a Doctor. ",irq,0
+9,165_9,165_9,P,"I didn't come to you, my mom and dad and my sister drove me here. I didn't want to come. ",id,-3
+10,165_10,165_10,T,"Okay, are your mom dad and sister here?",irq,0
+11,165_11,165_11,P,Yes.,id,-3
+12,165_12,165_12,T,"Okay, so I'll I'll let you go back to them in a few minutes. But let's just get through a few questions",gc,0
+13,165_13,165_13,P,I want to go done now.,gc,-3
+14,165_14,165_14,T,"So Victor, tell me, how's your sleep? And what about Have you experiencing any lack of joy? ",irq,0
+15,165_15,165_15,P,"Yes, I have my teacher  have been mean to me. My educational assistants have been mean to me. They always put me in timeout.",id,-3
+16,165_16,165_16,T,"You need to calm down, victory stay in your seat. I'm gonna have to call security.","gc, cv",0
+17,165_17,165_17,P,I never yelled It was the first ever first time ever.,cr,-3
+18,165_18,165_18,T,you are you yelling at me right now and I need you not to yell. Are you on any medications right now?,"gc, yq",0
+19,165_19,165_19,P,"My mom and dad and my sister? No. So it's just Yes,","gc, op",-3
+20,165_20,165_20,T,yes or no. Are you on any medications?,"gc, yq",0
+21,165_21,165_21,P,"Yes, I am",op,0
+22,165_22,165_22,T,okay. I need you to bring me a list of your medications later. So I'm going to give you a prescription for an antidepressant medication. Are you bringing home to your mom and show it to her and then get it filled?,"cv, irq",0
+23,165_23,165_23,P,"Obviously, that's none of your business.",id,-3
+24,165_24,165_24,T,"Okay, so I'm just I'm just gonna go to my computer and put it in and then I'll be a receptionist will put you off the medication. Okay, so good luck Victor.","id, gc",0
+25,165_25,165_25,P,Bye,gt,0
+26,165_26,165_26,T,"Hi Victor, I'm Dr. Sawyer. Hi. I'm a psychiatrist. Do you know what a psychiatrist is? ","gt, irq",0
+27,165_27,165_27,P,No.,id,0
+28,165_28,165_28,T,"Okay. So a psychiatrist is a doctor who deals with people who are feeling sad or mad, different feelings that they might have. We'll talk for a little bit and we'll talk about some things that might have been difficult in your life over the past little bit. And our goal is to try to make things see how we can make things a little bit easier for you.",id,0
+29,165_29,165_29,P,"Okay, and at school, I feel like they're not doing anything. They're not listening to me about my feelings. ",id,-3
+30,165_30,165_30,T,So you feel pretty unheard.,crq,0
+31,165_31,165_31,P,I feel unheard at school. My parents and my sister are hearing,id,-3
+32,165_32,165_32,T,so you said you've been feeling pretty sad. How long have you been feeling sad for ?,irq,0
+33,165_33,165_33,P,"Um, well. This is one teacher. I will give out her name but she She doesn't listen to me. Okay? She just tries to keep me down. ",id,-3
+34,165_34,165_34,T,How long have you had this teacher for?,irq,0
+35,165_35,165_35,P,"Four years, four years. ",id,-3
+36,165_36,165_36,T,So have you been feeling sad for this entire four years or a shorter period of time?,irq,0
+37,165_37,165_37,P,shorter period of time.,id,0
+38,165_38,165_38,T,So has it been a couple of weeks? A couple months? A couple days?,irq,0
+39,165_39,165_39,P,A couple of months.,id,0
+40,165_40,165_40,T,"So Victor, I want to tell you some of my thoughts of what I think is going on, but I want to invite your sister in because I need to find out a little bit about your medical history. So I'm just going to get her and then I'll come back. Okay. ","gc, id",0
+41,165_41,165_41,P,Okay.,ack,0
+42,165_42,165_42,T,"So, I've been talking to Victor he's been telling me about how his how he's had less interest in things. He's having trouble sleeping. And he's, he's not he's feeling sad all the time. And it does sound like he's been suffering from what we call a major depression. There's a couple of treatments that I want to talk about what you know what medications Victor's on? ","gc, id",0
+43,165_43,165_43,P,"Yeah, so I actually thought of this because there's a, there's quite a few. Okay, certainly. ",gc,0
+44,165_44,165_44,T,"Thank you.  Okay, so on this list it says about sort of what medical illnesses he's had and hospitalizations and surgeries as well. So there's a couple of treatments for for depression. One is medication and one is also doing some interventions within the school and within the family. And there's a lot of things to think about, but it seems like things in the school have been really not going well. And that's been a major contribution to his to sadness.",gc,0

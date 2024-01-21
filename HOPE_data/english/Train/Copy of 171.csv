@@ -1,0 +1,51 @@
+ID,Type,Utterance,Dialogue_Act,Dialog_Act_1,Emotion
+171_0,T,"Hi Rebecca, How are you doing?",gt,,0
+171_1,P,"I am good, how are you?",gt,,0
+171_2,T,Pretty good. Can I ask you what handed only write with?,"gt, irq",,0
+171_3,P,my right hand,id,,
+171_4,T,Your right hand would be all right to ask you some questions about your memory.,gc,,0
+171_5,P,I guess,ack,,0
+171_6,T,"Okay, thank you. I'm gonna ask you some questions and give you some problems to solve. Please try to answer them as best as you can. ",gc,,0
+171_7,P,Okay,ack,,0
+171_8,T,What year is this?,irq,,0
+171_9,P,2015,id,,0
+171_10,T,what season of the year is this?,irq,,0
+171_11,P,winter,id,,0
+171_12,T,what is the date today?,irq,,0
+171_13,P,January 20.,id,,0
+171_14,T,what day of the week is this ?,irq,,0
+171_15,P,Tuesday,id,,0
+171_16,T,What month is this,irq,,0
+171_17,P,January,id,,0
+171_18,T,Can you tell me what country we are in?,irq,,0
+171_19,P,United States,id,,0
+171_20,T,Do you know what county we're in?,irq,,9
+171_21,P,Newcastle,id,,0
+171_22,T,Do you know what city we're in?,irq,,0
+171_23,P,Newcastle,id,,0
+171_24,T,do the name or the address of this building?,irq,,0
+171_25,P,was it Graduate Center? Three weeks away 31 weeks away,id,,0
+171_26,T,What floor of the building are we on?,irq,,0
+171_27,P,First floor,id,,0
+171_28,T,"I am going to name three objects. After I've said them, I want you to repeat them back to me. Apple, Table, Penny",cv,,0
+171_29,P,"Apple, Table, Penny",cr,,0
+171_30,T,remember what they are because I'm going to ask you to name them again in a few minutes.,gc,,0
+171_31,P,okay,ack,,0
+171_32,T,"Now I'm going to give you a word and ask you to spell it forwards and backwards. The word is world. First, Can you spell it forwards?",cv,,0
+171_33,P,W O R L D,cr,,0
+171_34,T,"Now, can you spell it backwards?",cv,,0
+171_35,P,D L R O W,cr,,0
+171_36,T,What were the three objects I asked you to remember earlier?,irq,,0
+171_37,P,world? No. Apple. I can't remember.,id,,0
+171_38,T,What is this called?,ci,,0
+171_39,P,This the Watch.,cr,,0
+171_40,T,"I would like you to repeat a phrase after me. The phrases no ifs, ands or buts",cv,,0
+171_41,P,no ifs ands or buts,cr,,0
+171_42,T,I want you to read the words on the page. I'm going to hold up and then do with the word say.,ci,,0
+171_43,P,Close your eyes.,cr,,0
+171_44,T,"Thank you. take this paper in your right hand. Fold the paper once with both hands and put the paper down on your lap. On this piece of paper, write any complete sentence on that piece of paper for me. ","gc, ci",,0
+171_45,P,.....,cr,,0
+171_46,T,"Thank you. Here's a drawing, please copy the drawing on the same paper. ","gc, ci",,0
+171_47,P,....,cr,,0
+171_48,T,Thank you. That concludes this test on that. Thank you for your cooperation.,gc,,0
+171_49,P,Thank you,gc,,0

@@ -1,0 +1,33 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,66_0,0,66_0,16_0,T,"Hi, Hazel Hey doing today.",gt,,
+1,66_1,1,66_1,16_1,P,Okay.,gt,,
+2,66_2,2,66_2,16_2,T,Okay. Yeah. I know when we met last time for your intake. You were concerned about some presentations that you had to give at school. Yeah. And you want to talk about that today?,id,irq,
+3,66_3,3,66_3,16_3,P,"Yes. So, in school. I am in school for teaching. And we have to give presentations a lot as you can imagine, on different things and So it's something that's recurring. And what happened was, I gave a really bad one one time. My way of presentation. Yeah, I wasn't feeling very well. And I gave, I think I was just really tired from studying all night and I gave a really bad presentation. And then like now ever since, like when I've tried to give subsequent presentations, I'm just so nervous, and I'm up there like sweating and like starting to forget what I'm gonna say. And I'm just like, a fear of, of getting up there and having to get a presentation because I feel like I'm gonna bomb it.",id,,-2.0
+4,66_4,4,66_4,16_4,T,"Alright, so was there a time for like, recently when you had to give presentations?",irq,,
+5,66_5,5,66_5,16_5,P,"Yeah, I mean, like, before and earlier in my life, I'm towards the end of my degree. So you know, throughout program I have.",id,,
+6,66_6,6,66_6,16_6,T,How would you consider those?,irq,,
+7,66_7,7,66_7,16_7,P,"pretty well, I mean, I consider myself a pretty good student. So normally I do pretty well, it seemed to, you know, come out of nowhere.",id,,1.0
+8,66_8,8,66_8,16_8,T,"So this presentation you gave with that received a poor score, maybe it was just an isolated incident.",crq,,
+9,66_9,9,66_9,16_9,P,"Yeah, like I was saying I wasn't feeling very well.",cd,,-1.0
+10,66_10,10,66_10,16_10,T,"But that experience has still led to a lot of things anxiety with subsequent presentations,",yq,,
+11,66_11,11,66_11,16_11,P,"oh, yeah. Like, I'm worried about my grades suffering as a result. And you know how long well I'm going to do.",op,id,-1.0
+12,66_12,12,66_12,16_12,T,"All right. So, would it be okay if we kind of step through the whole process of giving a presentation",yq,,
+13,66_13,13,66_13,16_13,P,Sure. All right.,op,,
+14,66_14,14,66_14,16_14,T,"Just before I start with that, is this something that leads to anxiety? Like right now or other times are really just in that moment when you're presenting?",irq,,
+15,66_15,15,66_15,16_15,P,"Mostly. It's most intense in that moment. And like maybe like leading up to it, like in preparation that I know that this is going to happen. Like, I always know when I'm going to present like, it'll be like the teacher will say, Oh, well, you know, your this Thursday, someone else's next Thursday. So the closer it gets to that event, the more anxious I am, like in anticipation.",id,,-2.0
+16,66_16,16,66_16,16_16,T,"Okay, so you start feeling anxiety. A few days before presentation?",crq,,
+17,66_17,17,66_17,16_17,P,"Yeah, I would say a few days mostly. ",cd,,
+18,66_18,18,66_18,16_18,T,When does it start to get really distressing for you?,irq,,
+19,66_19,19,66_19,16_19,P,"like two days before or one day before that? I'm like, Oh, my gosh, like, Am I ready? Like what if I mess up? You know what if Get a bad grade all these like what ifs.",id,,-2.0
+20,66_20,20,66_20,16_20,T,"Okay, so would you be okay if we step into this process and kind of break down the steps of the presentation? Alright, so let's so what's one of the classes you're taking now?",irq,,
+21,66_21,21,66_21,16_21,P,"early childhood,",id,,
+22,66_22,22,66_22,16_22,T,"So let's say you have a presentation in that class a few days from now. I just have just a normal presentation. Yeah. All right. So, Let's now move to two days out, where you would start to feel a little anxiety about it. Yeah. What's going through your mind at that two day out point?",irq,,
+23,66_23,23,66_23,16_23,P,"Um, I would say like, Am I prepared enough? Like, did I do enough?",id,,
+24,66_24,24,66_24,16_24,T,"All right. So your thought is, did I do enough preparation?",yq,,
+25,66_25,25,66_25,16_25,P,"Yeah. Which leads to maybe I did is what I'm really thinking like, I'm not prepared enough as I should be.",op,id,-2.0
+26,66_26,26,66_26,16_26,T,"So that's that's the thought you're having 40 hours before the presentation. I'm not prepared enough. And kind of thinking about that thought. And what happens afterward? Do you have a reaction like any type of emotional, affective, affective reaction to that?",irq,,
+27,66_27,27,66_27,16_27,P,"So at that point, I'm usually like, more like anxious, maybe like irritable a little bit. Mostly.",id,,-2.0
+28,66_28,28,66_28,16_28,T,And that goes substantially unchanged that feeling for how long?,irq,,
+29,66_29,29,66_29,16_29,P,"I'm like The day before it like kind of gets more intense when I'm like nitpicking like, well, I forgot this or I didn't forget this and, you know, remembering what happened last time when I didn't do so well and worrying about my grade, like more thoughts pop in my head of things that I forgot or what if sort of things.",id,,
+30,66_30,30,66_30,16_30,T,"Right, so the same type of thought just more intense, more intense and the feeling is also more intense.",crq,,
+31,66_31,31,66_31,16_31,P,Yes.,cd,,

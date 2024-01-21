@@ -1,0 +1,57 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,183_0,183_0,T,"Okay, so I'm gonna ask you some questions about your developmental history. Some of these you might have already answered during the screening, but it's important I catch them here as well. Okay. What city and state you were born in?","id, irq",0.0
+1,183_1,183_1,P,"Wilmington, Delaware ",id,0.0
+2,183_2,183_2,T,and how about which city and state you were raised in?,irq,0.0
+3,183_3,183_3,P,Wellington,id,0.0
+4,183_4,183_4,T,Okay. Do you speak any other languages other than English,yq,0.0
+5,183_5,183_5,P,"Spanish not fluently but pretty well, pretty well.",op,0.0
+6,183_6,183_6,T,Tell me who raised you?,irq,0.0
+7,183_7,183_7,P,My parents,id,0.0
+8,183_8,183_8,T,biologic parents?,crq,0.0
+9,183_9,183_9,P,Yeah,cd,0.0
+10,183_10,183_10,T,"At any point during childhood, have you ever raised by anybody else temporarily? ",yq,0.0
+11,183_11,183_11,P,No. My grandmother lived with us for a little while but middle school or high school but,on,0.0
+12,183_12,183_12,T,can you tell me briefly what your life was like growing up.,irq,0.0
+13,183_13,183_13,P,"Yeah, it was pretty normal childhood I guess. My mom was, she was angry, angry person, but it was, you know, my two sisters and me and my parents and we didn't want for anything. My parents loved us pretty much. And you know, we went to good schools. My mom, you know, my mom was pretty angry. Well, at least towards me",id,0.0
+14,183_14,183_14,T,not so much toward you?,crq,0.0
+15,183_15,183_15,P,"my sisters now. I mean sometimes. My sisters in my dad she was like Angry in general. I guess I got the most of it. couldn't think, I don't know. I was wondering if is connected to my boss and the women at work? I don't know. That's kind of why I'm here. And it happened, you know, in the neighborhood too the women in the neighborhood after we moved to this new neighborhood, and I'm really feeling like, it's me and groups of women. And it's there. I don't know. I don't know you're the expert. But you asked me what my what my childhood was like, and, like, I can't complain. I wasn't like abused i like i said i was hit sometimes but that was the way you know, I was hit more than my sisters for sure because I was the oldest. My sisters were I was the oldest, my middle sister was I don't know if you want this to answer your question or no",cd,0.0
+16,183_16,183_16,T,"No, please go on",cv,0.0
+17,183_17,183_17,P,"Okay. My sisters were perfect. You know, my my middle sister was she always got good grades. She did exactly what my parents wanted. She was the one like She'd wake up by herself several hours before school started and get herself already make herself breakfast you know. She was just always a good girl And I mean, I wasn't bad at all but I don't now",crq,0.0
+18,183_18,183_18,T,So the family dynamic you're speaking about when did that change or hasn't changed?,irq,0.0
+19,183_19,183_19,P,It hasn't changed.,id,0.0
+20,183_20,183_20,T,What age should you move out of your parents?,irq,0.0
+21,183_21,183_21,P,college,id,0.0
+22,183_22,183_22,T,should be at around 19,yq,0.0
+23,183_23,183_23,P,Yeah,op,0.0
+24,183_24,183_24,T,"Okay, we talked about this a little bit earlier about how your, your experiences when you're young. How are you disciplined as a child","gc, irq",0.0
+25,183_25,183_25,P,"you know, yelling my mom yelled a lot. Like I said she didn't hold back from you know, smacking my face or pulling my hair like that. When I was younger when I got older, she didn't do it as much. You know I could kind of push her away But it wasn't, you know, Yeah, that was it or other than that.",id,0.0
+26,183_26,183_26,T,He didn't get involved in the discipline component.,crq,0.0
+27,183_27,183_27,P,"No, I mean, that was mom.",cd,0.0
+28,183_28,183_28,T,I want to move on now to relationship history. So I going to switching gears a little bit again. You mentioned you're married. Have you been married before?,"gc, yq",0.0
+29,183_29,183_29,P,No,on,0.0
+30,183_30,183_30,T,and  he is supportive of that?,yq,0.0
+31,183_31,183_31,P,Yeah. He It was kind of his idea. At first I thought I thought he was right. And I want to try it again.,op,0.0
+32,183_32,183_32,T,"At some point and I don't know this yet, but at some point, if appropriate, He'd be willing to come in for a session with you?","gc, yq",0.0
+33,183_33,183_33,P,Definately,op,0.0
+34,183_34,183_34,T,How long have you been married?,irq,0.0
+35,183_35,183_35,P,15 years.,id,0.0
+36,183_36,183_36,T,and Where do they live? Like what do you?,irq,0.0
+37,183_37,183_37,P,with my husband and me,id,0.0
+38,183_38,183_38,T,every day?,yq,0.0
+39,183_39,183_39,P,yeah,op,0.0
+40,183_40,183_40,T,"I think you mentioned earlier you've ever had traumatic loss, you haven't lost a child.",yq,
+41,183_41,183_41,P,No,on,0.0
+42,183_42,183_42,T,Can you describe your relationship with your children to me?,irq,0.0
+43,183_43,183_43,P,"Yeah, it's a good relationship. Well, I, I try. I said when I had kids, I was not gonna be like my mom. So I don't know and I don't let my husband yell at them. So my relationship with my kids is hugely important to me. We always spend a lot of time as a family we vacation together. We have family game nights. I help them with their homework. toddler years were tough.  You know, that was challenging for us, but we got through that",id,0.0
+44,183_44,183_44,T,into round school?,yq,0.0
+45,183_45,183_45,P,"Yeah, yeah.",op,0.0
+46,183_46,183_46,T,You mentioned you have a daughter I know you talked earlier about your relationship with your mother. Do you see any of that? What happened there playing out between you and your daughter?,"gc, yq",0.0
+47,183_47,183_47,P,"Not really, because I try so hard I mean I get mad sometimes I can feel myself flare up and but I don't know, I don't I don't think so. ",on,0.0
+48,183_48,183_48,T,Okay. Anything else abut you told me what Tell me,irq,0.0
+49,183_49,183_49,P,"well a couple of years ago when I was kind of in one of these periods, my son's teacher, he was in second grade at the time and she said she was concerned about him that he was kind of hanging out away from the other kids. She thought he might be depressed is what she said. So we took him to see somebody a couple times, but he was okay. He's okay now ",id,0.0
+50,183_50,183_50,T,he's okay now?,yq,0.0
+51,183_51,183_51,P,Yeah.,op,0.0
+52,183_52,183_52,T,Had you worried a bit though?,yq,0.0
+53,183_53,183_53,P,Yeah. In situation.,op,0.0
+54,183_54,183_54,T,I'm going to switch gears again. Are you still come from moving forward?,"gc, yq",0.0
+55,183_55,183_55,P,Yeah,op,0.0

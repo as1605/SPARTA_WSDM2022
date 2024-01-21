@@ -1,0 +1,104 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,54_0,0,54_0,149_0,T,Hey carla. How are you?,gt
+1,54_1,1,54_1,149_1,P,"it is good, how are you?",gt
+2,54_2,2,54_2,149_2,T,I'm doing well. Thanks for asking.,gt
+3,54_3,3,54_3,149_3,T,What's been going on this last week?,irq
+4,54_4,4,54_4,149_4,P,"Um,",gc
+5,54_5,5,54_5,149_5,P,"I've just been feeling like kind of in a rut. I mean, I've been looking for a job and hadn't really gotten anywhere and then the",id
+6,54_6,6,54_6,149_6,P,I had a drink the other night. And I just felt like,id
+7,54_7,7,54_7,149_7,P,"that like me not having a job and going out and having that drink. Like I just, it wasn't deserved, and I just felt like such a loser because I should have that was the time that I should have been at work. If I had a job and instead I was at the bar drinking. So I had one drink, and then Ellen two Do another because then I just felt worse. And I figured I had one. So come on.",id
+8,54_8,8,54_8,149_8,T,So how much should you drink in total?,irq
+9,54_9,9,54_9,149_9,P,I think I lost track after four or five.,id
+10,54_10,10,54_10,149_10,T,But How long had it been since you had a drink? before that?,irq
+11,54_11,11,54_11,149_11,P,"I did really well. I it was, I think like three weeks,",id
+12,54_12,12,54_12,149_12,T,three weeks or so. She did really well. And then you had you had one drink. And that just made you feel like you weren't successful.,gc
+13,54_13,13,54_13,149_13,P,I felt like a loser,gc
+14,54_14,14,54_14,149_14,P,felt like a loser.,gc
+15,54_15,15,54_15,149_15,T,And you feel that kind of led to drinking some more. So you had a rough time with things?,yq
+16,54_16,16,54_16,149_16,P,"Yeah, yeah.",ack
+17,54_17,17,54_17,149_17,T,what now,irq
+18,54_18,18,54_18,149_18,P,"I mean, now I just kind of I don't I'm afraid to go back like I'm afraid to go out with, like some friends. They invite me out to dinner. But I know there's alcohol. And",id
+19,54_19,19,54_19,149_19,T,is that where you were when that first strike? was out with friends?,yq
+20,54_20,20,54_20,149_20,P,Yeah.,ack
+21,54_21,21,54_21,149_21,T,So there's a few things going on.,gc
+22,54_22,22,54_22,149_22,T,"We've talked in the past, right about separating the behavior from the person. Right? So, behavior is what we do, not who we are. You remember those discussions? And correct me if I'm wrong with sounds like I'm using different words than you use. But it sounds like when you had that first drink, you're kind of ashamed that you had a drink and you had it during the time when you would have been working.",yq
+23,54_23,23,54_23,149_23,P,"Yeah, that's pretty accurate.",ack
+24,54_24,24,54_24,149_24,T,"That's pretty accurate. All right. So taking yourself kind of back to that moment. All right, we we had that first. That first drink like you finished that first drank",gc
+25,54_25,25,54_25,149_25,T,What was your What was your thought at that at that moment?,irq
+26,54_26,26,54_26,149_26,P,"Just like shameful. Like I did really, really well. And then here I was. I just finished a drink and I knew I wanted another one. ",id
+27,54_27,27,54_27,149_27,T,"Okay, so shameful is kind of like the feeling. But the thought is I did really, really well. Right? ",crq
+28,54_28,28,54_28,149_28,T,"So that's what your thinking was. I did really, really well.",irq
+29,54_29,29,54_29,149_29,T,"And what? was that the end of the thought, or was that was there more before you had that next trick?",irq
+30,54_30,30,54_30,149_30,P,I guess just I was doing well. And then I had a drink and I just felt like an awful person. So I figured what was the hurt Having more,"cd,id"
+31,54_31,31,54_31,149_31,T,"sort of sequence would have been you had to drink. You felt shameful. At the same time you're thinking that you were doing really well. And then just really, as you said before, you just felt like a loser. And then you decided, might as well just have the second drink. So another thought might be that, like, I might just have a second drink.",yq
+32,54_32,32,54_32,149_32,P,"Yeah, ",ack
+33,54_33,33,54_33,149_33,T,"yeah. So you can see others some thoughts and some feelings at work. right as you finish that first drink was a fairly quick, but those thoughts feelings fairly. occur fairly quickly after the drink.",crq
+34,54_34,34,54_34,149_34,P,"Yeah, absolutely. As I was finishing and then finished,","ack,cd"
+35,54_35,35,54_35,149_35,T,"so right away, you regret it and that regret As you thought about it,",crq
+36,54_36,36,54_36,149_36,T,"don't might as well just just continue drinking now, because you kind of blew it.",cd
+37,54_37,37,54_37,149_37,P,"I already messed up, I might as well keep going. ",od
+38,54_38,38,54_38,149_38,T,Okay.,ack
+39,54_39,39,54_39,149_39,T,"And that's a common cycle to fall into. And you had three weeks, we hadn't had a drink prior to that. So let's, let's look at this. Let's try to separate the behavior from the self a little bit. If you had if you had a friend who was in the same predicament, right, you had a history of using alcohol and then at three weeks, without any alcohol use, and then their behavior was to have a drink. What would you think of them?",orq
+40,54_40,40,54_40,149_40,P,I think that they had a rough day or something was to happen where,od
+41,54_41,41,54_41,149_41,P,"I mean, it's just wondering,",od
+42,54_42,42,54_42,149_42,T,"I had a rough day one drink, and what would you think of their behavior? How would you categorize that behavior?",irq
+43,54_43,43,54_43,149_43,P,That's just they made a mistake.,id
+44,54_44,44,54_44,149_44,T,"So not ideal,",crq
+45,54_45,45,54_45,149_45,T,"depending on their point of view, maybe a little irresponsible.",crq
+46,54_46,46,54_46,149_46,P,"Yeah, I think irresponsible,",cd
+47,54_47,47,54_47,149_47,T,"irresponsible, but you wouldn't necessarily characterize them as a bad person. ",yq
+48,54_48,48,54_48,149_48,P,No.,on
+49,54_49,49,54_49,149_49,T,But their behavior was a bit of responsible.,yq
+50,54_50,50,54_50,149_50,P,Yeah.,on
+51,54_51,51,54_51,149_51,T,"You know, in terms of like the recovery plan, which would be to not drink.",irq
+52,54_52,52,54_52,149_52,T,"But when you apply that same example examination to your own situation, how do you characterize yourself after you had that first drink?",irq
+53,54_53,53,54_53,149_53,P,It was my mistake it was in it. It makes me a worse person for doing it.,id
+54,54_54,54,54_54,149_54,T,"So you see how you're you're being a little bit quite a bit rougher on yourself. Like your your evaluation of yourself is, is fairly harsh. You mentioned loser earlier and ashamed.",gc
+55,54_55,55,54_55,149_55,T,Whereas you wouldn't necessarily evaluate someone else that way. ,irq
+56,54_56,56,54_56,149_56,T,How would you evaluate your behavior? How would you How would you judge your behavior taking that first drink?,irq
+57,54_57,57,54_57,149_57,P,"shameful. I mean, irresponsible, which is bad overall.",id
+58,54_58,58,54_58,149_58,T,"So, so bad, irresponsible, shameful.",crq
+59,54_59,59,54_59,149_59,T,"Is there a way to separate that behavior in terms of in terms of your thinking, the way you evaluate it from yourself, like are you into behavior?",irq
+60,54_60,60,54_60,149_60,T,together a meshed or can you be separated?,irq
+61,54_61,61,54_61,149_61,P,"I think we could be separated But it, it feels like we're like I am that behavior",id
+62,54_62,62,54_62,149_62,T,in that moment. It's very congruent for you.,gc
+63,54_63,63,54_63,149_63,P,"Yes, ",ack
+64,54_64,64,54_64,149_64,T,"the shame matches the behavior to behavior matches shame. Like it's there one at that moment. Mm hmm. But really, logically, rationally, you're you, Ryan, your identity and values and your behavior, something you do.",gc
+65,54_65,65,54_65,149_65,T,"But in the moment, it's hard for you to see that.",gc
+66,54_66,66,54_66,149_66,T,Mm hmm. Looking back on it now is are you able to see the distinction between what people do and what they are?,irq
+67,54_67,67,54_67,149_67,P,"Yeah I mean, just because you have one drink doesn't make you a horrible person and",id
+68,54_68,68,54_68,149_68,T,"no, certainly not. And you were, you were clean for three weeks, and you had one drink. So really, your behavior was a slip.",gc
+69,54_69,69,54_69,149_69,T,"Right It was and irresponsible in relationship to your goals, I suppose. But still a slip. And you could have stopped. But that shame got ahold of you. Right. I thought, well, now I've done it. I blew it. Yeah. So with that mentality, you kind of set yourself up for drinking more. So, I think this is important because we've seen this cycle like where you have weeks of sobriety, and then we'll drink a bit and then have weeks as writing. And I'm wondering if part of the difficulty you're facing is you're not coping with the slips as just slips",gc
+70,54_70,70,54_70,149_70,P,okay.,ack
+71,54_71,71,54_71,149_71,T,You're allowing them to be gateways into a lot more drinking than the slip. Does that make sense? That That's pretty accurate.,"id,crq"
+72,54_72,72,54_72,149_72,T,"And you see how the shameful feelings kind of just interfere with the behavior that you really want that's really consistent with their goals, which would be to not continue drinking. ",gc
+73,54_73,73,54_73,149_73,P,Mm hmm.,"cd,ack"
+74,54_74,74,54_74,149_74,T,"Another piece of this too is the association associating with friends who drink, you're putting yourself in a treacherous situation. Again, that's a behavior.",gc
+75,54_75,75,54_75,149_75,T,Right? That doesn't make you one way or the other. It's a behavior. How would you judge that behavior going out with friends?,irq
+76,54_76,76,54_76,149_76,P,"I don't know. I mean, difficult because I like being around those people. But I guess it would be it's risky.","on,id"
+77,54_77,77,54_77,149_77,T,"risky, okay. It's a risky behavior. And what does it make you Who are you? Because you do that behavior. Like how do you feel about yourself? When you take that risky, behavior, ",irq
+78,54_78,78,54_78,149_78,P,"guilty, ",id
+79,54_79,79,54_79,149_79,T,okay,ack
+80,54_80,80,54_80,149_80,T,"So you have guilt when you go out with your friends. And then you have shame if you drink. And both, in this case, both emotions that kind of point you in the direction of more drinking. So part of this behavioral strategy here is to avoid the circumstances like to recognize that's a risky behavior, which you have. And the other part would be to deal more effectively if you do slip away, right. Does that does that separation of what we do and who we are? makes sense to rationally?",irq
+81,54_81,81,54_81,149_81,P,kind of,id
+82,54_82,82,54_82,149_82,T,"feels a little unnatural, though.",yq
+83,54_83,83,54_83,149_83,P,Yeah.,ack
+84,54_84,84,54_84,149_84,P,Yeah.,ack
+85,54_85,85,54_85,149_85,T,"So maybe, as you're confronting",gc
+86,54_86,86,54_86,149_86,T,"similar situations in the course of the next week, You could be aware of behaviors that might put you at risk, and try to try to separate your identity from that behavior. So, so just judge the behavior. Okay. Right. And don't don't pass any judgment on yourself.",gc
+87,54_87,87,54_87,149_87,T,So that makes sense.,crq
+88,54_88,88,54_88,149_88,P,Kind of Yeah.,ack
+89,54_89,89,54_89,149_89,T,It might help you to.,od
+90,54_90,90,54_90,149_90,T,"Since it's a little tough to because right now, the feeling and the judgment, retro twined. Right. It might help to write down when these things happen, and kind of write down like, like one row for this is how I judge this behavior. But I'm thinking about doing and this is how I judge myself. So if you see a lot of self judgment, that might be a clue that you're falling into a cycle a little bit,",od
+91,54_91,91,54_91,149_91,P,Okay,ack
+92,54_92,92,54_92,149_92,T,where you're making decisions based on that emotion instead of a rational judgment and behavior.,od
+93,54_93,93,54_93,149_93,P,"Okay, ",ack
+94,54_94,94,54_94,149_94,T,that helped a little bit.,yq
+95,54_95,95,54_95,149_95,P,"Yeah, I think that would probably be beneficial.",ack
+96,54_96,96,54_96,149_96,T,So that'll be our plan going forward. ,gc
+97,54_97,97,54_97,149_97,T,"Until next week is note document your judgment about your behavior, any judgment you may have about yourself. Right, and there's some insight that can be gained there. Right. Kind of distinguish the two and making those and try to use that evidence before making a decision to might put you in a risky spot. ",gc
+98,54_98,98,54_98,149_98,P,Okay.,ack
+99,54_99,99,54_99,149_99,T,Sound like plan?,yq
+100,54_100,100,54_100,149_100,P,"Yeah, I think I can try that.",ack
+101,54_101,101,54_101,149_101,T,"Okay, good. I'll see you next week. And we'll see how you did with those goals.",gt
+102,54_102,102,54_102,149_102,P,Okay,gt

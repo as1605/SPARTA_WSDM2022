@@ -1,0 +1,82 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,52_0,0,52_0,147_0,T,Alisa How you doing today?,gt
+1,52_1,1,52_1,147_1,P,Good? How are you?,gt
+2,52_2,2,52_2,147_2,T,I'm doing well. Thanks for asking.,gt
+3,52_3,3,52_3,147_3,T,How has the anxiety been going?,irq
+4,52_4,4,52_4,147_4,P,"Um, since last session, it seems to be in check.",id
+5,52_5,5,52_5,147_5,P,Nothing really major. It's been going on with it. So I think,id
+6,52_6,6,52_6,147_6,P,I'm getting to a point where it's under control.,id
+7,52_7,7,52_7,147_7,T,"I subsided a bit. That's good. Yeah, that's good. How's things been going at work lately?",irq
+8,52_8,8,52_8,147_8,P,"So works a little bit of a different story. Um, we have our daily meetings, and I actually had to clean like one of my co workers aside because I feel like they undermine me all the time. And they like, they don't give me the respect basically, that I deserve. So I took her outside after the meeting and lean into her about it. And afterwards, I mean, the next day, because we have these things every day, and she like, she came back and came at me again. But it was worse, even after talking for",id
+9,52_9,9,52_9,147_9,P,no.,on
+10,52_10,10,52_10,147_10,T,"So you have these, someone understands you have these daily meetings? Right. And you mentioned that she's not showing you respect and that you deserve respect. Right? effect. So tell me, tell me about that. Believe from what we talked about ABC before activating events and beliefs and consequences. In our abt, tell me about that belief.",irq
+11,52_11,11,52_11,147_11,P,"Or I just feel that I do a good job and I deserve to be respected by my coworkers. Yeah, it just",id
+12,52_12,12,52_12,147_12,T,other levels of respect. There's a certain level of respect that you demand or need.,orq
+13,52_13,13,52_13,147_13,P,"I don't know if there's a certain level, but I feel just like, I deserve it. You know,",od
+14,52_14,14,52_14,147_14,T,and what did she do? That kind of convinced you that she wasn't meeting that level of respect?,irq
+15,52_15,15,52_15,147_15,P,"Well, she was like, she doubt my ideas, um, and just kind of made me feel like a fool, basically. So I just I didn't understand.",id
+16,52_16,16,52_16,147_16,P,right,gc
+17,52_17,17,52_17,147_17,P,"I mean, I guess.",gc
+18,52_18,18,52_18,147_18,T,Have you criticized other coworkers?,yq
+19,52_19,19,52_19,147_19,P,yeah.,ack
+20,52_20,20,52_20,147_20,T,So do you think that her criticism was within normal limits like within the what you've kind of seen there regularly,irq
+21,52_21,21,52_21,147_21,P,"I mean, now that you pointed out I mean, I guess I can view it in that way that it wasn't.",id
+22,52_22,22,52_22,147_22,P,it just felt like she was purposely trying to nitpick if you were,id
+23,52_23,23,52_23,147_23,P,Yeah.,ack
+24,52_24,24,52_24,147_24,P,"I mean, I guess I may have gone out or a little partially um, But I felt at the time that it was reasonable",id
+25,52_25,25,52_25,147_25,T,at the time when you were?,irq
+26,52_26,26,52_26,147_26,P,when I was talking to her outside of the meeting.,id
+27,52_27,27,52_27,147_27,T,"So you felt that she was a bit harsh. You talk to her about it, but then she's become more harsh. So where do you stand with her now? Like the meeting? Well,",irq
+28,52_28,28,52_28,147_28,P,"I've just been trying not to talk to her. And obviously, in a work situation, doesn't really help. ",id
+29,52_29,29,52_29,147_29,T,It's not convenient. Yeah. It might not help. Alright. So let's work this through using the ABC model that we use for the anxiety that you had before. Right? That was troublesome to you before. What would the activating event be here in this situation?,irq
+30,52_30,30,52_30,147_30,P,So I guess the confrontation I had whether,id
+31,52_31,31,52_31,147_31,T,Was this criticism?,yq
+32,52_32,32,52_32,147_32,P,Yeah. Yeah.,ack
+33,52_33,33,52_33,147_33,P,So She criticized me and I felt disrespected.,id
+34,52_34,34,52_34,147_34,T,That's a feeling,orq
+35,52_35,35,52_35,147_35,P,I feel or my my belief is that I deserve respect.,od
+36,52_36,36,52_36,147_36,P,being upset and like disrespected and again yeah ,od
+37,52_37,37,52_37,147_37,T,"was aggravation, yeah. frustration, frustration. So that's, that would be one of the consequences of how you processed her behavior. Does that make sense? Feeling the frustration Feeling would be one of the consequences like an ABC kind of chance you have the activating event. She criticizes you. Your belief is that you deserve respect. And clearly she violated that belief. Right? She She didn't show you the respect that you deserved record your belief system. And one of the consequences, therefore, was this feeling of frustration. Were there any other consequences?",irq
+38,52_38,38,52_38,147_38,P,"Well, if we, like go forward, it's the kind of disarray or the tension, I guess, you know, in the office.",id
+39,52_39,39,52_39,147_39,T,"To get that's, that's definitely a consequence. I'm thinking there's an intermediate consequence stuff. So you had that feeling of frustration. And what's the next thing you did after that meeting was over, ",irq
+40,52_40,40,52_40,147_40,P,"like confronted her, ",id
+41,52_41,41,52_41,147_41,T,"you confronted her? Right. So you have kind of those two consequences. And that confrontation, it would appear has led her to kind of come on more strongly with her criticisms, which is another activating event. You could also think of as a consequence, but like I said, this is a cyclical. So you see how the A and the B and the C, a paradigm can fit in to what happened here at work for you.",irq
+42,52_42,42,52_42,147_42,T,Does that make some some sense?,yq
+43,52_43,43,52_43,147_43,P,"It does. Yeah. And I mean, when you put it that way, and then you say it's cyclical, then you just, I can see I can visualize that going around my carousel.","ack,id"
+44,52_44,44,52_44,147_44,T,"Sure, exactly. So it helps you to kind of see what caused what, and maybe what could have been changed or could be changed in the future. Right. So we can't go back and change that, but we can work on the future. So her criticism of you there's no direct way to change that. consequences and consequences that leaves the belief system Right, which is the deserving respect, right? One of the things we try to do in our abt is help people move from rigid thinking, to more flexible thinking.",irq
+45,52_45,45,52_45,147_45,T,"So, kind of a rigid belief system would be enough that you said it in this way. But, you know, I, I demand and deserve respect, right at this particular level and people aren't meeting it. Right. Would you say that's a fair?",id
+46,52_46,46,52_46,147_46,P,Yeah.,ack
+47,52_47,47,52_47,147_47,T,"Okay. Maybe a more flexible way of thinking would be that you'd like respect? respects good. Yeah. respects healthy and work environments, certainly. But if you don't get it, you can still function. It's tough for you. I can see that's tough. Tell me about that.",irq
+48,52_48,48,52_48,147_48,P,"I mean, I understand But you're saying I get it? I guess it's just kind of like anxiety with the anxiety we worked on. It's just getting there. ",id
+49,52_49,49,52_49,147_49,T,Mm hmm. Do you are you willing to think of and challenge your beliefs in this instance?,"ack,yq"
+50,52_50,50,52_50,147_50,P,Yes.,ack
+51,52_51,51,52_51,147_51,T,"Yeah. Tough though just as you mentioned, like what the inside says tough How long have you had this belief cuz mentality of I deserve respect.",irq
+52,52_52,52,52_52,147_52,P,"Oh gosh, Um, since I was like a teenager. So long time",id
+53,52_53,53,52_53,147_53,T,this has been a relatively persistent part of your life. Let's play system. So changing it's going to be work.,gc
+54,52_54,54,52_54,147_54,T,"So, if you can apply a different philosophy apply more flexible thinking? Next time you're in a meeting, she still criticized you in the meetings. ",gc
+55,52_55,55,52_55,147_55,P,Yeah.,ack
+56,52_56,56,52_56,147_56,T,"So if you filter that through belief system now your first urge might be think to be, I'm being disrespected again. I it probably comes on that way. You kind of feel it.",gc
+57,52_57,57,52_57,147_57,P,"Yeah, it, it starts in my stomach and then goes all the way up.",ack
+58,52_58,58,52_58,147_58,T,"So it'll be your first physiological reaction, right and emotional reaction. But if you can kind of pause that moment and apply more flexible thinking, like I talked about, right, which is, I'd like respect, right. But I can survive and function without it. At some level, I can accept that. I'm not going to get it all the time. Other other areas of life for you do get respect. ",yq
+59,52_59,59,52_59,147_59,P,"Yeah. For my friends and my family, I feel I feel like they give me. it's actually mutual respect. They give me respect I give them respect and",ack
+60,52_60,60,52_60,147_60,P,"Well, I think",od
+61,52_61,61,52_61,147_61,P,"over time, if I learned to do that I first starting like within side of me like I wouldn't get that initial Like,",od
+62,52_62,62,52_62,147_62,P,punched in the gut.,od
+63,52_63,63,52_63,147_63,P,And I wouldn't have the urge to lash out at her. Especially if it is trying to be constructive criticism resulting in a situation where there's that tension in our office.,od
+64,52_64,64,52_64,147_64,P,I'd be able to do that I,od
+65,52_65,65,52_65,147_65,P,think I'd be able to approach her and maybe ask her she'd want to get coffee or something and maybe sit down and kind of,od
+66,52_66,66,52_66,147_66,P,talking with her.,od
+67,52_67,67,52_67,147_67,P,"maybe I misunderstood her in the first meeting. And she really didn't mean to undermine me as I said,",od
+68,52_68,68,52_68,147_68,P,and then go from there.,od
+69,52_69,69,52_69,147_69,T,"So either way, gathering the information, meaning having a discussing discussion with her, it would be helpful because I mean, you may find that you really see things so like, and it was just a disagreement in terms of her criticism in the way you interpreted, or she may have been trying to be critical and you'll know that to be really Can't control someone else's behavior. But it will give you an idea of maybe what our intentions were and how you can go forward to repair that relationship so that it functions. ",orq
+70,52_70,70,52_70,147_70,P,"Yeah. I certainly don't want like, our upper management to, you know, get involved and there'll be a bigger issue.","ack,od"
+71,52_71,71,52_71,147_71,T,"You don't want them to have to come and sort that out. Right, you can sort out their own. And that would be a good application of coping skills and flexible thinking. So is that something you feel like you can try over the course of the next week?",yq
+72,52_72,72,52_72,147_72,P,I will definitely try.,ack
+73,52_73,73,52_73,147_73,T,"So really our plan move forward as a couple parts. So one would be smooth things over and sensitive, discussing this with her, letting her know you're aware what's going on and you want to try to resolve it and the second part would be Trying to move a little bit away from the rigid, you know, I deserve respect to, I would like respect but I'll function adequately without respect from everyone. I know that's tough. That's gonna be that's gonna be the challenge, right? But this will be this will give us good information and give you some practice. Does it all make sense to you?",irq
+74,52_74,74,52_74,147_74,P,"Yeah, it's pretty clear. You explained it really well. Thank you.",id
+75,52_75,75,52_75,147_75,T,"So, let's work on those two, those two elements. Right and next time you come in, we'll check in on those two and make any needed modifications to our strategy and we'll kind of move forward from there. ",gc
+76,52_76,76,52_76,147_76,P,"Okay, ",gt
+77,52_77,77,52_77,147_77,T,that sounds good.,gt
+78,52_78,78,52_78,147_78,P,Sounds great.,gt
+79,52_79,79,52_79,147_79,T,"Thanks, Lisa. ",gt
+80,52_80,80,52_80,147_80,P,Thanks.,gt

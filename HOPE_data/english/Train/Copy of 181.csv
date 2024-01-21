@@ -1,0 +1,77 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,181_0,181_0,T,Hi Lacey Nice to meet you.,gt,0
+1,181_1,181_1,P,Hi,gt,0
+2,181_2,181_2,T,So I understand that you refer to her by your GP because you've been feeling quite down recently.,crq,0
+3,181_3,181_3,P,"Yeah, I thought I should. I've been feeling quite bad for quite a while. So I thought maybe it's time to see someone about it because I don't want to feel like this anymore.",cd,-3
+4,181_4,181_4,T,"Okay, so from your notes, I saw that you saw the GP about three months ago and how long have you been feeling down all together?",irq,0
+5,181_5,181_5,P,"And quite a few months before that as well, actually, but it's gotten pretty bad these past few months. So that's kind of why I came.",id,-1
+6,181_6,181_6,T,"Okay, so as it got worse since you saw your GP?",yq,0
+7,181_7,181_7,P,Yeah,op,0
+8,181_8,181_8,T,okay so tell me I'm How are things at the moment?,irq,0
+9,181_9,181_9,P,Like kind of started just feeling a bit low and about things but I don't know Just recently I just can't really be bothered to do anything at all I kind of find it hard to get motivated for things and I want to buy I really want to be better but it's just kind of reaching the head now I just want to do something about it.,id,-1
+10,181_10,181_10,T,"Okay, so you said that you're feeling really down really sad? Yeah. And you feel like you haven't got any motivation. Are you okay? ","gc, yq",0
+11,181_11,181_11,P,Yeah.,op,0
+12,181_12,181_12,T,"Okay, and you haven't got any motivation, but it sounds like you put in quite a lot of pressure on yourself to try and feel a bit better.",gc,0
+13,181_13,181_13,P,"Yeah, I just, it's kind of hard as well because there's not really anyone to talk about so I just kind of stay on my own trying to I don't like to think about it. But","ack, gc",-1
+14,181_14,181_14,T,"so you say you've been, you've been in quite isolated. There's not many people around. ",crq,0
+15,181_15,181_15,P,"Yeah, no one I can talk to about it. Don't put less than on stand anyway.",cd,-1
+16,181_16,181_16,T,"Okay, so I'm just going to try and find out a little bit more about you. So I understand that you're an English student at Uni. ",gc,0
+17,181_17,181_17,P,Yeah.,ack,0
+18,181_18,181_18,T,And you live away from home with some friends. Is that right?,crq,0
+19,181_19,181_19,P,"Yeah, I live with friends.",cd,0
+20,181_20,181_20,T,"Okay, so you don't live any far from the Uni. But you say you feel like University friends, but you don't feel like you can talk to them?",crq,0
+21,181_21,181_21,P,"Yeah, I mean, they're lovely. I, I get on really well with them. But I didn't know I recently whenever they want to go out or stuff, I just, I don't want to bring them down. I can't, they don't understand what I'm going through. They kind of they don't make fun of how I feel, but they don't really understand what it's like. I don't want to go out with them and bring them down.",cd,-1
+22,181_22,181_22,T,"Okay, so it sounds to try and hide the way you're feeling from them. ",gc,0
+23,181_23,181_23,P,"I guess I mean, it's easier to hide it than to try to explain it all the time when no one really wants to know.",gc,-3
+24,181_24,181_24,T,"Okay, so it sounds like you've been feeling down, you've been feeling unmotivated. You feel like you want to be better, but actually, it sounds like you felt like you can't reach out for help. You can't speak speak to anybody. ","gc, irq",0
+25,181_25,181_25,P,"No, I don't really talk to my parents about it.",id,-1
+26,181_26,181_26,T,"Okay, I'm just gonna go back in time a little bit, I suppose, I'm just wondering when when did all of this start? You said it's been going on for quite a few months. ",irq,0
+27,181_27,181_27,P,"Yeah. I guess kind of started, When I was actually when I was revising for my exams. I guess the stress. I put a lot of stress on myself. I think I've always wanted to do well for me, and I guess my parents, so the stress of exams, and it was, was kind of hard because my parents were going through trouble time that",id,-1
+28,181_28,181_28,T,"Okay, so this would be like last March last April?",crq,0
+29,181_29,181_29,P,"Yeah, I think so",cd,0
+30,181_30,181_30,T,"Around that time, so about six months if and it sounds like a lot was happening so you had a lot of uni pressure on and you said that your parents were having marital problems? ",crq,0
+31,181_31,181_31,P,Yes.,cd,0
+32,181_32,181_32,T,"Okay, and it sounds like that was a real shock to you.",crq,0
+33,181_33,181_33,P,"Yeah, I guess it was hard as well because I wasn't doing well at uni it I guess I just felt a bit guilty. I know it sounds silly, but I felt like maybe if I could do better than they would get better but it just was really happening.","cd, id",-1
+34,181_34,181_34,T,"Okay, so it sounds like you were trying to work hard and be more successful because you thought that that would make them happier and try and fix things. ",crq,0
+35,181_35,181_35,P,"Yeah, I wanted to make them feel better, but it just kind of terrified me like",cd,-1
+36,181_36,181_36,T,How did it backfire?,irq,0
+37,181_37,181_37,P,It just ended up with them getting worse and I've just been feeling worse since then.,id,-3
+38,181_38,181_38,T,"Okay, so after the summer, after the exam period, and how did that exam period go for you in the end? ",irq,0
+39,181_39,181_39,P,Not very well.,id,-1
+40,181_40,181_40,T,"Okay, there's an awful lot of pressure to put on yourself, you suppose ",gc,0
+41,181_41,181_41,P,"Its just annoying because I know, I should have done better. And I just didn't and I guess I beat myself up a lot.",gc,-3
+42,181_42,181_42,T,"So you say, I know, I know, I should have done better. I mean, I suppose that hearing it from my perspective, I'm thinking it sounds like you had an awful lot going on. At the time. It'd be understandable, absolutely, that you wouldn't do as well as normal. I suppose. I'm just wondering if you have very high standards for yourself.",gc,0
+43,181_43,181_43,P,"Maybe more than other people. My parents have always kind of taught me not in a loving way, I guess but But you should do your best, but also get the best and I agree with that. I think that's the right thing to think. But when I don't do that, I don't know, annoys me a lot. I worried that it annoys them.",gc,-3
+44,181_44,181_44,T,So it sounds like you feel you should always do your best. Yeah. And that there is any kind of exceptions for that?,"gc, yq",0
+45,181_45,181_45,P,no.,on,0
+46,181_46,181_46,T,"Okay. So I can, I can see that that was a really difficult time for you and that was when your mood started to get lower. And things are still quite bad now. I mean, what's the situation with your parents at the moment?","gc, irq",0
+47,181_47,181_47,P,"I think it doesn't sound good. I don't really talk to them a lot, but I don't think they're going through very good. I don't like to talk to them about it because it just makes me feel worse. But I don't think it's getting any better.",id,-1
+48,181_48,181_48,T,The may be  this summer ?,irq,0
+49,181_49,181_49,P,A fair  little bit Yeah,id,0
+50,181_50,181_50,T,and how was that?,irq,0
+51,181_51,181_51,P,"Not very fun. No, it was quite tense all the time. stressed me out more than relaxed me over the summer.",id,-1
+52,181_52,181_52,T,"Okay. Okay, so it sounds like quite a lot has been happening you've been feeling very low you've had uni pressure on, and we've had problems with your parents marriage and sounds like you feel that you can't really reach out to anyone mate, you can't understand we can't really reach out to your parents right now. You can't really confide in your friends. So I suppose I'm just wondering if you can tell me a bit more about how you've been feeling. I mean, say this past week.",gc,0
+53,181_53,181_53,P,"Really not good to be honest. Actually, If I don't have to do that, I don't really leave the house or get out of bed. I just I can't find the motivation for the things I used to join. I used to love doing sports or going out and now I just prefer that lie in bed and not really do anything. Okay, I missed a few lectures this week that I should have gone to.","gc, id",-1
+54,181_54,181_54,T,"Right. So I suppose I'm just wondering and let's see if we can think about one thing, say a lecture on, what kind of thoughts do you have about going to a lecture before it happens?",irq,0
+55,181_55,181_55,P,"I don't really see the point anymore. If, if I can't do as well as I should be doing, then what's the point in putting myself in those positions? I can't be bothered anymore to try it just stresses me out more than I need to.",id,-1
+56,181_56,181_56,T,"Okay, so it sounds like the kind of thoughts you've got in your head are, it's pointless, and it's not worth it. ",gc,0
+57,181_57,181_57,P,Yeah.,ack,0
+58,181_58,181_58,T,Do you have any other thoughts in your head when you're just at that point before you go to the lecture?,yq,0
+59,181_59,181_59,P,"Like I said, No, I I don't really even deserve to be here. If I can't do well enough. I feel these other students are doing well and doing better and want to be there. I don't know why I'm here even you need to be.",on,0
+60,181_60,181_60,T,So it sounds like you feel like you're not as good as other people here.,gc,0
+61,181_61,181_61,P,Yeah.,ack,0
+62,181_62,181_62,T,"Okay. I'm just as far as Okay, if I take notes as we go through is just, I'm trying to, I guess understand what you're telling me and it helps me to write it down and I'll share this with you later. Okay, so it sounds like those are those are some quite negative thoughts to have. You're kind of saying, you know, it feels like it's pointless, It's more effort thaaftern it's worth. And I don't deserve to be here. I mean, when you have those thoughts, how do you feel?","gc, irq",0
+63,181_63,181_63,P,Very unworthy. Probably will be the best way to put it kind of I didn't know lower than normal. It makes me think about all the Things I should have been doing better.,id,-1
+64,181_64,181_64,T,"Okay, so what you described that you said, I'm unworthy, I should be doing lots of things better. And those are kind of what I would call thoughts Actually, I suppose I'm trying to understand what it feels like in your gut. What kind of emotions do you feel happier? Do you feel sad? What kind of emotions you're feeling when you have those thoughts?","gc, irq",0
+65,181_65,181_65,P,Sad not happy with. I have kind of anger and frustration as well.,id,-1
+66,181_66,181_66,T,"Okay. I just when you kind of tell me this, and I know this is quite heavy topic. But you're kind of laughing and I suppose I wonder a little bit of your a bit. You know, how do you feel about having these emotions? Talking about these emotions? ","gc, irq",0
+67,181_67,181_67,P,"Yes. embarrassed. I've never yet talked about it, So it's quite uncomfortable to be in this situation.",id,-1
+68,181_68,181_68,T,"Well, you're doing a great job because I know I know that this can be difficult. Okay, so it sounds like some of the thoughts you're describing are, it's pointless, it's more than it's worth. I don't deserve to be here. I'm unworthy. And those kind of thoughts. It sounds like they just flit through your mind. And then he's kind of describing different emotions that those lead to kind of screaming sad, anger, frustration, embarrassed. What about in your body? What happens? How do you feel kind of physically?","gc, irq",0
+69,181_69,181_69,P,"I used to be, I think from those emotions very wound up very kind of stressed all the time. Recently, it's just a lot more draining than anything, just quite lethargic and can't be bothered anymore. And it's, my body reflects that. But then when I try and sleep I just can't seem to have a satisfied by sleep. It's really, really frustrating.",id,-1
+70,181_70,181_70,T,"So it sounds like this is affecting, it's draining you of your energy, like, like your body can't be bothered. I think that's a really good way of describing it. And you're noticing sleep problems as well. And then what do you do? So this is so we're back to the point before the lecture. So you start having these thoughts, these emotions, and you know your body, I guess it sounds like those thoughts quite draining. So be draining your energy, what then happens what you do next?","gc, irq",0
+71,181_71,181_71,P,"kind of focus on the negative thoughts when I probably should not think about them, but I focus on them and then I don't really want to do anything gonna stay in bed or",id,-1
+72,181_72,181_72,T,"So you think even more about those kind of warnings that you have to do a bit of dwelling any say in bed. And it sounds like you don't, you haven't tried speaking to your friends about it. Okay, and then after you've done that, so after you've not gone to the lecture, you've stayed in bed, you kind of spent time As you said, focusing on those those thoughts, those negative thoughts, how do you feel after that to feel better? Or do you feel worse?","gc, irq",0
+73,181_73,181_73,P,"I guess I felt slightly worse, but then a bit numb in a way, kind of once you've felt bad because I do feel tired all the time, I just try and push it out. And then you don't really think about anything. And it's almost nicer that way than to keep focusing on how much you're getting wrong and how much you can't do stuff. Sometimes it's better just to not think about it at all.",id,-1
+74,181_74,181_74,T,"So it sounds like in some ways, it's a bit of a relief to do that, But in other ways, maybe you think it might make things worse,",gc,0
+75,181_75,181_75,P,probably in the long run.,gc,-1

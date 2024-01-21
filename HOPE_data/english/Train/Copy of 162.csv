@@ -1,0 +1,98 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,162_0,162_0,T,"Hi Hazel, how are you doing today? ",gt,0
+1,162_1,162_1,P,Okay,gt,-1
+2,162_2,162_2,T,What's been going on?,irq,0
+3,162_3,162_3,P,"Well, last time I started to tell you a little bit about one of my friends, my best friend Actually, she had this issue. So what happened was she went to a bathroom at our local library, and she found a video camera when she was going to the bathroom",id,-1
+4,162_4,162_4,T,in the bathroom?,crq,0
+5,162_5,162_5,P,"Yeah, she actually, yeah. And she turned it into the police. And I guess because like she carried it, or she had found it. Her hand prints were on it and they weren't able to they weren't able to detect who actually did it. They weren't able to catch the ","cd, id",-1
+6,162_6,162_6,T,probably didn't catch the person?,crq,0
+7,162_7,162_7,P,"No. So send Then I've been on really just high alert, like, I'm worried that that could happen to me to my kids. And I'm just really worried because they didn't catch the guy that him or someone like him could be out there.","cd, id",-1
+8,162_8,162_8,T,"So he's still out in the community, right? So how is it affecting your your daily life? Can you tell me kind of what your where you've been feeling?","crq, irq",0
+9,162_9,162_9,P,"A lot of anxiety just not knowing maybe, you know, what if someone were to videotape me like that, I've been very aware, shall I say, of cameras.",id,-1
+10,162_10,162_10,T,"Okay, so anxious and aware,",gc,0
+11,162_11,162_11,P,"right, Like, I know you have one in your office and people on their cell phone cameras.",gc,-1
+12,162_12,162_12,T,Right,gc,0
+13,162_13,162_13,P,"Just all the possibilities that I could be recorded. I've just been very aware of them which makes me not want to go anywhere. So I've been having Arguing with my husband a lot because he wants to go out to restaurants and I don't want to go because there could be cameras in the bathrooms and how I dress also as you can see him kind of dress more conservatively because I remember hearing once about cameras that people use on shoes that could be you, you know use in a creepy way and so I I can't you know it's now almost summertime I can't dress and skirt or be comfortable because I'm dressing like that.","gc, id",-1
+14,162_14,162_14,T,"So you have covered a lot of ground there. So you have the you have the feeling of being like worried nervous, whether that's gonna happen to you. But you've also had to kind of change your routine or you have to change routine to feel safer. ",crq,0
+15,162_15,162_15,P,Right,cd,0
+16,162_16,162_16,T,has that helped has has changed in the way you dressed or changing where you go and when you go is that help reduce the anxiety?,yq,0
+17,162_17,162_17,P,"Not really no, I would say it's really starting. That's why I wanted to come in. It's really starting to affect my life.",on,-1
+18,162_18,162_18,T,"You mentioned specifically your husband has, like what's been going on here? ",irq,0
+19,162_19,162_19,P,He just wants to go places with our kids like go out to eat and and I don't really want to go anywhere that because you know cameras are everywhere nowadays.,id,-1
+20,162_20,162_20,T,They are,ack,0
+21,162_21,162_21,P,"And I just kind of worried like public bathrooms Could they be there someone being you know, sometimes baby monitors or you know have two phones and people can hack into that. Laptop cameras. So even in my own house, I've just been really nervous. So I feel like I'm not really getting relief from that anxiety.",id,-1
+22,162_22,162_22,T,Have you taken any precautions because of this persistent worry.,irq,0
+23,162_23,162_23,P,"I mean, I've read ",id,0
+24,162_24,162_24,T,"I was already mentioned like with the camera specifically. I mean,",gc,0
+25,162_25,162_25,P,"I've um, you know, when I go into bathrooms I I've been looking for cameras to make sure they weren't there before you know me or my children that needs a bathroom. I have tried, I read online You can learn how to turn off the cameras on your phone, and that you can close your laptop in that way the camera will face down. So, and the same thing on a smart TV so it doesn't recognize your face. I've I've tried to turn things off, they don't need to be on as far as people being able to access myown information ","gc, id",-1
+26,162_26,162_26,T,"and that seems reasonable. Once you take reasonable precautions to try to avoid being video recorded, ",gc,0
+27,162_27,162_27,P,right,ack,0
+28,162_28,162_28,T,against your will.,gc,0
+29,162_29,162_29,P,Exactly.,ack,0
+30,162_30,162_30,T,"But still, you have this feeling of worry anxiety and your your schedules being interfered with?",crq,0
+31,162_31,162_31,P,right.,cd,0
+32,162_32,162_32,T,"skewed you'd like to cope more effectively with your feelings, reduces anxiety. So when you enter into a public bathroom and we talked about automatic thoughts before those thoughts it just kind of pop into our head and they connect to feelings. That can be unpleasant",gc,0
+33,162_33,162_33,P,right.,gc,0
+34,162_34,162_34,T,"Like anxiety and worry. So when you walk into a public restroom, what's the first thing that goes through your mind?",irq,0
+35,162_35,162_35,P,"that there might be a video camera that I don't see that that's maybe like with my friend that was big enough, but I might not catch it in that someone's going to use that in a vulgar way.",id,-1
+36,162_36,162_36,T,"Okay, so when you walk in, you're wondering if there's a camera there. ",gc,0
+37,162_37,162_37,P,Yeah.,ack,0
+38,162_38,162_38,T,"And when that automatic thought occurs, what follows that in terms of a feeling or behavior?",irq,0
+39,162_39,162_39,P,"Usually I'll try and find the camera but it's usually anxiety fear. My heart rate starts going up, I start getting really anxious and then you know, I try and either rush to use the bathroom if I really have to go or a lot of times if I don't, I'll just leave. Sometimes I try and use bathroom at home so I don't have to go out.",id,-1
+40,162_40,162_40,T,So you behaviors looking for the camera or sometimes just leaving without using a restroom. And you're You're feeling is that that anxiety worry there?,crq,0
+41,162_41,162_41,P,"Yeah, ",ack,0
+42,162_42,162_42,T,"we've been talking about. Okay. So, really, if we think about, we talked before about the core beliefs, intermediate beliefs, and wonder if the intermediate belief, isn't it, I'm vulnerable. Or this more specifically, maybe it's more of a core belief. More specifically, I'm vulnerable in this area, like put this guy on the loose","gc, id",0
+43,162_43,162_43,P,"right, ",gc,0
+44,162_44,162_44,T,"you know, committed that crime. And then, you know, that's combining with situations that you encounter, and that's where you're getting those automatic thoughts. So that sort of makes sense.",gc,0
+45,162_45,162_45,P,Exactly.,gc,0
+46,162_46,162_46,T,"Okay. So you remember what, what in terms of kind of therapy, you'd like to apply what we call the adaptive response or self talk. So it's that thought that you interject at that moment you realize you're having an automatic thought, that's going to be to in this case, anxiety and worry and behaviors that are looking for the camera isn't maybe useful behavior, but leaving, you know, that's that that could certainly be on useful behavior. So in terms of that self talk, let's let's work to develop a self talk response so that you could tell yourself to that initial, you know, I wonder if there's a camera in this bathroom. Right? What do you think you could tell yourself that would get in between that thought and the feelings you're having?","id, irq",0
+47,162_47,162_47,P,I could say if when I walked in the bathroom?,id,-1
+48,162_48,162_48,T,Umm hmm,gc,0
+49,162_49,162_49,P,"maybe I could say, Umm you know, while there could be a chance that there's a camera in this bathroom, the chance of it happening is not very likely. And You know, I'm gonna take steps to keep myself safe, so that I won't be in a vulnerable position such as looking for the camera.",gc,0
+50,162_50,162_50,T,"But it's good. So you have, you have a low probability of it happening, and you're taking useful behaviors to minimize your risk even further. ",gc,0
+51,162_51,162_51,P,Right.,gc,0
+52,162_52,162_52,T,"Right. So that's a good automatic thought, I think are good adaptive response for the next thought rather. Why don't you Why don't you try that one out? Right, the next time. You had that on that thought? Right. Try out that. You know, I think that's really, you know, that's logical. I mean, it's, it's unlikely to happen. Of course, there's a chance. Right,","gc, id",0
+53,162_53,162_53,P,right.,gc,0
+54,162_54,162_54,T,"And we, we acknowledge that in the self talk, there's a chance that it could happen, but there's precautions you can take. That's a low chance sometimes as well, so keep that on Mac thought. We'll review it In the end, ","gc, id",0
+55,162_55,162_55,P,"okay, ",gc,0
+56,162_56,162_56,T,"right before you leave today, we'll write these down. But that's that's one adaptive response rather that I want to write down for you. I also want to talk about like, the worst case scenario, because right now you have the anxiety worry about an event that while it's unlikely it could happen. It could happen. And I'm wondering how you think you would react? If it is the worst did happen if you if you use the restroom, and you found out through law enforcement or by finding a camera that an offender had been, you know, watching you right on recording. How would react to that?","gc, orq",0
+57,162_57,162_57,P,"I mean, I think I would be really upset. I think I would feel vulnerable probably for a while and be hesitant. I mean, I would think ultimately, that would be okay. My friend is happened a while ago, she's starting to get to get over it and get back to her usual routine, although she's still hesitant, so I think I would be okay. Eventually, although I'd be really upset that it happened.",od,-1
+58,162_58,162_58,T,"And it would make sense to feel upset. But that would be upsetting for anybody. But as you noted, that would probably be relatively temporary. ",gc,0
+59,162_59,162_59,P,That's right.,gc,0
+60,162_60,162_60,T,"distress, right? Well, acute, and certainly, you wouldn't be happy about it. It shouldn't be happy about it. ",gc,0
+61,162_61,162_61,P,Right,ack,0
+62,162_62,162_62,T,It would probably go away. I learned to adapt. How long have you been in the state of anxiety and worry?,"gc, irq",0
+63,162_63,162_63,P,"Probably it happened like two months, two months?",id,0
+64,162_64,162_64,T,And how many days and the average week are you affected by these feelings?,irq,0
+65,162_65,162_65,P,"Every day, ",id,0
+66,162_66,162_66,T,every day?,crq,0
+67,162_67,162_67,P,Yeah.,cd,0
+68,162_68,162_68,T,"So if we can compare it right, we have a chance to be recorded, right illegally. That's a low probability event. It could happen. Probably not likely. The anxiety and worry that you're having. That's a high probability event because you're suffering from every day.","gc, id",0
+69,162_69,162_69,P,And that's true. I never thought about it that way.,gc,-1
+70,162_70,162_70,T,"So there's a, there's a point at which maybe you reach and you say, I'd rather take that route to take the risk, I'd rather deal with the potential consequences of that an unlikely event to be recorded and face that if it happens, then be in the state of anxiety, worry","gc, id",0
+71,162_71,162_71,P,"right, Because right now I'm suffering every day.",id,-3
+72,162_72,162_72,T,"Now you're suffering, right? And if, if you could adaptively respond effectively, you you're still gonna have that risk of being recorded. But you know, you could survive that event if it happened late.",gc,0
+73,162_73,162_73,P,I can get it,gc,0
+74,162_74,162_74,T,"And you're taking reasonable cautions and you know, things we talked about. So, as you think about this in a more general sense, is there a adaptive response, you could apply it to that, to that on that thought of, you know, I need to be worried about This or, you know, whatever that thought looks like sometimes the thoughts in image rights may like an image have been recorded, but whatever that kind of general series of automatic thoughts are that are that are getting you anxious or worried before you even get out of the house. What adapter response? Could you apply there?","gc, irq",0
+75,162_75,162_75,P,"Maybe, you know, like I said, I'm worried about all the cameras, maybe I could say, you know, I understand there's some cameras that, you know, use for good purposes, security, ",id,-1
+76,162_76,162_76,T,probably most are,gc,0
+77,162_77,162_77,P,"right. And the chances of being recorded illegally are not likely if, and I'm taking precautions to you know, go to the right places. The good areas, good areas. So it's not likely to happen overall. And me going outside the house is worth the risk. You know, the minimal risk that it would happen and if it did happen, I could survive.","gc, id",-1
+78,162_78,162_78,T,"That's great. That's a great adaptive Yeah. And actually, that's kind of a few adaptive responses. ",gc,0
+79,162_79,162_79,P,"Right, right. ",ack,0
+80,162_80,162_80,T,"But that's good. And you can you can apply them and we'll, we'll kind of break them down. ",cv,0
+81,162_81,162_81,P,Okay.,cr,0
+82,162_82,162_82,T,"Like I said, before you leave today, we'll break those down. So you can, you could have written down as you go out. I think it's important, because the automatic thoughts tend to spring on us quickly. It's important to rehearse these adaptive responses. So we're ready to go. ","id, cv",0
+83,162_83,162_83,P,Okay.,cr,0
+84,162_84,162_84,T,"Right. And, and kind of, you know, we're being we're preparing ourselves to apply that adaptive response. And in order to be prepared you, you have to know what it is. So it's good to have it written down to kind of more or less commit to memory. ",gc,0
+85,162_85,162_85,P,Okay.,gc,0
+86,162_86,162_86,T,Does that make sense?,yq,0
+87,162_87,162_87,P,Yeah.,op,0
+88,162_88,162_88,T,"All right. So, before we leave today, I'll take care of that. And I want you to use as adaptive responses for this week. I'll see you next week. And record what the outcome Was every time you're able to apply the response, and that includes what you felt and what you actually did. ","gc, cv",0
+89,162_89,162_89,P,Okay.,cr,0
+90,162_90,162_90,T,"And of course, as you mentioned, any physiological reactions like your heart racing, right underneath that, so that's really that sub behavior. But note both a physiological behaviors and other behaviors. ","gc, cv",0
+91,162_91,162_91,P,Okay,cr,0
+92,162_92,162_92,T,"Yeah. Once you're consciously controlling, and then any feelings, okay? And we'll go through them. We'll go through each time use it one by one, they have a there are and kind of see if we need to adjust the adaptive response and see how well it's working. Okay. That's the plan.","gc, id",0
+93,162_93,162_93,P,Yeah. I think that will be helpful,gc,0
+94,162_94,162_94,T,So we'll go from there. And I appreciate you coming in today.,gc,0
+95,162_95,162_95,P,Thank you very much.,gc,0
+96,162_96,162_96,T,Thanks.,gc,0

@@ -1,0 +1,78 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,169_0,169_0,T,"Hi Joe, How are doing today?",gt,0
+1,169_1,169_1,P,I'm doing okay,gt,0
+2,169_2,169_2,T,just okay?,crq,0
+3,169_3,169_3,P,"Well, I know we've talked before about me thinking about suicide and I'm starting to think about it, you know, like a little bit stronger than before, I think a little bit more clearly.",cd,-1
+4,169_4,169_4,T,"So, can you can tell me a little bit more about that?",irq,0
+5,169_5,169_5,P,"Um, well, one we've talked before, I've had the feelings and the thoughts of suicide, but now it's kind of starting to like I'm thinking about it more often. I'm thinking about a little more clearly and that's alarming to me. ",id,-1
+6,169_6,169_6,T,Do you want to die?,yq,0
+7,169_7,169_7,P,"Yeah, I will. Yeah, sometimes",op,-1
+8,169_8,169_8,T,sometimes?,crq,0
+9,169_9,169_9,P,"Um, I mean, you know, sometimes I know, It would be scary to try it and my husband would be so hurt, but at the same time, I want to end this. I want to end the feeling that I'm having depression. Yeah. ",cd,-1
+10,169_10,169_10,T,Okay. Do you have any plan as to how you would end your life if you decide to do that?,irq,0
+11,169_11,169_11,P,"I mean, I know if I wanted to that we have pills in the cabinet. So it wouldn't be that hard, I could just take the bottle and ",id,-1
+12,169_12,169_12,T,just same pills that you prescribed for depression?,crq,0
+13,169_13,169_13,P,Yeah.,cd,0
+14,169_14,169_14,T,Do you feel like you're going to carry out that plan?,yq,0
+15,169_15,169_15,P,"No, I mean, part of it. That's why I'm nervous because like, I'm worried that I might, but at the same time, You know, I'm afraid to so sometimes I think that I might and sometimes I think I won't. I don't want to but sometimes I get scared that I will.",on,-1
+16,169_16,169_16,T,"Today you're a little worried that you will, or you're a little closer to it then than usual. We've talked about this before in the past, you've come in, you've had kind of that same plan to pills and the thoughts and what what stops you those times was stuck in the past.",gc,0
+17,169_17,169_17,P,"In the past, I thought, this will get better. I just have to keep trying, I thought what will my husband feel when I'm gone and my family, my parents, my brother and sister I thought that this is as bad as it can get. It has to get better eventually. But now I'm just starting to feel like I don't think it's gonna get better.","gc, id",-1
+18,169_18,169_18,T,"Alright, so there's times before when you had the same feeling, right? You felt just as bad as you feel now really down hopeless. What happened a few days after that, after the thoughts suicide went away. What was your outlook on life that?","gc, irq",0
+19,169_19,169_19,P,"I mean, I feel I feel a little better. You know, and then I'd say to myself, that was silly, you know, I don't want to do that. I don't, I don't want to end things. You know. It's It's too rash. But you know, it's starting to feel like a permanent problem.",id,-1
+20,169_20,169_20,T,So if you feel like this time these suicidal thoughts are markedly different than what you've experienced before.,crq,0
+21,169_21,169_21,P,"I wouldn't say markedly but I would say they're different. They're a little they're stronger,",cd,-1
+22,169_22,169_22,T,more intense?,crq,0
+23,169_23,169_23,P,yeah,cd,0
+24,169_24,169_24,T,"When you think about this, these feelings on before we talked about I know this relationship surrounding relationships, the same thing this time?",irq,-
+25,169_25,169_25,P,"I mean, I guess that has something to do with it, I guess. It's just like when I look to everything, like everything that could be good or everything, just everything like life, my relationships, the future I just look at it and I see despair. I just see everything going wrong. And I just don't see how it could get better. I just don't see it",id,-1
+26,169_26,169_26,T,in a sense of hopelessness?,crq,0
+27,169_27,169_27,P,Yes.,cd,0
+28,169_28,169_28,T,"So this time is different because you feel it's very less situational, less tired of relationships and more, Well, philosophical, you're looking at your outlook and you're saying it's not gonna get any better. What's the point going on? So this is a little bit new territory for you. How long we've been feeling this way with the  intensity right now?","gc, irq",0
+29,169_29,169_29,P,"Probably a week, maybe a little less",id,-1
+30,169_30,169_30,T,What was prevented you from hurting yourself those last week?,irq,0
+31,169_31,169_31,P,"I'm afraid to do it. I'm just scared. It's like It's like jumping off a diving board. Like you get up to the edge and you stand there, that's where that",id,-1
+32,169_32,169_32,T,"Have you made any gestures to harm yourself? Like if you went and grabbed the pills or went to the medicine cabinet looks at the pills, anything like that. ",irq,0
+33,169_33,169_33,P,"Sometimes I look at them, look at them. ",id,-1
+34,169_34,169_34,T,Don't think further than look at them?,irq,0
+35,169_35,169_35,P,"Well, I mean, so I have to take them. It's my prescription. So when it's time I start thinking about it. Like it's more I think about my like, the ideations come even more because it's like a trigger like I'm thinking about the pills. So I go to the cabinet, and I get my pills and I and I take the, the one that I'm supposed to, but I just look at the bottle and I kind of stand there and I just think Instead of putting the bottle back, I could take it with me.",id,-1
+36,169_36,169_36,T,And what do you end up doing?,irq,0
+37,169_37,169_37,P,"It takes a while but I put it back. It's It's scary. Like I look into the bottle and I'm afraid because dying is scary, but ",id,-1
+38,169_38,169_38,T,and how about the pain that you would cause husband and the rest of your family?,irq,0
+39,169_39,169_39,P,"Yeah, I don't want to do that. ",id,-1
+40,169_40,169_40,T,You don't want that?,yq,0
+41,169_41,169_41,P,"I don't. I don't. I don't want my husband to find me, I don't want him to feel like this is his fault. I don't want him to be sad that I'm gone. I don't want him to feel like I feel.",on,-1
+42,169_42,169_42,T,"And when relatives of somebody that committed suicide, hear about the suicide? Who do they blame? ",irq,0
+43,169_43,169_43,P,Yeah. It's not it's not their fault. And I know that they wouldn't be able to get over it and I know that they'll be thinking about how bad I felt they'll have to know what it really felt like for me.,id,-1
+44,169_44,169_44,T,So I know this is a tough time right? But the good news is you're here talking to me about it. Right? Now you're talking about it. I'm gonna guess that you want to do something for bad to feel better. Are you gonna carry out your plan or you're gonna hurt yourself?,"gc, yq",0
+45,169_45,169_45,P,I don't want to,on,-1
+46,169_46,169_46,T,are you going to?,yq,0
+47,169_47,169_47,P,"No, I think I think if I can just remember what it'll be like for them. That'll keep me from doing it. You know, it's the times that I forget to think about how they're going to feel that I get closer to the edge. But when I remember, you know, like, It upsets me to think about what it'll be like for them. So if I can remember to think about that and it'll help me not do that. But I think having the pills there in the cabinet like that is a big temptation for me.",on,-1
+48,169_48,169_48,T,"Okay, so can we can we do this? Your husband's at home? Right. You mentioned you take two pills once a day?",gc,0
+49,169_49,169_49,P,Yeah.,ack,0
+50,169_50,169_50,T,Before for bed?,crq,0
+51,169_51,169_51,P,Okay.,cd,0
+52,169_52,169_52,T,Can we would you be willing to sign a release so I can talk to him. He can hold on to those pills. Just give you the pill each night take one and I will that be okay?,"gc, irq",0
+53,169_53,169_53,P,"Yeah, I think I think that would be a good idea.",id,0
+54,169_54,169_54,T,Is there anything else in the medicine cabinet or anywhere else in the house to give you a danger to?,yq,0
+55,169_55,169_55,P,"I think, I think yeah, I think it would be a good idea to just make sure that everything that was in the medicine cabinet",op,-1
+56,169_56,169_56,T,all the tools?,crq,0
+57,169_57,169_57,P,yeah.,cd,0
+58,169_58,169_58,T,Would he be willing to do that?,yq,0
+59,169_59,169_59,P,"Right. Yeah, I think, yeah, I think that he would be willing to do that. He doesn't. He wants me to get through this. ",op,-1
+60,169_60,169_60,T,"Okay. If I get release for the talk you might , sign it?",cv,0
+61,169_61,169_61,P,"Yeah. Oh, I'll do that. ",cr,0
+62,169_62,169_62,T,"Okay. Are you familiar before, are you familiar with this concept we talked about before contracting for safety, or the prior time. So, you've been the state similar to this. Can you promise me that you're going to not hurting yourself.","gc, cv",0
+63,169_63,169_63,P,"I can Yeah, I can do that. At least until next week when we meet again, I promise.",cr,-1
+64,169_64,169_64,T,"Let's be a little certain that okay, sets up that for a more. ",gc,0
+65,169_65,169_65,P,"Okay, yeah, we can definitely do that I can do that.",gc,0
+66,169_66,169_66,T,"I know this is a rough time trying to appreciate how rough it is for you. I want you to keep in mind how you felt after the times before. Now you do tend to pull out of this. And you look back at a lot differently. But in the moment, it's hard to see that. That doesn't necessarily make this any easier. But if you can hang on to we can get through this cycle of depression. You'll probably have a different outlook. If history is any evidence. Does that make sense? ","id, yq",0
+67,169_67,169_67,P,Yeah,op,0
+68,169_68,169_68,T,All right. So what do you have planned for us today?,irq,0
+69,169_69,169_69,P,"Um, you know, I'm just gonna go home. My husband will be home. work and have dinner, watch TV.",id,0
+70,169_70,169_70,T,"So, are you gonna be alone anytime between when you leave here and when you come and see me anymore?","ack, yq",0
+71,169_71,169_71,P,"Um, yeah, I'll probably be home for a little while in the morning, but I have to work so I won't have, you know, I'll be busy.",op,0
+72,169_72,169_72,T,"Okay, if these feelings intensified, or you do feel you're gonna act on them, which promised to call me and kill me call 911 ",cv,0
+73,169_73,169_73,P,"Yeah, I'll do that. Okay.",cr,0
+74,169_74,169_74,T,I'm gonna get that release so you can talk to your husband. And then see it for a few minutes or so point for more. All right.,gc,0
+75,169_75,169_75,P,Thank you,gc,0
+76,169_76,169_76,T,"Thanks, Joe.",gc,0

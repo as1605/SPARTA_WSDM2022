@@ -1,0 +1,72 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,28_0,0,28_0,124_0,T,I appreciate your participation in tech so far. I want to change to new section. That's okay with you. And this section is on substance use. Is that an area you feel comfortable discussing?,irq
+1,28_1,1,28_1,124_1,P,Sure.,id
+2,28_2,2,28_2,124_2,T," So, are there any substances that you currently use?",irq
+3,28_3,3,28_3,124_3,P,I drink a bit.,id
+4,28_4,4,28_4,124_4,T,Can you tell me how often you drink?,crq
+5,28_5,5,28_5,124_5,P,I guess it's it's more than a bit. I would say. I have probably three drinks today.,cd
+6,28_6,6,28_6,124_6,T,And what are you drinking?,irq
+7,28_7,7,28_7,124_7,P,beer,id
+8,28_8,8,28_8,124_8,T,To know what size,irq
+9,28_9,9,28_9,124_9,P,the bottle says there's there's 3,id
+10,28_10,10,28_10,124_10,T,three bottles of beer a day.,crq
+11,28_11,11,28_11,124_11,P,Yeah.,cd
+12,28_12,12,28_12,124_12,T,"And how much time does To take you to consumers,",irq
+13,28_13,13,28_13,124_13,P,Hardly a couple of hours.,id
+14,28_14,14,28_14,124_14,T,"So, every day, three beers and about two hours. Yeah. Does that do anything to you? In terms of your mood or feeling? Hmm,",irq
+15,28_15,15,28_15,124_15,P,it just kind of helps me unwind after a long day of work relaxes me.,id
+16,28_16,16,28_16,124_16,T,So it's relaxing for you.,yq
+17,28_17,17,28_17,124_17,P,Yeah.,ack
+18,28_18,18,28_18,124_18,T,Has it ever gotten you into any type of trouble?,irq
+19,28_19,19,28_19,124_19,P,"Hmm, there is a one time that I, my my friends and I kind of gotten to fight after I had been drinking. And we almost stopped talking because of it, but we were able to work it out. But I almost lost friends ever before.",id
+20,28_20,20,28_20,124_20,T,"All right, is there any other areas where it might disrupt functioning?",irq
+21,28_21,21,28_21,124_21,P,"Sometimes it's hard to get up and get to work the next morning After I've had, if I drink it like later in the day, it's hard to get up and get to work on time the next morning. So I've been late a couple times.",id
+22,28_22,22,28_22,124_22,T,"So, three, three bottles of beer, pretty much every day,",irq
+23,28_23,23,28_23,124_23,P,"pretty much every day,",id
+24,28_24,24,28_24,124_24,T,whichever is the time when you've consumed more or less than particular day.,irq
+25,28_25,25,28_25,124_25,P," And not typically during the week, but sometimes I'll drink more on the weekends.",id
+26,28_26,26,28_26,124_26,T,And how long have you been drinking alcohol?,irq
+27,28_27,27,28_27,124_27,P,I guess I started when I was around 17.,id
+28,28_28,28,28_28,124_28,T,Yeah. Was that you mentioned beer. Have you ever consumed any other type of alcohol,irq
+29,28_29,29,28_29,124_29,P,I've tried wine and shots before but I always kind of just gravity more towards the beer back toward beer. Yeah.,id
+30,28_30,30,28_30,124_30,T,Any other substances you use currently,irq
+31,28_31,31,28_31,124_31,P,"on on the weekends as well all all smoke some pot with my friends like Saturday night,",id
+32,28_32,32,28_32,124_32,T,When did you first start using marijuana?,irq
+33,28_33,33,28_33,124_33,P,That was probably a couple years ago when I first started college,id
+34,28_34,34,28_34,124_34,T,about two years ago.,yq
+35,28_35,35,28_35,124_35,P,Yeah.,ack
+36,28_36,36,28_36,124_36,T,"On the weekends, sometimes other times",yq
+37,28_37,37,28_37,124_37,P,Yeah.,ack
+38,28_38,38,28_38,124_38,T,"mostly on the weekends, occasionally during the week. Has it ever led to any trouble or change the function? ",irq
+39,28_39,39,28_39,124_39,P,"I am not, I mean, on the weekends, no, because I don't really have anywhere to be. But sometimes during the week if I, if I again, kind of like the alcohol if I smoke it too late again, it's hard to get up in the morning and get to work on time and my boss is really starting to get irritated with me how often I've been late. Not that I'm like, super late, but I'm late enough.",id
+40,28_40,40,28_40,124_40,T,Have you ever tried to cut down on the substance use?,irq
+41,28_41,41,28_41,124_41,P,"Um, I've tried to cut back on the alcohol before. That a year ago I try. I was, like, started when I started this job that I have now. I tried to cut back when I first started. And I was able to get down to like two, one or two beers instead of three. But then the job got stressful and I got comfortable, I guess and started drinking more again.",id
+42,28_42,42,28_42,124_42,T,So you think perhaps the alcohol use is connected to the stress with your job?,orq
+43,28_43,43,28_43,124_43,P,"I yeah, I would say it's definitely connected.",od
+44,28_44,44,28_44,124_44,T,Have you ever been annoyed by people that perhaps criticize your substance use?,irq
+45,28_45,45,28_45,124_45,P,"Yeah, my family can be critical of they don't really know about the marijuana but they can be critical of my alcohol use.",id
+46,28_46,46,28_46,124_46,T,That bothers you.,yq
+47,28_47,47,28_47,124_47,P,Yeah.,ack
+48,28_48,48,28_48,124_48,T,Have you ever felt bad or guilty about your substance use?,irq
+49,28_49,49,28_49,124_49,P,"Right. I felt guilty. Was my mom because it upsets her so much sometimes, like I'll feel guilty about how my son has to be upsets her but and sometimes I feel bad like if I have a fight with my friends if I'm not calm I'll feel bad the next day about getting into an argument with them cuz usually over something silly",id
+50,28_50,50,28_50,124_50,T,Have you ever had to drink or use drugs first thing in the morning to study your nerves or to lessen the effects of the hangover?,irq
+51,28_51,51,28_51,124_51,P,"Um, I'd say on the non during the week but on the weekends when I'll drink a little bit more sometimes I'll have like, just a little bit like if I drink Saturday night have a little bit Sunday morning to get going.",id
+52,28_52,52,28_52,124_52,T,"So on occasion that happens. Yeah,",irq
+53,28_53,53,28_53,124_53,P,I wouldn't say it's often but on occasion.,id
+54,28_54,54,28_54,124_54,T,"So, Alcohol, Marijuana, two substances you currently use. Can you tell me about substances used in the past?",irq
+55,28_55,55,28_55,124_55,P,I'm at a party one time I tried ecstasy but I didn't like it. I ended up not really hanging out with those people anymore. So it wasn't an issue,id
+56,28_56,56,28_56,124_56,T,"just the one time. Yeah, just the one time.",ack
+57,28_57,57,28_57,124_57,P,"I'm in high school, my friends. A lot of my friends were smokers. So I smoke cigarettes, but it kinda it just made me feel sick. And I never really liked very much didn't really do anything for me.",id
+58,28_58,58,28_58,124_58,T,So that didn't last she just continued.,yq
+59,28_59,59,28_59,124_59,P,Yeah. All right.,ack
+60,28_60,60,28_60,124_60,T,Any other substances or just those two?,irq
+61,28_61,61,28_61,124_61,P,Just those two that I'm currently using and then just the smoking in the ecstasy.,id
+62,28_62,62,28_62,124_62,T,Do you have a family history of substance use?,irq
+63,28_63,63,28_63,124_63,P,My grandfather? My mom claims that my grandfather was an alcoholic.,id
+64,28_64,64,28_64,124_64,T,Any other history?,irq
+65,28_65,65,28_65,124_65,P,"No, not that I'm aware of at least",id
+66,28_66,66,28_66,124_66,T,"before I moved to the next Section of the intake. While we're still talking about substance use, is there anything else you want to add in the comments you want to make about the section? ",irq
+67,28_67,67,28_67,124_67,P,Because I think that covers it.,id
+68,28_68,68,28_68,124_68,T,So covered pretty well.,gt
+69,28_69,69,28_69,124_69,P,Yeah. All right.,gt
+70,28_70,70,28_70,124_70,T,"I appreciate you answering these questions. And if you're okay, I'm going to move from the section and move to the next section. The intake okay.",gt

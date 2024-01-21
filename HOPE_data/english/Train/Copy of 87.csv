@@ -1,0 +1,47 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dilog_Act,Dialog_Act_1,Emotion
+0,87_0,0,87_0,28_0,T,"Hi Chucky, How are you doing ?",gt,,0
+1,87_1,1,87_1,28_1,P,I'm doing good. What about you?,gt,,1
+2,87_2,2,87_2,28_2,T,Yeah me too thanks for asking. I understand you've been having some difficulties that brought you in to our agency.,irq,,0
+3,87_3,3,87_3,28_3,P,"Yeah, I'm really worried about my drinking.",id,,-2
+4,87_4,4,87_4,28_4,T,You're worried about your drinking. Tell me about your drinking.,irq,,0
+5,87_5,5,87_5,28_5,T,"So sometimes at work, you've been having cravings for alcohol and the other There are times when you will have a craving?",crq,,0
+6,87_6,6,87_6,28_6,P,"Yes, kind of at home, you know, not really doing anything for a period Hmm.",id,,0
+7,87_7,7,87_7,28_7,T,"So other than that feeling of having the craving, is there anything you do after you have a craving?",irq,,0
+8,87_8,8,87_8,28_8,P,"Um, yeah, sometimes I'll, I'll have a drink. And I just feel like I want to get into it.",id,,0
+9,87_9,9,87_9,28_9,T,How much do you drink?,irq,,0
+10,87_10,10,87_10,28_10,P,Like a beer or two.,id,,0
+11,87_11,11,87_11,28_11,T,Is this when you work in a day? ,yq,,0
+12,87_12,12,87_12,28_12,P,No,on,,0
+13,87_13,13,87_13,28_13,T,"So when you're having cravings at work, you're not drinking there?",yq,,0
+14,87_14,14,87_14,28_14,P,"No, no.",on,,0
+15,87_15,15,87_15,28_15,T,Right. So tell me about your typical alcohol consumption week.,irq,,0
+16,87_16,16,87_16,28_16,P,"Like Do on Fridays after work, you know, after a long week, that's kind of when I really crave it. Like, go have a drink with some friends. I'll have a drink sometimes with dinner. If I'm at a social event, kind of feel like I want to have a drink, and I don't really want to feel that way. I feel like that might be a problem.",id,,-1
+17,87_17,17,87_17,28_17,T,You're worried that the craving is indicating you have an alcohol problem?,crq,,0
+18,87_18,18,87_18,28_18,P,Yeah.,op,,0
+19,87_19,19,87_19,28_19,T,Have you ever tried to cut down your drinking and you're unable to do so?,yq,,0
+20,87_20,20,87_20,28_20,P,"Um, well, I mean, usually I'm, I'm able to limit my days if I say I'll just going to go to a party this weekend. I'll have one and then Yeah, usually I can stick to it, too, I guess.",id,,-1
+21,87_21,21,87_21,28_21,T,You spend a lot of time trying to obtain alcohol.,irq,,0
+22,87_22,22,87_22,28_22,P,"Um, no, I, I guess not. I've I mean, I think about where I want to have a craving I think about like, when I want to have it, but I don't really spend a lot of time thinking about it or trying to get it.",on,id,0
+23,87_23,23,87_23,28_23,T,How about in terms of your responsibilities? Have you failed to uphold any responsibilities because you're drinking? Or you have any social problems because you're drinking.,yq,,0
+24,87_24,24,87_24,28_24,P,"Well. No, I guess not. I mean, I get really friendly when I have a drink. So I don't really think that's a problem. But you know, I guess not.",on,id,0
+25,87_25,25,87_25,28_25,T,It doesn't cause social problems. Do you find yourself giving up important activities because you're drinking instead?,irq,,0
+26,87_26,26,87_26,28_26,T,"So thinking about it, maybe still some craving, but you're still going. You're still participating.",crq,,0
+27,87_27,27,87_27,28_27,P,Yeah.,op,,0
+28,87_28,28,87_28,28_28,T,Are you engaging in activities that are dangerous?,yq,,0
+29,87_29,29,87_29,28_29,P,"Because of the drinking, no.",on,,0
+30,87_30,30,87_30,28_30,T,Drinking and driving?,yq,,0
+31,87_31,31,87_31,28_31,P,"Well, no.",on,,0
+32,87_32,32,87_32,28_32,T,There's nothing like that. Yeah.,crq,,0
+33,87_33,33,87_33,28_33,P,No. I wouldn't say worse. No.,cd,,0
+34,87_34,34,87_34,28_34,T,Do you have any medical or mental health problems in general?,yq,,0
+35,87_35,35,87_35,28_35,P,No.,on,,0
+36,87_36,36,87_36,28_36,T,Do you find that you have to increase the amount of alcohol you're drinking to get the same effect?,yq,,0
+37,87_37,37,87_37,28_37,P,No.,on,,0
+38,87_38,38,87_38,28_38,T,"all right, and you've been drinks you save a drink about the same amount each time you drink. Have you noticed that the effect has been diminished, like you're not getting the same effect from the alcohol?",yq,,0
+39,87_39,39,87_39,28_39,P,I usually feel the same.,id,,0
+40,87_40,40,87_40,28_40,T,"Goes same way. Yeah. Have you ever noticed any symptoms when you stop drinking, like withdrawal?",yq,,0
+41,87_41,41,87_41,28_41,P,What do you mean by withdrawal?,crq,,0
+42,87_42,42,87_42,28_42,T,"Like when you stop using alcohol, are you finding that you're anxious, depressed, you have physical reactions like that. ",cd,,0
+43,87_43,43,87_43,28_43,P,No.,on,,0
+44,87_44,44,87_44,28_44,T,"Okay, Jackie, I appreciate you. Tell me about what's going on and answer my questions. If you're okay with it, I'll get you in to see a counselor. I'll get that scheduled. And we can go from there.",gt,id,0
+45,87_45,45,87_45,28_45,P,"Okay, thank you very much.",gt,,0

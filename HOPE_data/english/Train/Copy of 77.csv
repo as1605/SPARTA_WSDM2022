@@ -1,0 +1,32 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,77_0,0,77_0,19_0,T,any other evidence that points toward you being imposter?,irq,,
+1,77_1,1,77_1,19_1,P,Besides My bad grade? Not a whole lot.,id,on,1.0
+2,77_2,2,77_2,19_2,T,Right. So to be safe to say that a lot of that thought of I'm not good enough is kind of based on your feelings of anxiety.,cr,,
+3,77_3,3,77_3,19_3,P,Yeah. Which are really intense like panic almost in the moment.,op,cd,
+4,77_4,4,77_4,19_4,T,Yeah so in a way you're believing With the anxiety will lead you to believe.,cr,,
+5,77_5,5,77_5,19_5,P,"Yeah, definitely. ",op,cd,
+6,77_6,6,77_6,19_6,T,"But in the bright light of scrutiny, there are a lot of facts to support the worst case, which is you don't deserve it. How about evidence that refutes that you're not good enough?",id,irq,
+7,77_7,7,77_7,19_7,P,"I would say that, you know, I was accepted into the program. Like there's kind of like, a pretty rigorous sort of testing and stuff, which I passed, to get interviews and such to get into the program. So I did that. Like I said, I'm a pretty good student, all considering, you know, before this kind of flick was happening.",id,,1.0
+8,77_8,8,77_8,19_8,T,"Okay, so you've got through a rigorous process to become a student You're doing well. You mentioned before, just the one bad grade right? Okay, so if you have friends in this program, right, if one of them came to you with this, this balance of, you know, one bad grade and some anxiety, yeah, versus passing, you know, rigorous standards and doing well, otherwise, what advice would you give them?",id,irq,
+9,77_9,9,77_9,19_9,P,"I mean, now that you're kind of like talking about it, like, you know, this or that sort of thing. It makes sense. I would probably say that, well, you seem to be doing pretty well so far. You know, that anyone evaluating would look at all of the cumulative how you're doing your performance, rather than that one grade",id,,1.0
+10,77_10,10,77_10,19_10,T,would you feel comfortable giving advice to yourself?,orq,,
+11,77_11,11,77_11,19_11,P,"I think I tried to sometimes, but my anxiety symptoms kind of like really, like you were saying, your anxiety tells you sort of I think I can think that but I think my anxiety symptoms are such in the moment that it's really hard. You know, and I'm replaying what happened before in my head anticipation predicting will happen again.",od,,
+12,77_12,12,77_12,19_12,T,"So, so let's look at the the thought and the feeling. If you had to rate the percent that you believed this thought, this belief that you are not good enough to be in the program, like right now right now, yeah, but here with me. How much of your mind believes that that's true?",orq,,
+13,77_13,13,77_13,19_13,P,"I would say like, you know, a two or three like not very, I don't believe it very much right now because You know, I'm not presenting and it's just you and I not like a group full of people. So that pressure is not there here.",od,,1.0
+14,77_14,14,77_14,19_14,T,So right now you're really not buying the idea that you're not good enough.,crq,,
+15,77_15,15,77_15,19_15,P,"Yeah, that is correct ",op,cd,
+16,77_16,16,77_16,19_16,T,"So now let's move to let's say right in the near the end of presentation when that anxiety is there, and the classmates that could be looking at you, it could be negatively evaluating you because you're worried about how much do you believe that thought then?",irq,,
+17,77_17,17,77_17,19_17,P,"I don't feel really confident. In that moment. It feels very real. Like, like any moment, they're gonna kick me out. Like, I'm just not doing well. I'm stuffing.",id,,
+18,77_18,18,77_18,19_18,T,"Yeah. really intense. So would you think that you were a more accurate evaluator of what's true or not. Now, or when you're in that state of anxiety,",irq,,
+19,77_19,19,77_19,19_19,P,"definitely now that anxiety that, you know, heart rate and sweating is not there.",id,,
+20,77_20,20,77_20,19_20,T,"So this evaluation, the percent that you believe that true, this evaluation is more accurate?",irq,,
+21,77_21,21,77_21,19_21,P,"Yes, I think so.",op,,
+22,77_22,22,77_22,19_22,T,"And how much time in any given day would you spend kind of in a mood right now, or you can evaluate accurately?",irq,,
+23,77_23,23,77_23,19_23,P,"I would say, you know, when I'm not at risk of presenting, like, I feel like I spend the majority of my time, like, it's not something I worry about all the time, just leading up to and then mostly that day,",id,,
+24,77_24,24,77_24,19_24,T,"okay. So the, so you're able to evaluate the way you are now, the vast majority of the time, right? There's a limited amount of time when you're not when there's A lot of motions going through, right? And at those times, you're maybe a little less reliable,",crq,,
+25,77_25,25,77_25,19_25,P,right. Like my judgment is clouded.,op,cd,
+26,77_26,26,77_26,19_26,T,"However, in that moment you still, those thoughts are strong, right? ",yq,,
+27,77_27,27,77_27,19_27,P,"Yes, very troubling. ",op,,
+28,77_28,28,77_28,19_28,T,"Even though it's a small percentage, it's intense. And you kind of carry that around a little bit.",crq,,
+29,77_29,29,77_29,19_29,P,Yeah. Exactly.,op,cd,
+30,77_30,30,77_30,19_30,T,So I can see why this is frustrating for you.,id,,

@@ -1,0 +1,50 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,22_0,0,22_0,119_0,T,"Erica, how you doing today? ",gt
+1,22_1,1,22_1,119_1,P,Good. Thank you.,gt
+2,22_2,2,22_2,119_2,T,You're doing good?,irq
+3,22_3,3,22_3,119_3,P,"between part of me that wants to settle down, but then part of me that also wants to pursue my career and what I'm doing",id
+4,22_4,4,22_4,119_4,T,"so we have a part that wants to settle down, a part that wants to keep going with the career so For this to chair, what I like to do is in the chair where you're seated now, this will be the emotional self, in this case, the side that wants to pursue the career. Yeah, myself before that seems like we're more that's what I really want. Yes, you're more emotionally connected. That's what you want. That's what I want. So this will be the side of you, that has the needs and the wants, and more the emotion. Okay, so that's who you'll be in this chair. That makes sense. ",yq
+5,22_5,5,22_5,119_5,P,Yep.,ack
+6,22_6,6,22_6,119_6,T," In the other chair, let's have the critic that's inside that internal critic. That's advocating for settling down for getting married for having kids. In a way it represents a societal pressure Did those two sides seem separate to you? ",yq
+7,22_7,7,22_7,119_7,P,Yeah.,ack
+8,22_8,8,22_8,119_8,T," You feel like you can be the emotional self here, an internal critic there?",yq
+9,22_9,9,22_9,119_9,P,I think so. Okay.,op
+10,22_10,10,22_10,119_10,T,"So, I think you remember how this work she'll be, he'll be talking to this case the internal critic, right? So the internal critics on the side of settling down, getting married. And then when you're ready to have the critic respond, you'll switch that chair and respond to the emotional needs driven and wanting some make sense. Okay. So whenever you're ready, go ahead and speak directly to the internal critic.",irq
+11,22_11,11,22_11,119_11,P,"I want to Finish what I'm doing, and I want to finish what I started. I've worked so hard on my career path, and I'm so close to finishing. And I want to finish for me want to accomplish those goals that I've set for myself? And something I'm passionate about?",id
+12,22_12,12,22_12,119_12,T,"So you've made your statement. Are you ready to switch? Okay, good switch. So I use the internal critic.",irq
+13,22_13,13,22_13,119_13,P,"There's always time to pursue a career, but I need to focus on what's expected of me at this time, on the best age for having kids I have a loving boyfriend who is ready and wants to get married and settle down. And you are being selfish by just following a path that you can take at any time",id
+14,22_14,14,22_14,119_14,T,"an internal critic cues in the emotional side, in this case, the career side, been selfish. And notice your posture is very linear and you're upright. I noticed you kind of put your hand down a little bit when you're talking. Try to think of the internal critics, body movements. Try to act that out a little bit. Okay.",irq
+15,22_15,15,22_15,119_15,P,"Think it's accusation. You know, I think I like I just wanted to, like tell the emotional part that it's being stupid that it's, you know, you're you're you're not acting in the best interest of everyone else. Jump at it.",id
+16,22_16,16,22_16,119_16,T,You're gonna jump at the emotional side?,yq
+17,22_17,17,22_17,119_17,P,Yeah.,ack
+18,22_18,18,22_18,119_18,T,"So that's the internal critic, they respond back to the term critic from the emotional side. ",gc
+19,22_19,19,22_19,119_19,P,"Yeah, ",gc
+20,22_20,20,22_20,119_20,T,okay. So the internal critic is just called a selfish and one of the things is a response.,orq
+21,22_21,21,22_21,119_21,P,I feel like I'm being attacked. And I don't think it's wrong to think about myself and what I am truly passionate about.,od
+22,22_22,22,22_22,119_22,T,Let me interrupt you. So your hands are pointing back toward the career emotional self. What can you do with your hands that really embody that you want to communicate to the internal critic? Is there anything else you want to do?,crq
+23,22_23,23,22_23,119_23,P,the pointing towards me to protect myself from what the critics is saying. I just want to like push that back towards critic.,cd
+24,22_24,24,22_24,119_24,T,"So continueand have used that motion there. You're, you're pushing the internal critic away. Okay.",crq
+25,22_25,25,22_25,119_25,P,"So I don't need I don't need to feel guilty you know, I don't need to feel selfish for wanting to follow my dreams",cd
+26,22_26,26,22_26,119_26,T,does the internal critic have something to say back?,yq
+27,22_27,27,22_27,119_27,P,No.,on
+28,22_28,28,22_28,119_28,T,So you've you've now pushed the emotional side is pushed the critical way.,crq
+29,22_29,29,22_29,119_29,P,"Okay. I think the critic, the critic feels like it understands where the emotional side of me is coming from. You know, like I can recognize why it's so important, then, like why working so hard is, is worth that, you know, sense of accomplishment that's going to come with it, how it's gonna, in the long run, help provide for all these extra things that I want to like my family in the future. I can see that.",cd
+30,22_30,30,22_30,119_30,T,"Alright, so internal critic is that hands down here is the internal critic. Right? It's an internal critic less angry, less assertive,",irq
+31,22_31,31,22_31,119_31,P,"less pushy, less pushy, less pushy. Yeah, it's not. Not as critical. Truthfully, it's just I feel like the the pressure is annoying Dwayne on either either shoulders",id
+32,22_32,32,22_32,119_32,T,So the critic is more separated now maybe a little bit but also has a different outlook.,crq
+33,22_33,33,22_33,119_33,P,"more quiet. It's not like always yelling at me. Because I think it I mean, sometimes it might still say something but not in like the urgency that it had before.",cd
+34,22_34,34,22_34,119_34,T,So the critic has lost some of its vigor and determination.,yq
+35,22_35,35,22_35,119_35,P,"Yeah, ",ack
+36,22_36,36,22_36,119_36,T,to move back to the emotional?,crq
+37,22_37,37,22_37,119_37,P,"I feel calmer. I feel like you know, the critic is, has always been a part of me. But that part of me It's more like, you know, it's it's not as assertive. It's not as you know, intense right now it's a call. And I think that the emotional part of me was able to win the argument per se, you know, just because that's, you know, what I want.",cd
+38,22_38,38,22_38,119_38,T,"So at the end of this conflict, after we split into two parts here, they have this conflict is eventually a decision is a decision to pursue a career or settle down. Do you feel you gain more clarity in that decision?",irq
+39,22_39,39,22_39,119_39,P,"Yeah. Because I feel like I, you know, I can stay on my decision is in has, you know, has been to stay on my career path, but now I feel less guilty for doing it.",id
+40,22_40,40,22_40,119_40,T,"So that's, that's really been your decision all along. But the internal critic was harassing you this whole time? ",yq
+41,22_41,41,22_41,119_41,P,Yes.,ack
+42,22_42,42,22_42,119_42,T,And today you're able to kind of shove that internal critic back a little. And allow that internal critic to see how strongly you feel with the decision you've made.,crq
+43,22_43,43,22_43,119_43,P,"Yeah, that I very much",cd
+44,22_44,44,22_44,119_44,T,do you feel is helpful technique?,yq
+45,22_45,45,22_45,119_45,P,"Yeah, I do. I, you know, I think that separating the two sides helped me realize which one felt stronger.","ack,op"
+46,22_46,46,22_46,119_46,T,So he was able to give you some clarity.,yq
+47,22_47,47,22_47,119_47,P,Yes.,ack
+48,22_48,48,22_48,119_48,T,"Right. All right. Well, let's once reflect on what's happened here, between now and the next session, okay, Bye, guys. Kind of a lot happened. And it seems like you've gained clarity for your decision. And then we'll pick up with the next session and see how things have progressed with. See if that internal critic is still harassing you or if it kind of stays back. And if you have more peace with a decision, that's not like a plan.",gt

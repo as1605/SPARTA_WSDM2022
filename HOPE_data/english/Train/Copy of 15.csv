@@ -1,0 +1,70 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,15_0,0,15_0,112_0,T,Hi How you doing it today.,gt
+1,15_1,1,15_1,112_1,P,"doing okay,",gt
+2,15_2,2,15_2,112_2,T,"dude, okay. Yeah, I understand you're here to receive counseling services.",gc
+3,15_3,3,15_3,112_3,P,"My boss sent me here, your boss sent you here.",gc
+4,15_4,4,15_4,112_4,T,What's going on with you and your boss?,irq
+5,15_5,5,15_5,112_5,P,"Ah, that's not even between me and my bosses. I'm a good worker at my job. I get everything done on time, but they're calling me inflexible and perfectionist.",id
+6,15_6,6,15_6,112_6,T,So who's who's calling you in flux for perfectionist?,irq
+7,15_7,7,15_7,112_7,P,"Well, my boss has called me that.",id
+8,15_8,8,15_8,112_8,T,"I've had several coworkers. There was a recent incident where somebody wanted to change days with me, but I told them the schedules that I'm supposed to be here on Wednesday. You can't change it. That's the it's right there like a white. I work Wednesday, you can't change that.",irq
+9,15_9,9,15_9,112_9,P,"Well, they wanted to change. And I really don't agree with that. If they needed a certain day off, they need to go through the order of command and ask for a day off.",id
+10,15_10,10,15_10,112_10,T,"And they didn't do that. Instead, they asked us which day",crq
+11,15_11,11,15_11,112_11,P,and then they called me inflexible because I got upset about it.,cd
+12,15_12,12,15_12,112_12,T,In what ways you get upset?,irq
+13,15_13,13,15_13,112_13,P,"Well, I told them, I said that irresponsible that they didn't think ahead that they wanted to change with me. I am there at a certain time. I'm there from eight in the morning till five in the afternoon. I take my lunch at 12 o'clock. That is my Wednesday. That's always been my Wednesday. I don't know why they want to upset that.",id
+14,15_14,14,15_14,112_14,T,"Alright, so that upsets you. And that upset them that whole incident? Yes. Anything else that your boss may have as a reason for",irq
+15,15_15,15,15_15,112_15,P,"they call me a perfectionist because I like the things done by the book, which I think makes me a great worker, because I get everything done. You know, on deadlines, not before, not after, right on the deadline. And everything is just exactly, you know, everything's filed. Everything's organized. And some people like to, you know, take a file online, you this to fill out a report and it's there. It's in the file. You can't touch it, you can't move it. That's where it needs to be.",id
+16,15_16,16,15_16,112_16,T,So you need to self fairly well organized as employee.,crq
+17,15_17,17,15_17,112_17,P,"Oh, absolutely. Yeah, absolutely. Like,",cd
+18,15_18,18,15_18,112_18,T,you mentioned you there from eight to five. and take your lunch from 12 to 1230.,yq
+19,15_19,19,15_19,112_19,P,Yes.,ack
+20,15_20,20,15_20,112_20,T,"How many days in the last say, three months? Have you been late left early?",irq
+21,15_21,21,15_21,112_21,P,"Oh, 000. You know, on there, eight to five, eight o'clock in the morning to five, I wake up at six. I get ready. I leave for work at seven. I get there at eight. Every, the whole day has a schedule. And I meet that schedule. And it's the best thing for me.",id
+22,15_22,22,15_22,112_22,T,So this is this is frustrating for you that your coworkers can understand where you're coming from.,orq
+23,15_23,23,15_23,112_23,P,"I just don't get it. You know, I'm doing everything by the book by the Vols. And I'm in trouble somehow. Something's wrong with me because I do it right I do it the right way. And that's wrong somehow, and I don't get it.",od
+24,15_24,24,15_24,112_24,T,"Have you ever had to work in a, like a group like team with any of your coworkers?",irq
+25,15_25,25,15_25,112_25,P,"They've made me but I don't like it. Because I know the way we need to do things. If we're given a project, okay? It starts with A, B, C, D, and then no, everybody wants Oh, let's do c o, d, and then F. No, no, no, no, A, B, C, D, there is no deviation from that. And then they get mad at me.",id
+26,15_26,26,15_26,112_26,T,"So, working in groups hasn't worked out too well for you.",orq
+27,15_27,27,15_27,112_27,P,"Not really, not less. People listen to me.",od
+28,15_28,28,15_28,112_28,T,"So in instances where people listen to how have things worked out,",crq
+29,15_29,29,15_29,112_29,P,"if I oversee everything, I still get on uncomfortable because, you know, they're out of my sight. I don't know what they're doing. Sometimes, you know, I have to watch person, you know, one person, other persons over there. I don't know what they're doing. And if it's not done, right, it's not done right. And that's bad.",cd
+30,15_30,30,15_30,112_30,T,"Can you tell me anything about Sure. mood in general, in terms of Have you felt sad or anxious or anything like that recently?",irq
+31,15_31,31,15_31,112_31,P,"No particular I get, I guess I feel anxious sometimes when things aren't going the way they need to go. Because then it puts off the whole day. And that does, I guess I would, I would consider that, you know, anxiety because if it's not going the right way, one thing goes wrong, the whole day is thrown off. And then now I have to deal with that. Now I have to adjust my whole schedule, environment, and that has caused me anxiety, even by men, even by a minute",id
+32,15_32,32,15_32,112_32,T,"So if you're, if your day is not going the way you planned for it to go, you're feeling some anxiety from that. Absolutely. No. Does your employer ever have like, unscheduled meetings or anything like that that happens",irq
+33,15_33,33,15_33,112_33,P,"that he does, he will schedule some, some unscheduled meetings. And I've, I've commonly I've tried to call me approach him and say, you know, there's a meeting, we need to know about it. You know, I need to schedule my day around the meeting. He wants scheduled meeting at 1220. And I told him, I'm at lunch 12 to 1230. Why do you think that's appropriate? I mean, sometimes I feel like I'm the only smart person there and the only person who knows how this needs to run.",id
+34,15_34,34,15_34,112_34,T,She has some different stressors at work.,irq
+35,15_35,35,15_35,112_35,P,"I presume sort of my home like burying meat, you know, if you go into my home, everything's nice. Everything's where it needs to be. I have my meals scheduled out, I have a nice little calendar. Everything's, you know, planned, you know, Thursday's chicken Fridays, tamales and so on and so forth.",id
+36,15_36,36,15_36,112_36,T,So your home life's a bit like your work life in terms of being organized.,orq
+37,15_37,37,15_37,112_37,P,That's the right way to do it.,od
+38,15_38,38,15_38,112_38,T,Do you ever in terms of your home life ever collect anything?,"irq,yq"
+39,15_39,39,15_39,112_39,P,"Yeah, I do. ","id,ack"
+40,15_40,40,15_40,112_40,T,Do keep them in your home.,irq
+41,15_41,41,15_41,112_41,P,"receipts receipts? Well it says to keep it. I mean, I've always known you have to keep receipts. You don't know when you're ever going to have to prove that you purchase something or when you have to return something.",id
+42,15_42,42,15_42,112_42,T,So what percentage of the receipts that you're given Do you think that you keep all of them,irq
+43,15_43,43,15_43,112_43,P,"every single one I get very upset if I don't me if I go to McDonald's, or food fast food place, I want everything. I'm",id
+44,15_44,44,15_44,112_44,T,"gonna ask you some some questions. Boom, come back to work, kind of regarding your work schedule.",gc
+45,15_45,45,15_45,112_45,P,I wash my hands before eat after I eat,gc
+46,15_46,46,15_46,112_46,T,Do you ever find yourself like having washed your hands and then going back and washing them several other times?,irq
+47,15_47,47,15_47,112_47,P,"No, there's there's no need to do that. Nobody do that. No, you wash your hands 30 seconds. That's it. That's all you need to do.",id
+48,15_48,48,15_48,112_48,T,Do you have any particular concerns about germs or anything like that?,orq
+49,15_49,49,15_49,112_49,P,I try to keep me but I don't particularly know.,od
+50,15_50,50,15_50,112_50,T,Have you ever found yourself in a situation where touching something repeatedly like a doorknob or operating a light switch? Seems to lower your anxiety like repeatedly doing that?,irq
+51,15_51,51,15_51,112_51,P,Not at all. Now that seems like a waste of time.,id
+52,15_52,52,15_52,112_52,T,That's that'd be inefficient.,yq
+53,15_53,53,15_53,112_53,P,"Yeah, yeah, there's no need to do that. How about",ack
+54,15_54,54,15_54,112_54,T,"double checking, for example, light switches or to make sure the doors are locked. I made",irq
+55,15_55,55,15_55,112_55,P,"sure my doors are locked. The first time Okay,",id
+56,15_56,56,15_56,112_56,T,so check but just the one time,crq
+57,15_57,57,15_57,112_57,P,"well I do it. Well, you know, when I come in the door, lock the door. That's it. Okay.",cd
+58,15_58,58,15_58,112_58,T,"So what do you think the solution here is your your employer sent you in for counseling. Like the change,",irq
+59,15_59,59,15_59,112_59,P,"he wants me to be more flexible to not get as upset if there is an unscheduled meeting, if somebody says switch shifts with me. I don't really understand it, but I'm in trouble at work. So I have to look into what",id
+60,15_60,60,15_60,112_60,T,you like your job.,yq
+61,15_61,61,15_61,112_61,P,"I do like my job. I like being able to have everything I need, you know, somebody calls for something, you know, oh, it's right here. Somebody call somebody else right here. I love it. It's like a machine.",op
+62,15_62,62,15_62,112_62,T,Right? So you like your job you like how you able to be organized there. But there's some conflict with co workers and your boss you want to you want to try to work that out.,crq
+63,15_63,63,15_63,112_63,P,"I guess I mean, I don't want to lose my job. And if this is a problem, the right thing to do would be to come speak to you",cd
+64,15_64,64,15_64,112_64,T,not to open to attending counseling sessions and take a look at what's going on here.,orq
+65,15_65,65,15_65,112_65,P,"Absolutely, if my boss requires that my boss requires that then that's the right thing to do.",od
+66,15_66,66,15_66,112_66,T,I want to appreciate you answering my questions and spin very helpful. We'll get you on the schedule to see a counselor here. I take about a week and we'll go from there.,gt
+67,15_67,67,15_67,112_67,P,"Okay, so in a week. All right. Thank you.",gt
+68,15_68,68,15_68,112_68,T,Thanks.,

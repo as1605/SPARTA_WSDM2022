@@ -1,0 +1,31 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,180_0,180_0,T,"Mr. Smith that your medication sorted out, blood pressure's a little on the high side. Okay. I wonder if I could raise the subject of your weight",id,0
+1,180_1,180_1,P,what?,crq,0
+2,180_2,180_2,T,I wondered if we could spend just a couple of hours minutes talking about your weight,cd,0
+3,180_3,180_3,P,"You're joking on you, aren't you. I mean, look, I've made time in my day to come here. I'm kept in your waiting room for 45 minutes. Yeah, it's not acceptable. You know, I make an appointment time for 10. I expect him to start at 10. Not quarter to 11.",gc,-3
+4,180_4,180_4,T,Right. And you so you're busy enough?,yq,0
+5,180_5,180_5,P,"Yeah, I've got other things to do. I've got to do I've got clients to coming in. ",op,0
+6,180_6,180_6,T,"Yeah, you know, and it wasn't necessarily easy for you to make the time to come down. And you had to wait in the waiting room. And now are raised the subject of wait. ",gc,-3
+7,180_7,180_7,P,"Yeah, I mean, Okay, fair enough. I've got to have my blood pressure, medication change, but I really haven't got time to talk about my weight. I mean, you know, I'm aware of my weight. I'm aware of the problems and I'm also aware of the solutions. So I don't really need a discussion. It's just I've got too much to do at the moment, you know,",gc,0
+8,180_8,180_8,T,"right. And so it's, it's, it's been a bit of a rush for you coming in. And I'm sorry about the wait in the waiting room. ",ap,0
+9,180_9,180_9,P,"It's been it's bad for me, you know",gc,-3
+10,180_10,180_10,T,"Yeah, that's and that's not easy for you because you, you'd like to go really soon. And here I am asking you to spend just a couple of minutes with me.","gc, cv",0
+11,180_11,180_11,P,"Yeah. But basically, I've got things to do. I got back to the office. I've got a pile of work that I've got to deal with. And every time every moment of my day, it means I have to work in the evening or weekends, it counts. When you're self employed. You haven't got a choice.",cr,-3
+12,180_12,180_12,T,"Exactly, exactly. It's up to you. Just a couple of minutes.",gc,0
+13,180_13,180_13,P,"Well, I'm here now so yeah, okay. If it's a couple of minutes, yeah",gc,-3
+14,180_14,180_14,T,"I promise. Okay. I want to, I want to simply ask you how you feel about it?","gc, irq",0
+15,180_15,180_15,P,"About what what? Losing weight? Well, obviously I want to Yeah, I mean, who doesn't? I mean, I'm aware that I'm over my body weight, but know that it's causing problems. I mean, obviously, I get out of breath. If I have to do something about Harry and I realize that I'm on this blood pressure. Right. And maybe that's probably contributing to it.",id,-3
+16,180_16,180_16,T,Right. So you can see the links between your weights and your health. And you'd like things to be.,gc,0
+17,180_17,180_17,P,"Yeah. I mean, there are other things, but I mean, yeah, the weight is a, something I would like to get hold of you get on the handle,",gc,-3
+18,180_18,180_18,T,"you'd like to, if you could.",gc,0
+19,180_19,180_19,P,"Yeah, I mean, I know the theories of bit of exercise on a regular basis, a balanced diet. But unfortunately, because of my lifestyle, because of being self employed as an accountant, it's finding the time to exercise but also finding the time to sort of think, Okay, I'm going to go shopping for this, that and the other. Yeah, prepare a meal. Yeah, with me. It's very often ",gc,-3
+20,180_20,180_20,T,ready meals and that sort of thing?,crq,0
+21,180_21,180_21,P,"Yeah, yeah. Food on the run, you know, grazing.",cd,-3
+22,180_22,180_22,T,"Let me see if I can summarize what you've said. And then we'll see what next and you lead a busy life. Yeah, you run a business. And you've got a lot to do. Yeah. And you're, you're aware of the of the links between your health and your weight. And you are concerned to some extent about that. And ideally, it sounds like you'd like to do something about it. It's just that your life is busy and rushed. And you tend to use convenience foods in order to get the work done.","gc, id",0
+23,180_23,180_23,P,"Yeah. I mean, I, to certain extent, because of my lifestyle. Food is just fuel. Yeah. Yeah. You know, because I'm juggling all these balls, and I don't want to drop any,","gc, id",-3
+24,180_24,180_24,T,"I get it, I get it. And so if you could fit it in, you would like things to be different, but that's not so easy. Okay. Can I suggest that you come back and see me in a couple of weeks time just to chat about this?","gc, irq",0
+25,180_25,180_25,P,"Okay, I'm up for that. But it's going to be the same problem of A finding time and B if I make an appointment. I don't expect to be kept waiting for half an hour, whatever. Because it's",id,-3
+26,180_26,180_26,T,"exactly I tell you what my Be a nice solution is if you come down first appointment, and I give you an appointment at 830. And then there'll be absolutely no waiting. And the purpose of that of that visit will be to have a look at how you really feel about how you could move forward and somehow fit in a more healthier lifestyle into the busy work like that you've got",gc,0
+27,180_27,180_27,P,"all maybe have a look at my schedule, see whether anything can be arranged, or I can pass something on to some and so like, so it's not a wasted interview. So I can come in and say, okay, I've looked at my schedules, I've looked at things",gc,-3
+28,180_28,180_28,T,good good and see if you can fix it up and also give some thought to what we've talked about.,gc,0
+29,180_29,180_29,P,"Yeah, course good stuff. Okay. Okay, thanks. Sorry, I went off of a bit.","gc, ap",-1

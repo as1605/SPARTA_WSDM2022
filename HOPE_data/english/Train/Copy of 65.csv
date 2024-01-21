@@ -1,0 +1,67 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,65_0,0,65_0,159_0,P,"Yes, Harris will be your doctor today. Well, let me just wash my hands really quick.",gc
+1,65_1,1,65_1,159_1,T,"Would you prefer Miss Bellamy or Pat's fine, great. Well, it's nice to meet you, Miss mom. Can you tell me why you're here today?","gt,irq"
+2,65_2,2,65_2,159_2,P,I have a terrible headache,id
+3,65_3,3,65_3,159_3,T,"looks really bad. Um, is there anything else besides your headache that you want to address here today at the clinic? ",yq
+4,65_4,4,65_4,159_4,P,"No, ",on
+5,65_5,5,65_5,159_5,T,"Was there anything? Because what we can do is while we're talking and doing your history and physical, I will have my office Secretary look into it the insurance plan that you have. All right, so you don't have to worry about that. That's good. ",irq
+6,65_6,6,65_6,159_6,P,"Okay, sounds great. ",ack
+7,65_7,7,65_7,159_7,T,"Um, is there anything else?",crq
+8,65_8,8,65_8,159_8,P,"No, I just, this is just really bad. Okay.","on,cd"
+9,65_9,9,65_9,159_9,T,"So what I'd like to do today and is let's let's take a look at what's causing your headache. I will go over history fiscal, and then we'll do our Ghana physical exam. And then we will look into your insurance policy and make sure that's all taken care of that sounds like a good plan. So that's",irq
+10,65_10,10,65_10,159_10,P,good. Perfect.,ack
+11,65_11,11,65_11,159_11,P,"Well, it started about three days ago and nothing has helped it's it's just laid me flat. I haven't been able to go to work. It's nothing helped. I, it's it's all over. I really bad when I move so I'm trying not to move too much and the light is bothering me alive.",id
+12,65_12,12,65_12,159_12,P,No.,gc
+13,65_13,13,65_13,159_13,T,Can you tell me anything that makes it better?,irq
+14,65_14,14,65_14,159_14,P,"Nothing's made it better. I took some Tylenol and Motrin, nothing. I just try not to move too much. All right.","on,id"
+15,65_15,15,65_15,159_15,T,Is there anything that makes it worse?,irq
+16,65_16,16,65_16,159_16,P,"Yeah, like movement and light. Okay. And it's just constant though there's you know, it doesn't it's just constant it's, it's all over. Okay.",id
+17,65_17,17,65_17,159_17,T,"So if you had to rate on a pain scale, zero being no pain 10 being the worst pain you've ever had to 10",irq
+18,65_18,18,65_18,159_18,P,"I've never had a headache like this. Okay,",id
+19,65_19,19,65_19,159_19,T,"yeah, that sounds really bad. Now as far as radiation doesn't move, doesn't that you said the head. The pain is all up front. He is kind of all over. Okay?",irq
+20,65_20,20,65_20,159_20,P,But it also I've got this shooting pain down my neck and my neck is very stiff. Okay?,id
+21,65_21,21,65_21,159_21,T,as far as in the in the timing you said that started three days ago music uses constant yeah,gc
+22,65_22,22,65_22,159_22,P,it It started gradually but once once it got there it's it hasn't gone away it doesn't get better doesn't get worse it's just the same. Okay,gc
+23,65_23,23,65_23,159_23,T,so do you what I want to get is your perception of what you think is going on.,irq
+24,65_24,24,65_24,159_24,P,I just I can hardly think it's so painful. I just because it's so bad I was afraid. I knew neighbor had a headache and ignored it. Last year and he suddenly started having seizures and it turns out he had a brain tumor. So I thought I just should come in and,id
+25,65_25,25,65_25,159_25,T,I can understand your concern.,gc
+26,65_26,26,65_26,159_26,P,I can't go to work. I can't do anything. Yeah.,id
+27,65_27,27,65_27,159_27,T,So it sounds like it's really impacting your life. ,crq
+28,65_28,28,65_28,159_28,P,"Yeah, I can't okay.",cd
+29,65_29,29,65_29,159_29,T,"If it's okay, I would like to go some talk about a little bit about your medical history and your social history. All right. Can you tell me as far as your medical history have you have any medical conditions I should be aware of.",irq
+30,65_30,30,65_30,159_30,P,"Not I was diagnosed with high blood pressure about three years ago, but we have been addressing it with diet changes, and it's controlled and monitored. Yeah, I go in. yearly, I had been just in it's been well controlled. So okay, I haven't been on Medicaid. For that, other than that, I haven't had any problems.",id
+31,65_31,31,65_31,159_31,T,Okay. Any surgical history?,yq
+32,65_32,32,65_32,159_32,P,No.,on
+33,65_33,33,65_33,159_33,T,Any hospitalizations?,yq
+34,65_34,34,65_34,159_34,P,No.,on
+35,65_35,35,65_35,159_35,T,All right. In You said your own medicine you're taking was telling all my training.,yq
+36,65_36,36,65_36,159_36,P,Yeah. ,ack
+37,65_37,37,65_37,159_37,T,"And they didn't help you? Okay. Just wanted to verify. Given a drug allergies, ",yq
+38,65_38,38,65_38,159_38,P,no.,on
+39,65_39,39,65_39,159_39,T,Okay. What about family history? Do you have any medical history of headaches or in my family right now?,irq
+40,65_40,40,65_40,159_40,P,"You know, my mom said she used to get migraines when she was in her 20s and 30s. Okay, but I don't remember her saying anything else about it. My sister. I have one sister. She's She's healthy. My dad. He has high blood pressure other than that he's healthy. And that's about it. I don't have any kids. ",id
+41,65_41,41,65_41,159_41,T,All right. I'm sorry. I would like to ask you some social history questions that just for the record. Records. Do you smoke?,yq
+42,65_42,42,65_42,159_42,P,"Yeah, I do.",ack
+43,65_43,43,65_43,159_43,T,Okay. Is it cigarettes or?,yq
+44,65_44,44,65_44,159_44,P,Yes.,ack
+45,65_45,45,65_45,159_45,T,Okay. And how much do you drink?,irq
+46,65_46,46,65_46,159_46,P,I don't drink.,id
+47,65_47,47,65_47,159_47,T,"Okay. Um, also, Are you married? ",yq
+48,65_48,48,65_48,159_48,P,Yeah. married.,ack
+49,65_49,49,65_49,159_49,T,Okay. And children?,yq
+50,65_50,50,65_50,159_50,P,No.,on
+51,65_51,51,65_51,159_51,T,"Okay. And just some, some just some additional questions is looking at your kind of GYN history. Are you last menstrual period? ",irq
+52,65_52,52,65_52,159_52,P,Okay. I'm in menopause. ,id
+53,65_53,53,65_53,159_53,T,"So going back into the history again, have you You said your mom had migraines earlier on. Have you been around and no other you haven't been nauseous or have you been?",irq
+54,65_54,54,65_54,159_54,P,"Yeah, I've been I've been nauseous",id
+55,65_55,55,65_55,159_55,T,Okay,gc
+56,65_56,56,65_56,159_56,P,"actually a week ago I was in North Carolina for a family reunion, okay. And there was a four year old who was sick there. I don't know what they had, but they, I guess I guess they ended up taking them into emergency.",id
+57,65_57,57,65_57,159_57,T,So let me just summarize to make sure I've got everything straight so far is started an onset of a severe headache about three days ago. It's worse with movement and light really makes it hurt bad. It's a 10 out of 10 pain and you're also complaining of a stiff neck with that?,"id,irq"
+58,65_58,58,65_58,159_58,P,Yes,ack
+59,65_59,59,65_59,159_59,T,". It came on gradually and it's been constant pain in the frontal area. medical history you're on hyper you have high blood pressure, but that's controlled with diet. No surgical history. No really has The pain though isn't really impacting your day to day living daily life. You tried to Tylenol, Motrin, it didn't help otherwise no medications. You've got the family history of your mom with migraines. Otherwise your family is healthy. Yeah. You smoke about a half a pack a day. Do don't drink. And then you were you said you took a trip about a week ago? Two weeks ago?",irq
+60,65_60,60,65_60,159_60,P,Yeah.,ack
+61,65_61,61,65_61,159_61,T,Okay.,gc
+62,65_62,62,65_62,159_62,P,"Yeah, I was in North Carolina. ",id
+63,65_63,63,65_63,159_63,T,All right.,gc
+64,65_64,64,65_64,159_64,P,I've just never had this kind of pain before.,id
+65,65_65,65,65_65,159_65,T,Okay,gt

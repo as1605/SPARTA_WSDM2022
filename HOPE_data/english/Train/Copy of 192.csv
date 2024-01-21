@@ -1,0 +1,107 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,192_0,192_0,T,"Hi, Jessica, how are you doing? ",gt,0
+1,192_1,192_1,P,All right. How about you?,gt,0
+2,192_2,192_2,T,"I am doing Okay. So, um, how have you been doing today? How's your week been? ","gt, irq",0
+3,192_3,192_3,P,It's been Okay.,id,0
+4,192_4,192_4,T,"Um, so in our last session together, we talked about your lack of confidence. Do you feel like you might be progress on that?","gc, yq",0
+5,192_5,192_5,P,"I mean, I've been journaling, like you said",op,0
+6,192_6,192_6,T,"Good, good.",gc,0
+7,192_7,192_7,P,"That's been kind of helping. I feel like they're still I mean, it has improved slightly.",gc,-1
+8,192_8,192_8,T,"So, when you say you've been journaling, were you able to when you had a negative thought, or you know, sometimes situation, negative thought, were you writing down a negative thought?","gc, yq",0
+9,192_9,192_9,P,"Yeah. Not an addict. Well, mistakenly, he told me, okay,",op,0
+10,192_10,192_10,T,and you were able to make it a positive thought.,yq,0
+11,192_11,192_11,P,"Yeah, I mean, I tried to do that. It helped some, but is any improvements better, But I think maybe just to keep doing it. But I was more aware of how they realized how",op,0
+12,192_12,192_12,T,So do you remember kind of what what we discussed last time about how CBT works?,yq,0
+13,192_13,192_13,P,"Umm a little bit, Not exactly, but I just remember how my thoughts are causing things. ",op,0
+14,192_14,192_14,T,So would you comment review before we actually get into the session?,yq,0
+15,192_15,192_15,P,"Yeah, Yeah.",op,0
+16,192_16,192_16,T,"Okay. So how it goes is like a cya situation or an event happens. You have a thought, Okay. And what kind of last time it was your lack of confidence? And it could be like, I'm not good enough. But that was your your thought process last time, correct? ",gc,0
+17,192_17,192_17,P,Yeah.,ack,0
+18,192_18,192_18,T,"And then so when you have a thought you have an emotion. Last time you were saying how it made you feel bad about yourself, you felt incompetent. And then your behavior issue where you lash out at others and remain. So do you feel like that you kind of understand that? ","gc, yq",0
+19,192_19,192_19,P,"Yeah, yeah.",op,0
+20,192_20,192_20,T,"So I know last time I said, we talked about your lack of confidence. So for example, I know you mentioned that you also were having problems with using marijuana and depression. You had problems with depression. And you also had anger issues. And out of those, which one do you think you ought to put up to discuss today? ","gc, orq",0
+21,192_21,192_21,P,Probably angry. I feel like that's the biggest problem.,od,0
+22,192_22,192_22,T,Okay. Coming over about driver issues.,gc,0
+23,192_23,192_23,P,"I mean, it's not like I'm just like an angry person that just like snaps in any light, but I getdefensive I guess. I'm very defensive. And she lashed out, but I've never I've lashed out my child summary. It's usually always my husband",gc,-1
+24,192_24,192_24,T,can you telll me about the last time you lost your anger?,irq,0
+25,192_25,192_25,P,"we were unloading groceries, and I actually had just had my hair done and cut in color. And I was so excited. I thought he was gonna love it, you know? And he looked at it, and he of course, paid, how much money did it cost?",id,0
+26,192_26,192_26,T,"yeah, things are kind of expensive.",gc,0
+27,192_27,192_27,P,"So total, you know, would have been $60 and he told me that, you know, we've been struggling with money. Lately a little bit, and then I didn't need to spend that much money and that selfish and",gc,0
+28,192_28,192_28,T,"Okay, so now what I'm writing down here is kind of like what we talked about how there's no family situation, you know thought and you have an emotion. So I know like what you were just saying the event or the situation was that you got your hair done and that he was angry about that.",gc,0
+29,192_29,192_29,P,Yeah. Okay. He was yeah he was just saying mean things,gc,0
+30,192_30,192_30,T,okay okay. Now what did you in that moment when he was being mean what was now how youfelt but what was your actual thought when he was saying all that stuff?,yq,0
+31,192_31,192_31,P,"I'm selfish. You bought them selfish, okay? Yeah. Initially Yeah, that was that was it is right. That was selfish when you actually thought selfish, guilty, guilty and sad angry, angry, very angry that he made me feel about what I was doing that way I'm going forward he said that and then once he said that,you know he put that thought in my head and it made me angry.",op,-3
+32,192_32,192_32,T,Okay So when he when when he was getting mad at you and then telling you you're selfish and you felt substrate got yourself I'm selfish and then you got angry. What did you do after you get angry?,"gc, irq",0
+33,192_33,192_33,P,"Yeah, smack.",id,0
+34,192_34,192_34,T,"Okay, okay.",gc,0
+35,192_35,192_35,P,Yep,gc,0
+36,192_36,192_36,T,There was physical contact there.,yq,0
+37,192_37,192_37,P,"Yeah, I hit him upside his head. Okay. I mean, I felt that afterwards didn't need to. It's just also mad that right? Yeah. Hey, you feel that way? Uh huh. I just lashed out. Okay.",op,-3
+38,192_38,192_38,T,"So when he when he has these, he kind of gets upset at you for certain things like this. How do you think you could change from the smacking him to having a more calm and positive response?","gc, orq",0
+39,192_39,192_39,P,"I think if I was able to get the same thing,",od,-3
+40,192_40,192_40,T,how do you think you might be able to do that?,orq,0
+41,192_41,192_41,P,Umm,od,0
+42,192_42,192_42,T,"Like, this is how we would do it with CBT we would change your thought. So what He gets upset with you and calls you selfish. You start to feel selfish.",gc,0
+43,192_43,192_43,P,Yeah,ack,0
+44,192_44,192_44,T,So how could you not feel selfish? Even if you changed your thought?,irq,0
+45,192_45,192_45,P,"Yeah, I mean if I never even thought that I was selfish then I would have been angry.",id,0
+46,192_46,192_46,T,So do you think you're selfish?,orq,0
+47,192_47,192_47,P,Maybe the time I did die and I felt like awful but now like he says the wording for money but we're really not one might want to pay our bills or I want to do things i mean he's just kind of like a cheap person. We have plenty of money to we're not hurting at all and I do not feel confidence I don't think it was selfish to make myself feel prettier you know? But I think people do have their selfish tendencies.,od,-3
+48,192_48,192_48,T,So I'm hearing you say is you don't think you're selfish at all.,crq,0
+49,192_49,192_49,P,"Oh, I mean, I'm Selfish actuation you don't know if you're being selfish? I really, I really don't know if I had gone and bought a whole new wardrobe with it, but man, I just did my hair. And he had pizza real estate agent. They had sold a big house that week, so we had enough money for me to afford it. Okay,",cd,-3
+50,192_50,192_50,T,"so instead of thinking I'm selfish, what could you actually think?",irq,0
+51,192_51,192_51,P,I deserve this and then how me sometimes,id,-3
+52,192_52,192_52,T,I deserve this?,crq,0
+53,192_53,192_53,P,Yeah.,cd,0
+54,192_54,192_54,T,"I mean, who doesn't deserve something every now and then. Right? ",gc,0
+55,192_55,192_55,P,Yeah.,ack,0
+56,192_56,192_56,T,"Okay, so if you were thinking I deserved that. That was your thought when he was getting angry. He thought no, I'm sorry. This How do you think that would actually Make you feel what kind of emotion would you feel at that point? I drives you so confident?","ap, orq",0
+57,192_57,192_57,P,"Yeah, confident in my decision. I would still feel real sad that paint off But I don't think it would be to the level that it was thought was selfish.",od,-3
+58,192_58,192_58,T,"So if you felt competent about your decision, because you actually changed your thought, do you think that would in turn change your behavior instead of you actually get an angry you would think there's no need for this?",orq,0
+59,192_59,192_59,P,"Yeah, I think it would help me realize that that's his issue and not mine",gc,-3
+60,192_60,192_60,T,Right. So how do you think you'd actually behave them?,irq,0
+61,192_61,192_61,P,"walk off, okay or he will  be able to  This is kind of what I'm wanting to get to, as well be able to suppress it and No, man He didn't deserve for me to hit him. He didn't. He said something that upset me, but no one deserves that.",id,-3
+62,192_62,192_62,T,"Right. So maybe I'm so thinking also that you're selfish when he's getting my back. Could you do you think maybe you could say to yourself instead of me, he just doesn't understand and maybe I need to tell him that I do deserve this. And explain it to him that this makes me feel good about myself. ","gc, cv",0
+63,192_63,192_63,P,"Yeah, yeah, I could try that. ",cr,0
+64,192_64,192_64,T,"Because, you know, you know, you're not selfish. It's just something that makes you feel good. ",gc,0
+65,192_65,192_65,P,"And I think also, he understood why I did it. Because I mean, he knows that I have some subconscious issues, but I don't think he realizes how bad it was or why I got my hair cut encasing it as she said the most girly things you never asked me feel better about myself, you know, not be as well. Okay. Which goes back to this precedent. So Right. Okay.",gc,-3
+66,192_66,192_66,T,So do you think in like in the next coming week that you could actually change your thoughtsin targeted change how you feel?,orq,0
+67,192_67,192_67,P,I could try yeah,od,0
+68,192_68,192_68,T,"Yeah, okay. Okay. Okay, since we talked about your angry sheets, I know you were saying last time that you were also having problems with depression and you're also having marijuana use and either one of those would you want to discuss? Or I mean, would you like to discuss your you know, your anger issues further","gc, yq",0
+69,192_69,192_69,P,I like to talk about the depression.,op,0
+70,192_70,192_70,T,"Okay. What do you think triggers your depression, what makes you depressed?",irq,0
+71,192_71,192_71,P,"Umm well My son kind of at the age where he has only been involved in Why, and kind of always been the housewife And he's been he's always been my wife. You know, I did everything with him on my daughter's practices, but his mom is a boy, that is not mommy's little boy anymore. And so now he's kind of growing up and doing his own thing and then",id,-1
+72,192_72,192_72,T,How old is your son?,irq,0
+73,192_73,192_73,P,He's 14.,id,0
+74,192_74,192_74,T,Okay. So the interesting age,gc,0
+75,192_75,192_75,P,"Yeah. And so he's kind of coming in a little man who said that he probably offended but like, I don't know if that's where it comes from. honor that that's here lately. You know, I'm used to being at home and I stay with friends and I call myself a lot, or he doesn't like for me to call more. No more kisses and you know And I know that it's normal, but it still makes me feel really depressed.",gc,-1
+76,192_76,192_76,T,Okay. Okay. So the situation here is that your son doesn't want to be involved with you as much.,yq,0
+77,192_77,192_77,P,"Yeah, no, he's just grown up. ",op,-1
+78,192_78,192_78,T,"Okay And have you know, what do you think to yourself when he doesn't want to talk to mom anymore? He doesn't want to be mom. He's out doing his own thing.","gc, irq",0
+79,192_79,192_79,P,"No, I mean like It does freak, I was checking on a football player. You're gonna believe it but bigger and bigger. And he he says taking on your dog and he got upset at me because he felt like I was getting in this business and trying to mommy you know, we're not just trying to make sure that he was going to be able to make it there on time that he had all the clothes necessary. And I asked him if he needed a rod and things like that. I just felt like I was betting in this business. And it just made me feel like I'm not needed anymore.",id,-1
+80,192_80,192_80,T,So when you What is your exact thought though when when this stuff happens?,irq,0
+81,192_81,192_81,P,do not feel good about it,id,-1
+82,192_82,192_82,T,"Yeah, that's hard. When you when you've always been needed before?",crq,0
+83,192_83,192_83,P,Yeah.,cd,-1
+84,192_84,192_84,T,I fee like what kind of motion you are feeling?,gc,0
+85,192_85,192_85,P,Like sad I was really sad.,gc,-1
+86,192_86,192_86,T,"In turn, what did you What did you do in that situation?  ",irq,0
+87,192_87,192_87,P,Umm I don't know,id,-1
+88,192_88,192_88,T,Okay. Do you think you use the marijuana also because you're pressed?,irq,0
+89,192_89,192_89,P,"Yeah.  Yeah, I've never used it before, I mean, it just started like when when I started to feel sad. So yeah. ",id,-1
+90,192_90,192_90,T,"Okay. So and what are you saying for me if I'm wrong is that, you know, your son doesn't want to be involved anymore. You don't feel like you're needed. That's what you say to yourself and that makes you feel sad and lonely. And then in turn you use marijuana.",gc,0
+91,192_91,192_91,P,Yeah.,ack,0
+92,192_92,192_92,T,"So, you don't want to do you want to use marijuana?",yq,0
+93,192_93,192_93,P,"No, I mean, I don't want my son, If he ever found out like, I would be getting employment. ",on,-1
+94,192_94,192_94,T,"Okay, that's okay. So what what I kind of want you to do for the for the next session is kind of what we were continuing what we were doing last week, you know, how you journaled and when you have a negative thought that you changed it to a positive thought. And then in turn, you solve it like, how it could change your behavior.","gc, id",0
+95,192_95,192_95,P,Yeah,ack,0
+96,192_96,192_96,T,So do you think you could do that again?,yq,0
+97,192_97,192_97,P,Yeah.,op,0
+98,192_98,192_98,T,"Like when Tom such as when your son, you know, it's kind of goes along around you think instead of I'm not eating and stuff like am I eating more thinking, you know, he's growing up that's good appraised of you know, a son that is active and, and who is enjoying life? And then how does that make you feel if you actually thought to yourself? ","gc, irq",0
+99,192_99,192_99,P,"I mean, yeah, I mean, that might make me feel better. Yeah, ",id,0
+100,192_100,192_100,T,"you know, because he's probably in a good place and active and social one good person because of you. ",gc,0
+101,192_101,192_101,P,Yeah.,ack,0
+102,192_102,192_102,T,"So that would make you happy I would think. And then no. Maybe then you could, you know, have a different behavior do something different. ",gc,0
+103,192_103,192_103,P,Yeah.,gc,0
+104,192_104,192_104,T,Okay. So journaling. Does that sound good?,gc,0
+105,192_105,192_105,P,Yeah. I'll try,gc,0

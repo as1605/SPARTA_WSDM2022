@@ -1,0 +1,231 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,182_0,182_0,T,"Hello Kelly, how are you doing today?",gt,0
+1,182_1,182_1,P,"I am doing alright, I guess.",gt,0
+2,182_2,182_2,T,"Thanks for coming in for the Cintiq. I know you've gone through the screening process at your agency before. Yeah, they ask you variety questions like there are 40 questions. Like your social security number, date of birth, other information they need to carry out billing and different administrative functions. But the purpose of this intake today is much different. I'm gonna be asking much more personal questions. ","gc, id",0
+3,182_3,182_3,P,Okay,ack,0
+4,182_4,182_4,T,Specifically related to things that happening in your life and your symptoms. You're comfortable with them?,yq,0
+5,182_5,182_5,P,Sure.,op,0
+6,182_6,182_6,T,"Okay. Before I get started with the first section, I want to talk a little bit about confidentiality. When you see a counselor for treatment, the communication that you have with that counselor is confidential, but there's this big asterisk next to the word confidential. Okay. And I want to explain to the certain circumstances under which confidentiality might be broken. ","gc, id",0
+7,182_7,182_7,P,Okay.,ack,0
+8,182_8,182_8,T,"So, so let's start at, everything's confidential. And then I'll explain the exceptions to you, like make sense. ",gc,0
+9,182_9,182_9,P,Sure.,ack,0
+10,182_10,182_10,T,"Okay. The probably the largest exception. One of the most frequently used exceptions is if you sign a release, for me to break confidentiality, this is not uncommon. For example, if you want me to talk to your physician because a physical condition or medication you're taking could be affecting your mood. ","gc, id",0
+11,182_11,182_11,P,Okay,ack,0
+12,182_12,182_12,T,"you might sign a release that allows me to communicate with your physician. Oftentimes, the physician will require the same thing. So that should be two releases, okay, one that he or she keeps, and one that I keep. Okay. Similarly, if you have a family member, that you want to bring in for a session, because somehow it might be related to what's going on with you, you would have to sign a release. If you did That I then could communicate with that family member. ",id,0
+13,182_13,182_13,P,"Oh, okay. ",ack,0
+14,182_14,182_14,T,Does that make sense?,yq,0
+15,182_15,182_15,P,Yeah,op,0
+16,182_16,182_16,T,"Even though releases have to be in writing to be in effect, except in extreme circumstances, you can discontinue release at anytime I call an agency and tell them that you want your release canceled. So say that, you know, I have no reasonably this is the case. Let's say you have a family member that comes in and there's a session and it goes, Okay. But then your relationship with that family member breaks down at a point. And now you think well, I don't want them calling in and being able to talk to your counselor. All you have to do is call in and the administrative staff will cancel that. ",id,0
+17,182_17,182_17,P,Okay.,ack,0
+18,182_18,182_18,T,"If you do that, that's fine. But also next time you see me Tell me and I'll double check and make sure that it's been cancelled in your chart.  Does that make sense? ","id, yq",0
+19,182_19,182_19,P,Umm yeah,op,0
+20,182_20,182_20,T,"Okay. Another exception to confidentiality is what's called cognitive care, meaning you're here at agency and you're seeing me, but a lot of other people work here and have some investment or duties related to your care. For example, somebody has to follow the charts. Somebody has to do the billing. There's a director to this agency, right, that has an interest in your care as well. So I'm permitted to speak to those individuals about things that we talk about. I only do so to the extent that I need to, for example, from talking to a person in billing, I'm not going to tell them about deep dark secrets you may have in your life, history or something, right. I'm going to talk about what they need to know which is usually what type of insurance does she have? Or is there a change in insurance is coming or something like that kind of questions are asking me aren't typically a personal nature. And if they were, I wouldn't answer them. However, with the director of the agency, that would be a different level of disclosure. Does that make sense? Because they're a clinical and they're a clinical person.","id, yq",0
+21,182_21,182_21,P,"So you can tell them my deep dark secrets,",crq,0
+22,182_22,182_22,T,"I could, I generally would try to avoid that ",cd,0
+23,182_23,182_23,P,good.,gc,0
+24,182_24,182_24,T,"But if you know there's a a treatment team meeting, and your particular case was being discussed, then, you know, other clinicians and the director would have access to information now they're bound by the same rules of confidentiality, but I'm bound by okay. We do this because it promotes good care. ",id,0
+25,182_25,182_25,P,That makes sense,ack,0
+26,182_26,182_26,T,"So we have information that you voluntarily release, right cognitive care another exception is if I have reason to believe that you're going to harm somebody. It's called a tarifs of duty. Right? It's a duty to warn. So again, I imagine this is why. I know this is unlikely in general. And your specific case, I imagine it's unlikely. But if you were to tell me that you were going to harm somebody, and then you left this office, I would have to contact them and warn them that you're on your way to harm. Again, this wouldn't involve disclosing a family secrets and all kinds of diagnoses. This would just be Hey, Kelly coming out to harm you. Okay, and I'm warning you, and you should probably do something about that, like call the police or flee. ",id,0
+27,182_27,182_27,P,Okay. That's not gonna happen.,gc,0
+28,182_28,182_28,T,"Yeah, I think again, I want to cover these things. They're oftentimes not used, but that's one of those rare things that has happened in the past, I don't imagine having by one time about it anyway.",id,0
+29,182_29,182_29,P,Okay. Okay.,ack,0
+30,182_30,182_30,T,"Another exception to confidentiality is if I believe that, in general, you're a danger to yourself or others, meaning without a specific target in mind, you're, I feel that I have evidence to support that you're going to be a danger to someone else or the public in general, or a danger to yourself. I have to and I have the ability to, an authority to take steps to prevent you from harming yourself or somebody else. I'll only disclose what information I need to to prevent you from harming yourself or somebody else. ",id,0
+31,182_31,182_31,P,"Okay, that makes sense. ",ack,0
+32,182_32,182_32,T,And the same would apply in the case if you had been threatened harm somebody else.,id,0
+33,182_33,182_33,P,Okay.,ack,0
+34,182_34,182_34,T,"So I want to emphasize at this point, that if you tell me that you have suicidal thoughts or homicidal thoughts, that doesn't necessarily mean law enforcement or inpatient facilities are going to be involved. Okay, we can talk about it. And a lot of people, especially if they have any type of depression, have suicidal thoughts. It's extremely common, and homicidal thoughts are actually fairly common as well. Rarely are they acted upon, but they're common thoughts. So I want you to feel free to discuss those without fear that I'm just going to reach up the phone and call the police because that's not gonna be the case. But if there's a clear threat, and I'm really worried then I will act and all this is actually to protect you and the public.",id,0
+35,182_35,182_35,P,Okay,ack,0
+36,182_36,182_36,T,"The the another exception to confidentiality is if you provide information to me that leads me to believe a child or an elderly person is being abused. Now, interestingly, with this exception, it doesn't matter if you're the abuser or not. You could tell me about your neighbor, and how on your way to therapy, you saw that person abused their child tben I will actually report that.  And again, I'm just giving the information they need to try to prevent any harm to the child or does it make sense? ","id, yq",0
+37,182_37,182_37,P,Yeah,op,0
+38,182_38,182_38,T,"Okay, and the last thing exception and confidentiality would be and this is very rare, but it can happen. So I want to tell you about it. If for some reason, during the course of this therapy or even after this therapy has terminated, you get involved with the civil legal system in the criminal legal system, and a judge orders me to disclose information from your chart or from our experiences, okay. Technically, a judge can do that, and I'll have to follow his or her orders. Before I would make a such disclosure, I would certainly make my case to the judge, that I don't want to make that disclosure and try to restrict that disclosure as much as possible. But in the end, it's important to know that I don't have the power to make the final decision, it would be in the hands of a judge. Again, this happens very rarely, but I do on but you know, there's an exception to confidentiality. ",id,0
+39,182_39,182_39,P,Okay. Okay.,ack,0
+40,182_40,182_40,T,Do you understand all those as I'm describing to you?,yq,0
+41,182_41,182_41,P,Yeah.,op,0
+42,182_42,182_42,T,And you have any questions about any of those?,yq,0
+43,182_43,182_43,P,"No. So, like, if I told you that I was feeling really sad, and I thought about killing myself, you're not gonna?",on,-2
+44,182_44,182_44,T,"we're gonna have a discussion about that. Yeah, I'm not gonna, okay. I don't have the authority actually to lock anybody. Yeah, all I could do is to, well, the first thing I would do is assess the seriousness, and we'll try to work out some sort of safety plan that we can both be happy with. Okay, and that keeps you safe. But in terms of the extreme, whereas you said, Look, I really, you know, I'm going to harm myself and I'm going to do it soon. And here's I'm going to do it. My recourse would be to call law enforcement and they have a variety of options that are available to them. Of course, one is taking into an inpatient facility or something like that. Sometimes they arrive in Scituate is changed by then all kinds of possibilities. That's really a move of last resort. That's not going to be my first call. My first or my first action, my first action is going to be communicating with you and seeing where we are. And it's not unusual that clients have suicidal ideation to some degree for many sessions in a row. Right? ",id,0
+45,182_45,182_45,P,"Okay, so that's not unusual",gc,0
+46,182_46,182_46,T,"no, particularly with any type of depressive disorder, or even just feelings of depression that don't rise to that diagnostic level. It's not uncommon to have passive suicidal ideation, like maybe wishing that you wouldn't wake up the next day or something. That's a lot different than you telling me that you have a plan to harm yourself and that you're going to do it. Does that make sense? ","id, yq",0
+47,182_47,182_47,P,Yeah.,op,0
+48,182_48,182_48,T,Any Other questions about those limits of confidentiality.,crq,0
+49,182_49,182_49,P,"No, its pretty clear",cd,0
+50,182_50,182_50,T,"If you're ever at a point where you're unsure, you don't remember what they are, of course, they're included in the information received screening, and there's a sheet that had them on there. But feel free to ask me about them. Right. And I'll be happy to clarify any points, anything that you might have forgot from now until that point, and I'll be happy to explain it again. ",id,0
+51,182_51,182_51,P,Okay.,ack,0
+52,182_52,182_52,T,All right. So let's move to the next step. Let's go with you,gc,0
+53,182_53,182_53,P,check.,gc,0
+54,182_54,182_54,T,"I'm going to be asking you questions from a wide variety of domains. subject matters, like relational history, emotional history. So certain areas, you may want to talk about more than others and I'll make a note of that. But I don't want to get too in depth in terms of any therapy at this point, because this is me trying to collect data. This is like a data collection stage. So this sets the framework and structure for what we're doing later on part of it. But I understand that some of the topics I bring up you may want to expand upon. So if that happens, I'm probably just going to point you back toward what we're doing. But I'll make a note here to make sure we cover later. Kind of makes sense?","id, yq",0
+55,182_55,182_55,P,Sure,op,0
+56,182_56,182_56,T,"Okay, ready, get started. ",gc,0
+57,182_57,182_57,P,Yeah.,ack,0
+58,182_58,182_58,T,All right. What brings you in to our agency? What's been bothering?,irq,0
+59,182_59,182_59,P,"Well, I guess it's really well, I've been feeling kind of down and But really what it is, I think it's work. I'm not, I'm not getting along very well with my boss and some of the other women at work, and it's kind of embarrassing, but it's not the first time that this has happened. And I'm starting to feel like there's something wrong with me",id,-1
+60,182_60,182_60,T,"So you're saying you're a little down, but you're also having some relational difficulties with people that you work with.",crq,0
+61,182_61,182_61,P,"Yeah, and maybe more than a little down. Like I'm feeling pretty good right now. But I've been pretty sad.",cd,-1
+62,182_62,182_62,T,"Okay, we'll talk about that some more. ",gc,0
+63,182_63,182_63,P,Okay,ack,0
+64,182_64,182_64,T,Any feelings of anxiety?,yq,0
+65,182_65,182_65,P,"I think a little bit But yeah, like, like being worried, huh?",op,-1
+66,182_66,182_66,T,"Worried nervous on edge, anything?",irq,0
+67,182_67,182_67,P,"Well, I'm kind of a worrywart. So yeah, I'm always pretty worried.",id,0
+68,182_68,182_68,T,"So I'm going to ask you some questions, call this a symptom checklist. Many of these likely will not apply to you. I like to cover everything in the section, regardless. Okay. So as I touch on a topic, like the first one is memory loss. Okay. As I touch on a topic, let me know if it's happening currently. If it's happened, or if you've noticed it in the last 30 days, if it's ever happened, okay, so we have current last month or so three days ever happened or if it's never happened, ",id,0
+69,182_69,182_69,P,okay,ack,0
+70,182_70,182_70,T,"right. If you need me to remind you those four categories, just let me know",gc,0
+71,182_71,182_71,P,Alright,ack,0
+72,182_72,182_72,T,"so current last three days ever happened or never happened. Okay, so we'll start with memory loss. Have you having memory loss currently? Or the last three days or ever?","gc, yq",0
+73,182_73,182_73,P,"No, I mean, there's some things I can't remember from my childhood, but I think that's kind of normal. ",on,-1
+74,182_74,182_74,T,Yeah. any substance related problems or issues?,yq,0
+75,182_75,182_75,P,"No. Never Well, maybe when I was like a teenager",on,-1
+76,182_76,182_76,T,you tell me it happened?,irq,0
+77,182_77,182_77,P,"Well, I was, I was at the university and well, I mean. I didn't like drink or party too much, you know, but one time the campus police raided this party where I was and they caught me. I just had like, a nickel bag on the way. And they actually brought me down to the station was like taken to the police. But like nothing came of it. ",id,-1
+78,182_78,182_78,T,"Okay. And we'll talk about any type of legal problems later on. So there's been some substance related issues, but nothing doesn't sound like it's it's troubling now.","gc, crq",0
+79,182_79,182_79,P,"Oh, no, I mean, I drink and stuff, but it's not. Okay.",cd,0
+80,182_80,182_80,T,We'll talk about that a little bit. When's the last time you had a drink?,"gc, irq",0
+81,182_81,182_81,P,Yesterday.,id,0
+82,182_82,182_82,T,Have you ever had any withdrawal symptoms?,yq,0
+83,182_83,182_83,P,Nope,on,0
+84,182_84,182_84,T,Have you ever heard term auditory hallucinations? It means when somebody hears things that other people can't hear. you've ever had that happenvi?,yq,0
+85,182_85,182_85,P,No,on,0
+86,182_86,182_86,T,vsualizations are the same thing except for seeing. They're seeing things who have not seen?,"gc, irq",0
+87,182_87,182_87,P,"No, not I mean, maybe when I was high college once, but yeah.",id,0
+88,182_88,182_88,T,Have you ever felt like or been told that you have any type of delusions or paranoia?,yq,0
+89,182_89,182_89,P,No,on,0
+90,182_90,182_90,T,Nothing like that. Okay. Have you ever felt like your thoughts are disorganized?,yq,0
+91,182_91,182_91,P,No,on,0
+92,182_92,182_92,T,"You mentioned you're feeling little down, Have you ever felt Really up, we call manic. Like they have a lot of energy and don't sleep for days at a time anything like that.","gc, yq",0
+93,182_93,182_93,P,Yeah,op,0
+94,182_94,182_94,T,"How about racing thoughts? in general, is your mood fairly stable? Or does it ever go from one extreme to the other? Does that ever happen? We call that lay bottom mood.",irq,0
+95,182_95,182_95,P,"Yeah, I get really sad. I don't think I don't get happy right after or anything like that.",id,0
+96,182_96,182_96,T,Okay. How about irritability?,irq,0
+97,182_97,182_97,P,"Yeah, if you ask my husband probably, but not really, more than anybody else.",id,-1
+98,182_98,182_98,T,Have you ever had trouble with sleeping?,yq,0
+99,182_99,182_99,P,"Yeah, sometimes",op,-1
+100,182_100,182_100,T,When's the last time you had trouble sleeping?,irq,0
+101,182_101,182_101,P,"Well, you know, sometimes when I get really sad sometimes I'll go you know, sometimes I'm slipping a ton, but then sometimes, you know, I find it hard to sleep. So when was the last time? I don't know. It was like, as probably in this spring a couple months ago.",id,-1
+102,182_102,182_102,T,ever find yourself having obsessive thoughts or compulsive behaviors/,yq,0
+103,182_103,182_103,P,"Like, worry, like when they get worry",crq,-1
+104,182_104,182_104,T,"like repetitive thoughts, creating anxiety or behaviors you just can't seem to stop doing",cd,0
+105,182_105,182_105,P,No,on,0
+106,182_106,182_106,T,You mentioned some some sleep problems have a problem nightmares.,crq,0
+107,182_107,182_107,P,Not significantly.,cd,0
+108,182_108,182_108,T,"Okay. have very high trouble with the amount of food you eat, like, too little food, too much food, anything like that?",irq,0
+109,182_109,182_109,P,"Yeah. I mean, sometimes I overeat something Well, I I haven't been my husband's been concerned lately. He says I'm not eating enough.",id,-1
+110,182_110,182_110,T,You feel like you're not eating enough.,crq,0
+111,182_111,182_111,P,Probably because I am not hungry.,cd,0
+112,182_112,182_112,T,This has been a problem recently and currently a food banks problem gone.,gc,0
+113,182_113,182_113,P,"Well, not like a believer that I just just I don't want to. I don't feel like the energy to get up and eat. I'm not interested.",gc,0
+114,182_114,182_114,T,Just interested in food. Okay.,gc,0
+115,182_115,182_115,P,I Have an appetite.,gc,0
+116,182_116,182_116,T,Okay. All right. So do you feel like you are now or have been a danger than anyone else?,"gc, yq",0
+117,182_117,182_117,P,No,on,0
+118,182_118,182_118,T,Okay. Have you ever had suicidal thoughts?,yq,0
+119,182_119,182_119,P,Yeah.,op,0
+120,182_120,182_120,T,"Well, we'll touch on that a little later on. how about suicidal plan, ever plan have an attempt or So some occasional thoughts?",yq,0
+121,182_121,182_121,P,"Yeah. Maybe Plan A long time ago,",op,-1
+122,182_122,182_122,T,a long time ago?,crq,0
+123,182_123,182_123,P,Yeah,cd,0
+124,182_124,182_124,T,What was the last suicidal thought?,irq,0
+125,182_125,182_125,P,Last week,id,0
+126,182_126,182_126,T,"Have you ever harmed yourself? called self mutilation for example, cutting?",yq,0
+127,182_127,182_127,P,No,on,0
+128,182_128,182_128,T,We have talked about dangerousness you said never been in danger. Have you ever had any homicidal thoughts?,yq,0
+129,182_129,182_129,P,like killing people?,crq,0
+130,182_130,182_130,T,Hmm,cd,0
+131,182_131,182_131,P,No,on,0
+132,182_132,182_132,T,have you ever been violent? Like have a violent outburst or something like that?,yq,0
+133,182_133,182_133,P,"But like, yell at my husband? but No, no, no.",on,0
+134,182_134,182_134,T,fine,gc,0
+135,182_135,182_135,P,"I mean, it happens like every now and then.",gc,0
+136,182_136,182_136,T,It's a rare?,crq,0
+137,182_137,182_137,P,Yeah.,cd,0
+138,182_138,182_138,T,"Okay, so I've completed symptom checklist. Obviously, there's some areas in here we'll talk about a little later on, too. But it gives me a good overview of kind of what's going on on one page. So I want to switch gears a little bit to recall trauma screening. ",id,0
+139,182_139,182_139,P,Okay.,ack,0
+140,182_140,182_140,T,"All right. So I'm gonna ask you, have you ever been exposed and the following incidents on the list different types of incidents? Okay. Just because you say yes, doesn't necessarily mean there's a trauma associated, but still important for me to doubt if this had happened to. Have you ever been involved in a motor vehicle accident?","gc, yq",0
+141,182_141,182_141,P,Yeah,op,0
+142,182_142,182_142,T,How about a fire,irq,0
+143,182_143,182_143,P,yeah,id,0
+144,182_144,182_144,T,work accident?,irq,0
+145,182_145,182_145,P,No,id,0
+146,182_146,182_146,T,you've been the victim of a crime?,yq,0
+147,182_147,182_147,P,yeah yeah,op,0
+148,182_148,182_148,T,"we'll come back to that. If you're having any kind of weather related trauma like the fall, tornado or flood or anything",yq,0
+149,182_149,182_149,P,No,on,0
+150,182_150,182_150,T,ever have flashbacks?,yq,0
+151,182_151,182_151,P,No,on,0
+152,182_152,182_152,T,have been physically abused?,yq,0
+153,182_153,182_153,P,No,on,0
+154,182_154,182_154,T,You don't seem quite sure on that?,irq,0
+155,182_155,182_155,P,"Well I don't know if it was physically abused, my mom would smack me and stuff.",id,-1
+156,182_156,182_156,T,How often that happen?,irq,0
+157,182_157,182_157,P,"Not that often like you know, maybe a couple times a year",id,-1
+158,182_158,182_158,T,Hoe about about sexual abuse?,yq,0
+159,182_159,182_159,P,Never,on,0
+160,182_160,182_160,T,how about a traumatic loss like seeing somebody die in front of you or something like that?,yq,0
+161,182_161,182_161,P,No,on,0
+162,182_162,182_162,T,"And domestic violence, we sort of talked about that and you're saying you mostly argue, any physical components were there",yq,0
+163,182_163,182_163,P,No.,on,0
+164,182_164,182_164,T,Okay. So can you tell me a little bit about the motor vehicle accident?,irq,0
+165,182_165,182_165,P,"Yeah, um, well, my husband and I were just on our way to the movies one night and somebody rear ended us at a red light. Yeah, it was like the airbags were deployed? So",id,-2
+166,182_166,182_166,T,those who might do to shake up about it now?,crq,0
+167,182_167,182_167,P,No,cd,0
+168,182_168,182_168,T,How about the you mentioned you're a victim of a crime. Tell me briefly about that?,irq,0
+169,182_169,182_169,P,"Oh yeah, I left my car in Philadelphia. We went to the symphony and it was on the street and came back and they stole my radio, my car radio CD player thing.",id,-2
+170,182_170,182_170,T,And have that result like what was the result of that?,irq,0
+171,182_171,182_171,P,"Oh, they actually, my husband called the police right away and it they, they recovered it. They got it a couple days later they got my radio",id,-1
+172,182_172,182_172,T,Does your car repair?,yq,0
+173,182_173,182_173,P,"Yeah yeah, the insurance took care of the repairments and stuff. It was kind of a hassle but okay.",op,-1
+174,182_174,182_174,T,"So I appreciate answering those questions related to potential trauma and I switch gears a little bit into substance abuse. I know you touched on this earlier a little bit, You mentioned the sound like involvement with the law about the marijuana so at one time, you used marijuana. How long did you use marijuana for?","id, irq",0
+175,182_175,182_175,P,"To be honest I do it Occasionally, I mean, not all the time.",id,-1
+176,182_176,182_176,T,How about alchohol?,irq,0
+177,182_177,182_177,P,"I'd say, you know, I have a couple glasses of wine and dinner a couple nights a week.",id,-1
+178,182_178,182_178,T,That's correct?,yq,0
+179,182_179,182_179,P,Yeah.,op,0
+180,182_180,182_180,T,Have you ever found yourself in any trouble because of alcohol use like do you lie or being so intoxicated that you did something you regretted anything like that?,yq,0
+181,182_181,182_181,P,"Ah, Barris myself  were in a restaurant, One time. I got a little bit loud",op,0
+182,182_182,182_182,T,Due to alcohol?,yq,0
+183,182_183,182_183,P,"Yeah, I have a few too many. Not happy about it, but Just one time",op,0
+184,182_184,182_184,T,do you think you have a problem with alcohol?,orq,0
+185,182_185,182_185,P,No,od,-1
+186,182_186,182_186,T,If you had to stop using entirely Would you be able to?,irq,0
+187,182_187,182_187,P,Yeah. Yeah. I mean I don't want to,id,0
+188,182_188,182_188,T,but  you could?,yq,0
+189,182_189,182_189,P,Yeah,op,0
+190,182_190,182_190,T,How about befor the marijuana same thing?,irq,0
+191,182_191,182_191,P,"Oh, yeah. That's so yeah. Just every now and then.",id,-1
+192,182_192,182_192,T,And the other substances you like Tell me about?,irq,0
+193,182_193,182_193,P,"well, like experimented in college a little bit, like track speed and cocaine a couple times, but I really like that ",id,0
+194,182_194,182_194,T,and no use since then?,yq,0
+195,182_195,182_195,P,No,on,0
+196,182_196,182_196,T,All right. Have you ever been treated for substance abuse?,yq,0
+197,182_197,182_197,P,No,on,0
+198,182_198,182_198,T,So let's switch gears again to gambling.  Have you ever gamble?,"gc, yq",0
+199,182_199,182_199,P,"Yeah, yeah.",op,0
+200,182_200,182_200,T,Tell me about that.,irq,0
+201,182_201,182_201,P,"Yeah. Um, well, I went with my husband on a business trips to Las Vegas one time. And you know, we'll go to Atlantic City, you know, maybe. Well, I guess we've been there. Well, once a year, not quite once a year.",id,-1
+202,182_202,182_202,T,Okay. Can you tell us about your experience when you have gone? From Sure. gambling and what happened?,irq,0
+203,182_203,182_203,P,"Um, well, I mean, mostly I like to go to see the shows. And then others I'll say, yeah, we're going to spend a certain Money, and we take that much and then when that's done, that's done. ",id,0
+204,182_204,182_204,T,Okay. So you feel you have a gambling problem.,orq,0
+205,182_205,182_205,P,No,on,0
+206,182_206,182_206,T,"Okay. All right. Thank you. I want to switch gears again, I want to talk about any previous treatment history have ever seen. a counselor, a type of mental health clinician, or a psychiatrist? Anybody like that before?","gc, yq",0
+207,182_207,182_207,P,"Yeah, I did. I saw a counselor a few years ago.",op,0
+208,182_208,182_208,T,Do you remember what year?,irq,0
+209,182_209,182_209,P,it was that like 2010,id,0
+210,182_210,182_210,T,How long did you see the counselor?,irq,0
+211,182_211,182_211,P,"It wasn't that long. She was kind of I wasn't that impressed. You know, maybe maybe two months.",id,0
+212,182_212,182_212,T,So what what happened of course that too much?,crq,0
+213,182_213,182_213,P,"Well, I just wasn't wasn't that comfortable with her. She just seemed, I don't know how to describe it. Like, I didn't have a lot of confidence in her. She's seen really, She didn't seem very sure of herself. She seemed really like insecure herself. And I kind of felt like I wanted to take my problems to this person. Like, I don't know how to explain it and just it didn't feel very effective and",cd,0
+214,182_214,182_214,T,"Okay, can you tell me how you terminated treatment? Did you cancel appointment and that was it or did you have obsession where you wrap things up with them?",irq,0
+215,182_215,182_215,P,"No, I just stopped going ",id,0
+216,182_216,182_216,T,stop going?,crq,0
+217,182_217,182_217,P,Yeah. I missed an appointment and then I didn't call to reschedule.,cd,0
+218,182_218,182_218,T,So it sounds like the reason that you didn't continue treatment was you didn't feel the counselor Really wasn't doing that great job felt secure and confident.,crq,0
+219,182_219,182_219,P,"Yeah, she didn't get me or understand. Yeah. I didn't know how it was gonna help me anyway.",cd,0
+220,182_220,182_220,T,"It's not uncommon throughout the course of someone's treatment, that they're treated by a counselor, mental health clinician, they don't quite become in sync with like this. That's not uncommon. Like, like you've recognizing that, perhaps she didn't understand you quite well. That's not uncommon. But what I like to do in our counseling relationship is if you feel that's the case, if you communicate that to me, and we can talk about that",gc,0
+221,182_221,182_221,P,oka Yeah.I appreciate that.,gc,0
+222,182_222,182_222,T,"Was there any other mental health treatment you've ever received? Either inpatient, outpatient?",yq,0
+223,182_223,182_223,P,"Yeah, in college after that thing happens. I did they wanted me to see the counselor there and when you know, like Two or three times",op,0
+224,182_224,182_224,T,after the onset of marijuana?,crq,0
+225,182_225,182_225,P,Yeah,cd,0
+226,182_226,182_226,T,so it kind of got mandated?,yq,0
+227,182_227,182_227,P,"Yeah, exactly. I like went to a group. And I talked somebody they asked me a bunch of questions like that and then I saw someone one other time.",op,0
+228,182_228,182_228,T,I'm going to switch gears again and move to the next section. Are you still okay to continue?,"gc, yq",0
+229,182_229,182_229,P,Yeah.,op,0

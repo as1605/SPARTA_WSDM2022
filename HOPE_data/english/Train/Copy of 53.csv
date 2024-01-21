@@ -1,0 +1,73 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,53_0,0,53_0,148_0,T,corleto how you doing today?,gt
+1,53_1,1,53_1,148_1,P,good.,gt
+2,53_2,2,53_2,148_2,T,"I do well, thanks for asking. How'd you do this week?",gt
+3,53_3,3,53_3,148_3,P,Better?,gt
+4,53_4,4,53_4,148_4,P,"Well, last time we talked about that",crq
+5,53_5,5,53_5,148_5,T,"postponed gratification. Yeah,",cd
+6,53_6,6,53_6,148_6,P,"that um, and I think you wanted 10 minutes for me to put it off 10 minutes. Yeah. So",irq
+7,53_7,7,53_7,148_7,P,I did better.,id
+8,53_8,8,53_8,148_8,P,"I think I ended up only doing like join a half instead of two I was able to put offered, I think, the 10 minutes a couple times. And then there were there was, I think one or two days where I went out for a walk because I was Tired of staring at the clock waiting for the 10 minutes to pass. So I got up, went for a walk. And then I passed one of my friends. So I ended up walking with her. And I actually didn't get back to my house for like an hour. So I kind of put it off for like an hour because then I came home and took a couple hits on",id
+9,53_9,9,53_9,148_9,T,so it sounds like you were able to maintain waiting 10 minutes to smoke marijuana. At least in most cases. It was rough.,crq
+10,53_10,10,53_10,148_10,P,It was rough. Yeah.,"ack,cd"
+11,53_11,11,53_11,148_11,T,"So it was it was difficult for you, but most cases, you're able to pull off the 10 minutes. Mm hmm. That sounds like there's a few instances where you're able to hold it off longer because something else kind of Yeah, came up.",crq
+12,53_12,12,53_12,148_12,P,"Yeah, I found I actually talked to a couple people on the phone before I knew it like half hour to come by.",cd
+13,53_13,13,53_13,148_13,T,so another activity presented itself and You've forgotten with marijuana.,irq
+14,53_14,14,53_14,148_14,P,Kind of Yeah. Yeah. I guess I just wasn't thinking about it.,"ack,id"
+15,53_15,15,53_15,148_15,T,So have your feelings about marijuana change since we last talked?,yq
+16,53_16,16,53_16,148_16,P,"No, not really. ",on
+17,53_17,17,53_17,148_17,T,Tell me about that.,irq
+18,53_18,18,53_18,148_18,P,"I mean, it's I don't see it as a problem. It's it's legal in a lot of states now. And I mean, it's not that bad for you. It doesn't really endanger me much.",id
+19,53_19,19,53_19,148_19,T,So you still you still believe you should have the right to smoke marijuana?,yq
+20,53_20,20,53_20,148_20,P,"Yeah, I mean, I'm not hurting anybody else. ","ack,cd"
+21,53_21,21,53_21,148_21,T,"But at the same time, you want to go back to work. And if I remember, right, you're the person that you could go work for. I guess you know them right. Yeah, it's my uncle, your uncle, and you need to be cleaned for was about two months.",crq
+22,53_22,22,53_22,148_22,P,"Yeah, two to three months.",cd
+23,53_23,23,53_23,148_23,T,So,gc
+24,53_24,24,53_24,148_24,T,"you have kind of opposing forces here, right? You have your enjoyment of marijuana. And then you, you know, that's something you like you don't wanna give up. And you believe you have a right to do that. But then there's that job.",irq
+25,53_25,25,53_25,148_25,P,"Yeah, I mean, my parents are pretty cool with it, like they know. But I mean, I'm at the point now where they kind of want me to move on and move out. But I don't know. I mean, I just, it'd be nice to have that job. Like, it's a really good job, but at the same time, like, I don't see why I have to sacrifice something that I like. ",id
+26,53_26,26,53_26,148_26,T,So it doesn't seem fair to you. But she recognizes the reality of your situation.,gc
+27,53_27,27,53_27,148_27,P,Yeah.,ack
+28,53_28,28,53_28,148_28,T,So it really does come down in your instance to marijuana use or appointment.,irq
+29,53_29,29,53_29,148_29,P,"Yeah, it's pretty accurate.","ack,id"
+30,53_30,30,53_30,148_30,T,So you're not happy about that choice.,yq
+31,53_31,31,53_31,148_31,T,"And kind of what we did with the postpone gratification was just really just ask you to wait 10 minutes and you were able to do that. And more, although it's difficult, ",orq
+32,53_32,32,53_32,148_32,P,it's difficult.,od
+33,53_33,33,53_33,148_33,T,It's difficult for you.,crq
+34,53_34,34,53_34,148_34,T,So,gc
+35,53_35,35,53_35,148_35,T,I asked you to track the number of times you smoke marijuana. Did you really track that over the last week?,irq
+36,53_36,36,53_36,148_36,T,"Yeah, you remember how many times that was?",irq
+37,53_37,37,53_37,148_37,P, I think,gc
+38,53_38,38,53_38,148_38,P,think I,gc
+39,53_39,39,53_39,148_39,P,"think it like 15. Okay, between 15 and 20,",id
+40,53_40,40,53_40,148_40,T,between 15 and 20. And how many times did something kind of get in the way that's something else come up in that 10 minutes span that distracted you or that you enjoyed,"crq,irq"
+41,53_41,41,53_41,148_41,P,"I'm like,",id
+42,53_42,42,53_42,148_42,P,"almost closer to 20 times I guess, otherwise, I probably would have kept going smoke more. I mean, there were a couple times where like somebody would call me or somebody would text me and that kind of distracted me and so I was able to put it off for a little bit.",id
+43,53_43,43,53_43,148_43,T,"So you can see in that 10 minutes, things can happen. Right things can happen that can help you to avoid the marijuana. Sometimes nothing does and after 10 minutes, use it. And sometimes something does kind of get in the way with a marijuana like distract you or you have another activity that you enjoy and then you didn't use.",od
+44,53_44,44,53_44,148_44,T,So with that in mind,irq
+45,53_45,45,53_45,148_45,T,"you found the experience rough, but was it tolerable? ",irq
+46,53_46,46,53_46,148_46,P,"Yeah, Was it bad ","ack,crq"
+47,53_47,47,53_47,148_47,T,was a bit Do you think for this next week? We could try postpone gratification from 10 minutes to 20 minutes?,"cd,irq"
+48,53_48,48,53_48,148_48,P,"I don't know. That seems kinda. Yeah, that seems like a longer time",id
+49,53_49,49,53_49,148_49,T,that that is definitely. That is a longer time. ,gc
+50,53_50,50,53_50,148_50,P,I don't know about that.,gc
+51,53_51,51,53_51,148_51,T,Yeah.,gc
+52,53_52,52,53_52,148_52,P,"Maybe like 15 minutes,",od
+53,53_53,53,53_53,148_53,T,"no compromises. 15 Okay, do you think you could maintain 15 minutes weighing 15? ",crq
+54,53_54,54,53_54,148_54,P,I think I could try a little bit more than 20.,cd
+55,53_55,55,53_55,148_55,T,"All right, so let's go with 15 minutes, right. So 15 minutes, you know, as compared to 10. I'll give you five extra minutes that something could happen that could distract you. And you wouldn't use that instance, right. There's also, you know, to constructively use that time, you could consider alternatives like like you mentioned walking right. You could use that time and start walking. Yeah. Anything else that that you like, maybe in the past on occasion when you want to use marijuana, but she didn't have anything available? What would you do instead?",irq
+56,53_56,56,53_56,148_56,P,"binge watch TV,",id
+57,53_57,57,53_57,148_57,T,"or should it be okay, well, so perhaps in that 15 minute time period that that timer you're delaying using marijuana, you could start watching the show.",yq
+58,53_58,58,53_58,148_58,P,"Yeah, I can do that.",ack
+59,53_59,59,53_59,148_59,T,"At the under 15 minutes, you might end up using marijuana or you might want to continue watching the show. So do you see kind of how it works? Like is it making sense to you the postponing?",irq
+60,53_60,60,53_60,148_60,P,"Yeah, it doesn't make it any easier, but it's tough for you. Yeah. Yeah. No, I definitely see how helps",id
+61,53_61,61,53_61,148_61,T,And maybe if we're successful to 15?,irq
+62,53_62,62,53_62,148_62,T,Who knows? We'll move it up from there.,irq
+63,53_63,63,53_63,148_63,P,"Maybe we'll see how the 15 goes, see",gc
+64,53_64,64,53_64,148_64,T,"how it goes the 15? Yeah, I'll see how that goes. You know, I'm hoping. And I hope this kind of makes sense that there'll be a point where you will be really interfering with the vast majority of the times that use marijuana. Like because you're giving yourself that many more opportunities, the longer you wait. Right. The more minutes you wait, the more opportunities for something else to get in the way so to speak. And probably what you'll see, just like you saw this last because you're, you know, you used marijuana less frequently, just by waiting the 10 minutes. Even though you described as difficult I'm sure it was, but there were a few times where it kind of worked out",irq
+65,53_65,65,53_65,148_65,P,Yeah.,ack
+66,53_66,66,53_66,148_66,T,"So, I think that planning something for that time would be helpful. And try to plan something 15 minutes, even if you fully intend to beyond the 15 to go right and use, I think it's still useful plan something in there. You never know that might take you. Or you might end up walking or watching TV or doing something else that would distract you or pull you away from the marijuana use. Okay. So that's like a plan.",irq
+67,53_67,67,53_67,148_67,P,"Yeah, I think I can give that a try.","ack,id"
+68,53_68,68,53_68,148_68,P,Okay,gt
+69,53_69,69,53_69,148_69,T,Sounds like a plan?,gt
+70,53_70,70,53_70,148_70,P,"Yeah, I think we can manage that.",gt
+71,53_71,71,53_71,148_71,T,"All right. We'll go with that. And I'll see you next week. Okay, thank you.",gt

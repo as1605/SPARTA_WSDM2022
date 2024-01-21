@@ -1,0 +1,176 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,8_0,0,8_0,106_0,T,How are you doing today?,gt
+1,8_1,1,8_1,106_1,P,Good.,gt
+2,8_2,2,8_2,106_2,T,What's been going on?,irq
+3,8_3,3,8_3,106_3,P,Been a little anxious about a shopping habit that I have,id
+4,8_4,4,8_4,106_4,T,talk about that?,"yq,irq"
+5,8_5,5,8_5,106_5,P,"Yes, Well, I have to buy everything in pairs or in twos. And if I only have one thing I won't buy it I'll put it back or I'll look around the store for another thing so that I have two things to buy.Y",id
+6,8_6,6,8_6,106_6,T,"So when you go into store, if you just have one thing you want to buy one item you went there for you will buy a second item or even more just Second,",irq
+7,8_7,7,8_7,106_7,P,sometimes it can be more as long as it's reached the minimum of two.,id
+8,8_8,8,8_8,106_8,T,"So you have to leave having purchased a minimum of two, right? Or if you can't find something else, you won't buy it at all. Exactly. So So zero would also be acceptable.",orq
+9,8_9,9,8_9,106_9,P,Zero would be acceptable.,od
+10,8_10,10,8_10,106_10,T,"But one, ",orq
+11,8_11,11,8_11,106_11,P,"no, no, no, I can't do just one guy can't do one. Okay. Now, it's got to be two or more.",od
+12,8_12,12,8_12,106_12,T,And what happens that has ever been the occasion where you've only purchased one thing?,irq
+13,8_13,13,8_13,106_13,P,I can't really remember one. I'm sure there has been but I can't really remember one.,id
+14,8_14,14,8_14,106_14,T," So for all this period of time, you have successfully either purchase nothing, or two or more items.",orq
+15,8_15,15,8_15,106_15,P,"Oh, yeah. I have to it's very anxiety producing if I don't know",od
+16,8_16,16,8_16,106_16,T,how anxiety producing,irq
+17,8_17,17,8_17,106_17,P,"it, I just feel like something bad will happen. If I don't keep it to two or more.",id
+18,8_18,18,8_18,106_18,T,"You know, what would happen? give a specific.",irq
+19,8_19,19,8_19,106_19,P,"Well, for example, like my family would be in a car accident, or I would hit deer or you know, get fired from my job.",id
+20,8_20,20,8_20,106_20,T,"So something really, really bad will happen. This is hurtful for you. This is causing you pain. ",yq
+21,8_21,21,8_21,106_21,P,Yes.,ack
+22,8_22,22,8_22,106_22,T,"And this would happen. This would really happen on any shopping trip where you just want one thing you'd be reminded, so if you went in wanting more than one thing, it's not a problem, right?",irq
+23,8_23,23,8_23,106_23,P,It's if I only really need one thing And then I can't just buy that one thing that I need.,id
+24,8_24,24,8_24,106_24,T,"Alright, so how often does this happen? Where you are in a situation where you want to make a purchase of just one item? And you have to you have to change because the anxiety ",irq
+25,8_25,25,8_25,106_25,P,"daily,",id
+26,8_26,26,8_26,106_26,T,daily?,yq
+27,8_27,27,8_27,106_27,P,"yeah, because I mean, if I go grocery shopping or if I go clothes shopping or for any kind of money transactional thing, you know, which I would encounter daily pretty much it happens","ack,id"
+28,8_28,28,8_28,106_28,T,I would like fill up your car gasoline.,gc
+29,8_29,29,8_29,106_29,P,Oh then oh bipac accom.,gc
+30,8_30,30,8_30,106_30,T,So it has an effect that level two.,yq
+31,8_31,31,8_31,106_31,P,Yeah.,ack
+32,8_32,32,8_32,106_32,T,"So you're thinking it almost like the number of transactions has to be more than one. I mean, it has to be two or zero.",irq
+33,8_33,33,8_33,106_33,P,"Yeah, I guess so. Yeah. No. Or vitamins or number of transactions? Yeah. Because see if I get gas, then I have the gas in my car. That's the thing.",id
+34,8_34,34,8_34,106_34,T,"That's one transaction and one thing and one thing, okay. And then. Okay, so that's one product, right? And you need another product. Right? So you really can't feel your car without going inside the station. Store.","irq, yq"
+35,8_35,35,8_35,106_35,P,NO,ack
+36,8_36,36,8_36,106_36,T,"So it doesn't matter that there's more than one gallon going in, is because it's the same product. ",yq
+37,8_37,37,8_37,106_37,P,Exactly. Yes.,ack
+38,8_38,38,8_38,106_38,T,"So I could see now this, this would be more of a daily thing. You said, Right. Yeah. Because at first I was thinking daily. That's a lot of individual shopping trips, but it applies to all transaction. ",irq
+39,8_39,39,8_39,106_39,P,Exactly. Yeah. I did really realize that that way. But it does. Yeah. Yeah.,id
+40,8_40,40,8_40,106_40,T,So this is a fairly significant source of anxiety for you.,irq
+41,8_41,41,8_41,106_41,P,"Yes, it is. It does. Pr I get, you know, like, builds up in me and I feel it.",id
+42,8_42,42,8_42,106_42,T,"So let's talk about that. And help me to understand this better. So let's say that you went to a convenience store, and just had one thing in mind, what might be a potential item that you would gum? gum, right? So you want to go in and you just want to buy a pack of gum. That's all you really want. That's why you stopped at the store. ","irq,yq"
+43,8_43,43,8_43,106_43,P,Right,ack
+44,8_44,44,8_44,106_44,T," So you go in, you have any thoughts? Now we talked in the past about automatic thoughts, these thoughts just kind of come in, right. So are there any thoughts in there happening when you're walking into the store?",irq
+45,8_45,45,8_45,106_45,P,"Yeah, I start. I start with what do I need? Why am I here? You know, I need a pack of gum. And then it's instant anxiety that what else am I gonna get? What else can I get to make it the two?",id
+46,8_46,46,8_46,106_46,T,"All right. So the thought is What else can I get? Yeah, like this one, the past will be two has to be two. It has to be two. That's not that's Yeah. So that's also possible more demanding. Yeah. So it has to be.",orq
+47,8_47,47,8_47,106_47,P,Yeah. So I guess the first thought is what else? What else do I have to get? Yeah. And then so jumps right,od
+48,8_48,48,8_48,106_48,T,to the anxiety. So is the anxiety,irq
+49,8_49,49,8_49,106_49,P,"It starts going down. Okay,",id
+50,8_50,50,8_50,106_50,T,so it's really gradually,yq
+51,8_51,51,8_51,106_51,P,"Yes, but it is really it is really Yes. Once it completely gone. When I'm done that",op
+52,8_52,52,8_52,106_52,T,"Alright, so you so really the the worst anxiety would be approaching the store entering in that moment of uncertainty. When you don't know the second Yeah,",yq
+53,8_53,53,8_53,106_53,P,absolutely. All right.,ack
+54,8_54,54,8_54,106_54,T,"Okay. So if you could relieve that anxiety, that would be one of your goals. ",yq
+55,8_55,55,8_55,106_55,P,That would be fantastic. Fantastic.,op
+56,8_56,56,8_56,106_56,T,All right. So let's think about this way. Do you? Do you know the reason that you do this? You have any guesses?,orq
+57,8_57,57,8_57,106_57,P,"I would guess that. I mean, we've talked about you my dad had some bad experiences I had I sound awful. Yeah, they've, they were difficult. So I wonder if that's not somehow linked to this behavior somehow. Being impossibly",od
+58,8_58,58,8_58,106_58,T,Alright. So you've been through some really tough times to put it mildly. And what You're afraid of if you only buy the one item? Is something safety related happening?,irq
+59,8_59,59,8_59,106_59,P,Yes. Yes. Like the car accident or the Yes. Safety. Definitely my personal safety or my family's safety.,id
+60,8_60,60,8_60,106_60,T,And I guess security like the,irq
+61,8_61,61,8_61,106_61,P,"security Yeah. And yeah, security.",id
+62,8_62,62,8_62,106_62,T,So safety and security. They're at risk for you.,yq
+63,8_63,63,8_63,106_63,P,Yes.,ack
+64,8_64,64,8_64,106_64,T,"When you don't follow this role, the rule and I will Yeah. So if we think about it in terms of the cognitive model, we talked about the core beliefs and the intermediate beliefs, which are the attitudes and assumptions expectations, so the core belief here the only thoughts when it might be",orq
+65,8_65,65,8_65,106_65,P,"well, now that you said that, or you know, pointed out those safety security issues, I didn't really realize that but it is. Maybe that just that I'm not okay, I'm not",od
+66,8_66,66,8_66,106_66,T,"I'm not okay. I'm not safe. I am vulnerable,",irq
+67,8_67,67,8_67,106_67,P,"vulnerable. Yeah, I'm vulnerable. Am I an exposed? exposed to danger to?",id
+68,8_68,68,8_68,106_68,T,Sure at risk? Yeah.,irq
+69,8_69,69,8_69,106_69,P,That's my rule.,id
+70,8_70,70,8_70,106_70,T,"And then when a situation presents itself, which would be an impending transaction. That's the situation we talked about how the situation blends together. With that, in this case rule that intermediate. So when they come together, what's that automatic thought?",irq
+71,8_71,71,8_71,106_71,P,When the situation and,id
+72,8_72,72,8_72,106_72,T,"trends potential transactions approaching you, and you handed me a belief I need to buy everything",irq
+73,8_73,73,8_73,106_73,P,in tears. What else am I getting in?,id
+74,8_74,74,8_74,106_74,T,And then what's the behavior? That is a product of that automatic thought of I do you buy the second item? Yeah. And the feeling is the feeling of falls.,irq
+75,8_75,75,8_75,106_75,P,that follows that purchase of,id
+76,8_76,76,8_76,106_76,T,"well, the follows on Mac thought, oh, anxiety, anxiety, and then what's the feeling that follows the purchase? Yeah. Relief relief. Alright. So can you see how the mechanism what's happening to you could be explained one explanation through through the cognitive load",orq
+77,8_77,77,8_77,106_77,P,there much it didn't sit very well.,od
+78,8_78,78,8_78,106_78,T,"Alright. So let's talk about the rule of the Rule of Two. Now we, we, we talked before, we're talking about cognitive therapy, about useful and less than useful thoughts, right? functional and less functional or dysfunctional. thoughts. Do you think that sitting here now, not so much necessarily in the store? I know that's probably a different thought process. But talking with me now, do you see a causal connection between purchasing two items and a safety or security breach?",irq
+79,8_79,79,8_79,106_79,P,"Yeah. I mean, there's no I recognize you recognize your Work and stuff that it's not. It doesn't make sense. It's not a useful, a useful thought maybe",id
+80,8_80,80,8_80,106_80,T,it's not a useful in this case thought munei useful intermediate belief.,orq
+81,8_81,81,8_81,106_81,P,"Yeah, yeah.",od
+82,8_82,82,8_82,106_82,T,"So you recognize that you appreciate that. There is not a link between Elio purchasing here. And in either direction, though, right meaning, so you realize that, that if you buy to, this doesn't necessarily keep you safe either. So you can't introduce safety or the process of risk of being unsafe, you can't introduce risk or safety through your transacting behavior.",irq
+83,8_83,83,8_83,106_83,P,That's very true. Yeah.,id
+84,8_84,84,8_84,106_84,T,Does that make sense?,yq
+85,8_85,85,8_85,106_85,P,"Yeah, it does. It really does. I Can't it doesn't make what you're saying makes sense. But it doesn't make sense to introduce safety or either side of the point.","ack,od"
+86,8_86,86,8_86,106_86,T,So do overs or rest are not influenced by your behavior.,yq
+87,8_87,87,8_87,106_87,P,Yeah.,ack
+88,8_88,88,8_88,106_88,T,"But that's not what your mind is telling you. That's not what your thoughts are telling you. That's logical. And you can sit here with me. And it's not easy to say, but you can say, Yeah, I don't see a link.",orq
+89,8_89,89,8_89,106_89,P,"Yeah, I don't see a link, but I know what I feel and what I feel is that impending doom, if you will.",od
+90,8_90,90,8_90,106_90,T,"So let's talk about that moment. So in this moment, maybe a little anxious now, but you can kind of see how, right you can't protect yourself or cause harm to yourself or anyone else. By buying to or failing to buy to write in the store, or wherever you make the transaction, different story. So you have, let's, let's go a different direction. I talked about how you walk into a store, and you think, well, I get those the phone, right? And you end up getting something else. Yes, the anxiety then kind of goes away. And we'll come up the next time that happens. But it's a way it's gone for that moment. So, I want you to kind of stay with me as I go through another scenario. And you maybe have figured out what I'm going to do here, but",orq
+91,8_91,91,8_91,106_91,P,I need it in your scenario. Okay.,od
+92,8_92,92,8_92,106_92,T,"So maybe GM isn't the ideal example but you see my right yeah. See, you go into the now you go to the store, you realize you only have enough resources to make the one transaction and you really want it so zero is not. So, now walk me through the thoughts and the feelings",irq
+93,8_93,93,8_93,106_93,P,what I would normally do or what I,crq
+94,8_94,94,8_94,106_94,T,would think would happen,cd
+95,8_95,95,8_95,106_95,P,"I would panic. I mean not panic, like break down or something, but I mean it would be very, very stressful if I absolutely had to get that item. Um, I would probably try to scrape change out of my car, but I know we're not going there now. Yeah, no stay there. But um, I would be very, very difficult.",id
+96,8_96,96,8_96,106_96,T,Could you do it?,yq
+97,8_97,97,8_97,106_97,P,I'm physically capable of doing it. Okay.,op
+98,8_98,98,8_98,106_98,T,And that is one level of being able. But how about in terms of your thinking? And your feeling?,crq
+99,8_99,99,8_99,106_99,P,"I could do it, I could do it. I could get through it.",cd
+100,8_100,100,8_100,106_100,T,And what would happen? How much anxiety with you experience and with the anxiety fade off?,irq
+101,8_101,101,8_101,106_101,P,"It will fade off? I think. I mean, it would have to, I would imagine, so it would fade. I think it would take a longer period of time to fade than if I had just gotten even now seeing here, but even if I had just gotten another item, okay, the world is going to be safe for another five minutes. We're good. How much you're feeling right now? very anxious, right? Yeah.",id
+102,8_102,102,8_102,106_102,T,"Are you worried is the kind of anxiety where you're worried that something catastrophic is gonna happen? Okay, so even talking about a transaction of one can lead to anxiety connected to this safety and security. ",orq
+103,8_103,103,8_103,106_103,P,Yeah. Yeah.,od
+104,8_104,104,8_104,106_104,T,So you can you can trigger that without a transaction even pending.,yq
+105,8_105,105,8_105,106_105,P,Yeah. Yeah.,ack
+106,8_106,106,8_106,106_106,T,really scared sitting here.,yq
+107,8_107,107,8_107,106_107,P,Yeah. Yeah.,ack
+108,8_108,108,8_108,106_108,T,is unbearable the anxiety of men's embarrassment?,yq
+109,8_109,109,8_109,106_109,P,"Yes, it's bearable, it's bearable, ","ack,op"
+110,8_110,110,8_110,106_110,T,but does it hurt stuff?,crq
+111,8_111,111,8_111,106_111,P," Yeah, it's hurt me feel bad.",cd
+112,8_112,112,8_112,106_112,T,What do you feel is gonna happen with seeing xiety about,irq
+113,8_113,113,8_113,106_113,P,your scenario of having to having to get only one item or having only having the resources for one item and,id
+114,8_114,114,8_114,106_114,T,"Okay, so it's not a safety and security. It's a it's a concern about going through and buying one item on the rule. Those two Yeah, yeah. And I'm talking about breaking the rule. ",crq
+115,8_115,115,8_115,106_115,P,I know it's terrifying. This this this skin for you.,cd
+116,8_116,116,8_116,106_116,T,Because so you're anxious about that. And you're also anxious about the consequences of that.,orq
+117,8_117,117,8_117,106_117,P,Yeah.,od
+118,8_118,118,8_118,106_118,T,"So the anxiety you're experiencing right now in this moment with me, I want you to be mindful that, guys keep that in your awareness and let me know if that changes. just interrupt me if you need to. It's not.",yq
+119,8_119,119,8_119,106_119,P,Okay.,com
+120,8_120,120,8_120,106_120,T,"So it might get worse. It might get better. So, is there something on your mind that you need to buy within the next couple of days?","orq,yq"
+121,8_121,121,8_121,106_121,P,"Yes. coffee, coffee.","ack,od"
+122,8_122,122,8_122,106_122,T,That's a transaction of one.,gc
+123,8_123,123,8_123,106_123,P,"Yes, so I'll get something.",gc
+124,8_124,124,8_124,106_124,T,"Okay, right. Yeah. understandable, but what if, what if I challenged you to behavioral Experiment. Okay, can you guess what that might be?",orq
+125,8_125,125,8_125,106_125,P," To buy one coffee? In scenario two,",od
+126,8_126,126,8_126,106_126,T,"to buy one to buy one cup of coffee? And then I don't know where to buy the coffee, but leave? Yeah, wherever it is leave. So what are the possible things that could happen? Knowing that logically you can connect it to a safety thing, and you might be anxious about that. And that's real, that anxiety is real. But knowing that the event isn't prevented or caused by exactly the transacting behavior. Let's go through what happens. So you buy the coffee. You're really anxious. Right? up to it, you're anxious to go into driving there either.",crq
+127,8_127,127,8_127,106_127,P,I would have a lot more anxiety. But I would really have to talk myself through that.,cd
+128,8_128,128,8_128,106_128,T,Would it go away?,crq
+129,8_129,129,8_129,106_129,P,"I believe it was the anxiety, I believe.",cd
+130,8_130,130,8_130,106_130,T,So it'd be more painful experience to buy the one.,yq
+131,8_131,131,8_131,106_131,P,"Yes, yeah.",ack
+132,8_132,132,8_132,106_132,T,But it wouldn't actually harm you.,yq
+133,8_133,133,8_133,106_133,P,"Oh, yeah. No, not at all.",com
+134,8_134,134,8_134,106_134,T,But it would cause you more internal anxiety.,crq
+135,8_135,135,8_135,106_135,P,Exactly.,cd
+136,8_136,136,8_136,106_136,T," So what would happen if you did again,",orq
+137,8_137,137,8_137,106_137,P,"I would hope that it would be less anxiety. Could be, could be",od
+138,8_138,138,8_138,106_138,T,repeated 100 times.,orq
+139,8_139,139,8_139,106_139,P,It could be I would get old. I think the anxiety would get exhausted.,od
+140,8_140,140,8_140,106_140,T,"So really, what you're doing is you're conditioning you'd be conditioning yourself right to, to to surviving just buying the one item. I have a lot more money financial advantages to it certainly. And there'd be a you know what I hope is a freedom advantage which is the freedom to buy any number of miners, the next so what what scenario of purchasing i know i i asked for the coffee example I mean I asked one thing you're going to buy the coffee, but what what scenario could you see yourself being most likely to fall through this? I don't know if the coffee is the optimal situation for that behavior experiment maybe I guess it would there be another item that would be easier to actually fall through like for example, the gasoline because you'd get your car by the gasoline and you leave. Yeah, that would be easier for you. You will be tempted by the other I",irq
+141,8_141,141,8_141,106_141,P,"wouldn't have to walk through the coal to the store, right or to the, the door of the",id
+142,8_142,142,8_142,106_142,T,"wood. That'd be easy. It'd be, you know, might be",orq
+143,8_143,143,8_143,106_143,P,That would be much easier. Okay.,od
+144,8_144,144,8_144,106_144,T,"So we will, we will consider that kind of a step in a direction that would result in fewer symptoms. Yeah, that would be wonderful. And maybe another step in the future if we get there. So it goes with us, but it would be to go into the store and buy one but let's not let's not do that. Okay. Let's stick with the gasoline.",ci
+145,8_145,145,8_145,106_145,P,Okay. I feel more confident about that.,ack
+146,8_146,146,8_146,106_146,T,"You feel like you could succeed with that. Yeah, experiment.",orq
+147,8_147,147,8_147,106_147,P,"We'll see when we actually get there, but yes, I would like to. I feel like I could actually try that. More so than the coffee. So",od
+148,8_148,148,8_148,106_148,T,are you afraid with the coffee that you might just end up buying too? Okay.,yq
+149,8_149,149,8_149,106_149,P,Yes.,ack
+150,8_150,150,8_150,106_150,T,So how's your anxiety now?,irq
+151,8_151,151,8_151,106_151,P,I feel better than I don't have to just buy one cup of coffee.,id
+152,8_152,152,8_152,106_152,T,"Okay, so that was a stressor.",gc
+153,8_153,153,8_153,106_153,P,But I feel it's it's miles. But but okay. But it was.,gc
+154,8_154,154,8_154,106_154,T,But mostly because the experiment that we're talking about somewhat easier,orq
+155,8_155,155,8_155,106_155,P,"And because I think like the insight that you gave me on, I hadn't connected the safety security, I hadn't connected all the dots. So that was very helpful.",od
+156,8_156,156,8_156,106_156,T,"So one of the we talked about before, what do I mag thoughts like adaptive responses, right. So as you're trying to kind of push through this experience of just feeling car, you're going to have those thoughts still come up. And the adaptive response could be something like, Well, I'd like you to design it or work with me and design it. But could be something like, I know this will actually have a consequence in the real world. Yeah, I realized this is just how responding internally doesn't take away the anxiety, necessarily. It might, but it will help you maybe get through that process. Yeah. Yeah. Does that make sense? Yeah, absolutely. There's a few things I'm asking you to do. Right. One is to just buy gasoline needed and only by gasoline. And at the same time when those thoughts come up to respond to them with the adaptive responses to compare the two.",gc
+157,8_157,157,8_157,106_157,P,"Yeah, gotcha. ",gc
+158,8_158,158,8_158,106_158,T,"Apparently got it. Right. So I know this won't have real consequence. In reality, that could be one. And if you have any others, you know, you can apply to as well as apply them. I know that I can tolerate the anxiety. Yeah, seems like you've tolerated for a long time. It's not pleasant. It's not what you want. But you can tolerate.",ci
+159,8_159,159,8_159,106_159,P,Yeah.,ack
+160,8_160,160,8_160,106_160,T,"And maybe another adapter response would be, this is painful for me. But if I can be successful here, if I can get rid of things,",orq
+161,8_161,161,8_161,106_161,P,yeah. The longer term picture Yeah.,od
+162,8_162,162,8_162,106_162,T,"And keeping your island moving up to coffee and other other behavioral goals. Like that. Yeah, that makes sense.",irq
+163,8_163,163,8_163,106_163,P,I like that a lot.,id
+164,8_164,164,8_164,106_164,T,So we're kind of attacking anxiety from a lot of different angles here. Okay?,yq
+165,8_165,165,8_165,106_165,P,Yeah.,ack
+166,8_166,166,8_166,106_166,T,So do you do believe that you can succeed with this idea?,yq
+167,8_167,167,8_167,106_167,P,"Yeah, I do. It's been a long time. But I that I mean, the behaviors and the thought processes have been in place for a long time. So I think it'll be a challenge but i think you know, it's time","ack,op"
+168,8_168,168,8_168,106_168,T,"Yeah. So well, that can be very Positive so that you know what I detected there was, you're ready to challenge the six idea. Right? Like, I would like to take the devil's courage. Yeah, yeah. So you're ready to say I've had enough. And you can see a clear path of behavior that can help you get through it and you're ready to take the anxiety on. That can be a positive adaptive response, right? Like being assertive and saying, almost like you're talking to the anxiety in a way okay, right, but I'm not gonna let you beat me this time. That's what you'd be saying to the anxiety.",orq
+169,8_169,169,8_169,106_169,P,I like that one. Yeah.,od
+170,8_170,170,8_170,106_170,T,"So, make a note of all these right? And you can use the same one more than once. You can mix them up, whatever works for you. Okay, but keep applying them as needed through the whole process into your home, your is your no more risk to go by. It's great. Yeah. Cuz it because I think once you get home really, that's, that's the completion of only participating that one transaction right, you've left and go back to restarting the cycle. So right. you've, you've permanently recorded just buying the one thing. Yeah, so that's a victory. Yeah. That'd be a huge victory. So I don't know if you know the status of your gas tank right now. Do you foresee needing to get gas between now and next week?",crq
+171,8_171,171,8_171,106_171,P,"Oh, yeah, you do? need to do that. Yeah.",cd
+172,8_172,172,8_172,106_172,T,"So if you could try that out. And if you could record kind of in the moment, like after it's over the experience in terms of your feelings, different stages, that would be helpful. ",hp
+173,8_173,173,8_173,106_173,P,Okay,ack
+174,8_174,174,8_174,106_174,P,Okay. All right. Thanks.,gt

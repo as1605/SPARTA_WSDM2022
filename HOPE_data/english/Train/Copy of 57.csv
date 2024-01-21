@@ -1,0 +1,110 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Unnamed: 3
+0,57_0,0,57_0,151_0,T,Except that when you're in work you worry a lot about how you come across in social situations.,gc
+1,57_1,1,57_1,151_1,P,"Yeah, really makes me feel really anxious. Like, what I look like and what people are thinking.",gc
+2,57_2,2,57_2,151_2,T,"Yeah, you said that you worry that you visibly shake.",crq
+3,57_3,3,57_3,151_3,P,Yeah.,"cd,ack"
+4,57_4,4,57_4,151_4,T,And are there any other things that you worry that people will notice?,irq
+5,57_5,5,57_5,151_5,P,I think obviously the shaking I think my hands and legs shaking and kind of going really red and sweating and just looking great. went ahead.,id
+6,57_6,6,57_6,151_6,T,"So it sounds like you have quite a strong mental image of how you see yourself when you're in these social situations. Yeah. You say you go read you shake. Is there anything else that you think that you do? I mean, describe yourself. How do you think you look, when you're in these situations, just",irq
+7,57_7,7,57_7,151_7,P,"like, I think I just looked really obviously weird and out of place and like really read and just visibly shaking and sweating and kind of not being able to communicate properly with people.",id
+8,57_8,8,57_8,151_8,T,And is there anything that you do to try and kind of defend against these things to manage these problems?,irq
+9,57_9,9,57_9,151_9,P,"And I guess like when I'm holding the camera, I just grip onto it really, really tight, or kind of clench on my muscles and just find something that I can focus on. And to kind of try and make myself shake less and not goes red and stuff.",id
+10,57_10,10,57_10,151_10,T,So you focus on something you grip onto that Camera. Do you make eye contact with people?,"crq,yq"
+11,57_11,11,57_11,151_11,P,No. I just tend to just look down.,"cd,on"
+12,57_12,12,57_12,151_12,T,"Okay, so you also avoid eye contact? Is there anything else that you do to manage the sweating For example, ",crq
+13,57_13,13,57_13,151_13,P,"I just as I like kind of looking down and like wearing all black, so it's less obvious and what kind of worrying? Yeah, just more layers and all black says you just can't tell.","cd,id"
+14,57_14,14,57_14,151_14,T,Okay,ack
+15,57_15,15,57_15,151_15,T,"What do you think would happen if you stopped doing these things? If you stopped gripping onto the camera? Or, you know, you start to make eye contact and not looking down? And what do you think would happen?",irq
+16,57_16,16,57_16,151_16,P,"I think it would be so much worse. Yeah, I think I just would just check even more and be more anxious and look of more obviously, kind of weird and out of place.",id
+17,57_17,17,57_17,151_17,T,"And what I'm thinking now is how do you feel about if we did an experiment to test out your thoughts on what would happen if you stopped doing these things? If we did a bit of a role play where we pretended to enact a situation at work, okay? And if we did this maybe twice and the first time, you do all the things that you normally do, okay and grip onto something, look down. And is there anything else that you do when you're in these situations, these work conversations to try and cope.",irq
+18,57_18,18,57_18,151_18,P,"And I just kind of all just like fumble and like kind of just clench, whatever, whatever it is, I'm holding just really tight and just make sure I don't make any eye contact at all, just kind of get through it.",id
+19,57_19,19,57_19,151_19,T,"Okay, so in the first time, I want you to do those things as much as you normally would, in fact, maybe even slightly more than you normally would. ",ci
+20,57_20,20,57_20,151_20,P,"Okay, ",ack
+21,57_21,21,57_21,151_21,T,"and then the second time, I want you to drop doing those things all together. ",ci
+22,57_22,22,57_22,151_22,P,Okay,ack
+23,57_23,23,57_23,151_23,T,does that sound okay?,yq
+24,57_24,24,57_24,151_24,P,try my best.,ack
+25,57_25,25,57_25,151_25,T,And do you? How would you feel about if we filmed this so you could actually see what you looked like?,orq
+26,57_26,26,57_26,151_26,P,Okay.,"od,ack"
+27,57_27,27,57_27,151_27,T,Do you have a camera with you that we can video on?,yq
+28,57_28,28,57_28,151_28,P,Yeah. And there is my phone. Okay.,"ack,id"
+29,57_29,29,57_29,151_29,T,"Yeah, yeah, we'll use that in just a sec. ",gc
+30,57_30,30,57_30,151_30,P,Okay,ack
+31,57_31,31,57_31,151_31,T,"before we do this, then we're just going to fill out this form is because what we're doing now is an experiment. We call it behavioral experiments, see what happens when you change the way that you're behaving? ",irq
+32,57_32,32,57_32,151_32,P,Right. Okay,ack
+33,57_33,33,57_33,151_33,T,"so the first column says, I need to fill out an experiment to test this thought that you have, so that our experiment is going to be that we do a conversation at work, and who should I play if you're playing yourself in this roleplay? Who should I be?","id,irq"
+34,57_34,34,57_34,151_34,P,maybe like a client at work? I always have to sit down with clients before we did the shoe and kind of get to know a little bit more about what they want.,id
+35,57_35,35,57_35,151_35,T,"Okay, so would it work if I was maybe having a wedding and I was hiring? ",yq
+36,57_36,36,57_36,151_36,P,"Yeah, ",ack
+37,57_37,37,57_37,151_37,T,wedding photographer?,yq
+38,57_38,38,57_38,151_38,P,Yeah.,ack
+39,57_39,39,57_39,151_39,T,What kind of problems do you see coming up in this conversation that we have like what we see yourself doing on camera,irq
+40,57_40,40,57_40,151_40,P,"I am shaking, like being really obviously shaking and Okay, bright red and Okay, so,",id
+41,57_41,41,57_41,151_41,T,"visibly shaking. So how, how much will you be shaking if 100 is like shaking uncontrollably and zero is not shaking at all? How visibly shaking Will you be?",irq
+42,57_42,42,57_42,151_42,P,90,id
+43,57_43,43,57_43,151_43,T,Okay. So what was the other thing that you just said?,crq
+44,57_44,44,57_44,151_44,P,like I really read,crq
+45,57_45,45,57_45,151_45,T,"Okay, so go read.",cd
+46,57_46,46,57_46,151_46,P,Yeah.,ack
+47,57_47,47,57_47,151_47,T,"And how read will you go? I mean, if we look around this room",irq
+48,57_48,48,57_48,151_48,P,probably like the chairs.,id
+49,57_49,49,57_49,151_49,T," Okay, thanks. Hello. Yeah, you're going to be as kind of brightly pink as these chairs. Oh, yeah. Okay. So out of 100 then how how pink would you say these chairs are",irq
+50,57_50,50,57_50,151_50,P,90 have 100 Okay.,id
+51,57_51,51,57_51,151_51,T,"What else you worried is going to happen when we have these conversations, just",irq
+52,57_52,52,57_52,151_52,P,"worried to be fake, like say something stupid and not be able to kind of get what I'm trying to say across properly.",id
+53,57_53,53,57_53,151_53,T,"Okay, and how stupid out of 100 100 is ridiculously stupid.",irq
+54,57_54,54,57_54,151_54,P,"Probably like, similar 90. Okay, I'd say",id
+55,57_55,55,57_55,151_55,T,"wow, see worried will happen when you have this conversation. What else might you see on the camera? ",irq
+56,57_56,56,57_56,151_56,P,I think you'll probably be able to see that I'm sweating and okay.,id
+57,57_57,57,57_57,151_57,T,And how much will you be sweating?,irq
+58,57_58,58,57_58,151_58,P,"Again, 90.",id
+59,57_59,59,57_59,151_59,T,I really think like visibly sweating down the face. Yeah.,gc
+60,57_60,60,57_60,151_60,T,"Okay, and what you think will happen the second time around when you stop kind of doing the things you normally do to cope when you maybe start to make eye contact. You're not gripping on something. ",irq
+61,57_61,61,57_61,151_61,P,"I think it will be even worse. I think Oh, yeah.",od
+62,57_62,62,57_62,151_62,T,"How much worse? slightly worse, like twice as bad? ",crq
+63,57_63,63,57_63,151_63,P,Twice as bad. Okay. Yeah.,cd
+64,57_64,64,57_64,151_64,T,"Okay,",ack
+65,57_65,65,57_65,151_65,T,right. Can you give me your phone number?,irq
+66,57_66,66,57_66,151_66,P,Oh yeah. Should I just use this?,crq
+67,57_67,67,57_67,151_67,T," And yeah, yeah, it's probably best. Okay.",cd
+68,57_68,68,57_68,151_68,P,Okay.,ack
+69,57_69,69,57_69,151_69,T,okay. So,gc
+70,57_70,70,57_70,151_70,T,I was just wondering if I could talk to you about maybe doing my wedding,irq
+71,57_71,71,57_71,151_71,P,"photography. Yeah. And what kind of kind of what kind of things you see and how you want it to be like,",id
+72,57_72,72,57_72,151_72,T,"I suppose I like lots of shots of our family and our friends quite a lot of natural shots. You know, talking when they're having drinks. And",gc
+73,57_73,73,57_73,151_73,P,"yeah. Do you want it? Like, do you kind of see it being outside? Is that something that you're interested in?",irq
+74,57_74,74,57_74,151_74,T,"Yeah, shots there's going to be a summer wedding. So we like I like a lot of outdoors shots and if possible, you know, if it's not raining, that would be quite nice and Yeah, quite some arty ones if that's possible.",id
+75,57_75,75,57_75,151_75,P,"Yeah. And yeah, that'll be. I've done quite a few things like that before. ",gc
+76,57_76,76,57_76,151_76,T,"So, have you got anything that you could show me about your past work? ",irq
+77,57_77,77,57_77,151_77,P,"Yeah, I recently did some shoots outside kind of in like a word environment so that I could show you that maybe it would kind of help with some ideas. ",id
+78,57_78,78,57_78,151_78,T,"Okay, great. All right, let's do the second one now. Okay. Okay, you put down the bottle and make eye contact. Okay.",ci
+79,57_79,79,57_79,151_79,T,Hi. So I was just wondering if I could speak to you about doing my wedding photography.,irq
+80,57_80,80,57_80,151_80,P,"Yeah, yeah. And what kind of thing are you looking at? How do you want it to be like,",id
+81,57_81,81,57_81,151_81,T,"and I'd like kind of lots of shots of family and friends and quite a lot of natural shots, you know,",irq
+82,57_82,82,57_82,151_82,P,okay. And are you interested in having things outside maybe and he said it was he wants to It's been natural.,id
+83,57_83,83,57_83,151_83,T,"Yeah, cuz it's gonna be a summer wedding and Okay, you know, weather dependent. Of course. Yeah, it would be really great if we could kind of get lots of shots you know, outdoors. Okay. Yeah, people chatting and maybe some quite arty ones as well.",gc
+84,57_84,84,57_84,151_84,P,Yeah.,ack
+85,57_85,85,57_85,151_85,T,Have you got anything that you could show me about your past work?,irq
+86,57_86,86,57_86,151_86,P,"Yeah, actually, it's kind of a lot of the things I do are outside and I'm really interested in getting natural shots. So when I could change some of my work, and we could kind of see if we could kind of develop something from that could be quite good. Okay. ",id
+87,57_87,87,57_87,151_87,T,Let's pause it there. Okay. Ryan's gonna give you this back now to look up. Okay. And I just want you to watch that. Okay. And then we'll chat about it in a moment. Okay.,gc
+88,57_88,88,57_88,151_88,P,That's weird thing.,gc
+89,57_89,89,57_89,151_89,T,"So, if we just go back to the things that you predicted, then you said that you thought you were going to shake visibly shake. Could you see yourself shaking on a video",irq
+90,57_90,90,57_90,151_90,P,"Definitely not as much as I thought. I think it's obvious that I'm obviously quite anxious, but I don't think you can tell them shaking that much.",id
+91,57_91,91,57_91,151_91,T,So you said that you were going to shake 90 out of 100? How much shaking Would you say that you saw there?,irq
+92,57_92,92,57_92,151_92,P,"And maybe like, less than 30.",id
+93,57_93,93,57_93,151_93,T,"Okay. And you said that you were going to go red, or pink as pink as these chairs? 90 out of 100. Did you notice yourself going pink?",irq
+94,57_94,94,57_94,151_94,P,"Not really. Actually, definitely less than I thought. Yeah,",id
+95,57_95,95,57_95,151_95,P,not as much.,id
+96,57_96,96,57_96,151_96,T,"Okay, you said that you were worried that you were going to say something stupid, you know, at 90 out of 100 Did you know yourself say anything stupid?",irq
+97,57_97,97,57_97,151_97,P,"Not really. Yeah. Yeah, thought was gonna be a lot worse than",id
+98,57_98,98,57_98,151_98,T,"actually it was. So you thought you were going to be like 90 say something that was 90% stupid. That's really quite strong. I mean, in the end did you pick up in Anything that could be maybe put that as a zero?",irq
+99,57_99,99,57_99,151_99,P,"Maybe like, less than 10 maybe.",id
+100,57_100,100,57_100,151_100,T,And you said that you thought you were going to be sweating? Yeah. And that you're going to be visibly sweating. Did you? Did you notice yourself sweating in the end?,irq
+101,57_101,101,57_101,151_101,P,Not really. Definitely not as bad as I,id
+102,57_102,102,57_102,151_102,T,"thought again, you thought you were going to be like night out, like seriously visibly sweating. So what what score would you actually give it in the end?",irq
+103,57_103,103,57_103,151_103,P,"Maybe again, less than 10 I don't think you could tell at all.",id
+104,57_104,104,57_104,151_104,T,Mm hmm. You also said that you thought it was going to be twice as bad when you stop choosing your you know your normal strategies.,od
+105,57_105,105,57_105,151_105,P,Yeah.,ack
+106,57_106,106,57_106,151_106,T,What did you notice watching that video?,irq
+107,57_107,107,57_107,151_107,P,It was actually probably better when I wasn't doing any of those things. I think I looked a lot more natural. And I was able to say what I was trying to say. I think it just come across more personable when I'm not kind of looking down and stuff.,id
+108,57_108,108,57_108,151_108,T,okay that's all for now. Thank you so much for your time,gt

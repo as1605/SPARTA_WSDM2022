@@ -1,0 +1,29 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,124_0,0,124_0,61_0,T,So I stopped for coffee because I wasn't sure if you had any coffee. How are you doing?,gt,,
+1,124_1,1,124_1,61_1,P,Sick of thinking about how I am.,id,,-1.0
+2,124_2,2,124_2,61_2,T,Right here. You remember that thing I was telling you about that I found online.,id,,
+3,124_3,3,124_3,61_3,P,What thing?,crq,,
+4,124_4,4,124_4,61_4,T,"I was telling you about it, how it helps you break down your goals into smaller steps. I thought maybe we could try it.",cd,,
+5,124_5,5,124_5,61_5,P,We tried all this kind of stuff before.,id,,-1.0
+6,124_6,6,124_6,61_6,T,"I understand. You know, I've always loved this picture of you.",id,,
+7,124_7,7,124_7,61_7,P,I haven't felt like this in a long time. I was like my old life. I don't even know what That person is anymore. Or how to be her.,id,,-1.0
+8,124_8,8,124_8,61_8,T,What do you miss about your old life?,irq,,
+9,124_9,9,124_9,61_9,P,having friends going out I just can't seem to get started though.,id,,-1.0
+10,124_10,10,124_10,61_10,T,How can we start at the beginning? How do you start your day?,irq,,
+11,124_11,11,124_11,61_11,P,"Well, I sleep late. And I know I should clean up around here, but it's so intimidating. So I just do nothing like a loser.",id,,-1.0
+12,124_12,12,124_12,61_12,T,"It sounds like you're pretty hard on yourself. Maybe if you start feeling a little bit better, you'd be more apt to want to go out and you see your friends.",id,,
+13,124_13,13,124_13,61_13,P,I guess,gc,,
+14,124_14,14,124_14,61_14,T,I noticed your alarm clock is broken.,crq,,
+15,124_15,15,124_15,61_15,P,"Oh, yeah. It needs batteries.",id,,
+16,124_16,16,124_16,61_16,T,I got you this alarm clock that doesn't need batteries. What time would you like to get up?,irq,id,
+17,124_17,17,124_17,61_17,P,"Well, I don't know.",id,,
+18,124_18,18,124_18,61_18,T,"Well, why don't we start with 11 o'clock? You said you've been getting up in the afternoon. We could try 11 and then you can move it up in a couple of days.",id,,
+19,124_19,19,124_19,61_19,P,"Okay, I guess",id,,
+20,124_20,20,124_20,61_20,T,I thought maybe a calendar would help. How can we write stuff on it and then we could put it up where you'll see it?,irq,,
+21,124_21,21,124_21,61_21,P,"Like, what?",crq,,
+22,124_22,22,124_22,61_22,T,"Well, how about wake up at 11am and have a shower? maybe pick up clothes.",cd,,
+23,124_23,23,124_23,61_23,P,"Okay, but I have nowhere to put the dirty ones.",id,,
+24,124_24,24,124_24,61_24,T,That's a good point. I can bring something next time. Maybe.,id,,
+25,124_25,25,124_25,61_25,P,I'll give it a try.,id,,
+26,124_26,26,124_26,61_26,T,"That's great, Jules.",op,,
+27,124_27,27,124_27,61_27,P,Now what should we think about for next time?,irq,,

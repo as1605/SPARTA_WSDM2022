@@ -1,0 +1,43 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,61_0,0,61_0,155_0,T,Tiffany how you doing today?,gt
+1,61_1,1,61_1,155_1,P,"Nice, ",gt
+2,61_2,2,61_2,155_2,T,I understand you've been having some recent difficulties.,gc
+3,61_3,3,61_3,155_3,P,I think with the cups.,gc
+4,61_4,4,61_4,155_4,T,There's some involvement with the place,gc
+5,61_5,5,61_5,155_5,P,"It was so blown out of proportion. Stupid neighbors were having a party. I'm trying to get sleep. It's like, you know, 1011 I'm trying to why now they're having a party. I go over there, you know, at the door through the door. Yo, I'm trying to get sleep. Bring it down some no response. So I let myself in. With little forest by myself in there. I'll just confirm who's ever there who's having this party. Everybody's just like, everybody's ignoring me. So I just go over take the stairs. Are you open the window, throw it out the window. Then there may have been people walking by. This woman swear she was walking by says I almost I almost hit her. But to me that she called cops.",id
+6,61_6,6,61_6,155_6,T,So what story are you on?,crq
+7,61_7,7,61_7,155_7,P,"Maybe third floor,",cd
+8,61_8,8,61_8,155_8,T,third floor. So you threw the stereo out the window. And,crq
+9,61_9,9,61_9,155_9,P,it was nowhere near that woman. She was way across the street but she says almost rehearsal.,cd
+10,61_10,10,61_10,155_10,T,She called whom?,crq
+11,61_11,11,61_11,155_11,P,"she called the police said I was out of control and then the people from the party had a nerve to go down. When the cops got there and they agree with her they said came they sound broken and I just came in But anyway, Mesa other stereo and then the police are Brenton and put me in jail and they're threatening to press charges and now it's just ugly but it's blown out of proportion. ",cd
+12,61_12,12,61_12,155_12,T,You feel it's blown out proportion?,irq
+13,61_13,13,61_13,155_13,P,Yes. Is anything,"ack,id"
+14,61_14,14,61_14,155_14,T,like this happened before?,irq
+15,61_15,15,61_15,155_15,P,Not with the police or anything,id
+16,61_16,16,61_16,155_16,T,how about anything were you found your anger? Strong?,irq
+17,61_17,17,61_17,155_17,P,"Well, maybe there was the time it was my daughter. She's 16 years old. You know how teenagers are? They don't listen. She wasn't listening. She has a smartphone brand new smartphone she got for Christmas, you know out of my money from my pocket. Brand new smartphone got for Christmas up here. Hello Is tuffrey homework. Did you do your homework? She says Gavin on the phone. Not listening. Took the phone. Throw it out the window.",id
+18,61_18,18,61_18,155_18,P,Broke shattered. Yeah.,id
+19,61_19,19,61_19,155_19,T,How long ago was this with a thumb four five months ago for five months.,irq
+20,61_20,20,61_20,155_20,T,All right. So do you find that you're,urq
+21,61_21,21,61_21,155_21,T,angry often.,irq
+22,61_22,22,61_22,155_22,P,I want to say I'm angry often. I just think is if people did what I wanted them to do what I wanted to do them to do it I have gone in be so upset as much,id
+23,61_23,23,61_23,155_23,T,so you find yourself upset on occasion,irq
+24,61_24,24,61_24,155_24,P,on occasion but again it's just if people would listen,id
+25,61_25,25,61_25,155_25,P,"I don't know if it was last year your before 101 it was like it was one of those Thanksgivings and just my whole family's around you know Thanksgiving much about our cooking dinner. Busy all in the kitchen. Everything's hot when I've got this whole warming meal me. My brother's there, his family's there. You know, my husband's family's there. Everybody's there. Everybody's time to eat. Everybody's time to eat. I think this football game is more interested in my food. I spent all day making this. So it's like, you know, just went to TV. Thought about my brother. He's 45 years old. He should be listening you know? But just throw it on the ground Smash. Now you will with us to their screen for a little bit got it all that felt so good get it up so their screen they're all staring but you they",id
+26,61_26,26,61_26,155_26,T,do you feel like you plan to throw the TV or just something came up in the moment,irq
+27,61_27,27,61_27,155_27,P,man just happen yeah planner i think but just I just want them to eat you know,id
+28,61_28,28,61_28,155_28,T,there's more more of a spur of the moment thing spurred,irq
+29,61_29,29,61_29,155_29,P,a moment completely spurred a moment,id
+30,61_30,30,61_30,155_30,P,because our center ,id
+31,61_31,31,61_31,155_31,T,"hey it got their attention, the TV in broken",gc
+32,61_32,32,61_32,155_32,T,so so this has,gc
+33,61_33,33,61_33,155_33,T,your anger and some of your behaviors caused some recent trouble with the law. That's why you're here. Everything like I says,gc
+34,61_34,34,61_34,155_34,P,there's no need for police No need.,"on,gc"
+35,61_35,35,61_35,155_35,T,For now they're involved and you feel like counseling may be helpful.,orq
+36,61_36,36,61_36,155_36,P,"If I want to keep my job, yes, I can't go to jail. I'm like, I can't face any charges. I can't do that. So counselor would be helpful in that regard. I don't see it as a problem.",od
+37,61_37,37,61_37,155_37,T,You don't see the anger as a problem?,orq
+38,61_38,38,61_38,155_38,P,"Oh, see what everybody's talking about. My husband says, I have these anger issues. My kids say, throw a temper tantrum like a two year old. But I will say I will see it. You're just gonna say it. I don't see it.",od
+39,61_39,39,61_39,155_39,T,Do you have any history of medical problems? mental health problem? Do you ever use drugs or alcohol?,yq
+40,61_40,40,61_40,155_40,P,"No, nothing like that. Okay.",on
+41,61_41,41,61_41,155_41,T,"So it seems like you are open to the idea of counseling, like to get your schedule going, our counselors, I get you in a couple days if that works. Ready to work. I appreciate you answering these questions. has been helpful and I'll get you set up with the counselor.",gt

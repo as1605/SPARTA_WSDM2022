@@ -1,0 +1,14 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,125_0,0,125_0,62_0,T,So you made your bed. That's great. really makes a difference. How did waking up earlier ago?,irq,id,
+1,125_1,1,125_1,62_1,P,"Well, it worked for like a day or two, but then the power went out. So then my alarm clock stopped working. And then I kinda started sleeping in again.",id,,-1.0
+2,125_2,2,125_2,62_2,T,I thought that might happen. So I made this sign for you. It'll help you remember to set the alarm.,id,,
+3,125_3,3,125_3,62_3,P,"Oh, I did get out to the park.",id,,
+4,125_4,4,125_4,62_4,T,How did that go?,crq,,
+5,125_5,5,125_5,62_5,P,"didn't go so well. I don't have enough clean clothes and I felt really uncomfortable. This thing is really hard, man. Like why bother?",cd,,-1.0
+6,125_6,6,125_6,62_6,T,"Well, that's why I bought you these. We can put your dirty clothes in To the hamper. And your clean clothes, you can fold them up and put them into this bin.",id,,
+7,125_7,7,125_7,62_7,P,"That's cool. Okay,",ack,,
+8,125_8,8,125_8,62_8,T,"Well last time we talked about how you forget to take a shower, so I brought you this hygiene basket because remember if you become overwhelmed, if you keep it here by the bed, it'll remind you to take a shower and you can carry it with you.",id,,
+9,125_9,9,125_9,62_9,P,I think I could use a shower. I want to go have one.,id,,
+10,125_10,10,125_10,62_10,T,"I'll put the calendar up for you and also put this picture I love up here by the bed. Well, guess what? I got you a container so you can put all your meds in. If you fill it up for each day, and keep it by your bed with a glass of water. It will remind you to take your pills",id,,
+11,125_11,11,125_11,62_11,P,I'm gonna go take that shower now.,id,,
+12,125_12,12,125_12,62_12,T,Sounds good. I'll put up your calendar.,id,ack,

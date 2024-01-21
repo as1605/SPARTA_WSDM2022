@@ -1,0 +1,67 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,40_0,0,40_0,136_0,T,"Hello, Maria, it's nice to see you.",gt
+1,40_1,1,40_1,136_1,P,Hello. I wish I could say it's nice to see you but it's never good to go to the doctor.,gc
+2,40_2,2,40_2,136_2,T,"Fortunately for me, I hear that a lot. So we're going to be talking about ways to manage your blood clots and options for treatment. But first I'd like to check in on a few things. The first is you're smoking. You were to half pack at during your last visit and we talked about how important it is for To quit, I'd say it's even more important now that smoking is associated with DVT. So, have you quit?",yq
+3,40_3,3,40_3,136_3,P,"No, I haven't quit.",on
+4,40_4,4,40_4,136_4,T,So deep. Do you remember our conversation from our last visit? That's when I give you the information about quitting smoking and the contact number for tobacco treatment specialist.,irq
+5,40_5,5,40_5,136_5,P,"Yes, I remember. But no, I didn't quit. And no, I didn't call her. ",id
+6,40_6,6,40_6,136_6,T,And why is that?,crq
+7,40_7,7,40_7,136_7,P,"I'm not ready. And I'm too upset to talk about this. I don't mean to be rude doctor. But I've had a hard time lately. And I'm not in the mood for you to get mad at me for not quitting. I'll let you know when I'm ready. We can talk about it. But here now today, I'm here to talk about my blood clots.",cd
+8,40_8,8,40_8,136_8,T,"Well, we're on the same page then because that's exactly why I'm talking to you about quitting smoking, because smoking is a major risk factor for DVT. Even if you even if we treat you now if you don't quit smoking, I'm afraid the blood clots will return again.",irq
+9,40_9,9,40_9,136_9,P,Let's just talk about my treatment right now. Okay?,com
+10,40_10,10,40_10,136_10,T,"Hello, Maria, it's nice to see you again. Hello.",gt
+11,40_11,11,40_11,136_11,P,Wish I could say it's nice to see you. But it's never good to have to come to the doctor.,gc
+12,40_12,12,40_12,136_12,T,"Unfortunately for me, I hear that a lot. So we're going to talk today about how to manage your blood clots and some options for treating. But first, I wanted to check in on your smoking status. In our last visit, I recommended that you begin to think about quitting, and I'd be interested in hearing your thoughts.",irq
+13,40_13,13,40_13,136_13,P,I haven't really thought about it actually. I thought about canceling this appointment because I knew you're going to bring it up again.,id
+14,40_14,14,40_14,136_14,T,Talking about smoking with me as hard for you.,irq
+15,40_15,15,40_15,136_15,P,"Yes, it's because you're going to tell me to quit like you always do a limit filter just like everyone else. Like my caseworker. The building manager everybody seems to They know what I need to do. And nobody thinks I know anything.",id
+16,40_16,16,40_16,136_16,T,"So when it comes to smoking, you feel that other people want to tell you what to do and make your decisions for you. You don't feel heard or respected?",crq
+17,40_17,17,40_17,136_17,P,No respect. That's it. Yes.,cd
+18,40_18,18,40_18,136_18,T,"Well, I just want to say that I am very glad you decided to come in today. So we can take care of this blood clot because blood clots are very serious and I know you're concerned. As your provider, I have to be honest, and say that smoking can cause blood clots. But hopefully some of the information I give you today will help you in your decision to quit smoking. Now, having said that, I know my opinion, is not the deciding factor. Quitting smoking as a decision only you can make.",irq
+19,40_19,19,40_19,136_19,P,"Well, I'm really glad I came into I have to get this blood clot condition under control. I know that",id
+20,40_20,20,40_20,136_20,T,"would it be okay with you, if I share some information about smoking and blood clots. And I can tell you what I know and then we'll see what you think. ",orq
+21,40_21,21,40_21,136_21,P,"Yes. I don't know that I will quit, but I will listen.",od
+22,40_22,22,40_22,136_22,T,"So, what do you think?",irq
+23,40_23,23,40_23,136_23,P,"I always thought that the blood clots came from my mother. Hello, like passed down like genetics. I didn't know that smoking could cause this. I just thought that blood clots ran in my family. I guess I also didn't get how dangerous this clotting can be. ",id
+24,40_24,24,40_24,136_24,T,You seem surprised and a little more aware now of the smoking risks?,yq
+25,40_25,25,40_25,136_25,P,I guess so. Yes.,op
+26,40_26,26,40_26,136_26,T,"So Maria, I'd like to get a better sense of what you think about smoking. So on a scale of one to 10 with one being, you don't think it is at all important that you quit and 10 being you're ready to quit today? Where would you put yourself?",irq
+27,40_27,27,40_27,136_27,P,"Well, if you had asked me when I first came in, I would have said less than one. But now I would have to say four ",id
+28,40_28,28,40_28,136_28,T,Why Four and not a lower number.,irq
+29,40_29,29,40_29,136_29,P,That's a good question. Let me think about it.,id
+30,40_30,30,40_30,136_30,P,I guess it's a four because of the blood clots. The blood clots are really heavy on my mind right now.,id
+31,40_31,31,40_31,136_31,T,"So having a better understanding of how smoking adds to the risk of blood clots, increases your desire to quit.",yq
+32,40_32,32,40_32,136_32,P,A little. Yes.,ack
+33,40_33,33,40_33,136_33,T,"What else if anything, makes quitting important to you?",orq
+34,40_34,34,40_34,136_34,P,"Know, the bigger thing for me, is the fear of being evicted from my apartment. There's a rule that we can smoke in the house. And I stick to it for the most part, but the other day, I smoked out the window. And that was only the second time I've done it. But don't you know, the building manager caught me. So now I am sure she's going to be watching me even more. I can't lose my part. With",od
+35,40_35,35,40_35,136_35,T,"the possibility of losing your apartment because of smoking really upsets you, in addition to your health,",irq
+36,40_36,36,40_36,136_36,P,"I would hate to think that my sogdian they lost their home because their mom chose smoking over abiding by stupid code, even if I hate that rule. I smoked when I was pregnant with them. And thank you, Holy Mother, they were born healthy. I don't think I could live with myself if they lost their home because of something I'm doing.",id
+37,40_37,37,40_37,136_37,T,So it sounds like your priority in life is taking care of providing for your children. It's obvious that you're a good mom. And if you had to leave your home because you were smoking that would be tough to bear.,yq
+38,40_38,38,40_38,136_38,P,"Yes, they would.",ack
+39,40_39,39,40_39,136_39,T,So let me ask you a slightly different question on that same scale of one to 10. How would you rate your confidence to quit?,orq
+40,40_40,40,40_40,136_40,P,confidence? I'd have to say at two.,od
+41,40_41,41,40_41,136_41,T,So you are not feeling very confident right now,crq
+42,40_42,42,40_42,136_42,P,"who Oh, no, not confident at all. I mean, I've tried to quit so many times, and I just can't do it.",cd
+43,40_43,43,40_43,136_43,T,"So you've been persistent and trying and haven't been successful yet. Still, you you set a two and not a one. I'm curious about that.",irq
+44,40_44,44,40_44,136_44,P,"Well, the only reason I said are two is that I tried quitting smoking when I was pregnant with Santhi and they are both. I went for two months without a cigarette with Dale. And I didn't make it past that. And that was really mad at myself for that. I really wanted to quit from my babies and I failed. I guess. I'm just hopeless. I mean, who keeps smoking when there's a baby inside? ",id
+45,40_45,45,40_45,136_45,T,Sounds like you really feel like you let yourself and your children down. And that's hard to accept given how much you love your kids.,crq
+46,40_46,46,40_46,136_46,P,"Yes. And I'm doing it again right now by not following the rules. I'm addicted to cigarettes, just like a drug addict. In the end the cigarettes always with.",cd
+47,40_47,47,40_47,136_47,T,So what what do you think Santa and to think about your smoking?,orq
+48,40_48,48,40_48,136_48,P,"Santhi yells at me. And sometimes they'll cry when I go out to smoke. He says, Mama smoking is bad.",od
+49,40_49,49,40_49,136_49,T,"So you know it would be best for you and your children if you quit. If you had the right support and tools to manage this addiction. If you believed you could do it, you would",irq
+50,40_50,50,40_50,136_50,P,I would like to do so but I just don't think I can do it.,id
+51,40_51,51,40_51,136_51,T,You quit for two months when you were pregnant with tail.,irq
+52,40_52,52,40_52,136_52,T,How did you do with them?,irq
+53,40_53,53,40_53,136_53,P,I don't know. I just did it. I fought the urges with sucking on straws and some hard Kelly's I just did it.,id
+54,40_54,54,40_54,136_54,T,So you were able to quit on your own for two months. That's impressive. Have you ever used any other form of help like nicotine replacement or support groups?,irq
+55,40_55,55,40_55,136_55,P,"No, I think people can quit. If they really want to. I'm just too weak.",id
+56,40_56,56,40_56,136_56,T,"Ah, wow. You must be pretty hard on yourself. What would you say if I told you that very few people only 4% of us are able to quit successfully cold turkey.",irq
+57,40_57,57,40_57,136_57,P,"No, there really? Is that true, huh?",crq
+58,40_58,58,40_58,136_58,T,Yes. And and most people try many times before they're successful. their medications and groups at and I'd be happy to share that information with you. I'd like to help you if that's something that you'd like.,cd
+59,40_59,59,40_59,136_59,P,"Well, I don't know. I'm Let me think about it. Can you give me the information again? The booklet the brochure you gave me before. I didn't want to tell you but I threw them away when I got home. But I really want to read them this time.",id
+60,40_60,60,40_60,136_60,T,That's great. Maria.,gt
+61,40_61,61,40_61,136_61,T,"You can look them over and I'll have our tobacco treatment specialist, Sonia, follow up with you. We have an excellent tobacco treatment program here and I am I believe that Sonia can help you quit when you're ready. Right? What? When would be a good time to check back in?",id
+62,40_62,62,40_62,136_62,P,"She can call me next week and number two, I may be ready to try again.",id
+63,40_63,63,40_63,136_63,T,Absolutely. And I'll have Sonia call you. I just want you to know that I understand how hard it is for you to talk about quitting smoking. And I really appreciate it.,gt
+64,40_64,64,40_64,136_64,T,"So, would you like to talk about how to manage blood clots? Yes,",orq
+65,40_65,65,40_65,136_65,P,that sounds good. All right.,od

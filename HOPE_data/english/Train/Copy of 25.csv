@@ -1,0 +1,92 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,25_0,0,25_0,121_0,T,How you doing today?,gt
+1,25_1,1,25_1,121_1,P,I guess I'm doing pretty good.,gt
+2,25_2,2,25_2,121_2,T,doing pretty good.,gt
+3,25_3,3,25_3,121_3,P,"Well, so I was looking at online during break between my classes I go to online school. ",irq
+4,25_4,4,25_4,121_4,T,like college?,crq
+5,25_5,5,25_5,121_5,P,"Yeah. And they have this I was looking up my symptoms, I guess, difficulty paying attention, difficulty staying still. Just stuff like that and you know, I think I might have that one disorder ",cd
+6,25_6,6,25_6,121_6,T,ADHD?,crq
+7,25_7,7,25_7,121_7,P,"yeah,","ack,cd"
+8,25_8,8,25_8,121_8,T,that one that you may have ADHD.,id
+9,25_9,9,25_9,121_9,T,"Alright, is it these symptoms bothering you? You said you go to college online.","id,yq"
+10,25_10,10,25_10,121_10,P,Yes.,ack
+11,25_11,11,25_11,121_11,T,It was bothering you there?,crq
+12,25_12,12,25_12,121_12,P,"Yeah, it does. ",cd
+13,25_13,13,25_13,121_13,T,"It does. Alright. I'm going to ask you a few questions to try to get a better understand what's going on. Okay. These symptoms you've been having, what age did they start? ",irq
+14,25_14,14,25_14,121_14,P,"About eight years old, ",id
+15,25_15,15,25_15,121_15,T,eight years old. All right. And you feel like they're bothering you. With your classes that you take online?,irq
+16,25_16,16,25_16,121_16,P,"Yes, but I still I still get good grades, you still",id
+17,25_17,17,25_17,121_17,T,get good grades for?,irq
+18,25_18,18,25_18,121_18,T,"Somebody asked you some questions about that. So I'll specifically be asking about how it affects you in class, but affects you in any other area. Tell me about that, too. ",irq
+19,25_19,19,25_19,121_19,P,Okay.,ack
+20,25_20,20,25_20,121_20,T,All right. Do you have trouble establishing attention?,yq
+21,25_21,21,25_21,121_21,P,Yes.,ack
+22,25_22,22,25_22,121_22,T,"When you have established attention, do you have difficulty holding attention?",yq
+23,25_23,23,25_23,121_23,P,"Yes, do",ack
+24,25_24,24,25_24,121_24,T,"for example, with a professor, do you listen to the professor Your Online classes. ",irq
+25,25_25,25,25_25,121_25,P,I have difficulty listening to,id
+26,25_26,26,25_26,121_26,T,that's a problem for you. How about following through on any instructions that professor gives you?,irq
+27,25_27,27,25_27,121_27,P,I wrote a problem.,id
+28,25_28,28,25_28,121_28,T,Are you organized?,yq
+29,25_29,29,25_29,121_29,P,I actually organize,ack
+30,25_30,30,25_30,121_30,T,Do you find yourself avoiding activities that require a lot of mental effort?,yq
+31,25_31,31,25_31,121_31,P,Yes.,ack
+32,25_32,32,25_32,121_32,T,Do you know what type of activities to avoid.,irq
+33,25_33,33,25_33,121_33,P,anything that just like rebels? I can't stand them. Chess can't stand it. People try to explain me the rules. I still don't get it. I get a headache and I quit.,id
+34,25_34,34,25_34,121_34,T,Do you ever find yourself losing things that you need for class or any other place,yq
+35,25_35,35,25_35,121_35,P,all the time. Yeah.,ack
+36,25_36,36,25_36,121_36,T,Are you easily distracted?,yq
+37,25_37,37,25_37,121_37,P,Yes. Take time.,ack
+38,25_38,38,25_38,121_38,T,Are you forgetful?,yq
+39,25_39,39,25_39,121_39,P,Yes.,ack
+40,25_40,40,25_40,121_40,T,Yeah. All right.,ack
+41,25_41,41,25_41,121_41,T,So I'm going to move to another series of questions.,gc
+42,25_42,42,25_42,121_42,T,Do you fetch it.,yq
+43,25_43,43,25_43,121_43,P,Yes. I do.,ack
+44,25_44,44,25_44,121_44,T,Do you find it difficult to stay in your seat?,yq
+45,25_45,45,25_45,121_45,P,"Yes, there's, we have these videos. And sometimes I just I gotta pause them and I just got to walk around my room for a while. You know, call back, sit down, get out my system. Click, and we're good.","ack,id"
+46,25_46,46,25_46,121_46,T,"Okay, so you feel kind of compelled to stand up and walk around. ",crq
+47,25_47,47,25_47,121_47,P,Yes.,"ack,cd"
+48,25_48,48,25_48,121_48,T,And then you can sit down and resume.,crq
+49,25_49,49,25_49,121_49,P,Yeah.,ack
+50,25_50,50,25_50,121_50,T,How do you do with quiet activities like reading?,irq
+51,25_51,51,25_51,121_51,P,"No, no, no, I don't like doing them because I just can't. I can't deal with the quiet. ",id
+52,25_52,52,25_52,121_52,T,"No,",crq
+53,25_53,53,25_53,121_53,P,no.,cd
+54,25_54,54,25_54,121_54,T,All right. Here feel like you have an internal motor that's always running.,orq
+55,25_55,55,25_55,121_55,P,Yes. Yeah.,"od,ack"
+56,25_56,56,25_56,121_56,T,How about talking? Do you find that you talk excessively,yq
+57,25_57,57,25_57,121_57,P,"Yes, I do.",ack
+58,25_58,58,25_58,121_58,T,How about blurting things out?,"yq,irq"
+59,25_59,59,25_59,121_59,P,"Yes. But people don't really notice it cuz especially at class, I'll like yell out the answer, but you have to hit a button","id,ack"
+60,25_60,60,25_60,121_60,T,"so that I get on and the audio turns on. So you'll you'll blurt something out, but they won't hear it. Yeah, they won't because you haven't.",gc
+61,25_61,61,25_61,121_61,T,So I guess that's good.,od
+62,25_62,62,25_62,121_62,T,Okay. How about interrupting people?,irq
+63,25_63,63,25_63,121_63,P,"Yes, yeah.",ack
+64,25_64,64,25_64,121_64,T,Yes. Do you have trouble waiting Your turn,irq
+65,25_65,65,25_65,121_65,P,back to the the blurting out I forget to hit the button. I then hit the button to answer and it goes something like this line. I hate waiting for my turn. I can't I can't deal with it. Okay.,id
+66,25_66,66,25_66,121_66,T,"That's not not a strong suit for you. No,","on,od"
+67,25_67,67,25_67,121_67,P,no,on
+68,25_68,68,25_68,121_68,T,"Okay, so you mentioned that This is causing some difficulty in school but you also said that you're doing okay in school. Yeah. All right. Is there any other area of your life for this is causing your problems?","crq,irq"
+69,25_69,69,25_69,121_69,T,Not not I can think of. No.,"on,cd"
+70,25_70,70,25_70,121_70,T,Yeah. What else do you do? So you go to college? ,irq
+71,25_71,71,25_71,121_71,P,"Yeah. Other activities to engage in. Or have like nothing. I got a full coat courseload trying to get it done. Really don't do anything else. I mean,",id
+72,25_72,72,25_72,121_72,P,"yeah, no, I but like relatives.",id
+73,25_73,73,25_73,121_73,P,"I don't see my relatives lot. Like my parents retired, they moved, so I don't see them and see them.",id
+74,25_74,74,25_74,121_74,T,Have aany friends?,irq
+75,25_75,75,25_75,121_75,T,"It's kind of embarrassing, but really don't have any friends. Just kind of live, eat and breathe school.","id,on"
+76,25_76,76,25_76,121_76,T,Do you ever socialize with any of your classmates from college?,yq
+77,25_77,77,25_77,121_77,P,"No, no. ",on
+78,25_78,78,25_78,121_78,T,Yeah. Do you feel that's because of these symptoms? Or that you wouldn't anyway?,orq
+79,25_79,79,25_79,121_79,T,"Well, I feel bad about it. So I mean, it's hard for me to to get over it cuz I notice it, but it's hard for me to get out there.",o
+80,25_80,80,25_80,121_80,T,"Right. Do you think it's hard for you to engage with your classmates socially, because of any concentration or hyperactivity type symptoms? ",orq
+81,25_81,81,25_81,121_81,P,"But But I believe Yeah, ",od
+82,25_82,82,25_82,121_82,T,you believe it is because the symptoms,crq
+83,25_83,83,25_83,121_83,P,Yeah.,"cd,ack"
+84,25_84,84,25_84,121_84,T,"And any other areas like, like shopping or clean house? ",crq
+85,25_85,85,25_85,121_85,P,"No, I'm pretty okay with that. ","cd,on"
+86,25_86,86,25_86,121_86,T,That works out. Okay.,crq
+87,25_87,87,25_87,121_87,P,Yeah.,"cd,ack"
+88,25_88,88,25_88,121_88,T,"All right. Okay, at least I'm going to get you in to see a counselor or just take a couple days to get In my starting point for a couple days out, I appreciate you spending this time with me. And let me ask these questions. This was helpful. ",gt
+89,25_89,89,25_89,121_89,P,Thank you.,gt
+90,25_90,90,25_90,121_90,T,Thanks,gt

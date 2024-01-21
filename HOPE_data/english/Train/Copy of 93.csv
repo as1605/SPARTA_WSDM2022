@@ -1,0 +1,51 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,93_0,0,93_0,33_0,T,"Jackie, How are you doing today?",gt,,0
+1,93_1,1,93_1,33_1,P,Alrght. How about you?,gt,,0
+2,93_2,2,93_2,33_2,T,I'm doing well. Thanks for asking. I understand you've had some recent difficulties that have brought you to the agency,gt,crq,0
+3,93_3,3,93_3,33_3,P,"Yeah, I lost my job.",id,,-1
+4,93_4,4,93_4,33_4,T,You lost your job?,crq,,0
+5,93_5,5,93_5,33_5,P,Because I failed drug test.,id,,0
+6,93_6,6,93_6,33_6,T,You failed a drug test.,crq,,0
+7,93_7,7,93_7,33_7,P,"So I have to drive golf carts sometimes for my job and I just really was not paying attention as I was driving through the parking lot and I hit a car. Then think it was a big deal. It doesn't even leave a big mark. Really. The car owner got pretty pissed about it and I found out that I did it. I got admitted to it. So I didn't want to be getting in trouble for it. So, so then they, since it was an accident, you know, I kind of hit my head a little bit to maybe take a drug test, and I had smoked some weed the night before. So I filled it and was fired.",id,,-1
+8,93_8,8,93_8,33_8,T,Were you aware that this was an accident? You'd be protesting?,yq,,0
+9,93_9,9,93_9,33_9,P,"Um, you know, I? I don't I didn't know that. Now. I guess they might have told me at some point, but I I probably wasn't paying attention to it or had it I wasn't prepared for it.",id,,0
+10,93_10,10,93_10,33_10,T,So there have been consequences to losing your job.,crq,,0
+11,93_11,11,93_11,33_11,P,"Um, yeah, I mean, my parents are not happy. I'm not making any money, obviously. So they, they're not very happy, relying on them for gas money for it. never go anywhere, do anything with my friends ask them for money. So they're kinda, you know, pushing me to get a job and help support myself again.",cd,,-1
+12,93_12,12,93_12,33_12,T,What type of work to do?,irq,,0
+13,93_13,13,93_13,33_13,P,"Um, I work in security, I kind of monitor parking lot, you know, take tickets, things like that.",id,,0
+14,93_14,14,93_14,33_14,T,"So, most of those employers would require a drug screen.",crq,,0
+15,93_15,15,93_15,33_15,P,"Yeah, that's, that's my problem. I've been trying to look for a new job. And pretty much all of them have required drug tests. So I haven't gotten a new one yet. So that's becoming a problem. So that's why i wanna i want to cut down but I haven't been able to. So I really need a job. I mean, all these things. It's kind of silly that all you know. I find it silly. It should be. Who cares if I smoke a little weed, you know, too. be illegal.",id,,0
+16,93_16,16,93_16,33_16,T,But you think it should be illegal?,yq,,0
+17,93_17,17,93_17,33_17,P,"Yeah. So I mean, not causing some harm really, and hurt anyone. So So yeah, I really do need a job. So I'm here to kind of get a handle on that.",op,id,0
+18,93_18,18,93_18,33_18,T,So you want to stop using marijuana all together?,crq,,0
+19,93_19,19,93_19,33_19,P,"Yeah, I'm gonna have to get a job, I think No, I don't want a random drug test again.",cd,,-2
+20,93_20,20,93_20,33_20,T,"All right, can you tell me about your marijuana use now? Like when was the last time used?",irq,,0
+21,93_21,21,93_21,33_21,P,"Um, I actually say now at some friends my roommate this morning. Well, not my roommate but my friend that comes over and stays with me sometimes. And we guys did some this 'morning so.",id,,0
+22,93_22,22,93_22,33_22,T,So recently and how about the coke like when did you start using that for how long?,irq,,0
+23,93_23,23,93_23,33_23,P,"long time ago, I've been using proudly for Since I mean, since I was in high school, I started that's kind of just a big part of my life. And my friends do it. My friends do. So, yeah.",id,,0
+24,93_24,24,93_24,33_24,T,Any other drugs or alcohol or anything? ,irq,,0
+25,93_25,25,93_25,33_25,P,Just is just marijuana. Yeah.,id,,0
+26,93_26,26,93_26,33_26,T,Have you noticed over time you've been using more?,yq,,0
+27,93_27,27,93_27,33_27,P,"Yeah, I mean you know, I, I try to cut down a little bit I'll kind of say hello, just smoke a little bit and then you know, I'm hanging with hanging out with my friends will end up just being high for a really long time. And let's just all do all night. So.",op,id,-1
+28,93_28,28,93_28,33_28,T,So it's consuming a lot of time. ,crq,,0
+29,93_29,29,93_29,33_29,P,"Yeah, yeah. Yeah. kind of always thinking about how I'm gonna get more and trying to get home again. And so it really does take up a lot of time and it's kind of a distraction. So",cd,,-1
+30,93_30,30,93_30,33_30,T,you have a craving for marijuana,yq,,0
+31,93_31,31,93_31,33_31,P,"No, No, I guess not really.",on,,0
+32,93_32,32,93_32,33_32,T,"Now, have you had any social problems because your marijuana use?",irq,,0
+33,93_33,33,93_33,33_33,P,"let's say other than my work, there's the word mean, my friends I'll do it there's a problem with it. So",id,,-1
+34,93_34,34,93_34,33_34,T,are there other important activities that you miss out on because of your marijuana use,yq,,0
+35,93_35,35,93_35,33_35,P,"now, I mean, I don't really do a lot so I don't really miss out on much",on,,0
+36,93_36,36,93_36,33_36,T,Are there any activities that you engage in that are more dangerous because your marijuana use?,yq,,0
+37,93_37,37,93_37,33_37,P,this time Out of my basement and don't really do anything. So,on,,0
+38,93_38,38,93_38,33_38,T,do you have any history of mental health issues or medical issues? ,yq,,0
+39,93_39,39,93_39,33_39,P,No. No,on,,0
+40,93_40,40,93_40,33_40,T,Do you notice any anxiety or physical symptoms when you stop using my one?,yq,,0
+41,93_41,41,93_41,33_41,P,"No, I feel feel okay.",on,,0
+42,93_42,42,93_42,33_42,T,So how motivated are you to stop using?,orq,,0
+43,93_43,43,93_43,33_43,P,"Part of me doesn't really want to, but it's something I have to do. You know, I need a new job and I don't want to be relying on my parents for forever. It's pretty annoying. So I'm pretty committed to it. I would say, Yeah,",od,,0
+44,93_44,44,93_44,33_44,T,you're committed to it. ,crq,,0
+45,93_45,45,93_45,33_45,P,Yeah.,op,,0
+46,93_46,46,93_46,33_46,T,I'm gonna get you to see a counselor here if that's okay with you.,id,,0
+47,93_47,47,93_47,33_47,P,"Yeah, that'd be really helpful. be helpful.",op,hp,0
+48,93_48,48,93_48,33_48,T,I appreciate you taking this time to tell me what's going on and answer my questions has been helpful.,gt,,0
+49,93_49,49,93_49,33_49,P,Thank you.,gt,,0

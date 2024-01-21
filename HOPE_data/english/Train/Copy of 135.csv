@@ -1,0 +1,122 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,135_0,135_0,T,"Hi, Andrea, thanks for coming in. ",gt,0
+1,135_1,135_1,P,"Hi, Thank you.",gt,0
+2,135_2,135_2,T," So I don't know how much you know already about sort of my role here and why you're even here. So I thought I'd start by telling you a little bit about myself. Basically, my job is to meet with all of the students I meet with everybody about once or twice a semester, and just talk with you a little bit about how things are going different behaviors that you might be engaging in thinking about any changes you might want to make for your life. If you decide that you do it's not my job to change you. I couldn't even if I wanted to. That's not my role at all. It's really to help you think about, you know, how things are going for you and how you might like making changes or moving forward. That sound okay ?",gc,0
+3,135_3,135_3,P,Yeah.,ack,0
+4,135_4,135_4,T,All right. So why don't we start by you telling me a little bit about yourself?,"gc, irq",0
+5,135_5,135_5,P,"Sure. Um, As you know, I'm Andrea. I am a junior. I'm in the marching band.  I played a ceter sacks. ","gc, id",0
+6,135_6,135_6,T,Oh,gc,0
+7,135_7,135_7,P," I'm also in the band geek. I play you know, in the Wind Ensemble in the jazz band, things like that.",gc,0
+8,135_8,135_8,T,Wow. You really are involved in music.,gc,2
+9,135_9,135_9,P,Yeah.,gc,0
+10,135_10,135_10,T,When did you start?,irq,0
+11,135_11,135_11,P,"I started playing about 10 years ago, actually. ",id,0
+12,135_12,135_12,T,Wow.,gc,2
+13,135_13,135_13,P,"Yeah, I started on the violin first and then I went on explored a little with the piano clarinet. Finally found the center sacks.",gc,0
+14,135_14,135_14,T,"Yeah, very cool. Y've always wanted to be good at music. Alright, so it sounds like you're in band and a few other musical ensembles, any other hobbies you have or things you like to do for fun.","ack, irq",0
+15,135_15,135_15,P,"Um, you know, just hanging out with my friends or go to the beach, things like that.",id,0
+16,135_16,135_16,T," It's kind of everyday, sort of thing ?",yq,0
+17,135_17,135_17,P,Yeah,op,0
+18,135_18,135_18,T,Tell me a little bit about your family.,irq,0
+19,135_19,135_19,P,"Well, I have one older brother. He's about eight and a half years older than me, my parents and I have a Dog.",id,0
+20,135_20,135_20,T,Cute. What  kind of dog ?,irq,1
+21,135_21,135_21,P,It's a golden retriever,id,0
+22,135_22,135_22,T,"Oh, nice.",ack,0
+23,135_23,135_23,P,big boy.,gc,1
+24,135_24,135_24,T,"Very funny. All right, and how are things going in school for you? ",irq,1
+25,135_25,135_25,P,Pretty good. Grades have been pretty alright. Still like 3.7 ish.,id,1
+26,135_26,135_26,T,"Okay, great. So you're doing well? What sorts of goals do you have for after college or after high school?","ack, irq",0
+27,135_27,135_27,P,"I'd like to, you know, I'd like to, of course graduate high school, hopefully go to a nice Ivy League school",id,0
+28,135_28,135_28,T,Ohh Alright.,gc,0
+29,135_29,135_29,P," or I mean, that might not happen. And then I'd like to go on become a doctor, study psychology, you need to come in psychiatrist or something.",id,0
+30,135_30,135_30,T,Okay. You have some pretty big dreams. It's great. It's really exciting to think about that and be looking forward to the future and those things.,ack,2
+31,135_31,135_31,P,Yeah.,gc,0
+32,135_32,135_32,T,"All right. Well, one thing I'm going to ask you about is, you know, different people have sort of different things that they really value in their life, whether it's, you know, their cultural identity or their family or their friends or job or hobbies, things like that. Here's the little sheet that goes through just some basic values that might be more or less important to certain people like belonging or sense of community. Again, cultural identity or family, friendship, modesty, religion, respect, self determination and spirituality. So when you think about yourself, which of these are kind of most important to you in terms of your life?",irq,0
+33,135_33,135_33,P,"Um, I think a sense of community and belonging.",id,0
+34,135_34,135_34,T,Okay.,gc,0
+35,135_35,135_35,P,"I think those two and respect, respect.",id,0
+36,135_36,135_36,T,"Okay,",ack,0
+37,135_37,135_37,P,"Yeah, well, I think community and belonging I kind of related them. You know, I said I was in the marching band, I really, you know, I really enjoy being in like that team setting of, you know, being with other people and all working toward together towards that one goal. And then in terms of Respect I, I kind of view that as one of like, my major, like roles, like I really do think respect is important and to respect myself and respect those around me.",id,0
+38,135_38,135_38,T,Okay.,ack,0
+39,135_39,135_39,P,I placed great importance to them.,id,0
+40,135_40,135_40,T,"Okay, great. So sort of being a part of a group and being a part of a team gives you a sense of belonging, like you said, sort of a sense of purpose. ","ack, irq",0
+41,135_41,135_41,P,Yeah.,ack,0
+42,135_42,135_42,T,"And then the respect is really sort of all encompassing, not just authority, but respecting yourself, respecting your teammates or your bandmates and other people around you.",gc,0
+43,135_43,135_43,P,yes.,gc,0
+44,135_44,135_44,T,"Okay, that's great. All right. Well, one of the things I want to talk to you about sort of relates to belonging and your friends, so What kinds of things do you like to do when you get together with your friends?","gc, irq",0
+45,135_45,135_45,P,"Um, sometimes if you just you know, go to the movies go to the beach, like I said, or sometimes we just get together at someone's house, play some board games and hang out.",id,0
+46,135_46,135_46,T,"And when you're hanging out with friends, Is there ever alcohol involved.",irq,0
+47,135_47,135_47,P,"Yeah, sometimes,",ack,0
+48,135_48,135_48,T,"okay, can you tell me a little bit about how alcohol fits into sort of your social scene?",irq,0
+49,135_49,135_49,P,"Well, it's mostly just for for parties or party settings is kind of to get things going and get everything loosened up, as they say,",id,0
+50,135_50,135_50,T,"Mm hmm. And so when you go to parties, most of the time, there's alcohol there.",yq,0
+51,135_51,135_51,P,Yeah,op,0
+52,135_52,135_52,T,Okay.  And how often do you think you would say you're drinking?,irq,0
+53,135_53,135_53,P,"I'd say I'm on a not busy month, for instance, I'd say about like, two weekends out of the month to three. ",id,0
+54,135_54,135_54,T,So about half the time you're drinking and half the time you're not.,yq,0
+55,135_55,135_55,P,Yeah,op,0
+56,135_56,135_56,T,Can you tell me what's different about the days when you choose to drink versus not to drink?,irq,0
+57,135_57,135_57,P,"The days that we drink are mostly like I said, they're parties. So it's more of that whole partying and dancing and, you know, having everyone have fun and then when we don't, it's a lot more relaxed. It's a lot more hanging out playing board games, watching the movie.",id,0
+58,135_58,135_58,T,so it really depends on what the activity is whether or not alcohol is there.,yq,0
+59,135_59,135_59,P,"Yeah, definitely.",ack,0
+60,135_60,135_60,T,"Okay? And do you notice a big difference? Or can you tell me about the difference in your enjoyment level at, say a party versus the night you're playing board games?",irq,0
+61,135_61,135_61,P,"I think of them as as different. I think, you know, night in playing board games and things, it's meant to be relaxing. So it's nice to have like that kind of breather. Versus with a party. It's a lot more energetic. It's a after at all, it's very draining. Mm hmm. But in the moment, it's quite fun to dance and have fun.",id,0
+62,135_62,135_62,T,"Okay, so they're sort of pros and cons. ",yq,0
+63,135_63,135_63,P,Yes.,ack,0
+64,135_64,135_64,T,Okay. What are the things that you like about drinking or like about alcohol?,irq,0
+65,135_65,135_65,P,"Um, it's, you know, when we drink, we we tend to have more fun because I guess we're not, you know, everyone's drinking together. We're a lot more loosened up and relaxed, and not really thinking about stresses or things like that. But it can be when it's too much drinking it can be, can be obviously bad. ",id,0
+66,135_66,135_66,T,"Okay. So sort of in the too much drinking or at times, can you tell me some of the less good things are not so good things about alcohol?",irq,0
+67,135_67,135_67,P,"A lot of times, it'll make make people stupid. Yeah, you know, people make dumb decisions and things like that we usually try to be as safe about it as possible. So we'll like sleep over a friend's house. And, you know, we're not driving and it's mostly within our friend group. So we're not worried about strangers putting weird things in our drinks. But um, definitely some of the ideas people can have when they're stupid when they're drunk and can be really stupid.",id,0
+68,135_68,135_68,T,"Okay So you're trying to, like you said, not engage in really dangerous activities. ",yq,0
+69,135_69,135_69,P,Yeah.,ack,0
+70,135_70,135_70,T,"You're trying to stay put you're not driving or trying to stay with people that you trust. But yeah, it sounds like there's still some some things happening. ",yq,0
+71,135_71,135_71,P,Sometimes Yeah.,ack,0
+72,135_72,135_72,T,can you tell me a little bit about that?,irq,0
+73,135_73,135_73,P,"Well, I especially don't like it whenever me or one of my friends like we drink too much, and we have like throwing up or things like that. I don't. That's not fun. ",id,-1
+74,135_74,135_74,T,Yeah. Throwing up is never fun.,ack,0
+75,135_75,135_75,P,"Yeah, its not.",gc,0
+76,135_76,135_76,T,And how often do you think that happens?,irq,0
+77,135_77,135_77,P,"For me that's happened to me once. It was the first time I ever drank. And it was, it was a lot. I didn't know what I was doing. I was mixing all kinds of weird things. And just kind of taking anything anyone gave me. That didn't end well. But after that, I haven't, but I do have friends that that still do sometimes. So I'll end up like having to take care of them or something and it kind of puts it down on my on my fun. ",id,-1
+78,135_78,135_78,T,"Uh huh. Okay, so on the one side, some of the fun things associated with alcohol are people are just more relaxed, sort of carefree. Let loose a little bit more. On the other hand, there's a little bit more, I guess. Planning involved because you have to make sure that you're doing it safely or as safe as you can. And then there can be some other consequences like throwing up or even if it's not you that sometimes you're stuck. Your fun is sort of ruined when you're stuck dealing with a friend who drink too much. Okay, and the other not so good things about the alcohol,","ack, id, irq",0
+79,135_79,135_79,P,"people can get a little sloppy, I guess, like they're all loose, like, with people and corners doing things that should be done in private.",id,0
+80,135_80,135_80,T,That kind of stuff. So you're kind of stuck being exposed to things.,gc,0
+81,135_81,135_81,P,"Yeah, got it. ",gc,0
+82,135_82,135_82,T,"All right. Well, you mentioned a couple times that you've made a few decisions to try and limit the dangerous aspect of the drinking. Why did you make those decisions?",irq,0
+83,135_83,135_83,P,"I just I you know, have an aunt who is an alcoholic. So I, I see, like the issues that are involved in I've seen movies and things I know that junk drives is an issue. So I, you know, I want to be as safe as possible in those terms and be in a setting where like, we can let loose but still be safe, like someone's house or parents at home or something. But so I like I know that there are dangers involved. And I guess I want to limit that and still be able to have fun, ",id,-1
+84,135_84,135_84,T,"okay. It sounds kind of similar to your, your value of respect to so on the one hand, you the drinking maybe helps with the belonging community to start. If there's too much, then it sort of defeats the purpose.",ack,0
+85,135_85,135_85,P,right.,gc,0
+86,135_86,135_86,T,"And then with the respect, one of the things you mentioned, is really wanting to respect yourself and not sort of cross boundaries, not sort of cross lines. How do you think that the drinking fits in with that ?","gc, irq",0
+87,135_87,135_87,P," in terms of what, in terms of respect?",crq,0
+88,135_88,135_88,T,Yes.,cd,0
+89,135_89,135_89,P,"I think, well, in a way, I do think that drinking is probably a form of disrespect to my own body because I'm not putting things I'm putting things And then that shouldn't be there. Okay. And then, but in terms of highways, I am respecting myself I am, I'm respecting myself by like, trying to stay in someone's house and like trying to limit my drinking. So I don't get to that blacked out like that calling up and everything and try to, you know, let loose but still be in control of my behavior. So I'm not going to go to some random person I may into I don't know where to do. I don't know what and things like that. ",id,0
+90,135_90,135_90,T,Okay. So you're sort of looking for that balance? ,"ack, yq",0
+91,135_91,135_91,P,Yeah.,op,0
+92,135_92,135_92,T,"How much you can drink to have some of the positive benefit, but not crossover. Okay. And what have you come up with at this point? Do you have sort of a limit that you stick to or  ?",irq,0
+93,135_93,135_93,P,"I usually will I start off by making sure that I make my own drink so I know what's in it and how much isn't it so that way I control how much I drink. So I'll usually just, you know, get one of those. cups and then make one drink. And then I'll try to make it last as long as possible. And I'll be like, Alright, this is my one drink, and I'm good. And that way, I still have something in my cup. So people aren't going to be like, oh, here have some more like, No, I'm good. I have mine. And I'll still be, you know, having some to like, let loose a little.",id,0
+94,135_94,135_94,T,"And do you feel like that's working pretty well for you? Or do you sometimes exceed that limit? Or, or what do you think ? ",irq,0
+95,135_95,135_95,P,"for the most part, it works pretty well. Because like I said, people, you know, if people come asking you trying to pressure me, I'll be like, No, I'm good. I have, you know, I still have some, like, I'll get some later and then never end up getting anything. But sometimes they'll be like, hey, let's take a shot and everyone's gathered around like the kitchen or something ready to take a shot. And then at that point, I'll be like, Oh, well, maybe I can take one more. And that's when I start, you know, falling into, too much. ",id,1
+96,135_96,135_96,T,"So a portion of the time it's working well for you and another portion of the time you Maybe you, like you'd like to make some adjustments to make it a little smoother. Okay, so kind of thinking along those lines, how important is it to you to make some changes or make some adjustments to your drinking to sort of fit with your values and your goals for yourself.","gc, id",0
+97,135_97,135_97,P,"I'd like to make sure that I, you know, in terms of respecting myself, my body, I'd like to, you know, try to drink less, okay, like a, you know, it is nice to let loose and have fun, but I'd also like it to be so, you know, I'm not damaging my body and I, like my liver doesn't work by the time I'm like, 22. And, you know, have my friends on board with a similar mentality so we can kind of work at it together as a group as a community. ","gc, id",0
+98,135_98,135_98,T,Uh huh.  So kind of combined  goals.,yq,0
+99,135_99,135_99,P,Yes,op,0
+100,135_100,135_100,T,Okay. So you're you have a goal. It sounds like actually cutting back on your drinking. How important is it to you to work on that goal on on a scale of one to 10 Where one is not at all important. And 10 is it's the most important thing right now.,"od, irq",0
+101,135_101,135_101,P,"I'd say about like, like a six or seven. Oh, like to work on it. But, you know, if I get around to it I get around to if I don't I don't. Hmm. ",id,0
+102,135_102,135_102,T,"Well, why'd you say six or seven rather than like a four? ",irq,0
+103,135_103,135_103,P,"Um, because I still think it's, it's important. Uh huh. I still you know, like I said, I don't want my body try especially going to med school like I know how things affect your body and also affect your, your social and your schoolwork and things like that. I know that once I get to college, it's not it's not gonna gonna work out being you know, drinking every weekend and then like, trying to wake up early and go to school, take an exam, like, I know, that's not that's not feasible. It's not a good idea.",id,0
+104,135_104,135_104,T,"Yeah, looking ahead. You can't keep drinking this way and reach the goals that you have for yourself. Okay. Well, how confident are you that you could cut down if you wanted to, I think on that same scale from one to 10","op, orq",0
+105,135_105,135_105,P,"I think if I made the decision that I was going to for sure, then I think definitely like a 10 I know I can.",od,0
+106,135_106,135_106,T," Oh, wow. Okay, why do you say 10? ","gc, crq",2
+107,135_107,135_107,P,"It's just because I know that once I make the decision, I know I can do it. Uh huh. making the decision in the first place.",cd,0
+108,135_108,135_108,T,"okay, and so you mentioned, you know, quite a few reasons why you would like to cut down. Have you thought at all about how you might go about doing that.",ack irq ,0
+109,135_109,135_109,P,"Um, I'm thinking of maybe like, trying to convince my friends without sounding you know, dorky or something, be like, Hey, you know, let's just stay in today. Like, let's not go out or something. Or just be like, Hey, I'm not like, I'm not gonna drink today. And then even if my friends do like being okay with them, drinking around, not doing it and then then being okay with me, drinking, me not drinking and then doing whatever they want.",id,0
+110,135_110,135_110,T,"So sort of Trying to plan more activities that don't involve alcohol, and then also trying to participate in activities without drinking yourself or maybe even drinking less than you're drinking. Okay. Does that sound like a goal you want to work on now or ?","ack, orq",0
+111,135_111,135_111,P,"I think so I think it's, it's very feasible. I think it's possible.",od,0
+112,135_112,135_112,T,Okay. So I guess we'll talk about less alcohol activities. I'm just making some notes to myself and then maybe reducing the amount of drinking that you're doing if alcohol is involved. Okay.,gc,0
+113,135_113,135_113,P,I think so. That's good.,gc,0
+114,135_114,135_114,T,Does that sound like something you'd like to do?,yq,0
+115,135_115,135_115,P,Yash,op,0
+116,135_116,135_116,T,"Okay. Well, I really appreciate you spending the time talking to me and you know, it sounds like you have a lot of really good goals for yourself really ambitious goals and going to medical school, and You know, becoming a psychiatrist or some some other form of physician, you're really looking forward to doing well in school so you can get there. And it sounds like you have a pretty active social life and a lot of friends who you feel probably would be supportive even if you cut down on alcohol. And that, you know, there's a lot of benefits you see both to your body in your health, your school performance, and even some of the social stuff in terms of feeling a sense of belonging without having to deal with some of the gross consequences of drinking too much. ",gc,0
+117,135_117,135_117,P,Yeah,gc,0
+118,135_118,135_118,T,"So yeah, you know, it really sounds to me like you have a good plan in place. And as long as you're willing and interested in meeting again, I'd be very excited to be able to talk with you about how it's going.",gc,0
+119,135_119,135_119,P,"Yeah, I like it.",gc,0
+120,135_120,135_120,T,"Alright, great, so I'll plan to see you then in a few more weeks.",gc,0

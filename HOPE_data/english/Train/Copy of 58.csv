@@ -1,0 +1,51 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,58_0,0,58_0,152_0,T,Today I understand you've been having some difficulty lately.,gc
+1,58_1,1,58_1,152_1,P,"Yeah, I would not to call it difficulty. ",gc
+2,58_2,2,58_2,152_2,T,No. What would you call it?,irq
+3,58_3,3,58_3,152_3,P,"My husband? I'm having a little bit of trouble with anger or something like that. But to me, it's like,",id
+4,58_4,4,58_4,152_4,T,so your husband believes you're having some trouble with anger.,crq
+5,58_5,5,58_5,152_5,P,"My husband thinks so. But to me, I'm just fine. He's just a yellow little here and there and, and but he's a man. He's get over it. He's bigger than me stronger than me. I got Look, it's the way I get my point across. That's what I gotta do sometimes.",cd
+6,58_6,6,58_6,152_6,T,"I see you have a, you feel like you have a relational style that doesn't match what he he wants, like you're, you're yelling and he's not liking that",gc
+7,58_7,7,58_7,152_7,P,"it's how you communicate. If he's not happy with it, that's about it. He's gonna have to deal with it.",gc
+8,58_8,8,58_8,152_8,T,Can you tell me about the the yelling?,irq
+9,58_9,9,58_9,152_9,P,"He says this all the time. But to me, it's what I do. If I want him to take the trash out. I tell him to take the trash out. He says I yell at him, we get into a fight over it. Just an argument over it. Nothing serious. But he says it's for everything I do. Getting the kids ready to school for school. He says I yell at the kids. He says, If I can't make anything simple, I can just make a simple request. He says I have to yell at him. I have to start a fight. I say should man up.",id
+10,58_10,10,58_10,152_10,T,So you don't feel like you have a problem with yelling or anger or anything?,yq
+11,58_11,11,58_11,152_11,P,I don't think it's a problem. No. It's just,"on,id"
+12,58_12,12,58_12,152_12,T,"the way you Guess the way I am? has been causing you vague. It's been causing some, some trouble with your husband. Any other trouble?",irq
+13,58_13,13,58_13,152_13,P,"Oh, mainly with the husband. You know, I almost got into an argument with the neighbor but we dealt with it. She told my husband, he agreed with her and well, he sent us get help.",id
+14,58_14,14,58_14,152_14,T,"Alright, so it's caused you some difficulties that way.",crq
+15,58_15,15,58_15,152_15,P,"To me, it's not a difficulty for him. It's more of a difficulty for him than it is for me.","cd,on"
+16,58_16,16,58_16,152_16,T,"Sure, really here today because he's asked you to come",crq
+17,58_17,17,58_17,152_17,P,I am here. He's my husband. So I respect him. I want to make him happy. So I said I'll go,cd
+18,58_18,18,58_18,152_18,T,"Alright, but Sure. You're really not convinced that you",crq
+19,58_19,19,58_19,152_19,P,I don't see it as a problem.,cd
+20,58_20,20,58_20,152_20,T,Yeah?,crq
+21,58_21,21,58_21,152_21,P,he's more of a problem than I am.,cd
+22,58_22,22,58_22,152_22,T,He's convinced you're not.,gc
+23,58_23,23,58_23,152_23,P,"I don't think no problem. I don't think I have a problem. He says it's all the yelling and I need help. And he's talking about do something about us. Alright, fine. I'll see about","gc,id"
+24,58_24,24,58_24,152_24,T,who would your relationship be a little easier without the yelling?,irq
+25,58_25,25,58_25,152_25,P,"For him? It would be I guess, but it I think maybe we could try it. I don't know. But it's taught but it's what I do.",id
+26,58_26,26,58_26,152_26,T,Can you tell me about some of the events that you think lead to the yelling?,irq
+27,58_27,27,58_27,152_27,P,"He doesn't get what I'm trying to say. It could be something as he wants to do it his way we could be driving. Alright, No, honey, I said we want to go this way. Oh, wait, why are you going that way? No flow. And then we get into a fight in the car. Or okay, honey, that's not how you do two dishes. We started as simple as that. No, you wash out. No, that's not how you do dishes. It could be something like that. We get into an argument. It's just over two simplest things.",id
+28,58_28,28,58_28,152_28,T,"And then the argument. How do you find the distribution of like, Who's yelling? Or is it mostly you yelling? Are you both yelling?",irq
+29,58_29,29,58_29,152_29,P,"I feel like I have to get my point across. But he's not 100% innocent and messy. And I'm like, it's not my fault. I wouldn't have to yell if you listen to the first time.",id
+30,58_30,30,58_30,152_30,T,Do you ever find yourself planning to get into an argument or is it more spontaneous?,irq
+31,58_31,31,58_31,152_31,P,"spontaneous, want to plan to get into anargument with him? ",id
+32,58_32,32,58_32,152_32,T,Just kind of happens when,irq
+33,58_33,33,58_33,152_33,P,"If he would listen. And we want to be fine so much. Things are fine when he listens. But then he says, I don't know what it is the moment I try to tell him something. It's just it just gets to me.",id
+34,58_34,34,58_34,152_34,T,And that's what leads to the,crq
+35,58_35,35,58_35,152_35,P,we just start yelling just start fighting.,cd
+36,58_36,36,58_36,152_36,T,alRight so this has been causing you some Distress with that relation.,crq
+37,58_37,37,58_37,152_37,P,"our relationship could be better, if you will listen more, but yes.",cd
+38,58_38,38,58_38,152_38,T,Do you have any medical conditions?,yq
+39,58_39,39,58_39,152_39,P,Nope.,on
+40,58_40,40,58_40,152_40,T,Do you ever use drugs or alcohol?,yq
+41,58_41,41,58_41,152_41,P,"No, not not not alcoholic or drug addict, right? If you try to say that No,",on
+42,58_42,42,58_42,152_42,T,"nothing like that? Do you have any other mental health history I should know about like, depression or anxiety?",yq
+43,58_43,43,58_43,152_43,P,I am as healthy as a horse.,ack
+44,58_44,44,58_44,152_44,T,Do want to see a counselor here to work on the anger yelling.,yq
+45,58_45,45,58_45,152_45,P,If it will make him happy. I told him I would see a counselor so I will see a counselor.,ack
+46,58_46,46,58_46,152_46,T,"Okay. So, if you're okay with it, I'll set you up with an appointment to see a counselor here. And they should see within a couple of days and you can get started.",id
+47,58_47,47,58_47,152_47,P,I guess I'm okay with it.,ack
+48,58_48,48,58_48,152_48,T,"Thanks, Stephanie.",gt
+49,58_49,49,58_49,152_49,P,All right.,gt

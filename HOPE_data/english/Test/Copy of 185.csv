@@ -1,0 +1,26 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,185_0,185_0,T,Hi Chris,gt,0
+1,185_1,185_1,P,Hi,gt,0
+2,185_2,185_2,T,"Thanks for coming in today and filling out our survey. I wonder if it's okay, If I go over a couple of the things that that you answered in the survey? ","gc, yq",0
+3,185_3,185_3,P,"Yeah, that's fine. ",op,0
+4,185_4,185_4,T,Okay. One of the things that that I noticed is that you are not using any kind of birth control right now.,yq,0
+5,185_5,185_5,P,Yeah.,op,0
+6,185_6,185_6,T,"And I just wondered if we could talk for a few minutes about some ideas, and I wondered what what your thoughts are about using condoms?","gc, orq",0
+7,185_7,185_7,P,"Well, I've heard stuff about them that I don't really need them and they're not going to do much for me and just kind of absolutely go out and get them. So I don't really use them for that reason.",od,0
+8,185_8,185_8,T,You've heard a lot of negative things about condom usage.,crq,0
+9,185_9,185_9,P,Yea yes,cd,0
+10,185_10,185_10,T,"Okay. Okay. So Chris, it's okay if I share with you some of the things that I've learned about condom usage and some of the things that my clients that are around your age have shared with me about condom usage. ",crq,0
+11,185_11,185_11,P,"Yeah, that's fine. ",cd,0
+12,185_12,185_12,T,"Okay. What some people don't realize and don't know about condoms is that may not only prevent help prevent teen pregnancy, but they can also prevent sexually transmitted infections like Flaminia along with HIV. They're really effective in preventing these things. And there's also a lot of easy ways to get condoms these days that some people don't know, the local health departments have condoms and many times they're free. And local pharmacies, drug stores have condoms. And there are a lot of clinics that have them as well either for a small fee or sometimes they're actually free. And there's some some ways to that people have found carrying them around pretty conveniently, you know, in their car or in their pockets because they're pretty small. What does it sound like? As I'm talking what what are what are some thoughts that are going, going through your mind?","id, irq",0
+13,185_13,185_13,P,"Definitely changing my mind about condoms a little bit, think there's no hurt and just carrying them with me. And if they do protect against all that stuff that you said, that sounds a lot better than what I have heard. I definitely want to avoid all those consequences. ",id,0
+14,185_14,185_14,T,Okay. Yeah. You're not interested in becoming a father right now I'm guessing.,crq,0
+15,185_15,185_15,P,Yeah.,cd,0
+16,185_16,185_16,T,"Okay. Okay. Great. Well, can I ask you? So after this conversation today on a scale of zero to 10, with zero being that it's not at all important to you and 10 being that it's extremely important? Where do you think you fall with how important you know taking a chance on using condoms would be to you now?",irq,0
+17,185_17,185_17,P,"after everything that you've told me, sounds pretty important to me. I like an eight or nine.",id,0
+18,185_18,185_18,T,"Okay. Okay, well, that's great. It sounds like you really have have, you know a plan in mind? What do you think you'll do next Like what do you think would be a next step with you as far as contraception or condoms?","gc, orq",0
+19,185_19,185_19,P,I will go out and look for some condoms and have an open mind to them.,od,0
+20,185_20,185_20,T,"Okay, well, we've got some here at the clinic. Would you like me to give you some on your way out?","gc, yq",0
+21,185_21,185_21,P,yeah,op,0
+22,185_22,185_22,T,And you can just take them with you.,gc,0
+23,185_23,185_23,P,yeah sure,gc,0
+24,185_24,185_24,T,"Great. Well, thank you so much for talking with me today, Chris. It was nice to meet you.",gc,0

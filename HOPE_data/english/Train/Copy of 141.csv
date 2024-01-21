@@ -1,0 +1,221 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,141_0,141_0,T,Hey Lewis How you doing today?,gt,0
+1,141_1,141_1,P,"I am okay, how are you? ",gt,0
+2,141_2,141_2,T,I'm doing well. Thanks for asking. How things been going ?,gt,0
+3,141_3,141_3,P,They've been alright.,gt,0
+4,141_4,141_4,T,Last time we were talking. It sounds like you're still having some difficulty with the quizzes. Mm hmm. Is that still the case?,"gc, od, yq",0
+5,141_5,141_5,P,"Yeah, it's still. It's still panic when I take them. They're still panic. ",id,1
+6,141_6,141_6,T,Can you tell me about the process of taking the quizzes? I know we tested on a little bit before.,irq,0
+7,141_7,141_7,P,Okay. So I'm going to class I'm fine. I sit down to take the test. I'm fine. The test is in front of me question one. I'm not going to get that answer.,id,-2
+8,141_8,141_8,T,So you're looking down so you take these quizzes in class?,yq,0
+9,141_9,141_9,P,Yes.,op,0
+10,141_10,141_10,T,like a paper pencil ?,crq,0
+11,141_11,141_11,P,Hmm hmm,cd,0
+12,141_12,141_12,T," Okay, with other students around you.",yq,0
+13,141_13,141_13,P,Yeah.,op,0
+14,141_14,141_14,T,"Alright, is the is having other students around distracting you ?",yq,0
+15,141_15,141_15,P,"No, what has happened in previous online classes is the same.",on,-1
+16,141_16,141_16,T,"So it's, you're pretty sure it's the quiz itself and not some external.",crq,0
+17,141_17,141_17,P,Hmm yeah.,cd,0
+18,141_18,141_18,T,Okay. So it was paper and pencil you seated in the room. Rooms relatively distraction free.,crq,0
+19,141_19,141_19,P,"Yeah, yeah, everybody's quiet.",cd,0
+20,141_20,141_20,T,"And you're looking down at really the first item on the on the quiz and what's happening? What's happening that as you look down, you read that first item. What's happening at a thought we'll start a thought level What's happening? What are you thinking?","crq, irq",0
+21,141_21,141_21,P,"I'm thinking, I'm reading the question and I'm thinking oh my god, there's Okay, there's four. Okay? So it's got to be it's got to be one of them. And I am not going to pick the right one. I'm gonna think I pick the right one and it's going to be the one that the second choices and I am not going to pick the right one.","cd, id",0
+22,141_22,141_22,T,"Okay, so your thought is that you're going Gonna get, you're gonna select the wrong response, and therefore get that quiz item. Wrong. ",crq,0
+23,141_23,141_23,P,Yeah.,cd,-2
+24,141_24,141_24,T,"How about behavior? Like, do you notice anything physically going on? As you're thinking about that quiz item and how you're going to get you call",irq,0
+25,141_25,141_25,P,"to my palms are probably sweaty, like I'm probably a little tense.",id,-2
+26,141_26,141_26,T,a little tense ?,yq,0
+27,141_27,141_27,P,Yeah. That's really is.,op,-2
+28,141_28,141_28,T,"So it could be is that this thought of, I'm going to get this item wrong is leading to these uncomfortable feelings, the physical feelings. All right. So what happens when you answer item one, like you don't know if you have a right or wrong immediately, right because it's a paper and pencil. So you answer item one and you move on to item two. What happens then?","crq, irq",0
+29,141_29,141_29,P,"starts all over again. I'm already like well, I already got the first one wrong and now my I chances are higher getting this one wrong.","cd, id",-2
+30,141_30,141_30,T,"So if you like it, because you because you thought that you got the first one wrong. That's your chances again a cycle on one wrong actually increase.","crq, irq",0
+31,141_31,141_31,P,Yeah.,cd,-2
+32,141_32,141_32,T,Okay.,gc,0
+33,141_33,141_33,P,If I get one to one wrong the whole test gonna to be wrong.,id,-2
+34,141_34,141_34,T,Have you ever had a quiz that you've taken where you were confident that you got the first item right?,irq,0
+35,141_35,141_35,P,I'm sure I have I can't remember any.,id,-1
+36,141_36,141_36,T,But eventually you're going to come to one item that your doubts about ?,crq,0
+37,141_37,141_37,P,"Yes,",cd,-1
+38,141_38,141_38,T,right.,gc,0
+39,141_39,141_39,P,Inevitably it happens.,gc,-1
+40,141_40,141_40,T,"There's gonna be one that's maybe a little more difficult or difficult for you. So it seems like what you're saying is that when you reach that item where you have that thought, from from that point on the next item is, is more difficult because you're having a similar thought Does that pattern continue? ",gc,0
+41,141_41,141_41,P,throughout test? Yes.,"crq, gc",0
+42,141_42,141_42,T,"So explain to me what like, let's just go with the example, the first item like, because just just to keep it more simple. So you have the first item. And that didn't work out for that thought, right? The second one your thought was, I have even greater chance of missing. So what happens after you respond to that second item?","gc, crq, irq",0
+43,141_43,141_43,P,"It just compounds, I just start I feel worse than worse as the quiz as I continue.",id,0
+44,141_44,141_44,T,That's awful. So it's an awful feeling for me.,gc,-3
+45,141_45,141_45,P,Yeah right.,gc,-3
+46,141_46,141_46,T,So by the time you get to item five or six ?,crq,0
+47,141_47,141_47,P,"I'm convinced I'm, it's over. I've gotten to zero if it's Yeah, if isn't the first I've gotten to zero I've gotten a bad grade.",cd,0
+48,141_48,141_48,T,Right. So that's what's on your mind.,yq,0
+49,141_49,141_49,P,Uhh hmmm mm,on,0
+50,141_50,141_50,T,And how are those physical symptoms? Are they the same different or new symptoms ?,irq,0
+51,141_51,141_51,P,"if it like if it's, if it like starts early at the beginning of the test? To my heart's like pounding at this point, but I still have a sweaty palms. I'm still like, tensing. ",id,-2
+52,141_52,141_52,T,So it really just gets mentally and physically more unpleasant for you.,crq,-1
+53,141_53,141_53,P,Mm hmm. Yeah.,cd,-1
+54,141_54,141_54,T,"So when you just when you're saying panic, the panics really occurring a few items in after you have the first one that you thought you've missed.",crq,0
+55,141_55,141_55,P,Mm hmm.,cd,-1
+56,141_56,141_56,T,"And this has been happening for a while, as you described, right?",crq,0
+57,141_57,141_57,P,Yeah.,cd,-1
+58,141_58,141_58,T,"Well, how about your grades? How have you actually been doing on the quizzes?",irq,0
+59,141_59,141_59,P,I've been a pretty solid B student.,id,0
+60,141_60,141_60,T,Umm hmm.,gc,0
+61,141_61,141_61,P,"So and I feel I wish I did better. I wish I got A's but I mean, these are fine. But when I take this because it's not it doesn't. I don't know how it translates.","gc, id",-1
+62,141_62,141_62,T,About your study habits if you consider yourself effective and studying ?,irq,0
+63,141_63,141_63,P,"I've tried I've taken workshops on studying I've, I, I think I'm pretty effective at studying I've found what doesn't work. So, I try to study by reading the chapter is taking outlines reviewing flashcards, which has, I think the best results but",id,-1
+64,141_64,141_64,T,"Okay, so your study habits are good. And your quiz scores are good. But you're still having these distressing thoughts and these uncomfortable physical sensations when you take the quizzes? ",crq,-1
+65,141_65,141_65,P,Yeah.,cd,-1
+66,141_66,141_66,T,Is that about right?,crq,0
+67,141_67,141_67,P,"Yeah, that's absolutely right.",cd,-1
+68,141_68,141_68,T,"So really, you don't necessarily need your performance to change. You just you just need to your thoughts and feelings and behaviors to change. Yeah. So how you how you're reacting to the quizzes maybe.",id,0
+69,141_69,141_69,P,"Yeah, cuz I get B's like I said so Yeah.",id,-1
+70,141_70,141_70,T,And B is good.,crq,0
+71,141_71,141_71,P,Yeah.,cd,0
+72,141_72,141_72,T,"So Alright, so I want to take you back to the moment when you're looking at the first slide. Let's go back to that for a second. Okay. So you're taking a quiz. And you're having those thoughts surrounding the first item, which will not mistaken the automatic thought we talked about this right with cognitive behavioral therapy. Go on Mac thought is that I'm, I'm not going to get this one right.","gc, crq, irq",-1
+73,141_73,141_73,P,Yeah,gc,0
+74,141_74,141_74,T,or something to that effect ?,crq,0
+75,141_75,141_75,P,right.,id,0
+76,141_76,141_76,T,What does that mean to you?,irq,0
+77,141_77,141_77,P,"It means once I don't get that, right, I'm not Getting in anything else, right, okay",id,-1
+78,141_78,141_78,T,"Alright So with that thought means to you is that you're going to miss that item and then you're going to miss all the rest of it. So you're, you're going to fail the whole quick whole thing. ","gc, crq",0
+79,141_79,141_79,P,Yeah.,cd,-1
+80,141_80,141_80,T,"So looking at that, almost, let's call that an intermediate belief, right? It's more of a rule or an expectation, right? What does that mean to you?","gc, crq",0
+81,141_81,141_81,P,"It just gets worse. If I fail the quiz, then I'm like, Oh my god, I'm gonna fail the panel, I am going to fail the course and that's gonna affect my GPA.",cd,-2
+82,141_82,141_82,T,So just keep stacking other other beliefs. So you're gonna fail the course. And we're gonna fail the final rather than then the course. So a few failed the course. What does that mean to you ?,"gc, crq, irq",0
+83,141_83,141_83,P,not going to graduate.,yq,-2
+84,141_84,141_84,T,You're not going to graduate ?,crq,0
+85,141_85,141_85,P,Yeah.,cd,0
+86,141_86,141_86,T,"So we've moved from failing the quiz if we just look at the meaning, right? To fail on the final to fail on the course, and now to not graduating. So if you didn't graduate, what would that mean to you?",irq,0
+87,141_87,141_87,P,I can't I can't be a teacher. I can't do what I want to do.,cd,-2
+88,141_88,141_88,T,So your chosen location to be a teacher would be not possible.,crq,0
+89,141_89,141_89,P,Right.,cd,0
+90,141_90,141_90,T,"Right. So we go a step further and say, What would it mean to you if you couldn't be a teacher?",irq,0
+91,141_91,141_91,P,I don't know who I'd be at that point. That's what I always saw as my career. So I don't know what my future would look like at that point. Without that.,id,-2
+92,141_92,141_92,T,"So if you were to phrase it, and kind of think back as we to the CBT techniques and the kind of conceptualization uncovered. If you're to phrase as an if statement. What would you? What would you be if you couldn't be a teacher? what that make you?","id, irq",0
+93,141_93,141_93,P,I am a person who didn't make it. I'm a person that failed. Like we said earlier.,id,-1
+94,141_94,141_94,T,"I'm a person who didn't make it. I'm a person who failed. So in a way, you're saying, I'm a failure. ",id,0
+95,141_95,141_95,P,Hmm.,gc,0
+96,141_96,141_96,T,Right.,gc,0
+97,141_97,141_97,P,Yeah.,gc,0
+98,141_98,141_98,T,Is that close?,irq,0
+99,141_99,141_99,P,"Yeah, Its fine. ",id,0
+100,141_100,141_100,T,"So remember, we talked before about core beliefs, and how these core beliefs drive these intermediate beliefs which combined with situations like in your case, taking quizzes to form these automatic thoughts. ",crq,0
+101,141_101,141_101,P,Yeah.,cd,0
+102,141_102,141_102,T,"so one of your core beliefs may be that, that you're a failure. You may believe that.",crq,0
+103,141_103,141_103,P,Okay,cd,0
+104,141_104,141_104,T,Does that seem like something that you've said to yourself before or thought before?,yq,0
+105,141_105,141_105,P,"And think about it like that until we did the step up to it now, but I, I can relate to that.",op,-1
+106,141_106,141_106,T,Mmm hmm,gc,0
+107,141_107,141_107,P,"Because a lot of times, I do feel like, Oh, I'm not gonna be able to do this. Because it's me, I won't be able to do it.",gc,-2
+108,141_108,141_108,T,"Not because it's challenging or difficult, but something to do with you. ","gc, crq",0
+109,141_109,141_109,P,Hmm yeeah.,gc,0
+110,141_110,141_110,T,Right. So that's what I call like the you're personalizing ?,crq,0
+111,141_111,141_111,P,Right,cd,0
+112,141_112,141_112,T,"So you're saying to yourself, at a variety of levels. I'm going to be unsuccessful? I'm going to....doe that make sense. ","irq, crq",0
+113,141_113,141_113,P,Yeah.,cd,0
+114,141_114,141_114,T,Do you think that's what's happening?,irq,0
+115,141_115,141_115,P,"It must be because like I said, I study I got good grades. I've been tested years ago, I don't have ADHD anything intrinsic that would prohibit me",id,-1
+116,141_116,141_116,T,So you're  able to focus and calm.,crq,0
+117,141_117,141_117,P,"Yeah,",cd,0
+118,141_118,141_118,T,"well, ",gc,0
+119,141_119,141_119,P,"yes, I can do all of that. But when it comes to it, I'm like, I can't do it.",gc,-1
+120,141_120,141_120,T,"So, somewhere, somewhere is this dis core belief? And it's possible that it has something to do with you believing that you are a failure. unsuccessful? ","crq, irq",0
+121,141_121,141_121,P,"I don't think they would see the connection. I think it would be like, well, you do well in school, I don't understand.",cd,-3
+122,141_122,141_122,T,So they wouldn't believe that you're a failure ?,yq,0
+123,141_123,141_123,P,No,on,0
+124,141_124,141_124,T,you may believe it ?,yq,0
+125,141_125,141_125,P,"Yeah. I guess, Yeah.",op,0
+126,141_126,141_126,T,"And similarly, if you had a classmate that was in the same situation, and and you know, struggled with these disturbing thoughts and feelings and behaviors during quizzes, how would you evaluate them?",orq,0
+127,141_127,141_127,P,"I guess I'd say the same thing that my family would say like you're gonna look at the evidence, you're not a failure.",od,-1
+128,141_128,141_128,T,And you evaluate that they weren't a failure.,yq,0
+129,141_129,141_129,P,Right.,op,0
+130,141_130,141_130,T,But If it was  yourself. You're being a little more harsh.,crq,0
+131,141_131,141_131,P,Yeah.,cd,-1
+132,141_132,141_132,T,Which isn't uncommon.,irq,0
+133,141_133,141_133,P,Okay,gc,0
+134,141_134,141_134,T," So, there's a few levels at which I think we can go after this. What I'll call a problem, but really, it's a series of thoughts and beliefs. Okay. The first is that the comic at the ground level, and that's when you are taking the quiz. And you have that automatic thought that says, I'm going to miss this item. ","gc, id",-1
+135,141_135,141_135,P,I'm not going to get it right.,gc,0
+136,141_136,141_136,T,"Yes, I'm not gonna get it right. So that's your thought, I'm not going to get it right.",gc,-2
+137,141_137,141_137,P,Ahmm hmm,gc,0
+138,141_138,141_138,T,"And these situations, I like to encourage clients to apply what's called an adaptive response or self talk. So it's a it's a noun. If you're in a quiz in a quiet classroom, it wouldn't literally be self taught. ","gc, id",0
+139,141_139,141_139,P,"Right, right.",gc,0
+140,141_140,141_140,T,"But it's a thought that you were consciously applying. So the other thought that's automatic,",gc,0
+141,141_141,141_141,P,Right,gc,0
+142,141_142,141_142,T,"that just pops in your head, right. ",crq,0
+143,141_143,141_143,P,Okay.,gc,0
+144,141_144,141_144,T,This one would be one that you deliberately think,gc,0
+145,141_145,141_145,P,and make myself.,gc,-1
+146,141_146,141_146,T,"So what could you think to yourself that would be a counter to that automatic thought that you're having, that you're gonna get that item wrong ?",irq,0
+147,141_147,141_147,P,"I guess that in my past quizzes like, chances are I, I have a good chance of getting it right.",id,-2
+148,141_148,141_148,T,"Okay, so just looking at the probabilities based on your past performance, even though I'm thinking I'm going to get it wrong",id,0
+149,141_149,141_149,P,right.,gc,0
+150,141_150,141_150,T,"Chances are, I'm going to get it wrong,",gc,0
+151,141_151,141_151,P,right. Somehow I still have a B so.,gc,-1
+152,141_152,141_152,T,So you are getting most of them. Right.,crq,0
+153,141_153,141_153,P,Right. So I have a good chance.,cd,-1
+154,141_154,141_154,T,So I like that adaptive response. Right. Do you think that makes sense for you?,"ack, yq",0
+155,141_155,141_155,P,Yeah,op,0
+156,141_156,141_156,T,"I think you did well, there. So the next time you're taking a quiz I want you to apply that adaptiv response.",cv,0
+157,141_157,141_157,P,Okay,cr,0
+158,141_158,141_158,T,"that this takes work. Right. So this automatic thoughts gonna come upon you. And then before you know it, you're gonna have that feeling. ",id,0
+159,141_159,141_159,P,"Yeah, right. ",gc,0
+160,141_160,141_160,T,physical symptoms.,crq,0
+161,141_161,141_161,P,Yeah.,cd,0
+162,141_162,141_162,T,Discuss the sweaty palms. Right. And the feeling of I think you mentioned,gc,0
+163,141_163,141_163,P,"Yeah, yeah.",gc,0
+164,141_164,141_164,T,So don't let it discourage you those symptoms Come on so quickly.,gc,0
+165,141_165,141_165,P,Okay.,gc,0
+166,141_166,141_166,T,"Right. There is an intervening thought and you've identified it. Right. So, you will have an opportunity, most likely to apply that automatic thought at some point. But the first few times it might be a little rough. ",gc,0
+167,141_167,141_167,P,"Yeah, testing QA. ",gc,0
+168,141_168,141_168,T,"I guess the nice thing about a quiz is, I mean, how many items are on these quizzes?  ",irq,0
+169,141_169,141_169,P,15,id,0
+170,141_170,141_170,T,"So you have a few different chances to apply the adaptive responses. Right,",crq,0
+171,141_171,141_171,P,right. It's more than one.,cd,0
+172,141_172,141_172,T,"Yeah. So you know, you'd like to get on the first time where you have that on I thought we identified on that thought, but if you don't No big deal. Right? So, you know, later on maybe it takes them two or three. And then you might remember, hey, I have this",cv,0
+173,141_173,141_173,P,"Yeah. Oh, wait, supposed to be thinking that.",crq,0
+174,141_174,141_174,T,"Yeah. And my hope is that as you apply this adaptive response more and more, you can reduce the probability that that automatic thoughts going to come in. ",cd,0
+175,141_175,141_175,P,Yeah,gc,0
+176,141_176,141_176,T,"So that's one level that I want you to, to go after it. Does that make sense?",yq,0
+177,141_177,141_177,P,It does. I think I can do that.,op,0
+178,141_178,141_178,T,"That's how many feel like you could you could do at the other level, I guess you'd call this a deeper level, but it's all really, you know, in your brain, right? It's just this core belief.","gc, irq, crq",0
+179,141_179,141_179,P,right.,cd,0
+180,141_180,141_180,T,"Okay. And why use the word deeper is because we think of core beliefs as more stubborn, but they don't change as easily.",gc,0
+181,141_181,141_181,P,right,gc,0
+182,141_182,141_182,T,"as automatic thoughts might. I'd like you to and this is really just more selection, reflect on the evidence or evaluate the evidence that supports and refutes this idea that you were unsuccessful that you're a failure. ",gc,0
+183,141_183,141_183,P,Okay,gc,0
+184,141_184,141_184,T,"Right. I think cognitively, you kind of understand that you're not. Right. But another sense, you feel like you are right. ",gc,0
+185,141_185,141_185,P,Right.,gc,0
+186,141_186,141_186,T,So in a way cognitively you're,crq,0
+187,141_187,141_187,P,there's that discrepancy.,cd,-1
+188,141_188,141_188,T,"Right. Right. There's, there's a little bit of both. ",gc,0
+189,141_189,141_189,P,"Mm hmm. Yeah, ",gc,0
+190,141_190,141_190,T,"you can tell me that, your family would say that's not the case. But you still",gc,0
+191,141_191,141_191,P,"right on paper, Technically, I would. I'm not. But I still, I guess, feel that way.",gc,0
+192,141_192,141_192,T,There's a part of you that still feels that way. There's a part of you that still believes that cognitively. There's also a part of you that thinks through that says that's that's not accurate.,crq,0
+193,141_193,141_193,P,Right.,cd,-1
+194,141_194,141_194,T,So I want you to weigh the validity of that core belief.,cv,0
+195,141_195,141_195,P,Okay,cr,0
+196,141_196,141_196,T,"Right. And actually, I think that this is helpful to write down evidence that that would support it. Right. And that's certainly something to note. But also, and this is really more important evidence that refutes it. evidence that runs counter, ",gc,0
+197,141_197,141_197,P,"right, ",gc,0
+198,141_198,141_198,T,"but record both, and we'll meet next time and we'll look at the evidence evaluated.",cv,0
+199,141_199,141_199,P,"Yeah, we can do that.",cr,0
+200,141_200,141_200,T,"So those two, those two steps you feel like you're comfortable with and they make sense to you.",cv,0
+201,141_201,141_201,P,"Yeah, they do. Yeah, I definitely think I can do those. ",cr,0
+202,141_202,141_202,T,When's the next time you'll be taking a quiz?,irq,0
+203,141_203,141_203,P,Think next week,id,0
+204,141_204,141_204,T,next week?,crq,0
+205,141_205,141_205,P,yeah,cd,0
+206,141_206,141_206,T,"Okay, I know how these quizzes oftehn? ",irq,0
+207,141_207,141_207,P,Yeah.,gc,0
+208,141_208,141_208,T,All right. So we'll set up a session for next week. Let's try to get towards after your next quiz.,gc,0
+209,141_209,141_209,P,Okay,gc,0
+210,141_210,141_210,T,So we'll have that to talk about. I think that's the next area to make. It sounds like the next area. It'd be good to try and make progress.,gc,0
+211,141_211,141_211,P,Yeah.,gc,0
+212,141_212,141_212,T,Seems like that's what you want to work on.,crq,0
+213,141_213,141_213,P,Yeah.,cd,0
+214,141_214,141_214,T,So We'll go from there. So I'll set up an appointment for just to have that quiz. Tried to adapt the response and try evaluating evidence. Quickly.,gc,0
+215,141_215,141_215,P,"Yes, ",gc,0
+216,141_216,141_216,T,does that sound good ?,yq,0
+217,141_217,141_217,P,"Yes, I can do that. ",op,0
+218,141_218,141_218,T,All right. I will set the appointment up and I appreciate you coming in and working through this.,gc,0
+219,141_219,141_219,P,Yeah. Thank you so much.,gc,1

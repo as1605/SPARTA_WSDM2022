@@ -1,0 +1,143 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,184_0,184_0,T,"Alright, so I'm gonna be asking you some questions about your social situation and what you do in your leisure time. ",id,0
+1,184_1,184_1,P,Okay.,ack,0
+2,184_2,184_2,T,How do you currently spend your day?,irq,0
+3,184_3,184_3,P,"Um, well, right now, and before I came in I guess I go to work in the morning and then I come home at about 430 and take care of the kids. Get them from aftercare and then we'll have dinner, I'll make dinner and help them with their homework, My husband and I watch a TV show or something and then go to bed.",id,-1
+4,184_4,184_4,T,That's a fairly typical day for you.,crq,0
+5,184_5,184_5,P,Yeah.,cd,0
+6,184_6,184_6,T,What do you do for fun?,irq,0
+7,184_7,184_7,P,"Well, lately not a lot. I mean, I used to love reading, movies. I love to make jewelry but not in a while.",id,0
+8,184_8,184_8,T,Why don't you think you enjoy those things? Now as much as you did?,irq,0
+9,184_9,184_9,P,"Ah, I don't have as much energy as I used to. I come home from work. I'm drained, just dealing from dealing with that whole situation. And then getting the kids and homework and it's like, can be a nightmare. I mean, they have good grades, and they generally just get right into it. Sometimes it's a struggle. And frankly, I've been kind of down on myself lately because I just want to come home from work and get into bed. And I don't want to cook, and I don't want to do homework with them. And even when my husband wants to watch TV, or something, you know, a lot of times I'm asleep already. And kind of feel bad about that. Like, maybe I'm not as good of a mom as I used to be or as good of a wife. ",id,-1
+10,184_10,184_10,T,Do you think that this change in your mood is related to what you're talking about before with the problems at work and the relationship there. You feel like it's all tied together?,irq,0
+11,184_11,184_11,P,Probably. Yeah. I don't know.,id,-1
+12,184_12,184_12,T,"You know, which came first? Like what you're describing here with the not having much energy or the difficulty at work?",irq,0
+13,184_13,184_13,P,"I didn't think about I think, well, I've been like this before. But yeah, it was after things started getting really bad at work. I just, I'm, like drained when I come home. You know, and I don't want to think about it. If I just go to sleep. I don't have to think about it. I don't have to deal.",id,-1
+14,184_14,184_14,T,"Who are the most important people in your life? And before you answer that, I'm going to guess that you're Husband your kids for occlusion so outside of them unless they're not but it sounds like oh yeah, but outside of them because we are talking about them. Who are the most important people in your life? ",irq,0
+15,184_15,184_15,P,"My sisters, my dad, my mom, my best friend although I haven't talked to her really long time.",id,-1
+16,184_16,184_16,T,How long?,irq,0
+17,184_17,184_17,P,"Well, she's texting me but we haven't like gotten together in like six months or something.",id,-1
+18,184_18,184_18,T,So all the people you just listed when you have difficulties problems when things aren't going well do you feel like you can talk to these people?,yq,0
+19,184_19,184_19,P,Yeah,op,0
+20,184_20,184_20,T,"Okay, I'm going to switch gears again. I want to talk about spirituality. Can you describe any spiritual you might have and how they affect your life?","id, irq",0
+21,184_21,184_21,P,"Well, I believe in God, I pray Actually, I this is was kind of funny. I was praying the morning before I decided to call the agency because I was feeling like such a bad mom. You know, for playing in bed so much. You know, my husband and I talked. So, I believe in God, I think God takes care of me. ",id,0
+22,184_22,184_22,T,"Okay, Are you affiliated with any religious institution?",yq,0
+23,184_23,184_23,P,I was raised Roman Catholic. But I haven't been deterred in a couple of years.,op,0
+24,184_24,184_24,T,"Can you describe to me how socio or social cultural influences like your values, beliefs and culture have affected your life?",irq,0
+25,184_25,184_25,P,"Well, what I learned in Sunday school, you know, it helped me to be a better person to treat people well. My parents used to talk about giving back to the community growing up you know when I was in Carl scouts, giving back to the community, trying to pass that on to my kids,",id,0
+26,184_26,184_26,T,Do you identify with a particular ethnicity?,irq,0
+27,184_27,184_27,P,Italian American,id,0
+28,184_28,184_28,T,Italiam American ?,crq,0
+29,184_29,184_29,P,"Yes,",cd,0
+30,184_30,184_30,T,that influenced your life anyway?,yq,0
+31,184_31,184_31,P,"Well yeah, I guess I take pride in my culture. Maybe not so much growing up, but now but now. Yeah.",op,0
+32,184_32,184_32,T,"Okay, I'm going to switch gears again. I want to talk about your educational history. can tell me your highest level of education?","id, irq",0
+33,184_33,184_33,P,"Yeah, one year of graduate school",id,0
+34,184_34,184_34,T,one year of graduate school?,crq,0
+35,184_35,184_35,P,yeah,cd,0
+36,184_36,184_36,T,And when was the last time you attended a school?,irq,0
+37,184_37,184_37,P,16 years ago. I dropped out when we got engaged.,id,0
+38,184_38,184_38,T,"Okay. So if you went to graduate school, I'm going to assume that you have a bachelor's of some type. Yeah. What's your degree in?","gc, irq",0
+39,184_39,184_39,P,in history?,id,0
+40,184_40,184_40,T,Anything else in terms of like special training or education you have?,yq,0
+41,184_41,184_41,P,No.,on,0
+42,184_42,184_42,T,Did you enjoy school?,yq,0
+43,184_43,184_43,P,"Yes, very much",op,0
+44,184_44,184_44,T,You ever envision going back to school?,yq,0
+45,184_45,184_45,P,"Yeah, I think when the kids are a little older. get sad about not finishing my degree.",op,0
+46,184_46,184_46,T,The graduate degree?,crq,0
+47,184_47,184_47,P,Yeah.,cd,0
+48,184_48,184_48,T,Okay. Do you have any military history?,yq,0
+49,184_49,184_49,P,No,on,0
+50,184_50,184_50,T,Now I want to talk about your employment history. Okay. Okay. So you mentioned that talk about how it currently spend your day that you work your full time?,"gc, irq",0
+51,184_51,184_51,P,I do.,id,0
+52,184_52,184_52,T,What type of company you work for?,irq,0
+53,184_53,184_53,P,I work for a bank,id,0
+54,184_54,184_54,T,and what do you do for them?,irq,0
+55,184_55,184_55,P,I am teller,id,0
+56,184_56,184_56,T,Okay. How long you been there,irq,0
+57,184_57,184_57,P,10 years now.,id,0
+58,184_58,184_58,T,You enjoy the work?,yq,0
+59,184_59,184_59,P,It's not that challenging.,on,0
+60,184_60,184_60,T,Not not that difficult?,crq,0
+61,184_61,184_61,P,yeah,cd,0
+62,184_62,184_62,T,Are you in any danger of losing your job? Because what's going on with you now?,yq,0
+63,184_63,184_63,P,"Now? No, I'm not in danger of losing my job, but I'm not happy. I'm not happy there.",on,0
+64,184_64,184_64,T,"So they've been your employer for last 10 years. You just have one job right now, right?","gc, yq",0
+65,184_65,184_65,P,Yes.,op,0
+66,184_66,184_66,T,Okay. Who is your player prior to that?,irq,0
+67,184_67,184_67,P,I worked for another bank.,id,0
+68,184_68,184_68,T,How long were you there?,irq,0
+69,184_69,184_69,P,Six years.,id,0
+70,184_70,184_70,T,And what did you do for them?,irq,0
+71,184_71,184_71,P,Same thing.,id,0
+72,184_72,184_72,T,And why did you leave that bank?,irq,0
+73,184_73,184_73,P,we relocated,id,0
+74,184_74,184_74,T,was that also easy as you Described,yq,0
+75,184_75,184_75,P,oh yeah,id,0
+76,184_76,184_76,T,any work history prior to that?,yq,0
+77,184_77,184_77,P,I waitress at graduate school and in college,op,0
+78,184_78,184_78,T,a few different places?,yq,0
+79,184_79,184_79,P,"Yeah, yeah. One place in college on in graduates school ",op,0
+80,184_80,184_80,T,Okay. All the work you've done what type of work you enjoyed the best?,irq,0
+81,184_81,184_81,P,That's a good question. None of it really I liked it when I was in school best. I don't like work.,id,0
+82,184_82,184_82,T,"See, you don't feel satisfied. I wanted to hear what you'd prefer or to your education or anything like that.",irq,0
+83,184_83,184_83,P,"But just the thought of going out there and looking for another job or changing fields, I really don't know what I have to offer. It just seems I have to do the resume. I don't even know how to begin.",id,0
+84,184_84,184_84,T,So seems daunting.,crq,0
+85,184_85,184_85,P,"Yeah. Like, right now i feel all I can do to get in there to work and get home and take care of the kids. ",cd,0
+86,184_86,184_86,T,"So you're tired with your time with your child right now. So you thought of going through all the effort of finding something new. It's intimidating. We touched on this area earlier. I'm going to shift gears again to legal involvement. You mentioned some legal history when we were going through the symptom checklist. And if I remember correctly, it sounded involvement marijuana and paid when you're in college.",gc,0
+87,184_87,184_87,P,Yeah.,ack,0
+88,184_88,184_88,T,Police were called what happened that night?,irq,0
+89,184_89,184_89,P,"Well, my friends and I, I guess we were having a party in the common area of the dorm, and I guess we got too loud. There are some professors living in the dorm. They call Campus Security,  Campus Security came and I was found with a bag on me and I ended up down at the police station my other friend to the two of us were down there but you know, it didn't really amount to too much. It's it's hard to remember the whole night because I was pretty wasted but it really sort of got brushed over me.",id,-1
+90,184_90,184_90,T,"You mean the offense like, you know, I have a criminal record.",yq,0
+91,184_91,184_91,P,"No, no, no, it was expunged. That's not on my record. I don't have a record.",on,0
+92,184_92,184_92,T,Does it ever caused you problems?,yq,0
+93,184_93,184_93,P,"No. No, it's embarrassing, but that's about it.",on,0
+94,184_94,184_94,T,"So as we get Near the end of this intake, and we move toward the regular sessions, you know, the the 53 minutes sessions or however long you know, they'll be that you would typically think of anything of therapy. Right? We will talk about goals on off during those sessions. Okay, those meetings in detail in an actually completed treatment plan that include your goals and objectives to meet those goals. But before we get into that detailed plan, and we'll actually take the better part of a session to review that and built that treatment plan. I'd like to get a general idea of your goals. Now I kind of know what you're wanting to describe. I have an idea of your presenting problems. What are your What are your general goals with therapy?","id, irq",0
+95,184_95,184_95,P,"I say, Well, I'd like to be able to get along better with other women. I just like to feel better overall, you know? I honestly don't know I thought it was them. And then I started thinking, well maybe it's me because it happened to the other place at work too kind of the same and like I said, with the women in the neighborhood I'd also like to be able to be a better mom. Like I said, I spend lot of time in bed lately. I'm not that great of a mom or wife. I'm pretty boring. I Just asleep a lot.",id,0
+96,184_96,184_96,T,Can you remember a time when you didn't feel this way?,yq,0
+97,184_97,184_97,P,"Yeah. Like, even last year.",op,0
+98,184_98,184_98,T,even last year?,crq,0
+99,184_99,184_99,P,Yeah,cd,0
+100,184_100,184_100,T,okay,ack,0
+101,184_101,184_101,P,"Yeah, I mean, it still wasn't great at work. But you know, it was uncomfortable. I'd say with my coworkers it's really escalated. But you know, that other part at home it wasn't. It wasn't as hard. I was gonna have more energy.",id,0
+102,184_102,184_102,T,"Okay, tell me about your strengths. What do you do? ",irq,0
+103,184_103,184_103,P,"Umm Well, normally I am a good mom. I love my kids. I'm a very good parent in terms of disciplining them not being the way my mom was, you know, I want them to know they're loved as really important that they know they are loved. My kids know that they are loved. And my strikes I'm smart, creative when I have the energy, mysisters think I'm funny. My friends thinks I could cook.",id,0
+104,184_104,184_104,T,"good cook, do you think you're funny?",yq,0
+105,184_105,184_105,P,"Um, I never really thought I was but last year a lot of people were telling me I was not now.",on,0
+106,184_106,184_106,T,Things have changed markedly on that in that department?,yq,0
+107,184_107,184_107,P,Yeah,op,0
+108,184_108,184_108,T,"Wow, that's a lot of strengths. So we're almost done with intake today. Right? We'll be starting the regular sessions later starting next week. ",gc,0
+109,184_109,184_109,P,"Okay, nice. ",ack,0
+110,184_110,184_110,T,"You can set that appointment up front. Okay. We'll find something that works for your scheduling and for mine. Before we wrap up, you remember earlier in the intake, you mentioned that you had some suicidal thoughts within the last 30 days, such indicated and I told you that we will come back to that. So, I want to touch on that briefly before we break for the day. Can you tell me about the suicidal ideations that you're having? ","id, irq",0
+111,184_111,184_111,P,"Well, it's not really like I'm picturing Am I gonna get a gun blow my brains out or anything like that. It's more like when I get home from work and I'm lying there I want to go down you know, play hearts with my kids or something like that and I just I can't do it. I just want to turn the lights out and I do and go to sleep. I think like if I just went to sleep right now didn't wake up tomorrow. You know, how bad would that be?",id,-1
+112,184_112,184_112,T,So kind of a passive suicidal thinking process. You don't have any intent to harm yourself? Or any plan to harm youself.,yq,0
+113,184_113,184_113,P,No No,on,0
+114,184_114,184_114,T,Are you sure?,crq,0
+115,184_115,184_115,P,yeah.,cd,0
+116,184_116,184_116,T,"Okay. There's a term we use in counseling called contracting for safety. Right? What that means is that you can essentially Promise me that you're going to be safe. You know, at least in our next session, but really it's for the foreseeable future. Right. So can you contract for safety?","id, yq",0
+117,184_117,184_117,P,Yeah.,op,0
+118,184_118,184_118,T,"What would you do if these suicidal thoughts started become more pronounced? Let's make a plan around that. I'm not predicting or hoping to take will and I don't have any reasonably they will, but I want to be prepared. I want you to be prepared just in case sometimes have these thoughts that kind of imagine that sometimes you're not thinking about them at all and other times are a little stronger. So if they get if they get stronger, if there's a market change in them, Okay, so it comes less passive and more. You start thinking about a plan or something like that. Tell me what you would do?","id, irq",0
+119,184_119,184_119,P,I guess I can call my sisters okay,id,0
+120,184_120,184_120,T,"You said you can call  call your sister or your husband and say they weren't available as we've kind of move up, like to the plan.",gc,0
+121,184_121,184_121,P,"I can call my best friend. Yeah, even though like we haven't talked in a long time, I could call her anytime. It's like, No Time passes. ",gc,0
+122,184_122,184_122,T,All right. Those are all good good ideas. Say you weren't successful at that level because you couldn't get ahold of those individuals. And the thoughts were persisting What else could you do what other remedies to have available to,"gc, irq",0
+123,184_123,184_123,P,Don't know,id,0
+124,184_124,184_124,T,"I think that that's a good place to start family supports. And usually that works out fairly well, because you typically get a hold of one of those people. If let me say this if the suicidal thoughts changed dramatically, to where you feel in danger for your life like you, you're really seriously contemplating it. Yeah. All right, call 911.","gc, cv",0
+125,184_125,184_125,P,"Okay, okay.",crq,0
+126,184_126,184_126,T,"Less than that though, meaning they just get a bit worse. Use your supports. You can try and get ahold of me if I'm available. I'll get back to you. And if I'm not available, they might feel attracted to a counselor here that is. But again, if for some reason, every remedy attempt is unsuccessful. You can't get through. You can always go directly to an inpatient facility. Right? or call 911. does seem like relatively extreme measures, but losing your life would be more extreme. ","gc, cv",0
+127,184_127,184_127,P,TRUE,cr,0
+128,184_128,184_128,T,"But I want to emphasize most of the time getting in touch with family and getting supports around you House a lot. Okay, so the first call 911 would only be if it's if it really gets dramatically worse from where it is now. Okay, that makes sense. ","id, yq",0
+129,184_129,184_129,P,"Yes, sure. ",op,0
+130,184_130,184_130,T,"Last thing I want to talk to you about before we have our first session is I want to Well, I want to thank you for coming into that. Right. And I know that I know that these intakes are relatively dry. I mean, you're talking I'm writing when I'm taking down information. It's very helpful for me, though, for your treatment later on. But I realize it's not the traditional understanding most clients have counseling. ",id,0
+131,184_131,184_131,P,"Yeah, right",ack,0
+132,184_132,184_132,T,"Just supplying data to the counselor all the time, right? We'll get to the I guess you could say quote unquote, real sessions when we start next time. But I want to thank you for being patient through this process. It really will help us to get more valuable you to get more value out of those sessions. ",id,0
+133,184_133,184_133,P,All right.,ack,0
+134,184_134,184_134,T,"And I want to encourage you, I know that from what you said in the intake, that you're feeling down, if like you're relating well to your coworkers, it's it appears that you're disappointing yourself and how you're relating to your children and your husband. Like, not a good mom, not a good spouse. All all these thoughts are understandable in the context of being down or maybe depressed, right? If that's what's going on, it sounds like that is what could be going on. ",id,0
+135,184_135,184_135,P,Ok,ack,0
+136,184_136,184_136,T,"We'll figure it out as we, as we move through and work toward a diagnosis. But as you commit to therapy, and as you come in for counseling regularly, I hope that these symptoms would improve. And oftentimes they do, obviously, I can't guarantee it, but oftentimes they do. So I want to, I want you to recognize that it's a value to be hopeful, and to look forward to good things. And to realize you take a big step by coming here today. And it was difficult and it wasn't easy by answering all these questions rehashing all these things. And the work of counseling itself is challenging times. But I do think it's worth it. If it has a good chance it does, of improving how you feel. So I want to applaud your commitments that encourage you to attend the first session and attend every session and really work through this process. Do you have any questions for me before we end today?","id, yq",0
+137,184_137,184_137,P,"Umm No, I don't think so.",on,0
+138,184_138,184_138,T,"If you should have any questions to rise, I know for me, I always think of the best questions after I leave. You know, if I'm in an environment where I'm supposed to ask questions, and somebody says that, it's always when I get my car that I remember them. Yeah. So if that happens to you, feel free to give me a call and leave a message. And I'll be happy to get back to you with an answer as soon as I can. So I look forward to seeing you next week then. ",id,0
+139,184_139,184_139,P,"Okay, good. ",ack,0
+140,184_140,184_140,T,Thanks again,gc,0
+141,184_141,184_141,P,Thank you.,gc,0

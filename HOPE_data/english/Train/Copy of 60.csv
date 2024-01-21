@@ -1,0 +1,58 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,60_0,0,60_0,154_0,T,"Kathleen Hi,",gt
+1,60_1,1,60_1,154_1,P,good. How are you?,gt
+2,60_2,2,60_2,154_2,T,"doing? Well, thanks for asking. I'd like to ask you some questions about your memory. Listen carefully. I'm going to say three words. You say them back after I stop reading. Here they are milk, sensible before. Now repeat those words back to me. ","gt,ci"
+3,60_3,3,60_3,154_3,P,"Milk, sensible and before. ",cr
+4,60_4,4,60_4,154_4,T,Now keep those words in mind. I'm going to ask you to say them again in a few minutes. Okay?,ci
+5,60_5,5,60_5,154_5,T,What day is today?,irq
+6,60_6,6,60_6,154_6,P,Monday,id
+7,60_7,7,60_7,154_7,T,what is the year,irq
+8,60_8,8,60_8,154_8,P,2015,id
+9,60_9,9,60_9,154_9,T,What is the season?,irq
+10,60_10,10,60_10,154_10,P,Summer. still hot.,id
+11,60_11,11,60_11,154_11,T,What is the month of the year?,irq
+12,60_12,12,60_12,154_12,P,September,id
+13,60_13,13,60_13,154_13,T,What is the day of the week?,irq
+14,60_14,14,60_14,154_14,P,Monday,id
+15,60_15,15,60_15,154_15,T,What is the date?,irq
+16,60_16,16,60_16,154_16,P,The 14th,id
+17,60_17,17,60_17,154_17,T,where are we now?,irq
+18,60_18,18,60_18,154_18,P,in your office,id
+19,60_19,19,60_19,154_19,T,What is the state?,irq
+20,60_20,20,60_20,154_20,P,Delaware,id
+21,60_21,21,60_21,154_21,T,What is the county?,irq
+22,60_22,22,60_22,154_22,P,New Castle,id
+23,60_23,23,60_23,154_23,T,what is the city?,irq
+24,60_24,24,60_24,154_24,P,Smyrna,id
+25,60_25,25,60_25,154_25,T,What is the name of the building?,irq
+26,60_26,26,60_26,154_26,P,I didn't know it had a name. Okay.,id
+27,60_27,27,60_27,154_27,T,What type of building is it?,irq
+28,60_28,28,60_28,154_28,P,A school.,id
+29,60_29,29,60_29,154_29,T,What floor Are we on?,irq
+30,60_30,30,60_30,154_30,P,The second,id
+31,60_31,31,60_31,154_31,T,what were those three words I asked you to remember?,irq
+32,60_32,32,60_32,154_32,P,Milk.,id
+33,60_33,33,60_33,154_33,P,cup. Book. Okay.,id
+34,60_34,34,60_34,154_34,T,Now I'd like you to subtract seven from 100 then keep subtracting seven from each answer until I tell you to stop. What is 100 take away,cv
+35,60_35,35,60_35,154_35,P,92,cr
+36,60_36,36,60_36,154_36,T,keep going,cv
+37,60_37,37,60_37,154_37,P,85,cr
+38,60_38,38,60_38,154_38,T,keep going,cv
+39,60_39,39,60_39,154_39,P,79,cr
+40,60_40,40,60_40,154_40,T,Keep Going,cv
+41,60_41,41,60_41,154_41,P,72,cr
+42,60_42,42,60_42,154_42,T,keep going.,cv
+43,60_43,43,60_43,154_43,P,And 64 ,cr
+44,60_44,44,60_44,154_44,T,"Okay, good. What is this?",irq
+45,60_45,45,60_45,154_45,P,Your eye,id
+46,60_46,46,60_46,154_46,T,And what is this,irq
+47,60_47,47,60_47,154_47,P,your ear,id
+48,60_48,48,60_48,154_48,T,"Now I'm going to ask you to repeat what I say. Ready? It is a lovely, sunny day, but too warm. Now you say that","yq, cv"
+49,60_49,49,60_49,154_49,P,is a lovely sunny day and it's warm.,cr
+50,60_50,50,60_50,154_50,T,"Listen carefully, because I'm going to ask you to do something. Look at these pictures and point to the circle. Then point to the square. And then point to the triangle.",ci
+51,60_51,51,60_51,154_51,T,Please do what this says to do. Okay.,ci
+52,60_52,52,60_52,154_52,T,"You'll find a piece of paper diala for you before using that blank piece of paper, please write a sentence. I see it. Thank you.",ci
+53,60_53,53,60_53,154_53,P,Okay,cr
+54,60_54,54,60_54,154_54,T,"Please copy this design, you can hold on to that. Good",ci
+55,60_55,55,60_55,154_55,T,"Kathleen, that's the end of the test. I want to thank you This was very helpful. ",ci
+56,60_56,56,60_56,154_56,P,Okay. Thank you,cr

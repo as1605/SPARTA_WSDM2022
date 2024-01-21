@@ -1,0 +1,78 @@
+,ID,Unnamed: 0,ID,Unnamed: 0.1,Type,Utterance,Dialogue Act
+0,29_0,0,29_0,./D_0,T,"So, I want to change gears a little. And talk about your family. Is that okay?",gc
+1,29_1,1,29_1,./D_1,P,"Oh, that's a lot but all right.",gc
+2,29_2,2,29_2,./D_2,T,A lot of information there.,orq
+3,29_3,3,29_3,./D_3,P,Yeah.,od
+4,29_4,4,29_4,./D_4,T,All right. Let's start with. Can we start with your parents and tell me what you feel comfortable? Tell me about them?,irq
+5,29_5,5,29_5,./D_5,P,"Well, my father was incarcerated when I was four for drug trafficking.",id
+6,29_6,6,29_6,./D_6,T,Drug trafficking.,irq
+7,29_7,7,29_7,./D_7,P,Yeah. And he died a few years ago from a stroke.,id
+8,29_8,8,29_8,./D_8,T,"How many years ago,",irq
+9,29_9,9,29_9,./D_9,P,about three years ago,id
+10,29_10,10,29_10,./D_10,T,It would age was he when he passed away. To be,irq
+11,29_11,11,29_11,./D_11,P,"honest, I don't even remember. I don't really talk to him.",id
+12,29_12,12,29_12,./D_12,T,How much your mother,irq
+13,29_13,13,29_13,./D_13,P,My mom is crazy.,id
+14,29_14,14,29_14,./D_14,T,Tell me about that.,crq
+15,29_15,15,29_15,./D_15,P,"Um, when I was in high school, and I would still live with her. Sometimes I would come home and there was no running water. There was no electricity, there was no nothing. She had gambled the money away. We've had several times where I've had to hide the cars, in fear of them being repossessed. And I couldn't take it after a while and I moved out when I was about 16 She calls me every now and then sometimes for money sometimes to talk, really talk to her about.",cd
+16,29_16,16,29_16,./D_16,T,"So, how would you describe the quality of your relationship right now?",orq
+17,29_17,17,29_17,./D_17,P,Not good. Not good.,od
+18,29_18,18,29_18,./D_18,T,It sounds like there's not much communication.,orq
+19,29_19,19,29_19,./D_19,P,"Not anymore. No, no, she's tried but I refuse to speak to her.",od
+20,29_20,20,29_20,./D_20,T,"Do you know if your father mother, either one has any history of mental illness?",irq
+21,29_21,21,29_21,./D_21,P,"Um, my mom was diagnosed as bipolar. Um, my father, I don't know much about him. I know he had a problem with anger to",id
+22,29_22,22,29_22,./D_22,T,you remember that?,yq
+23,29_23,23,29_23,./D_23,P,"Yeah, I do.",ack
+24,29_24,24,29_24,./D_24,T,So that's your father and your mother. have any siblings?,irq
+25,29_25,25,29_25,./D_25,P,I have an older sister and a younger sister.,id
+26,29_26,26,29_26,./D_26,T,Two sisters?,crq
+27,29_27,27,29_27,./D_27,P,"Well, my older sister pretty much raised me and my younger sister. Since mom was never around and dad was in jail. I love her to death.",cd
+28,29_28,28,29_28,./D_28,T,"This is your older sister,",crq
+29,29_29,29,29_29,./D_29,P,my older sister.,cd
+30,29_30,30,29_30,./D_30,T,How about your younger sister?,irq
+31,29_31,31,29_31,./D_31,P,"My younger sister. Um, we don't talk very much. She doesn't want to talk to me. She says I'm a bad influence. ",id
+32,29_32,32,29_32,./D_32,T,a bad influence on?,crq
+33,29_33,33,29_33,./D_33,P,"her on her, her her friends. I think she's kind of stuck up. I mean,",cd
+34,29_34,34,29_34,./D_34,T,we're actually think that,irq
+35,29_35,35,29_35,./D_35,P,"does she think she's better than me? Just because well She went to college. Well, good for you.",id
+36,29_36,36,29_36,./D_36,T,"All right, so it sounds like a positive relationship. Kind of admire your older sister. Is that right?",orq
+37,29_37,37,29_37,./D_37,P,"Yeah, I love my older sister.",od
+38,29_38,38,29_38,./D_38,T,"And her relationship with younger sister is a little bit different. I mean,",irq
+39,29_39,39,29_39,./D_39,P,"I love her too. And I can deal with her in small doses, but that's pretty much it.",id
+40,29_40,40,29_40,./D_40,T,How often you communicate with each one?,irq
+41,29_41,41,29_41,./D_41,P,"My older sister I talked to you, like almost every day. Um, you know, she's always there to know shoulder to cry on or, you know, if I'm in a bind, and I need some money, she's always willing to help me out. She can watch the kids if I need to go somewhere. If she's, she's my rock. younger than I mean, we talked maybe every other week. Let us know what each other is up to. Maybe we'll go to dinner.",id
+42,29_42,42,29_42,./D_42,T,"So, quite a bit closer to your older sister than younger sister. Any mental health history with either sister.",irq
+43,29_43,43,29_43,./D_43,P,"Um, my older sister was depressed and has a lot of anxiety when she was young, because she dealt with more of my dad that I did",id
+44,29_44,44,29_44,./D_44,T,Okay. So does your older sister or your younger sister for that matter? know that you're? You're here?,irq
+45,29_45,45,29_45,./D_45,P,"Oh, my older sister does my older sister I haven't spoken to her this week yet. ",id
+46,29_46,46,29_46,./D_46,T,So are you planning on telling her?,crq
+47,29_47,47,29_47,./D_47,P,"Yeah, I don't see why not. Maybe it'll kind of humanize her a little bit. Like, I'm not as bad as person She thinks I am",cd
+48,29_48,48,29_48,./D_48,T,Do you feel a need to make a positive impression on them?,orq
+49,29_49,49,29_49,./D_49,P,"No, but I think sometimes it's easier. It's easier. It's easier. You're not being the bad sister.",od
+50,29_50,50,29_50,./D_50,T,That's how you believe you're viewed.,yq
+51,29_51,51,29_51,./D_51,P,Yeah. by her by her.,ack
+52,29_52,52,29_52,./D_52,T,All right. How about grandparents?,irq
+53,29_53,53,29_53,./D_53,P,My dad's family they don't really know about.,id
+54,29_54,54,29_54,./D_54,T,Any mental health history that the grandparents are aware of.,irq
+55,29_55,55,29_55,./D_55,P,"I mean, the one grandma that was still alive, she had like some kind of dementia or something and then all timers dementia",id
+56,29_56,56,29_56,./D_56,T,"How about aunts, uncles, cousins? Hey babe. No,",irq
+57,29_57,57,29_57,./D_57,P,"I had a lot of cousins. A lot of cousins in and out of the house at various points in the even in the day, sometimes I leave for school, there'd be a certain set of cousins. They're coming from school completely different set.",id
+58,29_58,58,29_58,./D_58,T,"have contact with them? Um,",irq
+59,29_59,59,29_59,./D_59,P,"do like social media and stuff. I mean, they're all spread out over the country now. But, you know, I keep in contact with them as much as I can.",id
+60,29_60,60,29_60,./D_60,T,about children?,irq
+61,29_61,61,29_61,./D_61,P,I have two children.,id
+62,29_62,62,29_62,./D_62,T,"Okay, tell me about them. ",irq
+63,29_63,63,29_63,./D_63,P,"Um, they are the loves of my life.",id
+64,29_64,64,29_64,./D_64,T,which sister,irq
+65,29_65,65,29_65,./D_65,P,my older sister she watches them when I'm off okay,id
+66,29_66,66,29_66,./D_66,T,so.,ack
+67,29_67,67,29_67,./D_67,P,you want to kindergarten and the other in,id
+68,29_68,68,29_68,./D_68,T,the second grade you mentioned when can you gardens a son,crq
+69,29_69,69,29_69,./D_69,P,"She comes home with like they have like not the merits but like well referrals. She likes to be kind of a pushover. Not pushover but like a bully at school or boy. I've gotten several calls from the principal and our teachers saying she pushed another kid Oh, get another kid asked if he could have A piece of paper and she yelled and screamed. You know, she comes home and I feel I'll yell at her. Do you like this? Do you like me yelling at you? Why would you yell at somebody else?",cd
+70,29_70,70,29_70,./D_70,T,"This problem worry, behavior.",crq
+71,29_71,71,29_71,./D_71,P,"Well, yeah, I mean, I got in trouble in school too. When? I mean, not when I was her age. I was kind of better at school when I was in her age, but I don't want to go down the same path.",cd
+72,29_72,72,29_72,./D_72,T,"Sure, a little worried about that. Yeah.",crq
+73,29_73,73,29_73,./D_73,P,"Um, I see them. I mean, why I work so I don't see the one on there. They go to daycare, but sometimes if I like go out to a party or something where I know some stuff that's gonna be there or there's parties over at my house where I know some stuff that's going to be there. I dropped off with my sister.",cd
+74,29_74,74,29_74,./D_74,T,"When you say stuff to so clear, you mean drugs.",irq
+75,29_75,75,29_75,./D_75,P,"Yeah. drugs, alcohol. Yeah, I'd rather my kids not see me like that. So I say,",id
+76,29_76,76,29_76,./D_76,T,so you're protecting them from that. Oh yeah yeah,ack

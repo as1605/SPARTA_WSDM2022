@@ -1,0 +1,80 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,20_0,0,20_0,117_0,T,How are you?,gt
+1,20_1,1,20_1,117_1,P,"Thanks, how are you?",gt
+2,20_2,2,20_2,117_2,T,I'm doing well. Thank you for asking. I understand that. You've come here today because you've had some symptoms that have been bothering you.,"gt,irq"
+3,20_3,3,20_3,117_3,P,Yeah. I have anxiety sometimes. And I've lost about three jobs within the past year.,id
+4,20_4,4,20_4,117_4,T,You've lost three jobs in the past year. Is it because of things?,irq
+5,20_5,5,20_5,117_5,P,"Yeah, well, I'm scared that something's going to happen and my apartment.",id
+6,20_6,6,20_6,117_6,P,So I need to unplug things.,id
+7,20_7,7,20_7,117_7,P,"But I it has to be in order. So when I unplug things, it has to start with the TV and then my computer And then my phone and then the lamps. And then I've been late to work.",id
+8,20_8,8,20_8,117_8,T,"Alright, so you have a system you go through of unplugging. Yeah, different objects in your apartment. And you're worried that they're going to cause a problem if they're left plugged in.",crq
+9,20_9,9,20_9,117_9,P,Yeah. Like if they overheat it because they burned it down.,cd
+10,20_10,10,20_10,117_10,T,"You're so afraid that if you leave them plugged in or overheat, ","orq,yq"
+11,20_11,11,20_11,117_11,P,"yeah, ","od,ack"
+12,20_12,12,20_12,117_12,T,and your apartment will catch on fire.,yq
+13,20_13,13,20_13,117_13,T,"And you have a particular order, you go in as you unplug,",yq
+14,20_14,14,20_14,117_14,P,yeah.,ack
+15,20_15,15,20_15,117_15,T,What happens if you're unplugging the items and you get distracted or something interrupts that,irq
+16,20_16,16,20_16,117_16,P,mean sometimes I'll get like a text message and I'll hear my phone call. Have to just start all over again.,id
+17,20_17,17,20_17,117_17,T,Will you plug the objects back in? Are we how we do it for the items are already unplugged?,irq
+18,20_18,18,20_18,117_18,P,"I would just have to unplug them, and then I would have to plug them back in or vice versa.",id
+19,20_19,19,20_19,117_19,T,I should go back and plug them in?,yq
+20,20_20,20,20_20,117_20,P,Yeah.,ack
+21,20_21,21,20_21,117_21,T,What's your anxiety level? Like as you start that process?,irq
+22,20_22,22,20_22,117_22,P,It's it's really bad.,id
+23,20_23,23,20_23,117_23,T,Is it?,yq
+24,20_24,24,20_24,117_24,P,Yeah.,ack
+25,20_25,25,20_25,117_25,T,How about towards the end of the process?,irq
+26,20_26,26,20_26,117_26,P,"It goes away. But it it's just kind of temporary for a little bit of time, and then it comes back and I have to go check it again.",id
+27,20_27,27,20_27,117_27,T,"Okay, so So when it comes back, everything's unplugged. So you have to plug everything back in, unplug it. ","crq,yq"
+28,20_28,28,20_28,117_28,P,Yeah.,"cd,ack"
+29,20_29,29,20_29,117_29,T,And go through the whole process again. It's just pretty distressing.,yq
+30,20_30,30,20_30,117_30,P,Yeah.,ack
+31,20_31,31,20_31,117_31,T,Yeah. And you think that This is what led to the problems of deployment.,orq
+32,20_32,32,20_32,117_32,P,"Yeah, because I also, I have to lock my door, but I like to lock it 12 times. So I'll put the key in, and I'll hear it click, but then I just like doing it 12 times just to make sure it's locked. And that made me late for work. And then when I was at work, I have a drawer on the cashier. Um, so I would just make sure it was locked, but I would have to do it, you know, 12 times just make sure was locked. And I didn't get back in time to like, half the customers.",od
+33,20_33,33,20_33,117_33,T,Sure your employer wasn't wasn't happy with that.,yq
+34,20_34,34,20_34,117_34,P,Yeah.,ack
+35,20_35,35,20_35,117_35,T,And that led to those new job.,yq
+36,20_36,36,20_36,117_36,P,Yeah.,ack
+37,20_37,37,20_37,117_37,T,you're working now?,irq
+38,20_38,38,20_38,117_38,P,"No, um, I had a job for a little bit of time. It was again a cashier position. But I was on break. And, you know, I was like in the room and I have the fights and I Just Just want to be sure like they would go off all the way because they don't want me to light on.",id
+39,20_39,39,20_39,117_39,P,"And by the time I got done turning them on, and just make sure they were off",id
+40,20_40,40,20_40,117_40,P,and get back in time on the floor.,id
+41,20_41,41,20_41,117_41,P,My employer just said I wasn't a good fit,id
+42,20_42,42,20_42,117_42,T,wasn't a good fit. So this so these symptoms have caused you some real problems.,yq
+43,20_43,43,20_43,117_43,P,Yeah.,ack 
+44,20_44,44,20_44,117_44,T,With employment and how about with your anxiety level?,irq
+45,20_45,45,20_45,117_45,P,My anxiety is really bad.,id
+46,20_46,46,20_46,117_46,T,If we were to put on a scale like one was very little exciting. A 10 was the worst anxiety you've ever experienced. What kind of anxiety having a daily basis now?,orq
+47,20_47,47,20_47,117_47,P,"Probably, like a 10",od
+48,20_48,48,20_48,117_48,T,by 10. So the worst ever,yq
+49,20_49,49,20_49,117_49,P,Yeah.,ack
+50,20_50,50,20_50,117_50,T,"and checking the door was checking light switches, unplugging everything. This reduces your anxiety for a while just for",irq
+51,20_51,51,20_51,117_51,P,a little bit.,id
+52,20_52,52,20_52,117_52,T,But then it comes back?,yq
+53,20_53,53,20_53,117_53,P,Yeah.,ack
+54,20_54,54,20_54,117_54,T,Is there anything else that you do that helps to reduce the anxiety?,irq
+55,20_55,55,20_55,117_55,P,"It's just, I guess when I'm in the act of doing it, it will relieve it. And that'll be okay for a little bit of time. But even coming in, you know, like I said, when you have chairs and some pictures, and I just like I had to touch them, like, had to touch the chairs. But I wanted to touch the chairs first, and then the pitchers. And that's normally what I do. I'm in a room like I have to touch the chairs first. And I feel okay when I'm doing it. And then when I'm finished, I feel a little better. But then it comes back things.",id
+56,20_56,56,20_56,117_56,T,Do you know how long you've had these symptoms?,irq
+57,20_57,57,20_57,117_57,P,"Probably since, I guess like third grade.",id
+58,20_58,58,20_58,117_58,T,So So sometime Yeah. Did they start off? Like they are now? Or are they different?,irq
+59,20_59,59,20_59,117_59,P,And started off with a little bit of things like I would just get a little bit of anxiety. I just went on to play with the doorknob. And then as I got it went away for like a year. Maybe and then I would start to play with the lights and just make sure that they were off.,id
+60,20_60,60,20_60,117_60,T,It was the same thing that help reduce anxiety.,yq
+61,20_61,61,20_61,117_61,P,Yeah.,ack
+62,20_62,62,20_62,117_62,T,didn't cause any trouble?,irq
+63,20_63,63,20_63,117_63,P,"My parents didn't really like it. They kind of were like, you know, something's wrong with you. Yeah. Stop playing with that.",id
+64,20_64,64,20_64,117_64,T,Will you ever taken somewhere and diagnosed or treated?,irq
+65,20_65,65,20_65,117_65,P,"No, no. My parents just thought it was like nerves.",id
+66,20_66,66,20_66,117_66,T,And now it's now it's the worst it's ever been.,yq
+67,20_67,67,20_67,117_67,P,Yeah. Yeah.,ack
+68,20_68,68,20_68,117_68,T,Do you feel like you're able to go back to work with the symptoms? Boy they are now?,irq
+69,20_69,69,20_69,117_69,P,Probably not.,id
+70,20_70,70,20_70,117_70,T,Because they're so disruptive.,yq
+71,20_71,71,20_71,117_71,P,Yeah.,ack
+72,20_72,72,20_72,117_72,T,Have you ever had any medical conditions?,yq
+73,20_73,73,20_73,117_73,P,No.,ack
+74,20_74,74,20_74,117_74,T,And have you ever used or do use a types of a type of drug or alcohol.,yq
+75,20_75,75,20_75,117_75,P,No,ack
+76,20_76,76,20_76,117_76,T,And I want to thank you for coming. I'm going to get you scheduled to see one of our counselors. I appreciate you spending time with me. It's helped me to understand what you're going through.,ci
+77,20_77,77,20_77,117_77,P,Thank you.,gt
+78,20_78,78,20_78,117_78,T,Thanks.,gt

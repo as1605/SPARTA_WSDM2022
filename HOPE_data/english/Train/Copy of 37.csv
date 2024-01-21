@@ -1,0 +1,53 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,37_0,0,37_0,132_0,T,"Sir, how you doing today?",gt
+1,37_1,1,37_1,132_1,P,"All right today? Yes,",gt
+2,37_2,2,37_2,132_2,T,I understand that you've been having some symptoms and that's what brought you into our agency. Could you tell me about that?,irq
+3,37_3,3,37_3,132_3,P,"Um, I've been having a lot of worry. Worry. Yes. A lot of worry on and off for about the past four or five months, maybe four or five months, about four or five months, maybe about six months? Yeah, round four or five, six months. And I just started back to school after being a stay at home mom for 20 years. The Kids Are All awful to college now in a way and I decided why not go back to school do something else now.",id
+4,37_4,4,37_4,132_4,P,And it's just been causing. And I've just been getting worse so much lately.,id
+5,37_5,5,37_5,132_5,T,"All right, so so a lot of worry, summer at four or five or six months",irq
+6,37_6,6,37_6,132_6,P,"it's been going somewhere in there for five, six months.",id
+7,37_7,7,37_7,132_7,T,Have you had this worry more days than you haven't had it in that last four to six months?,irq
+8,37_8,8,37_8,132_8,P,"I've had a lot of good days. I mean, I've had some bad days. I want to get these two. So I don't know. Okay,",id
+9,37_9,9,37_9,132_9,T,not quite sure. Sure.,crq
+10,37_10,10,37_10,132_10,T,Do you find the worry difficult to control?,irq
+11,37_11,11,37_11,132_11,P,"What to do or Yes, yes.","crq,ack"
+12,37_12,12,37_12,132_12,T,So I'm going to ask you some questions related to this. Let me know if you've experienced these symptoms. You You restless keyed up on edge.,yq
+13,37_13,13,37_13,132_13,P,"Yes, Yes, I do. Okay.",ack
+14,37_14,14,37_14,132_14,T,How about are you easily tired?,irq
+15,37_15,15,37_15,132_15,P,all the time? So tired all the time?,id
+16,37_16,16,37_16,132_16,T,Yeah. All the time. Yes. You're having trouble concentrating or finding your mind go blank.,irq
+17,37_17,17,37_17,132_17,P,Find the mind just wondering. Just cold blankets avocado calm like yes. Okay.,id
+18,37_18,18,37_18,132_18,T,Do you find that you've been irritable?,yq
+19,37_19,19,37_19,132_19,P,Very much so.,ack
+20,37_20,20,37_20,132_20,T,Yeah.,crq
+21,37_21,21,37_21,132_21,T,Name muscle tension.,yq
+22,37_22,22,37_22,132_22,P,Yes. rigidness,"ack,id"
+23,37_23,23,37_23,132_23,T,and tell me about how you've been sleeping.,irq
+24,37_24,24,37_24,132_24,P,"I'm not very well, obviously not very well. lately. I find that hard. Just I can't go to sleep. And I can't stay asleep. It's just been hard.",id
+25,37_25,25,37_25,132_25,T,Do I drink alcohol or use any drugs?,yq
+26,37_26,26,37_26,132_26,P,"No, I don't know. ",on
+27,37_27,27,37_27,132_27,T,Have you ever had a panic attack?,yq
+28,37_28,28,37_28,132_28,P,No,on
+29,37_29,29,37_29,132_29,T,"Okay, trauma and history,",yq
+30,37_30,30,37_30,132_30,P,No,on
+31,37_31,31,37_31,132_31,T,any mental health disorders at all?,yq
+32,37_32,32,37_32,132_32,P,No,on
+33,37_33,33,37_33,132_33,T,You find the symptoms,yq
+34,37_34,34,37_34,132_34,T,"very distressing. Um,",yq
+35,37_35,35,37_35,132_35,P,yes. distressing? Yes.,"irq,ack"
+36,37_36,36,37_36,132_36,T,And what areas are the distressing?,irq
+37,37_37,37,37_37,132_37,P,I'm at home so much at home.,id
+38,37_38,38,37_38,132_38,T,"Yeah, ",crq
+39,37_39,39,37_39,132_39,P,"I'm doing I'm already in school. Schools okay schools don't I 4.0 well, very good. I'm just at home I'm just in a constant state of worry all the time.",cd
+40,37_40,40,37_40,132_40,T,How about when you go out with friends have fun.,irq
+41,37_41,41,37_41,132_41,P,Great times. Great times. My friend tests,id
+42,37_42,42,37_42,132_42,T,have gone out. Is there something specific to your home environment you think might be contributing to this because you don't have it? at school? You don't have socially,irq
+43,37_43,43,37_43,132_43,P,"I mean, we have some problems here. ",id
+44,37_44,44,37_44,132_44,P,And there are some problems here. ,
+45,37_45,45,37_45,132_45,T,"They're nothing you could isolate as maybe causing the symptoms,",od
+46,37_46,46,37_46,132_46,P,"um, windows, maybe maybe not things but just not an Ikea.",od
+47,37_47,47,37_47,132_47,T,Nothing you can't work through.,crq
+48,37_48,48,37_48,132_48,T,"Alright, so I'm going to get you in to see one of our counselors if that's okay with you. Just take a couple days for you to get in, get appointments set and pretty get in. Is that okay?","cd,crq"
+49,37_49,49,37_49,132_49,P,I would like to see your house. Yes.,orq
+50,37_50,50,37_50,132_50,T,Okay. I'll get that set up. And I want to thank you for answering these questions has been really helpful to me.,"od,ack"
+51,37_51,51,37_51,132_51,P,Thank you.,gt

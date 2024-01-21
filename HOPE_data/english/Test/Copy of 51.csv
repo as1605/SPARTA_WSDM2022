@@ -1,0 +1,40 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,51_0,0,51_0,146_0,T,Hi You How you doing today.,gt
+1,51_1,1,51_1,146_1,P,Good. How are you?,gt
+2,51_2,2,51_2,146_2,T,I'm doing well. Thanks for asking.,gt
+3,51_3,3,51_3,146_3,P,Good Good.,gt
+4,51_4,4,51_4,146_4,T,Your brother Bhushan today and he's had some concerns about your mood.,crq
+5,51_5,5,51_5,146_5,P,"I mean, he has but I don't it's kind of weird because I'm it's actually been great. It's been great. It's been great like I've I mean I used to have issues with mood but I don't anymore and now I just oh for at least you know, last couple days at least. Maybe about a week. I don't know I haven't been paying attention but I've thought awesome like I've gotten so much done. You know I do stuff at work. I do stuff at home. I went shopping. I am doing great with Like, well, kinda great with my interpersonal relationships like I was thinking about at work this week, I thought I was like so proud of myself I. Well, firstly, I got a promotion. And also, so I was happy with that. But then I know one of my co workers, he had his birthday. So I was like, Oh, let me do something nice for him. And I went home and I baked the cake, but it's kind of annoying, because when I got there, he got mad, which is stupid, because he said, he didn't appreciate the fact that he said over the hill, but he's like, old, so I thought it'd be funny, but it wasn't apparently. But so yeah, besides that, like, this week's been awesome. And, you know, like I said, I got my promotion and made a lot of money. Like with a nice increase, I should say. And I just, yeah, so I've been feeling awesome. Getting a lot done.","cd,id"
+6,51_6,6,51_6,146_6,T,Yeah. You feel like you're getting a lot accomplished at work at home and what types of things you,crq
+7,51_7,7,51_7,146_7,P,"So there's a couple projects at work that I've been working on. I got all those done. And I at home I have been working on my, like unpacking because I moved in kind of a while ago, but I have still had boxes sitting around and stuff. So I got that all taken care of. I'm completely unpacked. Over the weekend, I went and bought some, like home decor stuff. So it really makes the house look just like I want it to look and I'm happy with it.","cd,id"
+8,51_8,8,51_8,146_8,T,So your mood is moods up. They your brother specifically had concerns about spending money.,crq
+9,51_9,9,51_9,146_9,P,"I mean, he's worried because I went on a shopping spree so he doesn't really know how much I am making with this new promotion and I don't really want to tell him I might I might actually because I'm proud of myself like I deserve it and I you know, we're still hard for so long in this company. And so with the shopping spree was kind of like treating myself. And so I've gone I went out and I did spend a lot of money. I actually maxed out one of my credit cards, but I don't have a lot of bills right now. Like I paid off all my debts, and I finished paying off my student loans too, so I could pay for it. So that's why he's worried. And like, I called him because I ran out of space in my car, and I was going to try to put this table that was gonna buy on top of my car bins and have like one of those things to attach it. So it didn't work out. And so I think you kind of got worried because he thought I was buying too much, but I returned that item because obviously I couldn't fit in my car and he couldn't come help me. So besides I've been fine.","cd,id"
+10,51_10,10,51_10,146_10,T,"So you haven't you haven't gotten any trouble at work, or at home or anything?",irq
+11,51_11,11,51_11,146_11,P,"No, not at all. I mean, like I said, I got approached at work. My bosses are extremely happy with how productive I've been how much I'm getting done. The quality of my work, I'm able to like, look over the reports and everything I turn in several times before I do it, and I always make sure I do. So.",id
+12,51_12,12,51_12,146_12,T,"Okay. Any changes with your sleep habits? Um,",irq
+13,51_13,13,51_13,146_13,P,"yes and no. I mean, yes, because I haven't really been sleeping as much as I used to. I think I used to sleep too much. But like, I haven't needed to this week, like, but it hasn't been an issue. It's actually been a good thing.",id
+14,51_14,14,51_14,146_14,T,So how much did you sleep last night?,irq
+15,51_15,15,51_15,146_15,P,I'm just about an hour and a half.,id
+16,51_16,16,51_16,146_16,T,You feel rested?,irq
+17,51_17,17,51_17,146_17,P,"I do feel rested. I might take a nap later, like a 30 minute nap and then I'll be fine.",id
+18,51_18,18,51_18,146_18,T,Sure have a lot of energy.,yq
+19,51_19,19,51_19,146_19,P,I do.,ack
+20,51_20,20,51_20,146_20,T,Do you have any feelings of depression or anything like that? sadness?,yq
+21,51_21,21,51_21,146_21,P,no  Nothing. ,on
+22,51_22,22,51_22,146_22,T,"Oh, great. Yeah, feel great. Have you ever had anything like that? ",yq
+23,51_23,23,51_23,146_23,P,"I have, actually. Yeah. In the past, I used to I was diagnosed with depression. And so I know what it feels like. And I know that like, I don't know anything like that right now.","ack,id"
+24,51_24,24,51_24,146_24,T,How long goes that?,irq
+25,51_25,25,51_25,146_25,P,"A few years ago, ",id
+26,51_26,26,51_26,146_26,T,few years ago? Any thoughts about death or dying or anything related to that?,"crq,irq"
+27,51_27,27,51_27,146_27,P,"No, not really. I mean, no. I mean, obviously you hear about people dying on TV or like friends and family members, but like, I don't dwell on it. I feel like in the past I might have but I, I haven't been","cd,id"
+28,51_28,28,51_28,146_28,T,any drug or alcohol use?,yq
+29,51_29,29,51_29,146_29,P,No.,on
+30,51_30,30,51_30,146_30,T,No. How you doing medically? Anything medically going on?,yq
+31,51_31,31,51_31,146_31,P,"No, I'm healthy. You're healthy.",on
+32,51_32,32,51_32,146_32,P,"No, nothing like that ever happened",on
+33,51_33,33,51_33,146_33,T,Sure? You answering these questions for me has been helpful. I know that you're feeling well.,crq
+34,51_34,34,51_34,146_34,T,But I'd like you to talk to a counselor if that's okay. I know that you're where your brother's concerned.,gc
+35,51_35,35,51_35,146_35,P,Is that ok here for him?,yq
+36,51_36,36,51_36,146_36,T,"your friend. Okay, so it'd be okay with you. I'd like you to speak with a counselor, at least for a little bit. I can arrange that in just a few moments if that's okay, ","ack,id"
+37,51_37,37,51_37,146_37,P,that's fine.,gt
+38,51_38,38,51_38,146_38,T,Thanks.,gt

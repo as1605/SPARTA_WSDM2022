@@ -1,0 +1,55 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialogue Act
+0,5_0,0,5_0,103_0,T,Are you doing today?,gt
+1,5_1,1,5_1,103_1,P,"Alright, thanks. How are you?",gt
+2,5_2,2,5_2,103_2,T,I'm doing okay. Thanks for asking. I understand you've been having some symptoms that have been bothersome to you.,"gt, irq"
+3,5_3,3,5_3,103_3,P,Yeah.,id
+4,5_4,4,5_4,103_4,T,Can you tell me about those?,irq
+5,5_5,5,5_5,103_5,P,"Yeah. Um, for about the last six months or so, I have have this position at work where I have to make a weekly presentation to other managers about 10 people. And I, every time I have to do this, I lose it.",id
+6,5_6,6,5_6,103_6,T,You lose it every time you have to make a presentation. Yeah. Tell me what would involve losing it.,crq
+7,5_7,7,5_7,103_7,P,"Um, I, you know, I'm usually one of the last people to go and you know, as just keeps going more and more and more and more nervous. You know, it's it starts where I feel, I feel like butterflies in my stomach. And that just becomes more intense. I start to just sweat all over. I feel if my face is turning red, my palms get really, really sweaty and you know, constantly wiping them on my on my pants, and my heart. It just feels like it's going to just beat right out of my chest. And then I just I can't, I can't",cd
+8,5_8,8,5_8,103_8,T,very it's very distressing. So So tell me about the nature of this meeting that's leading to this. This anxiety. So you said it was a you had to make a presentation about the structure of it.,crq
+9,5_9,9,5_9,103_9,P,"So there's, there's about 1010 people, the the executive director and then the the man have different programs and and we all have to do just kind of like a weekly update report. So none of it's very detailed, you know, just a maybe a few minutes each person to go around and just update everybody else on what's going on. And all the different programs. We all take turns",cd
+10,5_10,10,5_10,103_10,T,or how long do you have to speak?,irq
+11,5_11,11,5_11,103_11,P,"It's usually just a few minutes, maybe five at most 10 almost or something, you know, major going on in my program.",id
+12,5_12,12,5_12,103_12,T,When when in the course of like with this meeting occurring? When do you start to feel nervous?,crq
+13,5_13,13,5_13,103_13,P,"Oh, the day before?",cd
+14,5_14,14,5_14,103_14,T,"The day before? Yeah. Yeah. So the day before the meeting, you start to have similar symptoms, different symptoms. What do you feel",crq
+15,5_15,15,5_15,103_15,P,"Yeah, I start to I start to feel nervous. Usually the day before is when I'm pulling together in my notes, I make like a look a few bullet points on stuff that I want to present that I think as relevant and so the day before, when I'm preparing that I start to feel nervous. And then usually last through the rest of the day into the evening, I usually don't sleep well. That night and then by the time I get into work, I'm, you know, that's usually when I'm, you know, feeling you know, really nervous by by the time I get into the meeting, I'm pretty much panicking.",cd
+16,5_16,16,5_16,103_16,T,"panicking as the meeting starting,",yq
+17,5_17,17,5_17,103_17,P,yeah.,ack
+18,5_18,18,5_18,103_18,T,"So, at the meeting, everybody takes a turn, and does this brief presentation. And tell me what's happening as with your, your feelings as they're moving around. It's like if you sit at a table or Yes, as they're moving around the table and then coming closer to you.",orq
+19,5_19,19,5_19,103_19,P,"I I'm just becoming more and more terrified. My like, I just I feel like I'm being just drenched in sweat. I'm, I'm breathing faster I and I feel like everybody notices. I feel like everybody can hear me breathe. I feel like everybody can hear my heart beating, that it's just so loud that it's like, any minute everybody's gonna look at me and say what is wrong with you?",od
+20,5_20,20,5_20,103_20,T,They're gonna notice you.,crq
+21,5_21,21,5_21,103_21,P,"Yeah. And and there have been times, especially recently really, you know, it's, like I said, I mean, this has been going on for at least six months, but especially recently I feel like I've had to, like run out of the room. I couldn't tell you. Yes, I have. I've ran out and couldn't. I couldn't go back in. I tried and my my hand hit the doorknob to go back in the room and I walked up. Good. No,",cd
+22,5_22,22,5_22,103_22,T,there's too much anxiety.,crq
+23,5_23,23,5_23,103_23,P,"Yeah, I felt okay. You know, in the hallway and then when I tried to go back in the room, it's Everything justright back up again. ",cd
+24,5_24,24,5_24,103_24,T,"Yeah. So, so you would push that door open, they would all be looking at you. They would wonder why you left. ",orq
+25,5_25,25,5_25,103_25,P,Yeah.,od
+26,5_26,26,5_26,103_26,T,So you just wrote out the meeting somewhere else. And did anybody notice after?,orq
+27,5_27,27,5_27,103_27,P,"You know, after a few weeks in a row of running out, yeah. You know, my boss was like, I realize you didn't make your presentation and, you know, I just I made up an excuse, like, I got a phone call or I didn't feel good or, you know, I stumbled through some excuse, but I feel bad because I mean, this is my job. And I want to do my job. And I mean, how I've lived with this, I feel like forever, you know, because I, I had a terrible time making presentations in high school. I had a terrible time making presentations in college. And here we are again, and I try to be a professional and have a career and make a life. I can't, because I can't perform my job. I want to do my job. I like my job.",od
+28,5_28,28,5_28,103_28,T,This is this is frustrating for you.,crq
+29,5_29,29,5_29,103_29,P,Yeah.,cd
+30,5_30,30,5_30,103_30,T,Have there been times where you've fled the room? And then since then you haven't.,irq
+31,5_31,31,5_31,103_31,P,"There was one time, actually the very first time I ran out. And I didn't go back and nobody noticed. And then the second time, that following week, I started to feel that way again. And then two of my co workers to the other managers actually started to get into a fight. One of them wanted more money for their program for something or other and the controller was like, No, we have no money you can't have it's a nonprofit, so there's no money. And it was it was like getting really intense. And I don't know what it was. I just, I was fine.",id
+32,5_32,32,5_32,103_32,T,Something about that intense interaction changed how you're feeling distracted you something like that.,crq
+33,5_33,33,5_33,103_33,P,"Yeah, I guess it just, I don't know. It just didn't I, I felt I felt fine. I felt normal.",cd
+34,5_34,34,5_34,103_34,T,"So from from that meeting on like till now, have you been able to stay in for eight other meetings? No. She had to leave because of the intensity of the symptoms. ",orq
+35,5_35,35,5_35,103_35,P,"Yeah, I've there been a couple times where actually I've",od
+36,5_36,36,5_36,103_36,P,"I've I've purposely gone in late hours that I've had car trouble and a habit and I've just gone in late or I've actually just called in sick for the day. There was twice I sent somebody else in my place, saying that, you know, when I was sick, but I mean, it gets noticed.",gc
+37,5_37,37,5_37,103_37,T,"Yeah, and you're having you're experiencing symptoms. When you go Avoid that interaction the room to right because you don't feel good about letting them down or",crq
+38,5_38,38,5_38,103_38,P,"no, no, I want to do my job. I really like my job. I really do. And I like where I work. And I like the people. But the thought of making these presentations every week just terrifies me.",cd
+39,5_39,39,5_39,103_39,P,And I don't want my boss to regret putting me in this,cd
+40,5_40,40,5_40,103_40,P,"position. I don't want to disappoint him. I mean, I know he took a big chance, you know, putting me in this position. You know, I don't have a lot of experience doing this. And there were, you know, potentially there could have been other people that were better qualified, but you know, he chose me. I don't want to let him down. And I feel like I am every week with this meeting.",cd
+41,5_41,41,5_41,103_41,T,"So it's this meeting, really, you're in your situation where if you go and attend the meeting, you're going to end up leaving it because of the anxiety. If you don't attend it, Have these concerns about the performance in your shops? You're kind of stuck. You're kind of stuck, right? Yeah. Any other symptoms that you think may or may not be related to this intense anxiety? ",crq
+42,5_42,42,5_42,103_42,P,"Um, I guess I mean, I'm not sleeping the night before the meetings.",cd
+43,5_43,43,5_43,103_43,P,"I, I have started to drink a little bit to try and take the edge off. A friend of mine has said before that it's something that she's done to, to help when she's nervous. And so I've, I've tried a shot or two before going into my meeting and ",gc
+44,5_44,44,5_44,103_44,T,have any effect on,gc
+45,5_45,45,5_45,103_45,P,"I'm probably not a good effect. I mean, I was I was able to sit through the meeting, but everybody kept asking if I was okay. So I got up on the",gc
+46,5_46,46,5_46,103_46,P,"Yeah, I really feel like they weren't. And of course, I was very I didn't want anybody to get close to me because I think it's going. Yeah. I just, I was too scared to do that, again.",gc
+47,5_47,47,5_47,103_47,T,Any sadness or anything like that?,crq
+48,5_48,48,5_48,103_48,P,I'm miserable.,cd
+49,5_49,49,5_49,103_49,P,"Every time I think about, you know how much I must be disappointing my boss. I just I feel so I just feel terrible.",cd
+50,5_50,50,5_50,103_50,T,Throw it down.,crq
+51,5_51,51,5_51,103_51,P,Yeah.,cd
+52,5_52,52,5_52,103_52,T,"Sasha, I know it's been tough going through all this and the symptoms have been tough for you. We'll get you scheduled in here to get treated a couple days. We'll get you in a couple days. And you can start working with a counselor to address these symptoms. I appreciate you spending this time with me it was helpful to get a better understanding of what you're going through. ",gc
+53,5_53,53,5_53,103_53,T,Thanks.,gt

@@ -1,0 +1,17 @@
+,ID,Unnamed: 0,ID,ID.1,Type,Utterance,Dialog_Act,Dialog_Act_1,Emotion
+0,134_0,0,134_0,9_0,T,"So you mentioned before that when you wake up in the morning, you you don't want to go to work, what's going through your mind?",irq,,
+1,134_1,1,134_1,9_1,P,"I'm gonna have to, you know, hear what my coworkers have to say about what's going on. I might make another mistake. Who knows if I'm going to find out that something terrible happened to these kids when I go back to work? I guess a lot of stuff like that.",id,,-2.0
+2,134_2,2,134_2,9_2,T,"So looking into one I'm going to make a mistake. That kind of connects to what we were talking about before it says the uncertainty, you're not sure of your own skills and you're afraid of an error that's going to be costly. So when you think that thought, I'm gonna make a mistake, so this is when you're, when you're in bed before you start your day, and you have that thought, what happens right then?",id,irq,
+3,134_3,3,134_3,9_3,P,"I feel more anxious. You know, I think about like, what could happen to somebody else if I make a mistake, like kids going to the wrong home or, you know, not being with their parents when their parents you know, we're not doing anything wrong. And I just feel really like overwhelmed and it gets hard to breathe and I just want to go back to sleep and not have to face anything.",id,,-2.0
+4,134_4,4,134_4,9_4,T,So there's emotional consequences. And then the behaviors. You don't want to get out of bed.,id,,
+5,134_5,5,134_5,9_5,P,And then a lot more lately because I have trouble getting out of it.,id,,-2.0
+6,134_6,6,134_6,9_6,T,"When you're staying in bed, are you under more thoughts coming up?",irq,,
+7,134_7,7,134_7,9_7,T,"So this is really weighing on you. And he was edified these thoughts that seem to be connected with feelings that are unpleasant, and behaviors are unpleasant, but also maybe not useful.",id,crq,
+8,134_8,8,134_8,9_8,P,"Yeah, they're keeping me from getting the work and stuff like that.",cd,,
+9,134_9,9,134_9,9_9,T,"So we have a reference point for later on as we continue counseling. I'd like to scale this problem like maybe on a scale of one to 10, where 10 represents feelings that are nearly unbearable, right? And one not really a problem. How do you feel on that scale? Where do you rate yourself right now?",irq,,
+10,134_10,10,134_10,9_10,P,"Right now in this moment, probably like a five. Around the middle. Yeah, like I'm really stressed out but I not like when I'm in bed, like I can't get out of bed, that kind of thing.",id,,-2.0
+11,134_11,11,134_11,9_11,T,How would you rate yourself when you're in bed before you go to work? ,irq,,
+12,134_12,12,134_12,9_12,P,Probably like an eight.,id,,
+13,134_13,13,134_13,9_13,T,"So an eight sometimes nine, right now five, so still not feeling great. Have you had to pick an emotion of standing out above the rest in anxiety, sadness, sense of dread. What would be the worst right now?",irq,,
+14,134_14,14,134_14,9_14,P,Right now probably anxiety.,id,,-2.0
+15,134_15,15,134_15,9_15,T,"So five, on a scale 10 inside is really standing out more",id,,

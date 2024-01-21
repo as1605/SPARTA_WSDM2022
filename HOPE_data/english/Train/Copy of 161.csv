@@ -1,0 +1,138 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,161_0,161_0,T,"Hi Kyle, How are doing today ?",gt,0
+1,161_1,161_1,P,Umm not not too good.,gt,-1
+2,161_2,161_2,T,Not so good ?,crq,0
+3,161_3,161_3,P,"No, I just got into a fight my parents",cd,-1
+4,161_4,161_4,T,what's been going on?,irq,0
+5,161_5,161_5,P,"Well, I I've been doing heroin for for a few months now. And I didn't think my parents knew but I guess they they found a needle in my room. And I mean they knew what I was doing. And they they told me that I have to start shaping up and I need to I need to stop doing any kind of drugs because they said they said the next time that they find find any kind of drugs and it's, it's it, they're gonna kick me out of the house.",id,-1
+6,161_6,161_6,T,"Alright, so they're at the point where anything else happens they discover it and you're on the street. ",gc,0
+7,161_7,161_7,P,Right,gc,0
+8,161_8,161_8,T,What are your feelings about being on the street?,irq,0
+9,161_9,161_9,P,"Who want to be out there ever? I don't know who would be. I mean it would be hard just to kind of stop cold turkey and I know a couple buddies that did that and it's it's not good when you get junk sick. And I mean, I'm kind of stuck because I don't know. I don't want to be out in the streets, but it's just gonna be so hard. So hard to give",id,-1
+10,161_10,161_10,T,So there are conflicting feelings here. You don't want to be out in the street. But you don't want to give up the heroin same time.,crq,0
+11,161_11,161_11,P,"Right, Right. I just I mean, I don't want to give it up. But, I mean, I kind of know I have to. I mean, I'm a young guy, I I couldn't make it outside of my parents house and I definitely don't want to be on the streets.","cd, id",-1
+12,161_12,161_12,T,So you want to stop to avoid the consequences could happen.,crq,0
+13,161_13,161_13,P,Right. But to this point haven't been able to.,cd,-1
+14,161_14,161_14,T,So this is the first consequence or potential consequences motivated you Right since you started using,crq,0
+15,161_15,161_15,P,Yeah,cd,0
+16,161_16,161_16,T,How strong is the craving to use?,irq,0
+17,161_17,161_17,P,I mean when I first started it was I mean it was pretty freakin great. I mean the rush that you get from it it's it's just mind blowing it's it's just amazing. But of I've noticed recently that like the rush isn't as intense anymore and it's even like it's even kind of started to backfire a little bit where like actually I'll feel all sick without using it. And I mean that kind of scares me but the cravings are definitely still there.,id,-1
+18,161_18,161_18,T,"Right so when you when you try to cut back, have you tried to cut back?",irq,0
+19,161_19,161_19,P,I had before but a minute like there there is no reason to so I didn't try very hard.,id,-1
+20,161_20,161_20,T,When you did try Did you have the feeling Were you getting sick?,irq,0
+21,161_21,161_21,P,"I did. Yeah, it was an A it wasn't as bad as as any of my buddies but I definitely I mean I didn't I didn't feel well",id,-1
+22,161_22,161_22,T,have your parents given you any options in terms of like Do they understand that your seems like you're a little dependent on,irq,0
+23,161_23,161_23,P,"Yeah, I mean they they do I definitely like I don't hold anything against my parents I got you I have a pretty good relationship with them. I know what I'm doing isn't isn't good for me. And they they said that they would completely support me they they told me that they have a place picked out where I can go and that they'd be willing to pay for it and everything but they said if I you know if I don't meet them halfway then it's just that's it like it's they're done.",id,-1
+24,161_24,161_24,T,So they have a solution in a sense for what's going on. silica is like a detox.,gc,0
+25,161_25,161_25,P,It is,gc,0
+26,161_26,161_26,T,"okay detox right.  So they have a they have a solution to help get you off the heroin, but there's still, there's still a part of you that doesn't want to go that route.","gc, irq",0
+27,161_27,161_27,P,"I mean, that you know, I think I think I'm starting to come to terms and it's that it's time to stop and it might be good that maybe I'm stopping so early. I know. I know. My friends have been doing it for a lot longer than I have. But I just Yeah, I don't I don't know if the detox gonna work. I mean, it's, it's hard for me to focus on like anything until sometimes until I get my next fix.",id,0
+28,161_28,161_28,T,"Right. So there's, there's a few problems here. So So one is can you can you commit to going to detox and the second is, even if you successfully complete that, when you come back out, if you can build void the power","gc, crq",0
+29,161_29,161_29,P,"right It's tough right now cuz actually my, my dealer lives in my neighborhood. I mean, he's, I mean, he's just like a few few houses down. My my girlfriend lives in our community too. And like, he's he's on the way to her house. So a girl kind of just maybe pick it up on my way. And third, third, my bookbag and getting out my girlfriend bit and then maybe on my way back home, I'll shoot up the buddy. So",cd,-1
+30,161_30,161_30,T,"right. So you so really, you're running into them as you walk to your girlfriend's house. ",crq,0
+31,161_31,161_31,P,Right. Yeah.,cd,0
+32,161_32,161_32,T,And he's there and the temptations is great. And,crq,0
+33,161_33,161_33,P,"I mean, it's like that house is kind of, that's actually where I shoot up a lot. So it's like whenever it is ",cd,-1
+34,161_34,161_34,T,in his house?,crq,0
+35,161_35,161_35,P,"right, right. So it's like, whenever whenever I'm coming up to his house, I'm like, I start start getting excited, you know, like, sir anticipating how how great it's, it's gonna feel the next time. And it's I know it's like stuck with me I get I get excited when it's as well as you","cd, id",0
+36,161_36,161_36,T,"know, feeling so so it's exploiters. As soon as you're walking up to the wall as you're getting ready to pass this house Sumo like to all the way to your girlfriend, you divert to kind of go to his house and you have this feeling of excitement. What's the thought that's going through your mind?","gc, irq",0
+37,161_37,161_37,P,"I like I kind of, I just can't wait for the for the next hit. Now I got passes how since my parents are giving me an ultimatum. And now it's kind of mixed because I'm like, man, if I if I get to do that, and somehow they find out like, it's, it's kind of all over for me. And then but on the other hand, I'm thinking about how How great it's gonna be. I'm just kind of like I'm planning in my mind how much I'm going to do and what kind of plans we'll have for the rest of the night.","gc, id",-1
+38,161_38,161_38,T,"Okay, so you have a you have a few things going on. Do you think like, is your plan right now to go into the detox?","gc, irq",0
+39,161_39,161_39,P,"It is. Yeah, it's Yeah. I mean, my, my definite plan is to go into detox and if the detox works, like, I mean, I think I can be done with it. But it's just I don't I don't know if the detox can work. And I mean, I've never only tried to cut back that one time. And I mean, I don't know how good I'll be at it. You know,",id,-1
+40,161_40,161_40,T,let's let's presume for a second that the detox would be successful and you you wouldn't be one even you wouldn't be on heroin coming out of detox.,gc,0
+41,161_41,161_41,P,"Right, right.",gc,0
+42,161_42,161_42,T,Are you worried at that point that you'll go right back?,irq,0
+43,161_43,161_43,P,"I don't know if I'll go right back. Like I think if I can get off at the detox actually work. So with that said, Do I think I could stay off it, I think like, my, I think my cravings will still always be there. But now that it's like, now that I've come to the realization that some of the stuff that I can lose if I get caught, I mean, if I can get off it for good, I don't, I don't like I feel back. It might be hard, like if I run into my buddy or something. ","gc, irq",-1
+44,161_44,161_44,T,That's that's the point of worry right?,crq,0
+45,161_45,161_45,P,Right.,cd,0
+46,161_46,161_46,T,"so there's there is a concern that you'll you could, you could go back if you run into them?",crq,0
+47,161_47,161_47,P,right.,cd,0
+48,161_48,161_48,T,If you could stay away from him. You think you increase your chances of being successful?,orq,0
+49,161_49,161_49,P,"I mean, yeah, definitely. I won't like there's there's so many like, experiences in this house. That that kind of to feed into the anticipation and the cravings. I mean, if that doesn't happen, you probably help","gc, od",0
+50,161_50,161_50,T,When you plans in terms of going into detox?,irq,0
+51,161_51,161_51,P,Pretty soon I think I'm supposed to go on Monday after the weekend. So like three days,id,0
+52,161_52,161_52,T,okay. So it it actually sounds like what your parents have put in place you believe will work. Right? You have confidence that will work. And that your worry is what will you have is when you get out can you avoid it when your friends,gc,0
+53,161_53,161_53,P,right,gc,0
+54,161_54,161_54,T,You don't buy from anybody else other than your friends.,crq,0
+55,161_55,161_55,P,No No,cd,0
+56,161_56,161_56,T,"So so that's really becomes the maybe one of your key goals here since since your cake. Sounds like you're committed to the detox part. Right and you know, some reading that incorrectly that that seems to be something you're",gc,0
+57,161_57,161_57,P,"no Yeah, if it works, and then I can try.",gc,0
+58,161_58,161_58,T,So it's it's preparing for life after detox,crq,0
+59,161_59,161_59,P,right?,cd,0
+60,161_60,161_60,T,"and avoiding wait for the phrase people places things through with with the addictions or, or substance use. So in this case you need to avoid it would seem your friend we're and and where he lives right which is unfortunately not far from you and in between because houses in between your house and your girlfriend ","gc, id",0
+61,161_61,161_61,P,right,gc,0
+62,161_62,161_62,T,so is there a way it's may seem a little odd but there's a way to walk around the block where you can completely avoid his house and still get to your girlfriend's house.,"gc, crq",0
+63,161_63,161_63,P,"Yeah, I mean there is this is kind of out of the way but I think yeah I could go there's like a like a horseshoe path. I could. Yeah, I could. I could like go up the block and I'm like around the horseshoe and then and then I can like turn right and get her house there.","gc, cd",0
+64,161_64,161_64,T,She would never even see his house.,crq,0
+65,161_65,161_65,P,Right Right.,cd,0
+66,161_66,161_66,T,have other options as well. So there's that option. How about her coming over to where your parents that was that ever happened before?,"gc, yq",0
+67,161_67,161_67,P,"Um, I mean, yeah, she's she's come over. So maybe if like, maybe if I tell her that it'll, you know, help me out she can like she can make that walk and I'll be like, it'll be easier","op, gc",0
+68,161_68,161_68,T,"because she can walk right by the house without problem,",crq,0
+69,161_69,161_69,P,"right right I if I are walking out of the house, it'd be harder for me to actually do what I'm supposed to. So if I can't even leave, and she comes at I might be best, ",cd,0
+70,161_70,161_70,T,"and to get to work, do you have to pass his house?",yq,0
+71,161_71,161_71,P,"No, no, I, like I worked on the road. So I just drive like I drive all the way out to the community.",on,0
+72,161_72,161_72,T,"So there's kind of some like, really, there's a physical kind of slash behavioral strategy here, which is just physically keeping you away from having to go by his house and sounds like the only reason other than to, to buy and use drugs is to see your girlfriend. ",crq,0
+73,161_73,161_73,P,Right.,cd,0
+74,161_74,161_74,T,"There's an alternative strategy here, right? She She comes to you, or you could go all the way around, and then only round back to return. And to get back and forth to work. You don't have to go by his house at all. ","gc, crq",0
+75,161_75,161_75,P,"Yeah, I could do that. I'm gonna work. ",cd,0
+76,161_76,161_76,T,Is there ever a time where he comes to you?,irq,0
+77,161_77,161_77,P,"I'm honestly not that much. Now. He obviously he doesn't. He doesn't really like to leave his house much. He's he's kind of going on always there. So that's kind of he just deals out of there and then shoots up there. So he, he stays in his house most of the time and he doesn't even come out.",id,0
+78,161_78,161_78,T,"And we, you know, we know that there's on my thoughts, we've talked about this before, right, that is on Mac thoughts that lead to feelings and behaviors. ",gc,0
+79,161_79,161_79,P,"Right, right. ",gc,0
+80,161_80,161_80,T,"And can you identify a specific thought that may occur or maybe has occurred? Not really. walking by his house, but when you've been in your house like this, maybe it's motivated you to go walk to his house,",gc,0
+81,161_81,161_81,P,right. I'm bored.,gc,-3
+82,161_82,161_82,T,"Okay,",gc,0
+83,161_83,161_83,P,"yeah, just straight up. I mean, when when there's nothing to do in the house, my parents are gone. So it's a it's the best way to have fun.",gc,-1
+84,161_84,161_84,T,"So you've identified a thought that that directly connects to the behavior you want, which is on board. So onboard leads to using the drug assuming because that would alleviate the boredom?",crq,0
+85,161_85,161_85,P,right.,cd,0
+86,161_86,161_86,T,"Is there an adaptive response that you can put in right there that you can interject right at that moment? When you say, board? Is there a depth of response to couplets as soon as this post detox.",crq,0
+87,161_87,161_87,P,"Right, right. ",cd,0
+88,161_88,161_88,T,"Sounds like that's your plan. You're sitting in your house detox is done. There's no more you know, we would hope withdrawal type symptoms",gc,0
+89,161_89,161_89,P,right.,gc,0
+90,161_90,161_90,T,The thought comes upon you I'm bored. What's It's a self talk piece that could be interjected there.,gc,0
+91,161_91,161_91,P,"Um, I think like if I if I remember to think what I don't want to do when I think that I'm bored, like I just kind of come up something else. So I right now my usually my two choices when I'm bored are either to go to my buddy's house, or go to my gril's houses, you know, across from my buddy. So maybe that could just be like, one of the times I called my girl and be like, Hey, can you just like come over? We can do something like just kind of distract me from from, like, wanting to go over dance place, you know?","gc, id",0
+92,161_92,161_92,T,"So to the adaptive responses, call you girlfriend.",gc,0
+93,161_93,161_93,P,right yeah.,gc,0
+94,161_94,161_94,T,"On board and, and she, you know, sounds like what's voice that she's really supportive of?",irq,0
+95,161_95,161_95,P,"Yeah, yeah, I mean, she wasn't too happy with me doing it she doesn't use so I mean there's there's that social All, she'll be on board for that.",id,0
+96,161_96,161_96,T,"It seems like consequences motivates you. Right. And that's what brought you in today like to practice anyway. So I'm wondering if another adapter response response could involve, you know, I don't want any, any trouble. You know, and you can substitute a lot of words in for trouble. There's all kinds of trouble that can occur from using heroin,","gc, id",0
+97,161_97,161_97,P,right,gc,0
+98,161_98,161_98,T,"So getting kicked out of house, I don't want to, you know, I don't want to get kicked out my house. I'm clean. And there's something else I can do here other than drugs, ",gc,0
+99,161_99,161_99,P,right,gc,0
+100,161_100,161_100,T,Like I'm thinking in times and your girlfriend might not be around. Okay. Right. So you still want to have you want to have adaptive response. That's not necessarily tied to a person in case she isn't around.,gc,0
+101,161_101,161_101,P,Right,gc,0
+102,161_102,161_102,T,"can use that one certainly, that's a good one, when she's not around. And you kind of revisit those consequences, new adaptive response. Do you think that's going to be enough motivation to keep you from going to the house?","gc, orq",0
+103,161_103,161_103,P,"Yeah, I do. I mean I like as of right now, work scones good, like school is going good. I don't, I really don't want any problems. And I think like now If i don't realize that if I if I do keep using, it's not just going to be something like that I do when I'm bored or like that I'm doing for fun it's going to turn into like a problem that's going to kind of affects everything else. So I think like, if I just remember to tell myself, like when I'm feeling bored if I just remember to tell myself like I don't, I don't want to be out in the streets and like especially I don't want to lose my job. Like I think telling myself those things that will help remind me like kind of what's at stake. You know","gc, id, od",0
+104,161_104,161_104,T,"Good, good. So it sounds like you have some some adaptive responses to use. Nothing occurs to me is your parents around much",gc,0
+105,161_105,161_105,P,"Yeah, I mean, they're my dad works a lot. My mom's usually she works to a single part time job. So she's usually like home at night.",gc,0
+106,161_106,161_106,T,"And night one of the times and you have gone over to your friend's house, ",crq,0
+107,161_107,161_107,P,"well it's actually it's more during the day, it's more kind of day.",cd,0
+108,161_108,161_108,T,"So she could be an asset in terms of trying to stop you from leaving the house, but only when she's there. ",crq,0
+109,161_109,161_109,P,Right.,cd,0
+110,161_110,161_110,T,"And similar to your father, you know, so it's really, I guess we kind of narrow it down to when you're home alone and particularly when your girlfriend's not available, that's your highest risk time right? ",crq,0
+111,161_111,161_111,P,Yeah.,cd,0
+112,161_112,161_112,T,"So we have the cognitive adaptive responses to come employment, what was anything more behavioral, we can do like can you can you go somewhere else?",irq,0
+113,161_113,161_113,P,"Well, I think like one of the one of the other things I do to kind of clear my head as I like to go for a drive. So like if I if I start feeling bored I think maybe if I like get in my car And like I said, all of that that's his stuff. I just drive away, like, just physically leave the temptation. And then like from there, I can go to a bookstore or like a comic book store like I can, I could spend hours in there. So maybe if I can, like I can remind myself to drive away, go to the stores, and like, maybe I can just kind of stay out there like enough till either like my girlfriend's home or my parents come home.",id,0
+114,161_114,161_114,T,"I think that's a good I think it's a good plan. Yeah. and remember that the more we apply these adaptive responses, right, what we hope is that you the risk decreases, like your craving decreases your motivation to stay clean increases","gc, id",0
+115,161_115,161_115,P,right.,gc,0
+116,161_116,161_116,T,"So while it may be only convenient to drive someplace, every time no one's available, and you'd have thought that might not be something I do forever. ",gc,0
+117,161_117,161_117,P,"Right, right. ",gc,0
+118,161_118,161_118,T,"But that'll That'll minimize the risk for now. And we want to, we want to focus on the short term first. And then we'll worry more about the midterm and long term",gc,0
+119,161_119,161_119,P,right?,gc,0
+120,161_120,161_120,T,"Then circumstances may change, maybe you he reside there forever. Maybe some of his work schedule change. Maybe there are other adaptations you can make. ",od,0
+121,161_121,161_121,P,Right,gc,0
+122,161_122,161_122,T,"But But for now, I think this would be a good way to go. Just keeping you away from the circumstance, ",gc,0
+123,161_123,161_123,P,right?,gc,0
+124,161_124,161_124,T,"You definitely don't want,",gc,0
+125,161_125,161_125,P,right.,gc,0
+126,161_126,161_126,T,"So good news, a few behavioral pieces we have in here and then a few cognitive as well. So I want to see in a couple of days before we go into detox",gc,0
+127,161_127,161_127,P,okay,gc,0
+128,161_128,161_128,T,so that we can practice some of these adaptive responses are like good practice some at home. Between now right as well.,gc,0
+129,161_129,161_129,P,Right. Yeah,gc,0
+130,161_130,161_130,T,and these behavioral responses as well. But we'll try to get them shored up before detox and I'll see it right after you come out as well.,gc,0
+131,161_131,161_131,P,Okay.,gc,0
+132,161_132,161_132,T,We'll make sure that we just keep working on applying and refining his adaptive cognitive responses and his adaptive behavioral responses. Right. Does that sound like a plan?,"gc, yq",0
+133,161_133,161_133,P,"Yeah, definitely. I think that will definitely help. Especially especially being in here and after detox. That would definitely, definitely be the best","op, gc",0
+134,161_134,161_134,T,"I appreciate you coming in Jesse, and I'll see you in a couple days. ",gc,0
+135,161_135,161_135,P,Yeah. Thank you. Thank you.,gc,0
+136,161_136,161_136,T,Thanks.,gc,0

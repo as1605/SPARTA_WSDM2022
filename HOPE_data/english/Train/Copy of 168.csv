@@ -1,0 +1,71 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,168_0,168_0,T,"Hi Jill, How ar your doing today ?",gt,0
+1,168_1,168_1,P,I am doing all right,gt,0
+2,168_2,168_2,T,doing all right?,crq,0
+3,168_3,168_3,P,"Yeah, I'm feeling a little bit, I'm feeling a little bit better,",cd,-1
+4,168_4,168_4,T,a little better and even down for a while what's going on?,irq,0
+5,168_5,168_5,P,I just feel like everything's gonna be okay.,id,-1
+6,168_6,168_6,T,"This is unusual for you because usually, when I come in, you come in and talk to me cut down or depressed, something changed recently.","gc, irq",0
+7,168_7,168_7,P,"I just I feel like I found the solution and I just, I know what I'm going to do. So I don't, I'm not really worried about my depression. So I guess I'm feeling a little bit better about it. ",id,-1
+8,168_8,168_8,T,Can you tell me about the solution you found for your question?,irq,0
+9,168_9,168_9,P,"Yeah, I you know, I know. We've talked Before I think that I'm gonna that I am gonna commit suicide.",id,-1
+10,168_10,168_10,T,You want to commit suicide? You know how you'd do that?,irq,0
+11,168_11,168_11,P,"Yeah, I have some pills in my house in the medicine cabinet, and I'm going to take those.",id,-1
+12,168_12,168_12,T,When do you plan on doing this?,irq,0
+13,168_13,168_13,P,"Probably a couple days from now. I have some things to get an order. I want to, you know, arrange things and make sure that, you know, everything's in order and then, and then I'll do it.",id,-1
+14,168_14,168_14,T,What kind of things to to arrange?,irq,0
+15,168_15,168_15,P,"Um, you know, I want to make sure that all the documents my husband's going to need that they're in a place that he can find them. Not going to tell him but I want you know, I don't want to make things more difficult for him and just that kind of thing. You know what I mean? Like, make sure that everything's in order so that when I'm gone, everybody has what they need.",id,-1
+16,168_16,168_16,T,"So Jill, you've been seeing me for almost a year now and you know, by telling me this, that I'm gonna act to stop you. But I'm gonna try to stop you from killing yourself. ",id,0
+17,168_17,168_17,P,"Mm hmm. Yeah, I mean, I want to do it. I think in the end, it's, it's what's going to make things better. But I guess there's still a part of me that doesn't want to die doesn't want to do that to my family. So I guess I'm telling you, because you know, I'm not 100% resolved, and I guess I wanted to talk it over.","ack, id",-1
+18,168_18,168_18,T,"You seem pretty serious, though, about your timetable in your plan.","gc, irq",0
+19,168_19,168_19,P,"Yeah. I mean, you know, it's like, when you plan to go on a weekend trip, you're pretty sure you're going to go but if the weather's bad, you might not so I think, you know, I'm pretty sure.",id,-1
+20,168_20,168_20,T,Is there anything that can stop you?,yq,0
+21,168_21,168_21,P,"Um, I don't know. I don't. I think I mean, I feel pretty sure about it.",on,-1
+22,168_22,168_22,T,Do you feel like it's the depression or something else that drove you to this decision?,orq,0
+23,168_23,168_23,P,"I feel like I feel like, um, it's just, you know, the same old things that I was worried about before, you know, the depression and, and, you know, my relational issues my job, like the stuff that, that gets me down, and, you know, it just clicked and it was like, you know, I've thought about it before, but like, I I feel like I'm gonna feel better. I feel like it's just gonna, it's gonna, I'm gonna feel better so.",od,-1
+24,168_24,168_24,T,"as you said, it's a solution. ",gc,0
+25,168_25,168_25,P,Yeah,ack,0
+26,168_26,168_26,T,"I know we've, we've talked about this issue in the past, right? And when you've come in feeling this way, kind of resolved harming yourself. We sent you over to the hospital. I know that's not your favorite place. But when you go there for however long it's been usually what five days come out feeling a lot better. ",gc,0
+27,168_27,168_27,P,Yeah.,ack,0
+28,168_28,168_28,T,Do you feel like this time would be different?,orq,0
+29,168_29,168_29,P,"Well, I feel like in the past, you know, I've I've been thinking about killing myself seriously, but now, I'm not as scared of it. So I don't really want you to put me in the hospital because then I won't be able to do it. And before I was scared, so I wanted you to put me in the hospital. But now I just want to get it over with and so I really don't want you to do that.",od,-1
+30,168_30,168_30,T,"So like I say, a part of you saying that. You don't want me to stop you. But yeah, you came in here and you told me, so part of you seems to you maybe not quite sure.",gc,0
+31,168_31,168_31,P,"I guess, I guess there's, there'll always be a part of me that's a human, you know that that's scared to die. And I care about you, you know, we, I know you're my counselor, but like, we've had a relationship and we talked about these kinds of things. And I, I felt like I owed it to you to, you know, be honest with you about how I was feeling because we've had that relationship in the past. And so I guess I guess I came here because because of that, and because I felt like I just wanted to talk it over. You know, before I did it, because, you know, I come to you to talk about what I'm thinking and so I felt like this would help me. Like gain the final clarity that I needed.",gc,-1
+32,168_32,168_32,T,hasn it helped you gaining clarity?,irq,0
+33,168_33,168_33,P,"I don't know, I guess. I guess I see that you're saying that like, I really need to go to the hospital. I guess I was hoping a little bit that you would be happy for me that I was feeling better. But I think that you want me to go to the hospital. So I don't know. It makes me think about whether it's the right decision. You know,",id,0
+34,168_34,168_34,T,mean a suicide?,crq,0
+35,168_35,168_35,P,Yeah.,cd,0
+36,168_36,168_36,T,"Sometimes and you know, you've been with me, like I said about almost a year now and you've been depressed much that time. And it's not unusual. When somebody thinks they found a solution to depression, even if that solution something that I am against, like suicide, that their their mood would become elevated because you see an end to pain. There's other things we can do and have done the past, try to get you out of pain. ","gc, id",0
+37,168_37,168_37,P,But we have done them in the past and I didn't feel better and now I am feeling better. So you know I I just want you to accept that.,id,-1
+38,168_38,168_38,T,"But I'm not going to it's my obligation with it I'm happy to fulfill to try to keep you alive. I've seen you this way before and I know it may not seem this way now but when you came out from a suicidal thoughts and feelings you did well for weeks, sometimes months at a time. You're seeing really just the darkest when you're in the ","gc, id",0
+39,168_39,168_39,P,"Yeah, but I'm feeling better now.",id,-1
+40,168_40,168_40,T,"Temporarily, because you feel you found the end to the pain which I understand. I mean, Understand you feeling better, but you're feeling better because you plan on killing yourself. And we've talked about how devastating that would be to your family, right? your friends.","gc, crq",0
+41,168_41,168_41,P,"I am torturing them with my sadness, I'm just making their lives miserable. I don't understand how it's gonna help them for me to stay alive. You know, I'm worth more, they can have my life insurance. And, you know, I won't make them suffer anymore.",cd,-1
+42,168_42,168_42,T,"So your logic is that if you end your life, you'll freed them from having to deal with",gc,0
+43,168_43,168_43,P,Yeah. And feels like the right thing to do,ack,1
+44,168_44,168_44,T,"And as you know, I mean, you've signed releases, I've talked to your husband, your parents, they've repeatedly said that, despite sometimes the challenge of dealing with depression, they would much rather Have you alive, Why would they say that?","gc, irq",0
+45,168_45,168_45,P,"I think that they're scared of the pain of losing me, but I know that they'll feel better eventually.",id,-1
+46,168_46,168_46,T,So they'll feel good over the grief?,crq,0
+47,168_47,168_47,P," Yeah,",cd,0
+48,168_48,168_48,T,I understand.,gc,0
+49,168_49,168_49,P,And I think that they'll understand that I needed this.,gc,-1
+50,168_50,168_50,T,"You know, I've been doing this for a while. Right. I think we've come to have a good relationship. ",gc,0
+51,168_51,168_51,P,Yeah.,ack,0
+52,168_52,168_52,T,And I would hope that I've earned your trust and you value my opinion. We'll do something that I know about suicide. You open  to hearing it?,"gc, yq",0
+53,168_53,168_53,P,Yeah,op,-1
+54,168_54,168_54,T,"There's a lot of ways that people die. Right. And it's, it's really what eventually will happen to us all. It's hard for me to imagine way more devastating than suicide. Meaning when somebody dies of an illness, or a car accident or any other type of tragic accident, people grieve, right? But there's usually not a blame assigned to that mean they don't feel guilty. Does that make sense? ",gc,0
+55,168_55,168_55,P,Yeah,ack,0
+56,168_56,168_56,T,"They feel sad because they've lost the person, but they don't feel responsible for that person's death. Suicide is different, when somebody commits suicide, their family and friends feel responsible. They have no answers to all the questions that they have. They could never get an answer.","gc, id",0
+57,168_57,168_57,P,I'm gonna write them a note and tell them everything and tell them it's not their fault because it's not their fault and I just want them to be happy without me.,"gc, id",-1
+58,168_58,168_58,T,So you believe the note will take away all that pain?,orq,0
+59,168_59,168_59,P,"No, but I think that it will help them realize that they shouldn't feel guilty, like you're saying",od,-1
+60,168_60,168_60,T,it'll mitigate that pain?,crq,0
+61,168_61,168_61,P,Yeah.,cd,0
+62,168_62,168_62,T,"Okay. I can tell you from experience that notes, notes don't really help. If anything, it's another artifact that they can agonize over. I know it's hard to see from your perspective, because you're kind of resolved to this and you feel stuck in the pain you want now, but they will miss you and they will agonize for the rest of their lives, because they've lost you. And it's a it's a special horrible type of agony that comes with feeling responsible for causing someone's death. I know you don't want that.","gc, id",0
+63,168_63,168_63,P,I just don't know why you can't let me feel better.,gc,-1
+64,168_64,168_64,T,"I know it's frustrating. I know it's hard to understand. The times when you've gone to the hospital before, you have felt better. Your outlook was completely different, not 100%. But it was completely different when you came out. I mean, you're still a little down, but nowhere near the depression we'd want to hurt yourself. Is it possible if you go to the hospital this time, you could come out feeling better again?","gc, yq",0
+65,168_65,168_65,P,"yeah, It's possible.",op,0
+66,168_66,168_66,T,"I'm gonna make arrangements to get you out of the hospital. I know. I know you don't. And we've had this conversation before. Right? I realized that, you know, you're not happy with some of the conditions there. But you usually talk finally about the groups. Right? You usually do well in the groups. And typically, well, every time right, every time you've been in the hospital, you've come out feeling better. I know it's not what you want to hear. I know you want me to be happy that you're gonna enjoy life, but that would make me happy. That would make anybody happy. I know you think it would make you happy. But I can tell you it's not the answer. I'd like you to go voluntarily through this process. Will you do that?","id, yq",0
+67,168_67,168_67,P,Ok Lets go,op,0
+68,168_68,168_68,T,All right. I'll go make those arrangements and we can show you. Okay?,gc,0
+69,168_69,168_69,P,okay.,ack,0

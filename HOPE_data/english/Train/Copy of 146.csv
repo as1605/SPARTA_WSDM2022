@@ -1,0 +1,69 @@
+,ID,ID,Type,Utterance,Dialogue_Act,Emotion
+0,146_0,146_0,T,Hi Sandra. How are you doing today.,gt,0
+1,146_1,146_1,P,"I  am  okay, I gues",gt,0
+2,146_2,146_2,T,Just okay ?,crq,0
+3,146_3,146_3,P,Yeah.,cd,0
+4,146_4,146_4,T,I'm going to ask you some questions and give you some problems to solve. Please try to answer them as best as you can. What year is this?,"gc, irq",0
+5,146_5,146_5,P,2014,id,0
+6,146_6,146_6,T,2014?,crq,0
+7,146_7,146_7,P,Yeah.,cd,0
+8,146_8,146_8,T,What season of the year is this?,irq,0
+9,146_9,146_9,P,summertime,id,0
+10,146_10,146_10,T,summertime ?,crq,0
+11,146_11,146_11,P,Yeah,cd,0
+12,146_12,146_12,T,What is the date today?,irq,0
+13,146_13,146_13,P,10th may,cd,0
+14,146_14,146_14,T,May 10th ?,crq,0
+15,146_15,146_15,P,yeah,cd,0
+16,146_16,146_16,T,What is the day of the week?,irq,0
+17,146_17,146_17,P,Thursday,id,0
+18,146_18,146_18,T,What month is this?,irq,0
+19,146_19,146_19,P,May,id,0
+20,146_20,146_20,T,Can you tell me what country we're in?,irq,0
+21,146_21,146_21,P,Delaware.,id,0
+22,146_22,146_22,T,What County are we in?,irq,0
+23,146_23,146_23,P,Delaware.,id,0
+24,146_24,146_24,T,What is the name or the address of this building?,irq,0
+25,146_25,146_25,P,Umm I guess,id,0
+26,146_26,146_26,T,What floor of the building are we on the,irq,0
+27,146_27,146_27,P,bottom floor,id,0
+28,146_28,146_28,T,bottom floor ?,crq,0
+29,146_29,146_29,P,Yeah,cd,0
+30,146_30,146_30,T,"I am going to name Three objects. After I've said them, I want you to repeat them back to me. Apple, Table,  Penny, can repeat them back to me?",cv,0
+31,146_31,146_31,P,Penny,cr,0
+32,146_32,146_32,T,"let me go again. Apple, Table, Penny ",cv,0
+33,146_33,146_33,P,Apple. Table. Apple.,cr,0
+34,146_34,146_34,T,Let me try again. Apple Table Penny,cv,0
+35,146_35,146_35,P,Apple Table Penny.,cr,0
+36,146_36,146_36,T,"Okay, good. Remember what they are? Because I'm going to ask you to name them again in a few minutes. Now I'm going to give you a word and ask you to start it forward and backward. The word is world. First, Can you spell the forward ?",cv,0
+37,146_37,146_37,P,Can you say that again ?,crq,0
+38,146_38,146_38,T,the word is the world.,cd,0
+39,146_39,146_39,P,W U R A D,cr,0
+40,146_40,146_40,T,"Now, can you spell it backward?",cv,0
+41,146_41,146_41,P,What word in ?,crq,0
+42,146_42,146_42,T,The word in world ?,cd,0
+43,146_43,146_43,P,D R  W,cr,0
+44,146_44,146_44,T,Okay. What were the three objects I asked you to remember.,irq,0
+45,146_45,146_45,P,Table World World,id,0
+46,146_46,146_46,T,Okay What is this called?,ci,0
+47,146_47,146_47,P,bracelet,cr,0
+48,146_48,146_48,T,bracelet ?,crq,0
+49,146_49,146_49,P,Yeah,cd,0
+50,146_50,146_50,T,What is this is called ?,ci,0
+51,146_51,146_51,P,marker.,cr,0
+52,146_52,146_52,T,"I would like to repeat a phrase after me. The phrases, no ifs, ands or buts",cv,0
+53,146_53,146_53,P,"no if, ands, or buts.",cr,0
+54,146_54,146_54,T,I want you to read the words on this page and do it like this.,ci,0
+55,146_55,146_55,P,....,cr,0
+56,146_56,146_56,T,Thank you. Are you right handed or left handed.,irq,0
+57,146_57,146_57,P,Left handed,id,0
+58,146_58,146_58,T,you're left handed,crq,0
+59,146_59,146_59,P,Yeah,cd,0
+60,146_60,146_60,T,Take this paper in your left hand. Fold the paper once with both hands and put the paper down on your lap. Okay. You pick up the notebook besides you. Can you write any complete sentence on a piece of paper for me?,ci,0
+61,146_61,146_61,P,.....,cr,0
+62,146_62,146_62,T,Okay. hang on to the pen there. Here's a drawing. Please copy this drawing on that same piece of paper,ci,0
+63,146_63,146_63,P,....,cr,0
+64,146_64,146_64,T,copied on the same piece of paper. Yeah sure.,gc,0
+65,146_65,146_65,P,Take a look at,gc,0
+66,146_66,146_66,T,That concludes this assessment. Sandra. I want to thank you for your participation.,gc,0
+67,146_67,146_67,P,Thank you,gc,0
