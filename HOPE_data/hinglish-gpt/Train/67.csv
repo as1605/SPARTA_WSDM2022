@@ -1,0 +1,62 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"sure you understand you've been having some symptoms which have been bothering you, but can you tell me what you think's going on?",symp/reasoning,67_0,T,irq,,"Kya aap samajh rahe hai ki aapko kuchh lakshan hai jo aapko pareshan kar rahe hai, lekin kya aap mujhe bata sakte hai ki aapko lagta hai kya ho raha hai?"
+1,"Yeah, I've been feeling really low and I think I might be depressed. ",symp/reasoning,67_1,P,id,,"Haan, mujhe kaafi kamjor mehsoos ho raha hai aur main soch raha hoon ki shaayad main depressed ho gaya hoon."
+2,You think you might be depressed?,symp/reasoning,67_2,T,irq,,Tumko lagta hai ki tum depression ka shikar ho sakte ho?
+3,Have you ever felt this way in the past?,symp/reasoning,67_3,T,irq,,Kya tumne kabhi pehle se aisa mehsoos kiya hai?
+4,I mean,story,67_4,P,id,,Mai matalab hai
+5,"years ago I you know, felt had some of these similar things. But I didn't really think about it much and I mean, it's gone on for like, I've been feeling this way for like a month. And, you know, I I think something's wrong.",story,67_5,P,id,,"Saal pehle main tumhe pata hai, kuch aise hi cheezein thi. Par maine uspe bahut socha nahi aur haan, yeh ek mahine se chal raha hai. Aur tumhe pata hai, mujhe lagta hai kuch gadbad hai."
+6,"having any feelings of sad sadness, hopelessness?",symp/reasoning,67_6,T,yq,,Kya tumhe dukh ke kisi bhi ehsaas ya nirashata ka ahsaas hai?
+7,"Yeah,",symp/reasoning,67_7,P,ack,,"Haan,"
+8,yeah?,inactive,67_8,T,crq,,haan?
+9,Yeah. I haven't been able to sleep.,symp/reasoning,67_9,P,cd,,Yeah. Mujhe neend nahi aa rahi hai.
+10,trouble sleeping?,symp/reasoning,67_10,T,irq,,Kya neend mein mushkil hai?
+11,This has been going on for a month.,symp/reasoning,67_11,P,id,,Is mahine se chal raha hai.
+12,Yeah,inactive,67_12,P,gc,,याह
+13,Have you noticed a change in your ability to experience fun or pleasure?,routine,67_13,T,irq,,Kya aapne apne manorath ya anand ko anubhav karne ki kshamta mein koi badlaav dekha hai?
+14,"I haven't really thought about it. But I mean, I still have fun sometimes.",routine,67_14,P,id,,"Mujhe bilkul socha ni hai. Lekin main mtlb krti hu, kabhi-kabhi mujhe maza aata hai."
+15,I just noticed that most of my,inactive,67_15,P,gc,,Mera toh bas yeh dheela pada hai ki meri bahut si
+16,"most time you're sad, but you still have fun. Have you lost an interest in pursuing things that are fun?",symp/reasoning,67_16,T,irq,,"ज्यादातर समय तुम दुखी होते हो, पर तुम अभी भी मज़े करते हो। क्या तुम मज़ेदार चीज़ों की तलाश में रु"
+17,"No, I mean, I still try, you know, you know, to distract myself. Like if I noticed that I'm like, just feeling really low and or like, even if I can't sleep At night, like I'll do go do something that I like doing. You know how to pass the time?",story,67_17,P,on,,"Nahi, main matalab, main abhi bhi koshish karta hoon, pata hai na, pata hai na, apne aap ko hatane ke liye. Jaise agar maine dekha ki main bahut kam khush hoon aur ya fir, raat ko agar main neend nahi aa rahi ho, to main kuch aisa karunga jo mujhe pasand hai. Kya tumhe pata hai ki samay kaise bitaaye?"
+18,Any change in your appetite or weight in the last couple weeks?,symp/reasoning,67_18,T,irq,,Kya aap ke pet mein ya wazan mein koi bhi badlaav hua hai aakhiri do hafto mein?
+19,"Yeah, I mean, I haven't really been eating that much. And I've actually lost a few pounds. Yes, three pounds. Yeah.",symp/reasoning,67_19,P,ack,,"Haan, main toh bilkul jyaada khana nahi kha rahi hoon. Aur maine kuch pound bhi ghataye hain. Haan, teen pound. Haan."
+20,And you mentioned the sleep disturbance not been sleeping as much as you'd like to?,symp/reasoning,67_20,T,irq,,"Aur tumne neend ki pareshaani ki baat ki, jismein aap chahte hai ki aap utna jyada na soye?"
+21,"Correct. It's really hard for me to fall asleep. And sometimes I'll just lie there for hours at night and it's, you know, awful focused, and I'm tired all day, because I didn't sleep at night. And when I get home and it's time for bed again, I still can't fall asleep.",story,67_21,P,id,,"Sahi h. Mere liye neend mein aana bahut kathin hai. Aur kabhi kabhi me raatbhar bas wahin par leta rehta hu, aur pata nahi kya keemat hai, aur poora din thakaan rahti hai, kyunki raat ko neend nahi aati hai. Aur jab me ghar aata hu aur phir se sone ka waqt hota hai, tab bhi mujhe neend nahi aati hai."
+22,So that's been affecting your energy level?,symp/reasoning,67_22,T,yq,,Ab to tumhara energy level par asar pada hai kya?
+23,Yeah.,symp/reasoning,67_23,P,ack,,Haan.
+24,Do you feel restless or the opposite kind of slowed down and having either one of those feelings.,routine,67_24,T,irq,,क्या आप अशांत महसूस करते हैं या उसके उल्टे तरीके से धीमे हुए और दोनों में से किसी एक भावना होन
+25,"No, not really like that",routine,67_25,P,on,,"Nahi, bilkul aisi nahi hai."
+26,have been having any feelings of worthlessness?,routine,67_26,T,yq,,Kya tumhe koi mayne ki bekar ki feelings hoti hain?
+27,No.,routine,67_27,P,on,,Na.
+28,like that?,inactive,67_28,T,crq,,aise seedhe?
+29,"no, I mean, like not really no, like, I don't feel worthless. I just you know, I just I'm still sad. I don't know why I'm sad. ",routine,67_29,P,cd,,"Na, I mean, like not really na, like, I don't feel worthless. I just, you know, I'm still sad. I don't know why I'm sad."
+30,How about your concentration level any changes there?,routine,67_30,T,irq,,तुम्हारे concentration level में कोई बदलाव हुआ क्या?
+31,"Yeah, it's it's hard to concentrate at work and, and in general even at home because I just am so tired. not sleeping and tonight I just get distracted by like, you know, like, I'll be over, come with emotion and I out of nowhere, like it's hard for me to pay attention to what I'm doing. If I'm getting distracted by those thoughts.",story,67_31,P,id,,"Haan, yeh mushkil hai concentration rakhna kaam pe aur, aur generally ghar pe bhi kyunki main bahut thak gaya hoon. Neend nahi aane ki wajah se aur aaj raat mujhe aisa lag raha hai ki, pata nahi kahan se emotions aa jaye, toh mujhe apni kaam par dhyan dena mushkil ho jaata hai. Agar main ussi tarah se distract ho raha hoon, toh mere vichar chal rahe hain."
+32,Have you been having any thoughts related to death or dying?,routine,67_32,T,yq,,Aapke man mein mrityu ya marne se judi koi vichar hai?
+33,Nothing like that. No.,routine,67_33,P,on,,Kuch bhi aisa nahi hai. Nahi.
+34,"So these symptoms you've been describing, have been causing limitations in your functioning in what areas",routine,67_34,T,irq,,"Toh aapne bataye huwe lakshan, aapki karya pranali mein kis kis kshetron mein seemit prashikshan padha rahe hain."
+35,what work,inactive,67_35,P,crq,,kya kaam
+36,at home to,inactive,67_36,P,id,,ghar pe
+37," I want to play with my cat I usually like my cat for like an hour every night, just because I'm at work all day but I haven't I've been having trouble like even doing that. Yeah, so I would say and then even like my relationships to like my social life, it's been affecting it.",story,67_37,P,id,,"मुझे मेरी बिल्ली के साथ खेलना है। मैं हर रात एक घंटे तक अपनी बिल्ली से प्यार करता हूँ, सिर्फ इसलिए कि मैं पूरे दिन काम करता हूँ लेकिन मुझे लगता है कि मैं इसे भी नहीं कर पा रहा हूँ। हाँ, तो मैं कहे और न हो कि मैं अपने रिश्तों को भी अपने सामाजिक जीवन के साथ, यह इस तरह से प्रभावित किया जा रहा है।"
+38,Any drug or alcohol use?,routine,67_38,T,yq,,Koi drug ya alcohol istemaal kar raha hai?
+39,NO,routine,67_39,P,on,,नहीं
+40,How about any medical conditions?,routine,67_40,T,yq,,Kya koi medicalconditions ho to kya?
+41,Nothing,routine,67_41,P,on,,Kuch Nahi
+42,see or hear things other people can't see or hear?,routine,67_42,T,yq,,Kya aap kuchh cheeze dekh sakte ya dhekh sakte hain jo dusre log nahi dekh ya sun sakte hain?
+43,No.,routine,67_43,P,on,,Haa bilkul
+44,Has it ever happened to you?,routine,67_44,T,yq,,Kya kabhi aisa tumhare saath hua hai?
+45,No. Never,routine,67_45,P,on,,Nahi kabhi nahi.
+46,"do you feel now recently wherever you're at a state where you're cheating too happy, like had a lot of energy and ",routine,67_46,T,irq,,"kya aap abhi haal hi mein jahaan bhi ho, aap ek haalat mein hain jahan aap bahut khush hain, aur bohot zyada energy hain?"
+47,"like make mania,",routine,67_47,P,crq,,"Don't be mania because likes are compelled to make rush
+
+
+
+Man"
+48,like mania? Yeah. Nothing like that. Ever.,routine,67_48,T,cd,,मनोरोग है ना? हाँ। कुछ वैसा कुछ
+49,Has there been any major event in the last month? Or maybe before that did you think might be causing this,routine,67_49,T,irq,,Kya koi mahine se pehle bada koi ghatna hui hai? Ya shayad pahle se hi aapko lagta tha ki aisa ho sakta hai?
+50,nothing Nothing's in there significance happened to make me feel this way,routine,67_50,P,id,,"कुछ भी नहीं है, वहाँ कुछ महत्वपूर्ण हुआ है जो मुझे इस तरह म"
+51,other than you think would cause depression.,routine,67_51,T,gc,,Tu sochne se alag cheezein depression ka kaaran ban sakti hain.
+52,"Sherry, I'm going to get you in to see a counselor here. Just take a couple days to get you in. Is that okay? I want to thank you for answering these questions. For me. This has been helpful.",story,67_52,T,gt,,"Sherry, main tujhe yahan ek counselor ke paas le ja raha hu. Bas kuch din le lo tujhe ander lane ke liye. Theek hai? Tujhe javab dene ke liye main tujhse shukriya karna chahta hu. Mere liye. Ye madadgar tha."
+53,Yeah. All right.,inactive,67_53,P,gt,,Haan. Theek hai.
+54,summary,"The patient is feeling really low and think they might be depressed. The patient is feeling this for a month now and has trouble sleeping too. The patient still has fun sometimes, and tries to distract themselves when they feel low. The patient has lost three pounds in the last couple weeks. The patient can't fall asleep for hours on bed and feel tired all day. They don't feel restless or worthless. The patient just feels sad and has tough time concentrating at work. The patient is having limitations both at work and home. The patient does not use drugs or alcohol, has no medical condition and does not see or hear unusual things. They haven't had a lot of energy in recent times, and they don't any major event happened in last month that's causing these symptoms. The therapist assures to get in a counselor for the patient in a couple days. ",,,,,
+55,primary_topic,depression,,,,,
+56,secondary_topic,sleep-concentration,,,,,

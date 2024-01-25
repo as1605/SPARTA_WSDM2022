@@ -1,0 +1,113 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Okay, so I noticed on your diary card that you have that you did cut.",symp/reasoning,159_0,T,crq,0.0,"Acha, toh maine tumhare diary card pe dekha hai ki tumhe yaad hai ki tumne cut kiya tha."
+1,Yep.,inactive,159_1,P,cd,0.0,Haan.
+2,"Okay, so let's talk about that a little bit. When what day did that happen on? ",routine,159_2,T,gc,0.0,"Thik hai, chalo uske baare mein thoda baat karte hai. Jab wo din hua tha, wo kis din hua tha?"
+3,Tuesday,routine,159_3,P,id,0.0,Ma Dhut
+4,"Tuesday? Okay, so where were you on Tuesday when you first had the thought that you wanted to cut?",routine,159_4,T,irq,0.0,"Tuesday? Theek hai, toh Tuesday ko tum kahaan the jab pehli baar tumhe lagaa ki tum chahte ho ki tum kaat do?"
+5,Where I usually always am at school. I was on my Walker. That's stupid girl.,story,159_5,P,id,-3.0,"Mai usually hamesha school mai hoti hoon. Mai apni Walker par thi. Oh, woh kya bakwaas ladki hai."
+6,What was going on at your locker?,routine,159_6,T,irq,0.0,Tumhare locker mein kya ho raha tha?
+7,Melanie was talking about Tim my Tim. My boyfriend and I know it was it was my Tim she was talking about I just wanted to punch her so bad.,story,159_7,P,id,-3.0,"Melanie ne Tim ki baat kar rahi thi, mera Tim ki baare me. Mera boyfriend aur main jaante hai ki woh meri Tim ki baat kar rahi thi, mujhe usse maarne ka bahut mann karta tha."
+8,"Okay, so you were sending out your locker and you heard somebody say something about Tim that you didn't want to hear. ",routine,159_8,T,gc,0.0,"Thik hai, toh tu apna locker bhej raha tha aur tune Tim ke baare mein kuch suna, jo tere man pasand nahi tha."
+9,"Yeah, she was talking about him. And he had he didn't text me the night before. So who knows what's going on? ",routine,159_9,P,cd,-3.0,"Haan, usne uske baare mein baat kar rahi thi. Aur usne raat se pehle mujhe nahi text kiya tha. To pata nahi kya ho raha hai?"
+10,What were you feeling right then?,routine,159_10,T,irq,0.0,Tu tab kya feel kar raha tha?
+11,so angry. so angry,routine,159_11,P,id,-3.0,itni gussa. itni gussa hai.
+12,on a scale of one to 10  how angry would you say you were ?,symp/reasoning,159_12,T,irq,0.0,"आप कितने गुस्से में हैं, उसे एक से दस तक कितने दर्जे में बताएं?"
+13,like a nine,symp/reasoning,159_13,P,id,-3.0,नाईन जैसे
+14,pretty angry then?,routine,159_14,T,crq,0.0,Kya gussa hai fir?
+15,Yeah.,inactive,159_15,P,cd,0.0,Haan.
+16,What did you do right then? You ride your locker. What's the next thing you did after you heard it?,routine,159_16,T,irq,0.0,Tumne tab kya kiya? Tum locker par sawaar hue. Uske baad tumne kya kiya jab tumne suna?
+17,"The next thing I did, I slammed my locker. And I walked down to the gym but what I wanted to do was push her adn punch her.",story,159_17,P,id,-3.0,"Maine kuch hi der baad, maine apna locker jhat se band kar diya. Fir main gym tak chal pada lekin joh main chahta tha woh tha ki main usse dhakela aur usse khatka diya."
+18,"So I know that the gym is usually to the place where you cut, because you said you can go behind the bleachers people don't usually see you there.",routine,159_18,T,gc,0.0,"Toh main jaanta hoon ki gym aam taur par woh jagah hoti hai jahan aap apna weight kam karte ho, kyunki aapne kaha tha ki aap bleachers ke peeche ja sakte ho, waha log aapko aam taur par nahi dekhte."
+19,Yeah.,inactive,159_19,P,gc,0.0,Haan.
+20,"Okay, so we're between hearing the person talking about Tim and going to the gym. Where did you decide to cut? Because you said you were also feeling like punching somebody. There must have been a point where you decided I'm going to cut.",routine,159_20,T,gc,0.0,"Acha, ham tim ke baare mein baat karne wale vyakti sun rahe the aur gym ja rahe the. Tumne kaha tha ki tumhe bhi kisi ko maarne ka mann tha. Kya tumne kisi chunav par faisla kiya ki main katt lunga? Kyunki tumne kaha tha ki mujhe bhi maarne ka mann tha. Zaroor kisi bindu par aisa faisla hua hoga jab tumne decide kiya ki main katt lunga."
+21,I think it was right after I slammed my locker and thought I can't punch her. I'm going to get in trouble. I'm going to go cut.,routine,159_21,P,id,-3.0,I think it was right after I slammed my locker and thought I can't punch her. I'm gonna get in trouble. I'm gonna go toh cut.
+22,"Okay, so that was when you decided to cut. You went down to the gym. ",routine,159_22,T,crq,0.0,"Acha, toh tab tumne decide kiya ki kaatna hai. Tum gym chale gaye."
+23,Mm hmm.,inactive,159_23,P,cd,-3.0,Haan ji.
+24,And what happened when you got there?,routine,159_24,T,irq,0.0,"Aur jab tum wahan pahuche, toh kya hua?"
+25,"Well, nobody was there because gym classes are in the morning so I knew that nobody was going to come in the gym. So I went behind the bleachers.",routine,159_25,P,id,-3.0,"Koi nahin tha kyunki gym classes subah mein hote hain, issliye mujhe pata tha ki koi gym mein nahin aayega. Toh main bleachers ke peeche chala gaya."
+26,What did you use to cut ?,symp/reasoning,159_26,T,irq,0.0,Tumne kya use kiya tha cut karne ke liye?
+27,the pencil that I have always used,symp/reasoning,159_27,P,id,-3.0,Mai hamesha se istemal kiya aane wala pencil hai.
+28,the same pencil as usual?,routine,159_28,T,yq,0.0,Kya samaan pencil humesha waise hi hai?
+29,Yeah,inactive,159_29,P,op,0.0,Haan
+30,the the metal tip.,routine,159_30,T,crq,0.0,"""woh the ohm ke tip par hai."""
+31,Yeah.,inactive,159_31,P,cd,0.0,Haan.
+32,"Okay, that was a pencil that you were saying that you were going to get rid of.",routine,159_32,T,crq,0.0,"Thik hai, vah ek pencil thi jise tum kah rahe the ki tum isse chutkara pa lenge."
+33,"Yeah, I know. It's just it's it's my favorite pencil. I, I use it for school. And I just it's my favorite pencil. ",routine,159_33,P,cd,-3.0,"Haan, mujhe pata hai. Ye sirf meri pasand ka pencil hai. Mai, mai ise school mein istemaal karti hu. Aur ye sirf mera pasand ka pencil hai."
+34,"Okay, so you still have the pencil you got under the bleachers. You say you were feeling angry still. Are you still on the scale of one to 10 where were you when you got under the bleachers.",routine,159_34,T,gc,0.0,"Okay, toh tu abhi bhi bleachers ke neeche se mile pencil ko haath mein rakhi hai. Tu kehta hai ki tu abhi bhi gussa mein hai. Kya tu abhi bhi ek se das ke scale mein hai jahaan par tu bleachers ke neeche alag hua tha."
+35,I was still like was still pretty high maybe like an eight and a half though because I I knew I knew I was gonna cut,routine,159_35,P,id,-3.0,"Main tha par main abhi bhi thoda bahut zor se high tha, shayad aath aur aadhi ke karib, kyunki main jaanta tha ki main katne ja raha hun."
+36,"Okay, ",inactive,159_36,T,gc,0.0,"Theek hai,"
+37,so it like came down a little bit,routine,159_37,P,gc,-3.0,Toh woh thoda sa niche aaya.
+38,what were you thinking at that point?,routine,159_38,T,irq,0.0,Tum uss samay kya soch rahe the?
+39,Well I thought a couple things I thought I'm glad I kept this pencil and that I'm just so pissed that I just want to cut so badly.,routine,159_39,P,id,-3.0,"ठीक है मैंने कुछ चीज़ें सोची, मुझे ये पेंसिल रखकर अच्छा लगा, और मुझे इतना नाराज़ होने के बावजूद भी उसे काटने का मन कर रहा है"
+40,So you have your pencil Where did you cut ?,symp/reasoning,159_40,T,irq,0.0,Toh tumhare paas pencil hai Kahaan se kata tumne?
+41,on my leg.,symp/reasoning,159_41,P,id,-3.0,meri taang par.
+42,How many times ?,symp/reasoning,159_42,T,irq,0.0,Kitni baar?
+43,three,symp/reasoning,159_43,P,id,0.0,थ्र
+44,"How deep did you cut where it was a deep enough that you needed a band aid, Did you need more than a band aid?",routine,159_44,T,irq,0.0,"Tumne kitna gehra kaata jisme itna gehra tha ki tujhe band aid ki zaroorat padti thi, kya tujhe band aid se zyada zaroorat thi?"
+45,"No, I mean, I guess I could have used a band aid but whatever.",routine,159_45,P,id,-3.0,"Na, main toh keh raha tha, mujhe lagta hai main ek band aid istemaal kar sakta tha lekin koi baat nahi."
+46,But it wasn't so deep that you needed something more?,routine,159_46,T,irq,0.0,"Par, kya yeh itna gehra nahi tha ki tumhe aur kuch chahiye tha?"
+47,No.,routine,159_47,P,id,-3.0,Nahi.
+48,Okay. Right after you cut Where were you on the scale of one to 10 with your feeling with your anger?,symp/reasoning,159_48,T,irq,0.0,"Thik hai. Tum kiss level par the apne gussa ke saath, ek se das tak?"
+49,Like a three,symp/reasoning,159_49,P,id,-3.0,जैसे एक ती
+50,"three, what were you thinking right afterwards?",routine,159_50,T,irq,0.0,"Tu teen, tum soch rahe the, sidhe baad mein kya?"
+51,That felt good. I feel better. And I'm gonna have to talk to Michelle about this.,routine,159_51,P,id,-3.0,Woh acha laga. Mujhe behtar feel ho raha hai. Aur mujhe iss bare mein Michelle se baat karni hogi.
+52,Did that feeling last you for the rest of the day?,routine,159_52,T,irq,0.0,Kya uss feeling ne tumhare din ka baki hissa tumhe sataya?
+53,"The Feeling better? Yeah, for the most part. Yeah, it did",routine,159_53,P,id,-1.0,"Feel better? Haan, mostly. Haan, hua vaise."
+54,"Okay, so that's what happened right afterwards ? ",routine,159_54,T,irq,0.0,"Thikke wahi hua, uske baad ?"
+55,Mm hmm.,inactive,159_55,P,gc,0.0,अरे ठीक
+56,"Later in the day, are we thinking about the cutting?",routine,159_56,T,irq,0.0,"Baat mein, kya hum cutting ke bare mein soch rahe hain?"
+57,"Well, I kind of forgot about it. ",routine,159_57,P,id,-3.0,"Accha, mujhe thoda sa bhool gayi thi."
+58,Okay.,inactive,159_58,T,gc,0.0,Theek hai
+59,"But then I just started thinking about it again, right before bad, and just feeling really guilty that I cut. Because I knew I was going to have to talk about it with you. And I just I mean, I, the night time I just, I constantly think about what happened that day and then what the next day is going to be like, I mean, you know, it's usually a pretty hard time.",story,159_59,P,id,-3.0,"Lekin fir main sochne laga about usse, right before bad, aur fir guilty feel krne lga ki maine cut kiya. Kyunki mujhe pta tha ki main tujhse uske baare mein baat krni hogi. Aur main, yaani ki, raat mein main bs, uss din hua kya hai uske baare mein baar baar sochta hu aur fir agli din kya hoga, yaani ki, tum jaante ho, usually itna asaan nahi hota."
+60,I know night is a really difficult time for you is everything seems worse at night. Yeah. So you were thinking back at a back on it then and you were feeling guilty?,routine,159_60,T,gc,0.0,Mujhe pata hai raat aapke liye ek bahut mushkil waqt hota hai kyunki sab kuch raat mei aur bhi bura lagta hai. Haan. Toh aap uss waqt yaad kar rahe they aur apko ehsaas ho raha tha ki aapko galti hui thi?
+61,Yeah.,routine,159_61,P,cd,0.0,Yep.
+62,Sounds like you weren't feeling so good about it then as you were in the afternoon.,routine,159_62,T,gc,0.0,Lagta hai ki aapko tab bohot achha nahi laga jaise shaam mein aap the.
+63,No. That always seems to happen.,routine,159_63,P,gc,-3.0,Nahi. Voh hamesha hota hai sa lagta hai.
+64,Sounds like for you cutting works for a little while but it doesn't last?,routine,159_64,T,crq,0.0,"Lagta hai ki aapke liye kaatna kuch samay ke liye kaam karta hai, lekin yeh thode der tak nahi chalata hai?"
+65,"Yeah, I guess so.",routine,159_65,P,cd,-1.0,"Haan, mujhe lagta hai."
+66,I knew you've also been working on doing less cutting.,routine,159_66,T,gc,0.0,Mujhe pata hai ki tum bhi kaam kar rahe ho kam kaati karne mein.
+67,I've been doing pretty good,routine,159_67,P,gc,0.0,Mai khub acha kar rahi hoon
+68,you have you've been working really hard. I'm just wondering if we can find something that might last that you can feel good about later that you won't have those guilty feelings?,routine,159_68,T,gc,0.0,Tu ne kaafi mehnat ki hai. Main soch raha hoon kya hum kuch aisa nahi dhundh sakte jo tumhe tumhe aage jaake acha lage aur tumhe baad mein woh gunaahon ke ehsaas na ho?
+69,"Yeah, maybe. I mean, those guilty feelings really suck.",routine,159_69,P,gc,-3.0,"Haan, shayad. Matlab, woh aisaay jurm mein lipti hui ehsaas sach mein khatarnaak hote hain."
+70,"Okay, so with the cutting it sounds like the point where you decided to cut out your locker. what triggered it was hearing that girl talking about Tim.",routine,159_70,T,gc,0.0,"Okay, toh jab tumne locker se cut karne ka faisla kiya, tab tumhe sunaai diya ki wo ladki Tim ke baare mein baat kar rahi thi."
+71,"Yeah, cuz she's stupid.",routine,159_71,P,gc,-3.0,"Haan, kyunki woh bewakoof hai."
+72,"Okay, it sounds like you're also already having a pretty bad day. You said he hadn't called. He hadn't been texting us. And that was on your mind?",routine,159_72,T,gc,0.0,"Thik ho raha hai, lagta hai tumhare din bhi pehle se hi kharab chal raha hai. Tumne kaha tha woh call nahi kar rahe the. Woh humhe text nahi kar rahe the. Aur tumhare dimaag mein ye baat thi?"
+73,Yeah. That's right.,routine,159_73,P,op,0.0,Haan. Wahi toh sahi hai.
+74,"So I'm wondering if that point, if we can think of two things that you can try differently next time instead of the cutting.",routine,159_74,T,gc,0.0,"Kya main soch rha hoon ki agar aap uss baat ko dhyan mein rakhein, toh agli baar aap do cheezein ek dusre se alag karne ki bajaye kuch alag tariko se try kar sakte hain."
+75,Okay,inactive,159_75,P,gc,0.0,Thik hai
+76,that'll bring that anger from a nine down a little bit.,routine,159_76,T,gc,0.0,वो उस अस्तित्व से थोड़ी सी नीचे की गुस्सा ला सक
+77,"It's not going to bring it down all the way to a three, though. I'll tell you that much.",routine,159_77,P,gc,-3.0,It ko teen tak kam nahi karne wala hain. Par mei aapko itna hi bataunga.
+78,It might not. But it'll bring it down a little bit. Maybe each thing you try brings it down a little bit more.,routine,159_78,T,gc,0.0,"Ye ho sakta hai. Lekin thoda kam karega. Shayad har cheez jo aap try karte ho, vo thoda aur kam kare."
+79,All right,inactive,159_79,P,gc,0.0,Sab theek hai
+80,maybe there'll be things will feel good about later. You won't have to worry about that guilty feeling coming back.,routine,159_80,T,gc,0.0,Say shaayad baad mein kuch cheezein hogi jinse tum acha mehsoos karoge. Tumhein us gunaahgaar ehsaas ki chinta karne ki zaroorat nahi hogi.
+81,All right.,inactive,159_81,P,gc,0.0,Theek hai.
+82,"So the first thing is that pencil, it sounds like it's comforting to have it. ",routine,159_82,T,gc,0.0,Bhai pehla toh baat ye hai ki pencil ki awaaz sunte hi aisa lagta hai ki uske paas hona aaram dayak hai.
+83,"Yeah, it is.",inactive,159_83,P,gc,0.0,"Haan, yeh hai."
+84,"It also sounds like it's tempting, What do you think about that?",routine,159_84,T,gc,0.0,"Yeh bhi lagta hai ki yeh dilchasp hai, Tum kya sochte ho iske bare mein?"
+85,"I mean, Only if I am in the mood to cut it's tempting",routine,159_85,P,od,-3.0,"Mai matlab, maane to, bas tabhi agar mai man me hoon to, use kaatne ka mazaak hota hai."
+86,having that pencil is going to make it harder to try other things. When you've been talking about how you're really committed to not cutting any more or cutting less,routine,159_86,T,gc,0.0,dost agar tune woh pencil apan liya to kaam karne mein pareshaani hogi acchi tarah se aur bol hi rahe ho ki tera vishwaas band karna hai par kum ya bilkul nahi katna hai
+87,"Yeah, I am.",routine,159_87,P,gc,0.0,"Haan, main hoon."
+88,Sounds like that pencils standing in your way.,routine,159_88,T,gc,0.0,यह ऐसा लगता है कि आपके रास्ते में प
+89,"Yeah, maybe.",routine,159_89,P,gc,0.0,"Haan, shayad."
+90,"What do you think about getting rid of the pencil this time, choosing a different favorite pencil that maybe you can't cut with. ",symp/reasoning,159_90,T,orq,0.0,"Is baar pencil ko chhodne ke baare mein kya sochte ho, kisi alag pasand ki pencil ko chunna jo shayad tumhe kaat nahi sakti ho."
+91,"I mean, maybe only, only if it's can be like a really cool pencil",routine,159_91,P,od,0.0,"Mai matlab, shayad sirf, sirf agar yeh ek sachmuch dhansu pencil ho sakti hai toh."
+92,That way you can still have something that can be your favorite but which won't tempt you. That'll make it easier to try the two things.,routine,159_92,T,gc,0.0,Uss tarah aapke paas aisa kuch ho sakta hai jo aapka pasandeeda ho magar jo aapko phir bhi khush na kare. Isse aapko do cheezon ko try karna asaan hoga.
+93,Yeah.,inactive,159_93,P,gc,0.0,Haa.
+94,"Okay, what do you think our first thing should be? What do you think you can try? You just heard somebody say something you don't want to hear you're feeling pretty angry. What can you do in that moment?",symp/reasoning,159_94,T,gc,0.0,"Thik hai, tum sochte kya ke humara pehla kaam kya hona chahiye? Tum kya soch sakte ho ki tum koshish kar sakte ho? Tumne abhi kisi ko kuch bolte huye suna hoga jo tumhe sunna nahi hai, tumko gussa aa raha hai. Us pal mein tum kya kar sakte ho?"
+95,"Oh, what I do a lot at home when my mom's bothering me and saying stuff I don't want to hear I put my headphones on.",symp/reasoning,159_95,P,id,-3.0,"Arre, main ghar par kya karta hoon jab meri mummy mujhe pareshan karti hai aur woh cheezein bolti hai jo main sunna nahi chahta, main apne headphones laga leta hoon."
+96,Do you have your headphones with you at  school?,routine,159_96,T,yq,0.0,School mein aapke paas earphones hai kya?
+97,"Yeah, they they they actually they let me keep them on in school.",routine,159_97,P,op,0.0,"Yeah, unhone mujhe actual mein school mein rakhne diya."
+98,Is that something you'd be willing to try next time?,routine,159_98,T,irq,0.0,Kya yeh kuchh aap agle baar koshish karne ke liye taiyar honge?
+99,I think so. there's a there's a few songs that usually helped me so I think so.,routine,159_99,P,id,-3.0,मैं सोचता हूँ. वहाँ कुछ गाने हैं जो मुझे आमतौर पर मदद करते हैं इसलिए मुझे
+100,"Okay, that sounds like a good one to try. So we have headphones, we need to come up with One more. What do you think you'd like to try?",routine,159_100,T,gc,0.0,"Theek hai, yeh ek achha option lage, koshish karne ke liye. Toh humare paas headphones hai, ab ek aur honi chahiye. Kya aapko kaise lagta hai, aap kya karna chahte ho?"
+101,"Well, I really like my teacher, Mrs. Xion. So she seems to always kind of be there when I need to talk. And her rooms kind of right down the hallway from my locker than the same hallway. So I guess I could talk to her. ",symp/reasoning,159_101,P,od,-3.0,"Achha, main apni teacher, Mrs. Xion ko bahut pasand karta hoon. Woh mujhe hamesha meri baat karne ke liye wahaan rehti hai. Aur uske kamre mere locker se wahi hallway mein hain. Toh sochiye main usse baat kar sakta hoon."
+102,"That sounds like a good option. That's our goal is to keep pushing, cutting further down the list, and keep adding things that you're going to try first. And you're right that the first thing you try, it might not bring you all the way down to a two or three, but it might bring you down a little bit. And each thing you try might bring you down just a little bit more. So you have to be willing to try a few things. Can you do that?",routine,159_102,T,gc,0.0,"Yeh toh ek achha option lagta hai. Humara intention hai ki hum aage badhte rhein, list ko aur kam karte jayein, aur aise cheezein jodte jayein jo aap pehle try karenge. Aur aap sahi hai ki pehla cheez aap try karte hain, ho sakta hai wo aapko sirf do ya teen tak le jaye, lekin thoda aur niche tak le hi sakta hai. Aur har cheez jo aap try karte hain, woh aapko thoda aur niche le hi jati hai. Toh aapko kuch cheezein try karne ke liye taiyaar hona padega. Kya aap kar sakte hain?"
+103,"I can, but I really want like a cooler pencil though, like, like a cooler pencil, so I don't know, maybe, maybe we could go look for a pencil together.",routine,159_103,P,yq,0.0,"I can kar, par I really want a thoda amazing pencil, jaise, jaise ek aur cool pencil, toh main nahi jaanta, shayad, hum ek saath pencil dhundhne jaa sakte hain."
+104,I think that's a good idea.,routine,159_104,T,gc,0.0,Main apni bhi raye dena chahunga ki woh ek acchi soch hai.
+105,"Okay, I'd like that. ",inactive,159_105,P,gc,0.0,"Okay, mujhe voh pasand hai."
+106,Okay. Thank you for answering all my questions on this. You did a great job with this chain and I know it wasn't easy.,inactive,159_106,T,gc,0.0,Thik hai. Dhanyavaad tere haathon mere sab sawaalon ka jabab dene ke liye. Tune is bandh ke saath bahut achha kaam kiya hai aur mujhe pata hai ye aasan nahi tha.
+107,Yeah. You're welcome.,inactive,159_107,P,gc,0.0,Haan. Aapka swagat hai.
+108,Let's go look for a pencil.,inactive,159_108,T,gc,0.0,Chalo hum pencil dhoondhne jaaen.
+109,summary,"The patient has been angry that another girl had been talking about their boyfriend Tim near their locker the other day. They were angry at a score of 9 out of 10. The patient decided to go to the gym behind the bleachers to cut themselves, by using their favorite pencil with metal head. They cut on their leg three times. The patient scored their anger 3 out of 10 after the cut. The patient felt guilty for cutting themselves. The therapist suggests to think of alternatives, and asks to buy a new favorite pencil and get rid of metal head pencil. They discuss another idea to put on headphones if they wish to avoid to hear things that make them angry. The patient suggested that they will talk to Mrs. Xion who seems to be kind. The therapist assures these ideas if tried will slowly help and accompanies the patient to buy a new pencil. ",,,,,
+110,primary_topic,harm,,,,,
+111,secondary_topic,cut-self,,,,,

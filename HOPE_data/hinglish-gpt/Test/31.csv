@@ -1,0 +1,62 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,Tell me about sure for any spiritual beliefs.,routine,31_0,T,irq,,Koi bhi dharmik vishvaas ke baare mein mujhe bataiye.
+1,"Well, I was raised Catholic.",routine,31_1,P,id,,"ठीक है, मैंने कैथोल"
+2,So you consider yourself Catholic. But you feel like there's a lot of rules.,routine,31_2,T,irq,,तो तुम खुद को कैथोलिक समझते हो। पर तुम्हे ऐसा लगता है कि बहुत स
+3,"Yeah. I mean, there's a lot of do's and don'ts. Our church was very like, hell oriented. Like, if you do this, you're gonna go to hell to do this. We're gonna go to hell and like, well, let's let that's fun.",routine,31_3,P,gc,,"Haan. Mai toh bahut saare do's aur don'ts dekh raha hoon. Hamari church bilkul hell-focused thi. Agar tu yeh karega, toh tu hell mein jaega. Agar hum woh karenge toh bhi hum hell mein jaenge aur fun hoga, lekin jaenge toh."
+4,How do you think those spiritual values influence your daily life?,symp/reasoning,31_4,T,irq,,Tumhe kya lagta hai ki woh aadhyaatmik mulya aapke dincharya par kaise prabhav dalte hain?
+5,"I mean, sometimes I do. Feel guilty about what I do. I feel guilty about, you know, spending more money than I'm willing to admit on drugs and parties, but I mean, I think you know, God forgive me. Hmm.",symp/reasoning,31_5,P,id,,"Main hoon, kabhi kabhi karti hoon. Chinta manaati hoon jo main karti hoon. Main chinta karti hoon, tu jaanti hai, dawaaiyon aur parties par zyaada paise kharch karne ke liye, par main toh yeh manti hoon, Bhagwan mujhe maaf kare. Hmm."
+6,How about racial ethnic identity?,routine,31_6,T,irq,,Kya ham racial ya gaurav pehchan ke baare mein soche?
+7,"Well, I am Mexican.",routine,31_7,P,id,,"Achha, Main Mexican hu."
+8,Mexican.,inactive,31_8,T,crq,,Mexican th
+9,"Well, I'm very, very family oriented.",routine,31_9,P,cd,,"Achcha, main badi hi parivaar-bhaavna waala hoon."
+10,Family oriented.,inactive,31_10,T,crq,,परिवार के
+11,"Yeah,",inactive,31_11,P,cd,,"Haan,"
+12,Can you tell me about your living housing situation?,routine,31_12,T,irq,,Kya tum mujhe apni rekha-griha ki wapasri bata sakte ho?
+13,"unsteady, or just really the word? Yeah. I mean, usually it's about there's a lot of us in one house. Like, right now I'm living with about six other people. And, you know, the fight happens or somebody can't pay the rent or I can't pay the rent. You know, I've moved probably about 12 times within the past year,",story,31_13,P,id,,"Unstable, ya bas wahi shabd? Haan. Mera matlab hai ki normally hamare paas ek ghar mein bahut saare log hote hai. Jaise, abhi main chhah aur logon ke saath reh rahi hoon. Aur, jhagda hota hai ya kisi ko kiraya dene mein takleef hoti hai ya main kiraya nahi bhar paaungi. Pichle saal main shayad 12 baar taabdeel ho gayi hoon."
+14,the past year.,inactive,31_14,T,crq,,pichhe saal.
+15,Yeah.,inactive,31_15,P,ack,,Haan.
+16,"So, there's a part of it's not so bad.",routine,31_16,T,gc,,"Toh, uske ek hisse ka koi bura haal nahi hai."
+17,"Yeah, but I could see it having an effect on my kids.",routine,31_17,P,gc,,"Haan, par maine apne bachchon par iska asar dekh sakte hue dekha hai."
+18,How much for financial outlook,routine,31_18,T,irq,,Financial outlook ke liye kitna hoga?
+19," By financial outlook, well, I get assistance from the state. And I mean, I usually have enough to pay for everything. I mean, there's been some days that I've had to tell, you know, my roommate say, Can you lend me some money? Or my sister's always there if I need that from her?",story,31_19,P,id,,"Financial outlook ke according, main state se madad leleta hoon. Aur mera matlab hai ki mujhe usually sab kuch chukane ke liye kafi hota hai. Mera matlab hai ki kabhi kabhi mujhe kehna pada hai, tumhara kamra-mitrad ko, kya tum mere ko paise udhaar de sakti ho? Ya meri behen hamesha meri madad ke liye woh hai."
+20,So occasionally you'll borrow money.,symp/reasoning,31_20,T,crq,,तो अभी-अभी तुम्हें
+21,Yeah.,inactive,31_21,P,ack,,Haan.
+22,All right. How about your sleep? Do you feel like you sleep as much as you should? More than you should or less than you're sure,symp/reasoning,31_22,T,irq,,Thik hai. Tera sona kaisa hua? Kya tumhe lagta hai ki tum jitna sona chahiye utna hi sote ho? Zyada ya kam ya phir tumhare vishwaas ke anusar se kam ho?
+23,much less than I should.,symp/reasoning,31_23,P,id,,Bahut kam hai mere liye.
+24,Tell me about that.,routine,31_24,T,irq,,Mujhe uske baare mein batao.
+25,"I mean, just to kids and getting them down and then taking trying to take some time for myself and sometimes I'm up late with, you know, being with people. smoking, drinking. I just don't that much.",story,31_25,P,id,,"Mai to bilkul hi baccho ke saath, aur unhe neeche le jana aur phir apne liye thoda sa waqt nikalne ki koshish kar raha hu, aur kabhi kabhi raaton ko main logo ke saath rehna, smoking aur drinking karte hue late tak jagta hun. Bas, main itna nahi karta."
+26,Or is that a problem that you want to work on?,routine,31_26,T,irq,,Kya woh ek samasya hai jisko aap par kam karna chahte hain?
+27,"Yeah, I guess. Yeah. Yeah. I really like to get some more sleep.",routine,31_27,P,id,,"Haan, mujhe lagta hai. Haan, haan. Mera mann hai ki thoda aur so jaaun."
+28,How about food intake eating? Do you feel like you eat more than you should less than you should or about right?,routine,31_28,T,irq,,Kya khane mein kaise? Kya aapko lagta hai ki aap jyada ya kam ya bas thik-thak khate hain?
+29,"More than I should more, I find myself like snacking a lot during the day. And I'll still have regular meal. So it's like meals on top of snacking on top of meals on top of snack and it's just a lot of food.",symp/reasoning,31_29,P,id,,"Zyada se zyada, main din bhar mein aksar snacks khane ke liye khud ko paata hoon. Aur phir bhi main niyamit bhojan karta hoon. Isliye yeh snacks ke saath bhojan ka bhojan aur bhojan ke saath snacks ka bhojan, bas bhojan ki bohot si tarah hoti hai."
+30,Is that an area that you want to work on? Do you see that as a problem?,routine,31_30,T,irq,,Kya yeh woh kshetra hai jisme aap kaam karna chahte hain? Kya aap usko ek samasya ke roop mein dekhte hain?
+31,"Yeah, I guess I could work on that problem, but I guess now that you mentioned it. That'd be interesting.",routine,31_31,P,id,,"Haan, main sochta hoon ki main uss samasya par kaam kar sakta hoon, par pata hai aap jab uske baare mein baat ki, to mujhe woh thoda anokha laga."
+32,"And maybe I want to switch gears again here. Trauma history. Now. You already told me about the What do you think may have happened or could have happened with your father? How about any physical abuse? I think you mentioned that earlier, right?",routine,31_32,T,irq,,"aur shayad main yahan phir se rukh badalna chahta hoon. Apaaraadik itihaas ab. Ab. Tum mujhe baar baar bta chuke ho ki tumhare pitaji ke saath kya ho skta tha ya ho skta tha? Kya khilwaad hua tha? Main smjhta hoon tumne pehle hi btaya tha, sahi hai na?"
+33,"Yes. Well, my dad would hit us while we're younger. And then after he went to jail, um, me and my mom would get into fights, sometimes.",story,31_33,P,id,,"Haan. Well, jab hum chote they toh mere dad humein maarte they. Aur phir jail mein jaane ke baad, hmm, meri mom aur main ladaai karte they, kabhi kabhi."
+34,"Physical fights, yeah.",routine,31_34,T,crq,,"Physical ladaiyaan, haan."
+35,"Had a few cousins that you know, would step over the line.",routine,31_35,P,cd,,"मेरे कुछ चाचे-चचेरे हैं जो तुम्हें पता है, वे लाईन प"
+36,Tell me what you mean by involved.,routine,31_36,T,irq,,Mujhe tumhara matlab involved/hshaas/puraattva hai kya?
+37,"You know, I punch back. ",routine,31_37,P,id,,"तू तो जानता है ना, म"
+38,"Well, what do you think happened in those situations? You feel like that?",routine,31_38,T,irq,,"Accha, to tumhare hisaab se un situations mein kya hua? Tumhe aisa lagta hai?"
+39,"No, they were they were picking on me. ",routine,31_39,P,id,,"Nahi, woh mujhpar chale pad rahe the."
+40,You were targeted?,routine,31_40,T,irq,,Kya tumne nishana lagaya?
+41,"Yeah. Because I'm small. I'm sure. You know, my cousin's really towering over me so they would try to disrespect me Because they thought they could.",routine,31_41,P,id,,"Haan. Kyunki main chhota hoon. Main pakka hoon. Tum jaante ho, mere cousin mujhse bahut lamba hai isliye woh mujhe be-izzat karna chahte the kyunki unko lagta tha ki woh kar sakte hain."
+42,And you would act out physically against them to defend yourself.,routine,31_42,T,orq,,"Aur tum unke khilaf sharirik roop se karvai karenge, khud ko bachane ke liye."
+43,So naives,inactive,31_43,P,od,,So bewakoof
+44,on occasion?,inactive,31_44,T,crq,,Kabhi kabhi?
+45,Yeah.,inactive,31_45,P,cd,,Haan.
+46,How about emotional abuse?,routine,31_46,T,irq,,Kya emotional abuse ke baare mein sochte ho?
+47,My mom always tried to make me like I was the scapegoat a lot,routine,31_47,P,id,,Meri maa hamesha yahi koshish karti thi ki mujhe aisa lage ki main bahut baar bakra banaya jata hoon.
+48,"about that,",inactive,31_48,T,irq,,"uske baaremein,"
+49,"even if it was her fault that the lights weren't on and there were no there was no water. It would somehow be my fault. No while you're, I had to bail your sister out again. So you know this happened and I had to drive around town to find your sister because you know, she was just off doing her own thing. So I spent all the money on gas couldn't pay them like that was always my fault. Everything was always my fault, even though I knew it wasn't but still harbor.",story,31_49,P,id,,"Agar wohi uski galti thi ki lights nahi thi aur nahin tha paani. Toh somehow meri galti ho jayegi. Nahi jab aap, maine tumhari behen ko dobara nikaalna pada. Toh tumko pata hoga ki yeh hua aur phir main puri sheher mein ghoomke tumhari behen ko dhoondna pada kyunki tumko pata hai woh apne tareeke se kaam kar rahi thi. Toh maine pura paisa gas pe khatam kar diya aur unko pay nahi kar saka, aur phir bhi meri hi galti thi. Sab kuch meri hi galti thi, waise mujhe pata tha ki waisa nahi hai par phir bhi dard dil mein tha."
+50,That was painful for you.,routine,31_50,T,crq,,That was a painful experience for you.
+51,Yeah.,inactive,31_51,P,cd,,Haan.
+52,Do you think that had an impact or that or the physical abuse had an impact on your life? What's happening now?,routine,31_52,T,irq,,Kya tumhare jeevan par uss par haan ya phir sharirik hinsa ka asar pada? Kya ab kya ho raha hai?
+53,"physical abuse, I guess I try to end fights with violence, I guess, because I know how bad it can get. So I've tried to shut it down really fast, but probably not the most healthiest way. What's been the honest, that's why I think my sister and me are close. And so I blame my mom for that because she used me as the scapegoat. And then my sister was like, Oh, well, that's the bad sister.",story,31_53,P,id,,"Physical abuse, main sochta hu ke main jhagde ko hinsa se khatam kar du, kyunki main jaanta hu ki kitna bura ho sakta hai. Isliye maine bahut jaldi usko bandh karne ki koshish ki, par shayad yeh sabse swasth tarika nahi hai. Sach kya tha yeh jo ki meri behen aur main bahut kareeb hain. Aur is baat ke liye main apni maa ko dhoondta hu, kyunki unhone mujhe nishana banaya tha. Aur phir meri behen kuch aisa kehti thi, ki, Oh, wohi buri behen hai."
+54,So you think your mother's behavior led to the way your sister treats you now?,routine,31_54,T,yq,,Kya tumhe lagta hai ki tumhari maa ki vyavahar ne tumhari behen ki aapse ab vyavhar karne ki talim di?
+55,Yeah.,routine,31_55,P,ack,,Haan.
+56,Any other instances of physical or emotional abuse?,routine,31_56,T,yq,,Kya kisi aur wakht shararti ya bhavnaatmak atyachaar ki koi aur ghatna hai?
+57,"No, not really.",routine,31_57,P,on,,"Nahi, bilkul nahi."
+58,summary,"The patient was raised Catholic and they feel guilty about spending more money on drugs and parties. The patient has switched 12 houses in the past year and feel it must have affected their kids. The patient occasionally borrows money and gets less sleep in general. The patient feels they eat more than they should. The patient's dad used to hit them and mom used to fight them. The patient's cousins used to engage in physical fights, and their mom used to make the patient a scapegoat. The patient tries to end fights with violence. The patient's mom's abuse has made the patient and their sister close. ",,,,,
+59,primary_topic,family issues,,,,,
+60,secondary_topic,kids-dad-mom-sister,,,,,

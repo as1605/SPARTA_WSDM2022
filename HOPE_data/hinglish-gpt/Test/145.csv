@@ -1,0 +1,217 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi Sharon, How you're doing today ?",inactive,145_0,T,gt,0.0,"""Hi Sharon, Aaj tum kaisi ho?"""
+1,"Well, I'm all right. My counselor, you know, my counselor sent me over because she's a little worried about me that I might hurt myself. So",symp/reasoning,145_1,P,gt,-1.0,"Achha, main theek hun. Meri counselor, tum jaante ho na, meri counselor ne mujhe bheja hai kyunki wo thodi pareshaan hai mujhe lekar, mera khud ko nuksaan pahuncha sakta hai."
+2,she's a little worried about you ?,routine,145_2,T,crq,0.0,Woh tere barey mein thodi chintit hai?
+3,Yeah.,routine,145_3,P,cd,0.0,Haan.
+4,What do  she  think's gonna happen?,routine,145_4,T,irq,0.0,Wo sochti hai ki kya hone wala hai?
+5,I mean that. I don't know. I guess she thinks that I'm I guess the things that I'm thinking are dangerous.,symp/reasoning,145_5,P,id,-1.0,Mai keh raha hoon. Mujhe pata nahi hai. Shayad woh sochti hai ki main wah nahi soch raha hoon jo khatarnak hai.
+6,"Right, you mind If I  to do an assessment to measure your risk of harm.",routine,145_6,T,gc,0.0,"Arrey, tu koee aaparikshan karane ko taiyar ho? Mai aapke khatre ka maap karne ke liye."
+7,That's fine.,routine,145_7,P,gc,0.0,Vah theek hain.
+8," Okay. All right. Sharon, how old are you?",routine,145_8,T,gc,0.0,"Theek hai. Thik hai. Sharon, tumhari umar kitni hai?"
+9,28,routine,145_9,P,id,0.0,Hinglish
+10,"28. Now, think about your family for a moment. Is there any history of suicide? or any type of suicidal behavior in your family?",routine,145_10,T,gc,0.0,"Abhi, apne parivar ke bare mein ek pal ke liye socho. Kya aapke parivar mein aatmahatya ki koi itihaas hai? ya phir aapke parivar mein koi aatmahatya jaisa vyavahar hai?"
+11,"Yeah, my dad committed suicide. ",routine,145_11,P,id,-1.0,"Haan, mere papa ne apne aap ko phaansi de di."
+12,Your father committed suicide.,routine,145_12,T,crq,0.0,Tumhara baap ne aatma hatya kar di.
+13,Yes,inactive,145_13,P,cd,0.0,Haan
+14,Any other?,routine,145_14,T,crq,0.0,Kuch aur?
+15,"Um, I mean, I think that my sister has, like had an attempt. ",routine,145_15,P,cd,-1.0,"Arre, I mean, I think ki my behen ne, thoda sa koshish ki hai, like kiya hai."
+16,an attempt ?,inactive,145_16,T,crq,0.0,Kya koshish ki gayi hai?
+17,yeah,inactive,145_17,P,cd,0.0,haan
+18,How long ago did your father commit suicide?,routine,145_18,T,irq,0.0,Tumhare pahle tumhare pita ji ne apni hatya ki thi?
+19,Ohh like 15 years ago,routine,145_19,P,id,-1.0,Abey 15 saal pehle ki baat hai
+20,15 years ago ?,routine,145_20,T,crq,0.0,15 saal pehle kya tha?
+21,Yeah. Something like that.,routine,145_21,P,cd,-1.0,Haan. Aisi kuchh.
+22,How can you think about that?,routine,145_22,T,irq,0.0,Tum uske bare mein kaise sochte ho?
+23,"I try not to think about it. Oh, I don't I don't know.",routine,145_23,P,cd,-3.0,"Mai uske bare me sochne ki koshish nahi karta. Arre, mujhe pata nahi hai."
+24,"That must be hard, though.",routine,145_24,T,gc,0.0,"वह कठिन होगा, तब भी"
+25,"Yeah, I mean, yeah. It's hard. ",routine,145_25,P,gc,-1.0,"Haan, main toh keh rahi thi. Mushkil hai."
+26,Is that on your mind now?,routine,145_26,T,yq,0.0,Kya abhi tere dimaag mein wahi baat chal rahi hai?
+27,"No,  that we're talking about it? Yes.",routine,145_27,P,op,-1.0,"Arre, ye to hum iske baare mein baat kar rahe hain na? Haan."
+28,But on your mind before we talk.,routine,145_28,T,crq,0.0,Lekin humari baat karein tab tak aap apne mann mein soch lijiye.
+29,"Mmm not really no, not really",routine,145_29,P,cd,-1.0,"Hindi: नहीं ठीक अरे नहीं, ठीक"
+30,Alright. Are there any mental health disorders that you're aware of in your family? Or do you suspect in your family?,routine,145_30,T,irq,0.0,Theek hai. Kya aapke parivar mein kisi ko dimagi swasthya ke rog hai jinhe aap jaante hain? Ya phir aap apne parivar mein sandeh rakh rahe hain?
+31,"I don't know. I mean, I don't know. ",routine,145_31,P,id,-3.0,"Yaar, mujhe kuch pata nahi hai. Mera matlab, mujhe kuch pata nahi."
+32,Okay. Can you tell me about any disorders you've been diagnosed with?,routine,145_32,T,irq,0.0,ठीक है। क्या आप मुझे बता सकते हैं कि आपको कौन से विकारो
+33,"Um, well, right now, I think that I've been diagnosed with depression. And in the past, I've had some problems with anxiety.",routine,145_33,P,id,-3.0,"वह, अच्छा, अभी, मैं सोच रहा हूँ, कि मुझे अवसाद का निदान हो गया है। और पिछले में, मुझे कुछ चिंता क"
+34,But How about now?,routine,145_34,T,crq,0.0,Lekin ab kaise?
+35,How about now I'm having problems with anxiety ?,routine,145_35,P,crq,0.0,"Ab aise kaise, Abhi to mere paas chintag ko lekar musibte hain"
+36,Hmm,inactive,145_36,T,cd,0.0,Hmm क
+37,Umm not as bad as in the past.,routine,145_37,P,cd,,"Hmm, pehle ki tarah bilkul bura nahi hai."
+38,How is depression?,symp/reasoning,145_38,T,irq,0.0,Depression ka haal kaisa hai?
+39,"Yeah, ",symp/reasoning,145_39,P,id,-1.0,"Haan,"
+40,right now ?,routine,145_40,T,crq,0.0,abhi karo ya nahi?
+41,Yeah.,routine,145_41,P,cd,0.0,Haan.
+42,And how bad?,routine,145_42,T,irq,0.0,Aur kitna bura?
+43,pretty bad.,routine,145_43,P,id,-1.0,Bahut hi bura.
+44,Yeah. On a scale of one to 10 with 10 being the worst it's ever been. How  depressed you're now ?,symp/reasoning,145_44,T,irq,0.0,Haan. One se das tak ka scale hai jisme das sabse bura hota hai. Aaj kal tera depression kitna zyada hai?
+45,"Probably Like an eight or nine,",symp/reasoning,145_45,P,id,-1.0,Shayad ek ath ya nau jaisa!
+46,Eight or Nine that's depressed ?,routine,145_46,T,crq,0.0,Aath ya nau jo udas hai?
+47,Yeah.,routine,145_47,P,cd,0.0,Yeah. ह
+48,How about anxiety at the same scale?,symp/reasoning,145_48,T,irq,0.0,क्या समान अनुभव स्तर पर चिंता हो
+49,Probably like a four or five.,symp/reasoning,145_49,P,id,-1.0,Shayad koi chauthe ya paanchve jaise hi hai.
+50,You're fine. So not quite as bad as its been ?,routine,145_50,T,gc,0.0,Tu theek hai. To isse itna bura nahi hai jitna ki ye hua hai?
+51,"No, not as bad as it's been, but it's getting up there.",routine,145_51,P,id,-1.0,"वाक्य: नहीं, इतना बुरा नहीं कि जितना यह पहले था, लेकिन"
+52,"Yeah, it's getting worse lately.",routine,145_52,T,crq,0.0,"Haan, yeh haalat abhaari horahi hai kuch dino se."
+53,"Yeah, I think yeah, it's been worse lately. Yeah.",routine,145_53,P,cd,-1.0,"Haan, mujhe lagta hai ki haan, yeh haal hi mein aur bura ho gaya hai. Haan."
+54,"So if you'r think back, say a couple days ago. How bad was the anxiety and depression?",routine,145_54,T,irq,0.0,"Toh agar tum sochoge, toh bol doh kuch din pehle. KyA hogyA anxiety aur depression kA haal?"
+55,anxiety probably like a three or four. Depression about an eight or nine still same.,routine,145_55,P,id,-1.0,"Anxiety shaayad ek teen ya chaar ke barabar hai. Depression karib ek saath ya nau ke barabar hai, phir bhi same hai."
+56,same intensity?,routine,145_56,T,crq,0.0,kya same intensity hai?
+57,"Yeah, yeah.",routine,145_57,P,cd,-1.0,"Haan, haan."
+58,"Alright, Do you have any medical illnesses?",routine,145_58,T,yq,0.0,"Alright, Kya aapke paas kisi bhi medical bimari hai?"
+59,"Um, no.",routine,145_59,P,on,0.0,"Hain, Nahi."
+60,Do you live alone?,routine,145_60,T,yq,0.0,Kya tum akeli rehte ho?
+61,Yeah,routine,145_61,P,op,0.0,Haan
+62,you do ?,inactive,145_62,T,crq,0.0,tum karo?
+63,Yeah,inactive,145_63,P,cd,0.0,haan
+64,How often you see your relatives?,routine,145_64,T,irq,0.0,Tum kitne baar apne rishtedaar dekhte ho?
+65,"probably see my relatives like every, like, maybe once a month, maybe",routine,145_65,P,id,0.0,"शायद मैं महानियों को हर महीने में, कुछ, शायद मायबे एक ब"
+66,"once a month, how about friends ?",routine,145_66,T,crq,0.0,"Ek mahine mein ek baar, Friends ke baare mein kaisa?"
+67,"friends, it depends. Not as much lately, I used to be better friends with my coworkers and I lost my job. So I haven't seen them as much. And so probably maybe like once a week, maybe once a week depends on the week.",story,145_67,P,cd,-1.0,"मित्रों, यह उपलब्ध होता है। हालांकि अभी ज्यादातर नहीं, मैं अपने सहकर्मियों के साथ बेहतर दोस्त बना रहा था और मैंने अपनी नौकरी खो दी थी। इसलिए मुझे उनसे इतना मिलने का अवसर नहीं मिला है। और शायद हफ्ते म"
+68,How long ago you lost your job?,routine,145_68,T,irq,0.0,Tumne apna kaam kab kho diya tha?
+69,"Umm about two months ago,",routine,145_69,P,id,0.0,"Umm, Keibe do mahine pahle,"
+70,"two months ago, ",routine,145_70,T,crq,0.0,"do mahine pehle,"
+71,Hmm,inactive,145_71,P,cd,0.0,अर
+72,"I'm sorry to hear that happens to you. how would you characterize the strength of your social network? Like, is it as strong as you want it to be?",routine,145_72,T,ap,-1.0,"Mujhe sunke afsos hua tumhare saath vo hota hai. Tumhare social network ki takat kaise hogi? Jaise, kya vo tumhe jitni taakatvar chahiye, vaisi hai?"
+73,"No, sometimes I feel pretty alone. Yeah, I feel like you know, nobody really wants me around. Nobody really needs me. So yeah. I feel pretty alone a lot of time. Sometimes even when I'm with other people,",routine,145_73,P,gc,-1.0,"Haan, kabhi-kabhi mujhe kaafi akela mehsoos hota hai. Haan, mujhe aisa lagta hai ki koi mujhe sach mein chaahta hi nahi hai. Koi mujhe sach mein zaroorat nahi hai. Toh haan. Main bohot saare waqt kaafi akela mehsoos karti hoon. Kabhi kabhi jab main doosron ke saath hoti hoon bhi,"
+74,so you're with people when you still feel isolated.,routine,145_74,T,crq,0.0,Tum logon ke saath ho par fir bhi tanha mehsoos karte ho.
+75,Yeah.,routine,145_75,P,cd,0.0,Haan.
+76,"When you are with people when you're not feeling isolated, how would you characterize the quality of the relationships you have? Let's start with your family. How good do you think those relationships are?",routine,145_76,T,irq,0.0,"When you are surrounded by people and not feeling lonely, how would you describe the quality of your relationships? Let's begin with your family. How would you rate the strength of those relationships?"
+77,"I mean, they're okay. Like not really that great. But everybody has like, trouble with their family. I guess so. I don't know.",routine,145_77,P,id,-1.0,"Translation:
+
+Yaar, woh thik hain. Matlab bilkul bade bade nahi. Lekin sabhi ke paas apne parivaar ke saath pareshaani hoti hai. Main sochta hoon. Mujhe nahi pata."
+78,You think its more or less normal?,routine,145_78,T,crq,0.0,Kya tumhe lagta hai ki yeh zyada ya kam normal hai?
+79,"Yeah, yeah.",inactive,145_79,P,cd,-1.0,"Haan, haan."
+80,How is it with your friends?,routine,145_80,T,irq,0.0,Tumhare friends ke saath kaisa chal raha hai?
+81,"It's okay. You know, I guess I'm always like, second guessing everything. Like, do they really like me? Do they really want to spend time with me? I know I'm bothering them. That kind of thing. But I mean, it's not for the most part. I mean, I think they care about me. It's a pretty, you know, we have a good time. I think When we're together for the most part but",story,145_81,P,id,-3.0,"ठीक है। तुम्हें पता है, मुझे लगता है कि मैं हर समय, सब कुछ पर दोबारा से सोचती हूँ। जैसे कि, क्या वे सचमुच मुझसे प्यार करते हैं? क्या वे सचमुच मेरे साथ समय बिताना चाहते हैं? मुझे पता है कि मैं उन्हें परेशान करती हूँ। वो तरह की बातें। लेकिन मेरे ख्याल से, यह ज्यादातर ऐसा नहीं है। मुझे लगता है कि वे मेरी फिक्र करते हैं। यह खूब, तुम्ह"
+82,most part positive ?,routine,145_82,T,crq,0.0,Kya adhikansh partein sakaratmak hain?
+83,yeah,inactive,145_83,P,cd,0.0,Yep
+84,Do you have any conflict or crisis going on right now? You mentioned the loss of your job.,routine,145_84,T,irq,0.0,Kya aapke paas abhi koi conflict ya crisis hai? Aapne apne naukri ki haar ka zikr kiya tha.
+85,"Yeah, I'm, I'm gonna be evicted from my house or you know, my apartment because I can't pay my bills because I lost my job so I really don't know what I'm going to do or where I'm going to go. I just don't know what to do. I'm feeling really lost and like helpless and like everything's just pointless.",story,145_85,P,id,-2.0,"Haan, main, main toh apne ghar se eviction ho jaunga ya phir aap jaante hain, mera apartment kyunki main apne bills nahi bhar pa raha hoon kyunki maine apna kaam kho diya hai toh main sach mein nahi jaanta kya karunga ya phir main kahaan jaaunga. Mujhe bas nahi pata kya karna hai. Main bahut khoya sa aur mazdoor mehsoos kar raha hoon aur jaise sab kuch bekaar hai."
+86,I'm sorry to hear that. When are you going to be evicted?,routine,145_86,T,ap,-1.0,मुझे तुम्हारी बात सुनकर दुःख हुआ। तुम कब निकाले ज
+87,"Um, well, I'm not quite sure. Um, it sounds like it's going to be at the end of the month.",routine,145_87,P,id,-2.0,"Arre, toh, main thoda doubt hai. Arre, ye lagta hai ki mahine ke ant mein hone wala hai."
+88,So then month are going to be evicted from the is it  house or  apartment ?,routine,145_88,T,irq,0.0,Toh kya ab ghar ya flat se nikalna hai?
+89,Its an apartment,routine,145_89,P,id,0.0,Yeh woh ek apartment hai
+90,when did you find this out?,routine,145_90,T,irq,0.0,यह तुम्हें कब पता चला? (Yah tum
+91,"Um, well, you know, before I lost my job, I had some trouble paying the rent as it was. So, um, you know, the last time I missed my rent was probably like, a month and a half ago, my landlord kind of told me that I couldn't live there anymore, but I didn't know, you know, how much stock to put in Then and Now, at the beginning of the month, he said, you know, you have to, you're gonna have to get out of here, you're gonna be evicted. We're gonna change the locks. And",story,145_91,P,id,0.0,"Haan, toh, tu jaanta hai, meru naukri kho di usse pehle, mere paas kiraye ka bharne mein kuch masla tha jisme hase jaise bhi ho. Isliye, haan, tu jaanta hai, mere rent ko last mahine maine bhool gaya tha, toh meri malik ne mujhe bola ki mujhe wahan nahi rehne diya jaayega, par mere ko nahi malum tha ki yeh iss do baatein ke liye sahi rahega ya nahi. Toh chaliye, mahine ke shuru mein, usne kaha, tu jaanta hai, tu ko chale jana padega yahan see, tu kisi araye se nikal jayega. Hum taale badal denge."
+92,so it's all fairly recent.,routine,145_92,T,crq,0.0,Isliye sab kuch abhi-abhi hi hua hai.
+93,"Yeah. I guess that's why having more anxiety than before because like, it feels really out of control, and I don't know what is going to happen like when he's going to do it, you know, for sure and how you know what I'm going to do. So",routine,145_93,P,cd,-2.0,"Haan. Mera maanna hai ki is wajah se meri puraani se zyada chinta ho rahi hai kyunki, yeh bilkul control se bahar hai, aur mein nahi jaanti ki jab voh yeh karega, toh kya hoga, pata nahi aur mujhe yeh bhi nahi pata ki mein kya karungi."
+94,there's a lot of uncertainty around what's going to happen and what's going to happen to you?,routine,145_94,T,crq,0.0,"Kya hone wala hai aur tumhare saath kya hone wala hai, iske baare mein bahut anishchay hai?"
+95,Exactly,inactive,145_95,P,cd,0.0,Bilkul
+96,hmmm...have you in the past thought about suicide?,symp/reasoning,145_96,T,yq,0.0,Hmmm...kya tumne kabhi apne man me atmaghat par vichar kiya hai?
+97,"Yeah, yeah, definitely.",symp/reasoning,145_97,P,op,-1.0,"Haan, haan, zaroor."
+98,Can you tell me about how many times or about how often ?,symp/reasoning,145_98,T,irq,0.0,Kya aap mujhe bata sakte ho ki kitni baar ya kitni baar kya hai?
+99,"Umm probably like, every time I get depressed like this, I, I, you know, have those thoughts. So I don't know. I mean, how often? That's that's a really hard question.",symp/reasoning,145_99,P,id,-1.0,"Abhi shayad jaisa ki, har baar mujhe aisa apahish hote hai, main, main, pata nahi, aise vichar aate hai. To mujhe nahi pata. Mai kya kahu? Matlab, kitni baar? Woh woh ek bahut mushkil saval h."
+100,All right. Have you ever attempted to commit suicide?,routine,145_100,T,yq,0.0,Theek hai. Kya aapne kabhi khudkushi karne ki koshish ki hai?
+101,"Yeah, one time, probably like four years ago.",routine,145_101,P,op,0.0,"हाँ, एक बार, हो सकता है चार साल पहले। ("
+102,What did you do?,routine,145_102,T,irq,0.0,Tumne kya kiya?
+103,"I cut my wrists, but it wasn't, you know, nothing really happened. Like I just put a I just wrapped him up. It wasn't really that bad",story,145_103,P,id,-3.0,"Maine apne kalaiyon ko kaata, lekin yeh aisa nai hai ki kuch hua hi nai. Bas maine ek kapda uske charon taraf lapet diya tha. Aisa itna bhi bura nai tha."
+104,You didn't need to go to hospital,routine,145_104,T,crq,0.0,Tumhe hospital jaane ki zaroorat nahi thi.
+105,No,routine,145_105,P,cd,0.0,Nahi
+106,Have you ever thought about committing suicide and we're about to attempt and stopped ?,routine,145_106,T,yq,0.0,Kya aapne kabhi khudkhushi ki sochi hai aur hum khudkhushi karne wale the par humne rok diya?
+107,"Yeah, yeah. ",routine,145_107,P,op,-1.0,"Haan, haan."
+108,How many times does that happen?,routine,145_108,T,irq,0.0,&#2346;&#2366; &#2332;&#2379; &#2361;&#2379; &#2342;&#236
+109,Umm maybe like three or four. It's hard to remember cuz sometimes is a long time ago but more recently like maybe once or twice at least.,routine,145_109,P,id,-1.0,Umm shayad teen ya chaar se. Yaad rakhna muskil hai kyunki kabhi kabhi bahut pehle ki baat hai lekin haal hi mein ek ya do baar toh hua hi hoga kam se kam.
+110,So once or twice in the recent past ?,routine,145_110,T,crq,0.0,Kya haal chaal hai?
+111,Yeah.,routine,145_111,P,cd,0.0,Haan.
+112,Have you ever injured yourself intentionally?,routine,145_112,T,yq,0.0,Kya tumne kabhi khud ko jaan bujhkar khatra mein daala hai?
+113,Yeah.,routine,145_113,P,op,-1.0,Haan.
+114,"Okay, can you tell me about that.",routine,145_114,T,irq,0.0,"ठीक है, क्या आप मुझे उस बारे म"
+115,"Well, there was that time that I tried to commit suicide and then there have been times before that where I like, you know, kind of like tested the waters like, you know, just cut myself a little bit to see what it would be like and that kind of thing.",story,145_115,P,id,-1.0,"ठीक है, अब उससे पहले मैंने आत्महत्या करने का प्रयास किया था और फिर उससे पहले कई बार ऐसी स्थिति आई जो मैंने आप जैसे कहीं को हरताल करके परीक्षण किया था, जैसे कि अपने आप को कुछ कम करने के लिए और वैसे ही कुछ का का किया है।"
+116,was the last time  You have done that ?,routine,145_116,T,irq,0.0,Kya tumne uska akhri baar kar diya tha?
+117,"Um, it would be the last time I tried to commit suicide like that with time I was telling you about that really freaked me out. So I don't think I would try that again.",routine,145_117,P,id,-1.0,"अरे, वह आखरी बार होगा जब मैं आत्महत्या करने का प्रयास किया जैसे कि वही टाइम था जिसके बारे में मैं आपको बता रहा था जो सचमुच मुझे डराया था। सो मुझे लगता है कि म"
+118,so you don't think you'd try that again.,routine,145_118,T,crq,0.0,Toh tum sochte ho ki ab tum phir se usko koshish nahi karoge.
+119,No  Not like cutting myself up.,routine,145_119,P,cd,-1.0,"Kya main apne aap ko kaat lun, bilkul nahi."
+120,"Okay. Have you ever been abused, physically, sexually, emotionally? ",routine,145_120,T,yq,0.0,"Thik hai. Kya aap kabhi physical, sexual, ya emotional taur par apmaan ka samna kiya hai?"
+121,I don't know.,routine,145_121,P,on,-3.0,Mujhe pata nahi hai.
+122,"So if you get evicted, you're worried you'd have to live with your mother. ",symp/reasoning,145_122,T,yq,0.0,"Toh agar aap nikal diye jaate hai, aap chinta kar rahe ho ki aapko apni maa ke saath rehna padega."
+123,Yeah.,symp/reasoning,145_123,P,op,0.0,Haan.
+124,And you guys had a rough time in the past.,routine,145_124,T,yq,0.0,Aur tum logon ko pichhle samay mein bahut saari mushkil ka saamna karna pada.
+125,Yeah.,routine,145_125,P,op,0.0,Haan.
+126,You don't want to repeat that.,routine,145_126,T,yq,0.0,Tum woh dohrana nahi chahte ho.
+127,"No, I don't wanna live like that ",routine,145_127,P,on,-2.0,"Nahi, mujhe aise jeene ka man nahi hai."
+128,What is your attitude towards suicide? What are your feelings about suicide as a concept in general?,routine,145_128,T,irq,0.0,Tumhari attitude hai aapki suicide ke prati? Aapki thoughts kya hai suicide ke bare mein overall as a concept?
+129,"I don't know. I mean, I guess it's really sad like, nobody wants that. You know, whenever you hear somebody committed suicide, everybody's really sad about it, but sometimes it just feels like what else is there? You know, like, I don't know how I can go on like this, like things just keep getting worse and worse. And I don't know what to do. So I mean, I'm sure. Like, it's not a great thing, but at the same time, I don't know.",routine,145_129,P,id,0.0,"Mujhe nahi pata. I mean, I guess it's really sad yaar, koi nahi chahta hai waise. Pata hai, jab bhi kisi ke suicide ke bare mein suno, sab bahut udaas ho jaate hai, par kabhi kabhi aisa lagta hai ki aur kya hai? Pata hai, mujhe kuch karne ki samajh nahi aa rahi hai, aise kaise chala jaun, har cheez toh aur buri ho rahi hai. Aur mujhe nahi pata kya karna hai. Toh haan, I'm sure. Like, it's not a great thing, par phir bhi, mujhe nahi pata."
+130,"You disapprove it, But you're considering it because you're running out of options.",routine,145_130,T,crq,0.0,"Tum usse disapprove kar rahe ho, Lekin tum soch rahe ho, Kyunki tumhare paas options kam ho rahe hain."
+131,Yeah,inactive,145_131,P,cd,0.0,हाँ
+132,Have you ever been impulsive in the past?,routine,145_132,T,yq,0.0,क्या आपne अपने पिछले काम मे बेतुकापन करत
+133,"Um, I don't know. Like, I guess not really. Because there have been times when I've like thought about committing suicide and getting really close and still haven't done it. You know,",routine,145_133,P,op,-1.0,"अरे, मैं नहीं जानता। कैसे बताऊं, मुझे लगता है कि नहीं। क्योंकि मैंने आत्महत्या करने के बारे में सोचा है और बहुत करीब गया हूँ तो भी किया नहीं। प"
+134,Do you have other areas other than suicide. Generally impulsive,routine,145_134,T,irq,0.0,Kya aapke paas khudkushi ke alaava aur koi jagah hai? Aam taur par apratikriyaatmak.
+135,I don't think so.,routine,145_135,P,id,0.0,मैं नहीं सोचती ह
+136,Ever violent or aggressive?,routine,145_136,T,crq,0.0,Kya kabhi humesha se hi sau hoshiyar ya tezz hot
+137,"Not really, no, no.",routine,145_137,P,cd,-1.0,"Nahi bilkul, nahi, nahi."
+138,"Have you ever experienced a couple loose nations, which should be like hearing things other people can't hear seeing things that people can't see. ",routine,145_138,T,irq,0.0,"क्या आपने कभी कुछ कमजोर मुल्कों का अनुभव किया है, जो ऐसा होना चाहिए जैसे जो लोग सुन नहीं पाते वो चीज़ें सुन"
+139,I don't think so. I,routine,145_139,P,id,0.0,मुझे लगता नहीं है।
+140,You don't think so.,routine,145_140,T,crq,0.0,Tum yeh hai nahi samajhte.
+141,"No, I mean, it's hard to tell what other people can't hear when no one's around to tell you whether they can hear it or not. But I don't think that I have",routine,145_141,P,cd,-1.0,"Nahi, main toh keh raha tha ki jab koi nahi hota tab bahar wali baatein sunai nahi deti toh kaise pata chale ki koi sun raha hai ya nahi. Par mujhe lagta hai ki mere paas bhi nahi hai."
+142,"to be fairly certain, you know that?",routine,145_142,T,crq,0.0,"To aap pakka hai na, aap jaante hai ki?"
+143,Yeah.,inactive,145_143,P,cd,0.0,Haan.
+144,Can you tell me about any alcohol or drug use?,symp/reasoning,145_144,T,irq,0.0,Kya aap mujhe kisi bhi tarah ke sharab ya nasha ke baare mein bata sakte hain?
+145,"Sometimes I drink, you know, alone when I'm in my house, because like I said, I don't see a lot of other people. I don't really do any drugs.",symp/reasoning,145_145,P,id,0.0,"""Kabhi kabhi mei peeti hu, pata hai, akeli rehte hue apne ghar mei, kyunki jaisa ki meine kaha, mei bahut kam logo se milna dekhti hu. Meine koi nasha nahi karti."""
+146,When's the last time you had a drink?,routine,145_146,T,irq,0.0,Aakhir kabhi tumney drink kiya tha?
+147,Last night,routine,145_147,P,id,0.0,Kal raat
+148,How much did you had ?,routine,145_148,T,irq,0.0,Tumne kitne le liye hai?
+149,Probably like a bottle of wine.,routine,145_149,P,id,0.0,शायद वाइन की तरह। (Shayad wine ki tar
+150,A bottle of wine. Is that typical for you?,routine,145_150,T,crq,0.0,Ek bottle wine. Kya ye aapke liye kuch aam si baat hai?
+151,"Yeah, it is. ",routine,145_151,P,cd,0.0,"Haan, ye sahi hai."
+152,How often would you say you drink a bottle of wine ?,routine,145_152,T,irq,0.0,Tum kaya kehte ho ki tum kitni baar wine ki ek bottle pee lete ho?
+153,"maybe like three or four times a week,",routine,145_153,P,id,0.0,Shayad teen ya chaar baar ek hafte mein
+154,three or four times a week  ?,routine,145_154,T,crq,0.0,क्या तुम हर हफ्ते तीन या चार ब
+155,Yeah,routine,145_155,P,cd,0.0,Haan
+156,So I want to ask you about these suicidal thoughts that you're having now. How frequently Are you having these thoughts?,symp/reasoning,145_156,T,gc irq,0.0,"Toh main tumse puchna chahta hu, tumhare iss waqt vyakul vicharon ke bare mein. Kitni baar aisi vichare tum ho?"
+157,Like really often,symp/reasoning,145_157,P,id,0.0,बिल्कुल ही अ
+158,coming all the time or not?,routine,145_158,T,yq,0.0,क्या हर वक़्त आ रहे हो या न
+159,"Yeah, yeah. ",routine,145_159,P,op,0.0,"Haan, haan."
+160,how intense would you say the thoughts are ?,routine,145_160,T,irq,0.0,"Aapko batao, tumhe woh khayal kitne gehre lagte hain?"
+161,"fairly intense, Like it's scary the thought of it, you know, but at the same time, like, I'm having them so much it's, I don't know.",routine,145_161,P,id,-2.0,"Kafi zor ka, jaise ki iska dar hai, pata hai, lekin ek baat ke sath, jaise hi, mujhe itne adhik mil rahe hain ki, mujhe pata nahi."
+162,It's frightening for you.,routine,145_162,T,crq,0.0,Tumhare liye yeh daravna hai.
+163,Yeah.,inactive,145_163,P,cd,0.0,Haan.
+164,Do you have a plan laid out if you're trying to commit suicide?,symp/reasoning,145_164,T,irq,0.0,Kya tumhare paas khudkushi karne ki koshish karne ki ichha ho toh kya tumhare paas ek planning tayyar hai?
+165,I guess I would just drink a bottle of wine like I usually do and then maybe take some pills.,symp/reasoning,145_165,P,id,-1.0,मुझे लगता है कि मैं बस वैसे ही एक बोतल शराब पी लूँगा और फिर शायद कुछ गोलियां ले लूँ
+166,What kind of pills ?,routine,145_166,T,irq,-2.0,Kis trah ke goliyan?
+167,"um, there's like ibuprofen in my medicine cabinet. That's like the only thing I have in there other than vitamin. So I guess I just take that. I don't know how many. 4 I guess I dont know.",story,145_167,P,id,-1.0,"उम्म, मेरे मेडिसिन कैबिनेट में आईबूप्रोफेन है। वो ही चीज हैं वहा पर जो विटामिन के अलावा उसमे हैं। तो मुझे लगता है मैं वो लेता हूँ। मुझे पता नहीं की कितने। ४ मुझे लग"
+168,So you would drink a bottle of wine and take a lot of ibuprofen ?,routine,145_168,T,yq,-2.0,To kya tum ek botal wine piyoge aur bahut saare ibuprofen leloge?
+169,Hmm mmm,inactive,145_169,P,op,0.0,Mera ki hai?
+170,Do you have an intent to commit suicide? You're gonna you're gonna fall through ?,routine,145_170,T,irq,-2.0,Kya tumhare paas atmaghat karne ki ichha hai? Tum girne waale ho?
+171,"I don't know like sometimes I think about it I get really close to doing it, but I you know, I haven't like taken any pill so I guess yeah, like I think about it a lot and I've gotten close to doing it so yeah, I guess Yeah, I guess so ",routine,145_171,P,id,-1.0,"Mujhe pata nahi, kabhi kabhi main iske bare mein sochta hun aur main bahut karib pahunchta hun usse karne ke liye, lekin tum jaante ho, maine koi goli nahi li hai to shayad haan, main uske bare mein bahut sochta hun aur main karne ke bahut karib pahunch chuka hun toh haan, main shayad haan, toh shayad ho."
+172,Do you feel like you have an intent ?,symp/reasoning,145_172,T,yq,0.0,Kya aapko aisa lagta hai ki aapke paas ek irada hai?
+173,Yeah,symp/reasoning,145_173,P,op,0.0,Haan
+174,Can you tell me about some of the reasons for staying alive for not committing suicide?,symp/reasoning,145_174,T,orq,-2.0,"Kya tum mujhe khushi se zinda rehne ke kuch wajahon ke bare mein bata sakte ho, jisse main apne aapko suicide se bacha saku?"
+175,"Well, I don't really want to die. Um, I guess my friend family would be really upset and I probably my friends, too. I don't know.",symp/reasoning,145_175,P,od,-3.0,"""Well, mujhe marna bilkul nahi hai. Um, mujhe lagta hai ki meri dost parivaar bahut upset honge aur shayad meri dost bhi. Mujhe nahi pata."""
+176,Do you have any religious or cultural values surrounding suicide?,routine,145_176,T,irq,0.0,Kya apke paas suicide se judi koi dharmik ya sanskrutik maulya hai?
+177,Not really,routine,145_177,P,id,0.0,Nahi bilkul
+178,You have an pets at home,routine,145_178,T,irq,0.0,Tumhare ghar mein pets hai
+179,I have a cat. Yeah.,routine,145_179,P,id,0.0,Mere pass ek billi hai. Haan.
+180,What would happen to your cat?,routine,145_180,T,irq,0.0,Tumhare mere billi ko kya ho jaayega?
+181,"I give her to my sister shorty has a couple cats. So, you know, I've already asked her, you know, if anything were to happen to me, you know, just in general, if she would take the cat, you know,",routine,145_181,P,id,-1.0,"Main apni behen ko, jiski paas kuch billiyan hai, usse diya hun. Toh, tum jante ho, maine pehle hi usse puch liya hai, tum jante ho, agar mere saath kuch ho jaega toh, aise halaat main, kya woh billi ki dekhbhaal kar legi? Tum jante ho, bas aise hi pooch liya maine usse."
+182,when did you ask for that?,routine,145_182,T,irq,0.0,kab tumne uske liye pucha tha?
+183,"Kind of like, two months ago,",routine,145_183,P,id,0.0,"एक दोनोन की तरह, दो महीने पह"
+184,so not related to what's going on now?,routine,145_184,T,irq,0.0,Kya abhi chal raha hai usse kuch lena dena nahi hai?
+185,"No, I guess not. I mean, I don't know. Like I just asked her in general like if anything happened to me. So",routine,145_185,P,id,0.0,"No yaar, I don't think so. I mean, mujhe pata nahi hai. Main bas use poocha tha ki koi mere sath kuch hua hai kya."
+186,do you have any other reasons for living?,symp/reasoning,145_186,T,irq,0.0,Kya tere paas zinda rahne ke anya karan hai?
+187,"I don't know. I mean, I lost my job. I I live alone. I don't know, like, I'm gonna have to, like move out and I don't even know where I'm going to go.",symp/reasoning,145_187,P,id,-3.0,"Mujhe nahi pata. Matlab, meri job chali gayi. Main akela rehti hu. Mujhe nahi pata, jaise, mujhe bahar jana padega aur main yeh bhi nahi pata ki main kaha jaaungi."
+188,That's scary for you. And anxiety is provoking?,routine,145_188,T,crq,0.0,That's bhayanak for you. Aur anxiety provoke karne waala hai?
+189,Yes.,routine,145_189,P,cd,0.0,Haan.
+190,What did you do when you worked?,routine,145_190,T,irq,0.0,Tumne kaam karte samay kya kiya?
+191,I just You mean like what kind of job did I do ?,routine,145_191,P,crq,0.0,मैं आपको यह मतलब है कि मुझे कौनसी नौकरी करनी चाहिए?
+192,Yes,routine,145_192,T,cd,0.0,Haan
+193,I worked at a gas station.,routine,145_193,P,id,0.0,मैं गैस स्टेशन पर काम किया।
+194,Did you like the work?,routine,145_194,T,yq,0.0,क्या तुम्हें काम पसंद
+195,"I liked it. You know we had some regular customers and kind of get to know them its a little. I don't know. You just you know that my coworkers are nice. And you know, we have not like great benefits, but there was some stuff you know, you could get like couple vacation days and stuff. So",routine,145_195,P,op,-1.0,"Mujhe ye pasand tha. Tumko to pata hain ki humare kuch regular customers the aur hum unhe thoda se jaante thay. Mujhe pata nahi. Tum bas tum jante ho ki mere co-workers achhe hain. Aur tumhe pata hain, humare paas bahut acche faayde nahi hain, lekin kuch cheezein hain jaise ki kuch dino ki chuttiyaan."
+196,do you ever look forward to get another job?,routine,145_196,T,irq,0.0,Kya kabhi aap doosra naukri paane ka intezaar karte hain?
+197,I just don't see how I would.,routine,145_197,P,id,0.0,Mujhe bas yeh nahi dikhta ki main kaise kar sakta hu.
+198,What is that ?,routine,145_198,T,irq,0.0,Ye kya hai?
+199,"I mean, I lost this job. So why would I be good enough to get another job?",routine,145_199,P,id,-3.0,"मतलब, मैं इस नौकरी से हार गया। तो फिर मुझे दूसरी नौकरी के लिए पर्याप्त होन"
+200,Because you lose a strike?,routine,145_200,T,crq,0.0,Kyonki tum ek strike haar jate ho?
+201,I went to work drunk.,routine,145_201,P,cd,0.0,Mai drunk hokar work pe gaya.
+202,Can you tell me about some of your strengths? What are some of your positive qualities? ....can't think of any ?,routine,145_202,T,irq,0.0,आप मुझे अपनी कुछ ताक़ातों के बारे में बता सकते हैं? आपकी कुछ सकारात्मक गुणों के बारे में क्या हैं
+203,I don't know,routine,145_203,P,id,0.0,Mujhe nahi pata hai
+204,What would ? What was your family say your strengths were ?,routine,145_204,T,irq,0.0,"""Kya ho sakta hai? Apke parivar ko aapki shaktiyan kaunsi lagti hai?"""
+205,"screaming and yelling, right? I don't know, I don't know. I don't know.",routine,145_205,P,id,-3.0,"SHOR MACH RHA HAI, TOSEY BOL RHE HAI NA? PTA NI, PTA NI. PTA NI."
+206,It's hard for you to think positively right now is it?,routine,145_206,T,yq,0.0,Kya tumhare liye abhi positively sochna mushkil hai?
+207,Yes,routine,145_207,P,op,-1.0,Haa
+208,"Alright Sharon, here's, we're gonna do, I'm gonna appreciate you allow me to complete this assessment. I'm gonna bring it back over to your counselor, or we're gonna put together a plan to keep you safe right now. So I'm going to take care of their estimate. Okay.",routine,145_208,T,gc,0.0,"Theek hai Sharon, yeh lo, hum karenge, main aapko thankyou karoonga ki aapne mujhe yeh vichaar poora karne diya. Main ab aapke counselor ko leke jaane wala hoon, ya phir hum aapke suraksha ke liye ek yojana banayenge. Toh main unki andesawji dekh loonga. Thik hai?"
+209,Thank you.,inactive,145_209,P,gc,0.0,Dhanyavaad.
+210,Thanks.,inactive,145_210,T,gc,0.0,Dhany
+211,summary,"The patient was sent in by a counselor fearing they might hurt themselves. The patient's dad had committed suicide 15 years ago and their sister had attempted once. The patient has been diagnosed with depression and anxiety. The patient lives alone. The patient had lost their job two months ago. The patient has a little troubled relationships with people but they are mostly positive. The patient might be evicted from their apartment and might not be able to pay their bills. The patient has had thoughts of suicide every time they feel depressed. The patient has attempted suicide four years ago by cutting thier wrists, and had thoughts to attempt and stopped three or four times. The patient had intentionally hurt themselves. The patient is worried they would have to live with their mother if they are evicted. The patient disapproves of dying but feel like they have no options. The patient has been drinking wine 3-4 times a week. The patient plans to die by taking 4 ibuprofen. The patient does not want to die since their family and friends would be really upset. The patient used to work at a gas station and lost the job since they went to work drunk. The therapist sets the patient up with a counselor next.",,,,,
+212,primary_topic,suicide,,,,,
+213,secondary_topic,drinking,,,,,

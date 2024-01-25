@@ -1,0 +1,66 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi Ayesha, how you doing today?",inactive,147_0,T,gt,0.0,"Hey Ayesha, kaisi ho aaj?"
+1,"I'm good,",inactive,147_1,P,gt,0.0,Main theek hoon.
+2,doing good.,inactive,147_2,T,crq,0.0,अच्छा क
+3,yeah,inactive,147_3,P,cd,0.0,haan
+4,I'm going to ask you some questions and give you some problems to solve. Please try to answer them as best as you can. Okay. What year is this?,routine,147_4,T,gc,0.0,Me aapse kuch prashn poochne ja rahi hu aur kuch samasyayein suljhane ka prayas karungi. Kripya unka sabse uttam jawab dene ki koshish karein. Thik hai. Ye kaun sa saal hua?
+5,It is 2015,routine,147_5,P,id,0.0,Ye 2015 hai
+6,Okay. What season of the year is this?,routine,147_6,T,irq,0.0,Thik h season of the year h yeh?
+7,It is beach season.,routine,147_7,P,id,0.0,Yeh beach season hai.
+8,beach season ?,routine,147_8,T,crq,0.0,Kya beach ka season hai?
+9,Yeah,inactive,147_9,P,cd,0.0,haan
+10,What is the date today?,routine,147_10,T,irq,0.0,Aaj ka din kya hai?
+11,Tuesday,routine,147_11,P,id,0.0,Mangal
+12,what day of the week is this?,routine,147_12,T,irq,0.0,Yeh kaun sa din hai?
+13,Tuesday,routine,147_13,P,id,0.0,बु
+14,What month is this?,routine,147_14,T,irq,0.0,Ye kon sa mahina hai?
+15,It is may,routine,147_15,P,id,0.0,यह हो सकता है
+16,Can you tell me what country we are in,routine,147_16,T,irq,0.0,aap kya mujhe bata sakte hain hum kis desh mein hain?
+17,America.,routine,147_17,P,id,0.0,"""America"
+18,What County are we in?,routine,147_18,T,irq,0.0,Hum hinglish me hai konsa county?
+19,"We are in Kent County, Kent County.",routine,147_19,P,id,0.0,"Hum Kent County mein hai, Kent County."
+20,What city are we in ?,routine,147_20,T,irq,0.0,Hum kis shehar mein hain?
+21,New Castle.,routine,147_21,P,id,0.0,नया केसल
+22,What is the name or the address of this building?,routine,147_22,T,irq,0.0,Iska building ka naam yaa pata kya hai?
+23,We are at Wilmington college.,routine,147_23,P,id,0.0,Hum Wilmington college par hain.
+24,What floor of the building we at?,routine,147_24,T,irq,0.0,Hum building ka kaunsa floor par hain?
+25,Two,routine,147_25,P,id,0.0,Do.
+26,"I am going to name three objects. After I've said them, I want you to repeat them back to me.",routine,147_26,T,cv,0.0,"Main teen cheezen ka naam btaane wala hoon. Mujhe kehne ke baad, main chahta hoon ki aap mujhe vapis se unhe doharaaein."
+27,Okay.,routine,147_27,P,cr,0.0,Achha
+28,"Apple, Table, Penny",routine,147_28,T,cv,0.0,"Apple, Table, Penny"
+29,"Apple, Table, Penny",routine,147_29,P,cr,0.0,"Apple, Table, Penny अपर,"
+30,"remember what they are, Because I'm going to ask you to name them again in a few minutes. ",routine,147_30,T,cv,0.0,"Yaad rakhi, kyonki main tujhse kuchh minute mein phir se unhe naam batane ke liye poochunga."
+31,Okay,inactive,147_31,P,cr,0.0,Thik hai
+32,"Now I'm going to give you a word and ask you to spell it forward and backward. The word is world. First, Can you spell it forward?",routine,147_32,T,cv,0.0,"Ab main tumhe ek shabd dunga aur tumse poochunga ki tum ise aage aur peeche se spell kar sakte ho. Shabd hai duniya. Pehle, kya tum ise aage se spell kar sakte ho?"
+33,U O R D,routine,147_33,P,cr,0.0,यू ओआर दी
+34,"Now, can you spell it backward",routine,147_34,T,cv,0.0,"अब, क्या आप इसे उलटा स्प"
+35,D O O U,symp/reasoning,147_35,P,cv,0.0,Kya tum
+36,What were the three objects I asked you to remember?,routine,147_36,T,irq,0.0,Tumhe mujhse yaad rakhne ke liye maine tumse teen cheezein maangi thi?
+37,"Apple, Table  And, um, I don't remember the last. ",symp/reasoning,147_37,P,id,0.0,"Seb, Table Aur, um, Mujhe aakhri nahi yad."
+38,Okay. What is this called?,routine,147_38,T,irq,0.0,Theek hai. Yeh kya hai bowla jata hai?
+39,That's your watch.,routine,147_39,P,id,0.0,Yeh tera watch hai.
+40,What is this called?,routine,147_40,T,irq,0.0,Yeh kya bola jata hai?
+41,A pencil,routine,147_41,P,id,0.0,एक पेंस
+42,"I would like you to repeat a phrase after me. The phrases is no ifs, ands, or buts.",routine,147_42,T,cv,0.0,"Main tumse ek baat kehna chahungi, baat yeh hai ki koi agar, koi phir, ya koi lekin nahi."
+43,No If no and no buts,routine,147_43,P,cr,0.0,Nahi agar nahi aur nahi lekin.
+44,I would like you to read the words on this page. I'm going to hold up. Then do what it says.,routine,147_44,T,cv,0.0,Mujhe yeh page par likhe hue shabdo ko padhne ka aagrah hai. Main ye upar utha ke dikhane wala hoon. Fir uske anusaar karo.
+45,Close Your eyes.,routine,147_45,P,cr,0.0,Tum apne aankhen band karo.
+46,Okay. Are you right handed or left handed.,routine,147_46,T,irq,0.0,Accha. Kya tumhara right hand dominant hai ya left hand dominant.
+47,"I'm right handed, ",routine,147_47,P,id,0.0,मैं हाथ का उ
+48,right handed ?,routine,147_48,T,crq,0.0,क्या दाईं हाथ
+49,Yeah,inactive,147_49,P,cd,0.0,हाँ
+50,"I want you to take this paper in your right hand. Fold the paper once with both hands, and then put the paper down in your lap. ",routine,147_50,T,ci,0.0,"Mujhe chahti hoon ki tum is kagaz ko apne right haath mein le lo. Dono haathon se ek baar kagaz ko fold karo, phir apna kagaz apne godi mein rakh do."
+51,.....,inactive,147_51,P,cr,0.0,Translate the given
+52,"Okay, thank you. All right, if you could pick up the notebook with a piece of paper. I would like you to write any complete sentence on a piece of paper for me, me.",routine,147_52,T,ci,0.0,"Thik hai, dhanyavaad. Theek hai, agar aap ek notebook aur ek kagaz saath le sakte hain. Mujhe aapse yeh vinanti hai ki aap mere liye kisi bhi poori sentence ko ek kagaz par likh dein, mein."
+53,Any?,inactive,147_53,P,cr,0.0,Koi hai
+54,Huh hmm,inactive,147_54,T,gc,0.0,Arre haa haa
+55,Okay,inactive,147_55,P,gc,0.0,Thik hai
+56,Can i see the sentence? Okay. Here's the drawing. Please copy the drawing on that same piece of paper.,routine,147_56,T,ci,0.0,Kya main sentence dekh sakti hun? Theek hai. Yahaan drawing hai. Wahi drawing ko usi kagaz par copy kijiye.
+57,"This is really hard, I got it.",inactive,147_57,P,cr,0.0,"Yeh sach mein hard hai, maine samajh liya hai."
+58,You got it ?,inactive,147_58,T,crq,0.0,Tumne samajh liya?
+59,Kind of.,inactive,147_59,P,cd,0.0,Ek taraha.
+60,Thank you Ayesha. I appreciate you participating in that assessment.,inactive,147_60,T,gc,0.0,धन्यवाद अयेशा। मैं तुम्हारी प्रतिभा की दृ
+61,Thank you.,inactive,147_61,P,gc,0.0,Dhanyavaad.
+62,summary,"Therapist give patient an assessment to test thinking and memory. Therapist starts asking questions regarding, today's date,year, month, day, season, surrounding items etc.Patient answer all the questions correctly. Therapist asks to memorize few objects and reversing words.Intially Patient did well but later finds difficulty in this assessment and coudln't do it well.",,,,,
+63,primary_topic,Memory,,,,,
+64,secondary_topic,Memory and thinking,,,,,

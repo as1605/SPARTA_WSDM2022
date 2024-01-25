@@ -1,0 +1,56 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Sir, how you doing today?",inactive,37_0,T,gt,,"Sir, aap aaj kaise ho?"
+1,"All right today? Yes,",inactive,37_1,P,gt,,Accha aaj kaisa hai? Haan.
+2,I understand that you've been having some symptoms and that's what brought you into our agency. Could you tell me about that?,inactive,37_2,T,irq,,Main samajhta hun ki apko kuch lakshan hain aur usi wajah se aap hamare agency mein aaye hain. Kya aap mujhe uske bare mein bata sakte hain?
+3,"Um, I've been having a lot of worry. Worry. Yes. A lot of worry on and off for about the past four or five months, maybe four or five months, about four or five months, maybe about six months? Yeah, round four or five, six months. And I just started back to school after being a stay at home mom for 20 years. The Kids Are All awful to college now in a way and I decided why not go back to school do something else now.",symp/reasoning,37_3,P,id,,"Arre, maine bahut chinta ki hai. Chinta. Haan. Karib chaar ya paanch mahino se, shayad chaar ya paanch mahino se, chaar ya paanch mahino se, shayad che mahine tak chinta ki hai? Haa, kareeb chaar ya paanch, che mahine. Aur main bas bache ko school jane ke baad, 20 saal ghar par rahne ke baad, ab school shuru kar diya hai. Ab bacche ab college mein hai aur maine faisla kiya ki kyon na school jaa kar kuch aur kar liya jaaye."
+4,And it's just been causing. And I've just been getting worse so much lately.,routine,37_4,P,id,,Aur ye bs ja rha hai. Aur ab main aakhri dino mei behad bigad gya hu.
+5,"All right, so so a lot of worry, summer at four or five or six months",routine,37_5,T,irq,,"Thik hai, aise hi bahut chinta hai, char ya paanch ya cheh mahine ke mausam mein"
+6,"it's been going somewhere in there for five, six months.",inactive,37_6,P,id,,"Itnewas going somewhere in there for five, six months."
+7,Have you had this worry more days than you haven't had it in that last four to six months?,routine,37_7,T,irq,,Kya aapne is tension ko paanch se chaar mahine ke beech adhik dinon tak paaya hai?
+8,"I've had a lot of good days. I mean, I've had some bad days. I want to get these two. So I don't know. Okay,",routine,37_8,P,id,,"Mujhe bahut ache din mile hain. Main matalab, kuch bure din bhi mile hain. Mujhe in dono ko hasil karna hai. To mujhe nahi pata. Theek hai."
+9,not quite sure. Sure.,inactive,37_9,T,crq,,Thoda-sa confuse hoon. Pakka.
+10,Do you find the worry difficult to control?,routine,37_10,T,irq,,Are you finding it difficult to control the ?
+11,"What to do or Yes, yes.",routine,37_11,P,crq,,"Kya karna hai ya haan, haan."
+12,So I'm going to ask you some questions related to this. Let me know if you've experienced these symptoms. You You restless keyed up on edge.,routine,37_12,T,yq,,"So main aapko iske baare mein kuch sawaal puchna wala hoon. Agar aapne in lakshano ko mehsoos kiya hai to mujhe bataiye. Aap kya pareshaan, bechain ya ghabraye huye hain?"
+13,"Yes, Yes, I do. Okay.",inactive,37_13,P,ack,,"Haan, Haan, main karta hoon. Thik hai."
+14,How about are you easily tired?,symp/reasoning,37_14,T,irq,,Kya aap aasani se thak jaate ho?
+15,all the time? So tired all the time?,symp/reasoning,37_15,P,id,,Saara time? Itna thak jaati hoon saara time?
+16,Yeah. All the time. Yes. You're having trouble concentrating or finding your mind go blank.,symp/reasoning,37_16,T,irq,,Haan. Sabhi waqt. Ji. Tumhe dhyan lagane mein taklif ho rahi hai ya apna mann khali ho jata hai.
+17,Find the mind just wondering. Just cold blankets avocado calm like yes. Okay.,symp/reasoning,37_17,P,id,,"Mera mann bas ghoom hi raha hai. Sirf thanda chadar avocado ko dhyan se hila raha hai, jaise ki haan. Theek hai."
+18,Do you find that you've been irritable?,symp/reasoning,37_18,T,yq,,Kya tumhe lagta hai ki tum gussilen ho?
+19,Very much so.,symp/reasoning,37_19,P,ack,,Bahut hi jyada hai.
+20,Yeah.,inactive,37_20,T,crq,,Haan.
+21,Name muscle tension.,routine,37_21,T,yq,,Naam Muscle Tension.
+22,Yes. rigidness,routine,37_22,P,ack,,Haan. Kadiyapan.
+23,and tell me about how you've been sleeping.,symp/reasoning,37_23,T,irq,,aur tu mujhe batana ki tum kaise so rahe ho.
+24,"I'm not very well, obviously not very well. lately. I find that hard. Just I can't go to sleep. And I can't stay asleep. It's just been hard.",symp/reasoning,37_24,P,id,,"so, my health is not so good, and obviously not very good. Lately, I find that difficult. Just I cannot go to sleep, and I cannot remain sleeping. It has been very difficult for me."
+25,Do I drink alcohol or use any drugs?,routine,37_25,T,yq,,Main theen achoon ya koi dawa ka sevan karu?
+26,"No, I don't know. ",routine,37_26,P,on,,"Nahi, mujhe pata nahi."
+27,Have you ever had a panic attack?,routine,37_27,T,yq,,क्या आपने कभी एक पैनिक हमला था?
+28,No,routine,37_28,P,on,,Nahii
+29,"Okay, trauma and history,",routine,37_29,T,yq,,"अच्छा, ट्रॉमा और ह"
+30,No,routine,37_30,P,on,,Nai
+31,any mental health disorders at all?,routine,37_31,T,yq,,कोई भी मानसिक स्वास्थ्य विकार ह
+32,No,routine,37_32,P,on,,Hoo Nai
+33,You find the symptoms,routine,37_33,T,yq,,Tum symptoms dhoondh paaoge.
+34,"very distressing. Um,",routine,37_34,T,yq,,"bahut hi pareshaani hai, um,"
+35,yes. distressing? Yes.,inactive,37_35,P,irq,,haan. pareshan karta hai? haan.
+36,And what areas are the distressing?,routine,37_36,T,irq,,Aur kon se jagah hai jo pareshani hain?
+37,I'm at home so much at home.,routine,37_37,P,id,,Mai ghar par itna hi ghar par hoon.
+38,"Yeah, ",inactive,37_38,T,crq,,"Haan,"
+39,"I'm doing I'm already in school. Schools okay schools don't I 4.0 well, very good. I'm just at home I'm just in a constant state of worry all the time.",routine,37_39,P,cd,,Hum school mein hi hoon. School toh tik hai par school mein toh yaar 4.0 ache ache marks mil rahe hain. Ghar par hi hoon aur mujhe hamesha chinta ka constant state rehta hai.
+40,How about when you go out with friends have fun.,routine,37_40,T,irq,,तो क्या जब तुम दोस्तों के साथ बाहर जाओ तब मज़े करो।
+41,Great times. Great times. My friend tests,routine,37_41,P,id,,Mast mast zamaane. Mast mast zamaane. Mere dost tests karte hain.
+42,have gone out. Is there something specific to your home environment you think might be contributing to this because you don't have it? at school? You don't have socially,routine,37_42,T,irq,,Kya aapke ghar ki vatavaran mein kuch khaas baat hai jisse aapko ye ho raha hai kyunki aapke paas iska nahi hai? Ab school mein bhi nahi hai? Aapke paas samajik taur par bhi nahi hai?
+43,"I mean, we have some problems here. ",routine,37_43,P,id,,"I mean, yahaan humaare kuchh mushkil hain."
+44,And there are some problems here. ,routine,37_44,P,,,Aur yahan kuchh mushkil hain.
+45,"They're nothing you could isolate as maybe causing the symptoms,",routine,37_45,T,od,,वे शायद लक्षणों को उत्पन्न करने का कारण कुछ अलग
+46,"um, windows, maybe maybe not things but just not an Ikea.",inactive,37_46,P,od,,"संभवतः, विंडोज, शायद चीजें हो सकती हैं, लेकिन बस"
+47,Nothing you can't work through.,inactive,37_47,T,crq,,Kuch bhi aisa nahi hai jo tum kaam nahi kar sakte ho.
+48,"Alright, so I'm going to get you in to see one of our counselors if that's okay with you. Just take a couple days for you to get in, get appointments set and pretty get in. Is that okay?",routine,37_48,T,cd,,"Thik hai, toh main tera ek counsellors se milva dunga agar tu chahe toh. Bas kuch din lagenge tere aane mein, appointments fix karne mein aur final mein aa jane mein. Kya yeh thik hai?"
+49,I would like to see your house. Yes.,routine,37_49,P,orq,,Main tumhara ghar dekhna chahta hoon. Haan.
+50,Okay. I'll get that set up. And I want to thank you for answering these questions has been really helpful to me.,routine,37_50,T,od,,"Thik hai. Main voh set up kar lunga. Aur main tumhe jawaab dene ke liye shukriya kehna chahta hoon, yeh sawaal mere liye sach mein bahut madadgaar ho gaye hain."
+51,Thank you.,inactive,37_51,P,gt,,Dhanyavaad.
+52,summary,"The patient has been having a lot of worry. The patient started school after being a stay at home mom for 20 years. It's been getting worse and worry is difficult to control. The patient find themselves restless, tired all the time, find the mind wondering, irritable and muscle tension rigidness. The patient has a hard time sleeping. The patient does not use drink or use drugs, has had no panic attacks, no trauma nor mental health disorders. The patient feels distressing at home all the time. The patient has a great when out with friends. The patient is not able to find what is worrying about her home. The therapist says that they will get in a counselor for the patient. The patient requests to see the house of the therapist for which they offer to set that up. ",,,,,
+53,primary_topic,distress,,,,,
+54,secondary_topic,concentration-school,,,,,

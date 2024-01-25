@@ -1,0 +1,80 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Sarah, how are you doing today?",inactive,35_0,T,gt,,"Sarah, aaj tum kaise ho?"
+1,"I'm doing okay. It could be a little better but could always be worse, but I'm going okay,",inactive,35_1,P,gt,,"Main theek hi kar raha hu. Thodi si behtar ho sakta tha, par hamesha se kharab ho sakta tha, lekin main theek hi ja raha hu."
+2,good. Okay. I understand you have some symptoms that have been bothering you.,inactive,35_2,T,irq,,Achha. I understand tumhare paas kuch lakshan hain jo tumhe pareshan kar rahe hain.
+3,"They have been bothering me. Well, I just started back to school last year, I was staying at home while my husband was working with the kids are crawling now out of the house. So I said I was gonna go back to school. I have been in school in 20 years, and I thought I could handle it. But right now, I just find myself so anxious and just so worried all the time. And I just don't know what to do with it. It's been going on for around the past seven, eight months now.",symp/reasoning,35_3,P,id,,"Unhone mere saath pareshaan kar rahe hain. Waise, main pichle saal se dobara school jaane lagi thi, tab se mere pati kaam par the aur bachchon ke saath ghar par reh raha tha. Toh maine kaha ki main phir se school jaati hoon. 20 saal se main school mein nahi thi, aur mujhe laga main isse control kar sakti hoon. Par abhi, main apne aap ko bohot anxious aur tension mein paati hoon. Main bas iss baat se chintit hoon ki main isse kaise handle karoon. Pichle saat-aaath mahine se yeh chal raha hai."
+4,About seven or eight months?,routine,35_4,T,yq,,Seven ya eight mahine?
+5,Yeah.,routine,35_5,P,ack,,Haan.
+6,Would you say that this anxiety has been affecting you? more days? That doesn't?,symp/reasoning,35_6,T,irq,,Kya tum kehte ho ki kya yeh chinta tum par asar kar rahi hai? aur zyada din? Woh nahi hai?
+7,"Um, I would say it's been affecting me. Yes. For some time, though. Yes. More often than not, yes.",symp/reasoning,35_7,P,id,,"Um, main kehna chahunga ki yeh mere par asar daal raha hai. Haan. Kaafi samay se, haan. Zyadatar, haan."
+8,More often than not. Yeah. Do you find yourself struggling to control the anxiety?,routine,35_8,T,irq,,बहुत ज्यादा बार होता है। हाँ। क्या आपको चिंता को कंट्रोल करने में समस्या हो
+9,So control it. I'm just anxious all the time. Yes.,routine,35_9,P,id,,Hinglish Sentence: So iss par control dedo. Main hamesha tension mein rehti hun. Haan.
+10,Sounds like you're struggling to get under control.,routine,35_10,T,yq,,Lagta hai ki aap control mein na aane ki koshish kar rahe ho.
+11,Yes.,routine,35_11,P,ack,,Haan.
+12,Tell me about how it's been affecting. You mentioned in school.,routine,35_12,T,irq,,Batao mujhe iske baare mein. Tu ne school mein mention kiya.
+13,"It's, I'm not doing too well at school right now. ",routine,35_13,P,id,,"अरे, मैं अभी स्कूल में ठीक से नहीं कर रहा हूँ। म"
+14,Not at all?,routine,35_14,T,irq,,Kya vah bilkul bhi nahi hai?
+15,"I thought it would be a better student. I was always a steady student back. Back before when I was an undergrad. I was always a straight A student, but now I'm failing and I just can't, I can't concentrate school failing. I'm just so worried all the time about what how I'm going to do in this class, what assignments are due. If I'm getting the work done in time, it's controlling. It's taking over everything I do in school. So I'm so more I'm more worried about how I'm going to do, then having time to focus on my grades. Like it's just to that level.",story,35_15,P,id,,"Mujhe yeh laga tha ki main ek behtar vidyarthi hoga. Main hamesha se ek qayam vidyarthi tha. Pehle jab main undergrad tha tab. Hamesha se main ek aisa vidyarthi tha jiske sabhi ankonme A+ grade aate the, lekin ab main fail ho raha hu aur main bas, main apna dhyano nahi laga pa raha hu. Main har waqt pareshan hun ki main iss class mei kaise perform karunga, kya assignments dena hai. Agar mai samay par kaam pura kar paunga, yeh mujhe control kar raha hai. Yeh meri har cheez mei michava raha hai jab main school mei kaam karta hu. Isliye main bahot jyada pareshan hun ki main kaise karunga, ismei mujhe mera grades par dhyan deneki waqt hi nahi bachta. Yeh sirf uss level tak hai."
+16,"It's really distressing for you. Yes, that's a school about a home",symp/reasoning,35_16,T,irq,,"It's bilkul dukhdayi for you. Haan, woh ghar ke baare mein ek school hai."
+17,"and home. I'm so worried about school, that it's affecting my life at home. Like I'm okay, I have this assignment but then, oh my goodness, I'm so focused on this assignment. We'll have time to make dinner for the kids. Oh, my husband's been all over the house is such a mess all the time. And it's just causing so much conflict at home. My husband thinks I should be doing my house workout. I'm so consumed with school and then it's just such a big mess right now. So I'm constantly worried when I'm when I'm at school, I'm worried about home and when I'm home, I'm worried Got school.",story,35_17,P,id,,"Aur ghar. Mujhe school ke baare mein itni chinta ho gayi hai ki ye mere ghar ki zindagi par asar kar raha hai. Aise ki main theek hun, mujhe ye kaam hai lekin phir, oh my goodness, main is assignment ke liye bahut focus ho jaati hun. Hum baccho ke liye raat ka khana banaane ke liye time nikal lenge. Oh, mere pati to ghar mein hi idhar udhar ghoomte rehte hain, ghar ka haal to poori tarah se bekar hai itna samay se. Aur ye ghar mein itna jhagda hone ka kaaran ho raha hai. Mere pati ko lagta hai ki main apna ghar ka workout hi karne mein vyast rahun. School mein padhai ke sath sath jab main ghar par hun, tab mujhe ghar ke baare mein chinta hi rehti hai aur jab ghar par hun, tab school ki chinta."
+18,So good deal with deal worrying,inactive,35_18,T,irq,,सो गुड डील्स के साथ चिंतित होने
+19,"all the time, all the time.",inactive,35_19,P,id,,"""Hamesha, hamesha."""
+20,"Okay, so I'll ask you a few questions about this. And some that might be related to drink or use any drugs?",routine,35_20,T,yq,,"Okay, toh main tumse kuch sawaal poochungi iske baare mein. Kuch jo peene ya kisi bhi drugs ka sambandh rakh sakte hain?"
+21,"No, not at all. Not at all.",routine,35_21,P,on,,"Nahi, bilkul nahi. Bilkul nahi."
+22,Do you have any medical conditions?,routine,35_22,T,yq,,Kya aapke paas koi medical samasya hai?
+23,"No, not at all. ",routine,35_23,P,on,,"Nahi, bilkul nahi."
+24,Nothing. Have you ever been diagnosed with any other mental health disorders?,routine,35_24,T,yq,,Kuch nahi. Kya tumhe kabhi kisi aur dimagi beemari ka pata chala hai?
+25,No.,routine,35_25,P,on,,Nahi.
+26,"Not ever have panic attacks , have you ever had one in the past?",routine,35_26,T,yq,,"Pichle time ke shaayad kabhi panic attacks nahi ho chuke, kya kabhi aapne pehle se eik experience kiya hai?"
+27,"No, no.",routine,35_27,P,on,,"Na, na."
+28,So a lot of anxiety but no panic just just,routine,35_28,T,irq,,"इतना सारा टेंशन है पर घबराहट नहीं, सिर्फ ठीक है,"
+29,anxiety like overwhelming anxiety.,routine,35_29,P,id,,चिंता की तरह अत्यध
+30,Intense anxiety?,routine,35_30,T,yq,,Kya ghabrahat bahut z
+31,"Yes,",routine,35_31,P,ack,,"Haan,"
+32,but but never situation where you felt you had to flee from a room or anything like that.,inactive,35_32,T,irq,,That too but never koi aisi situation hui jahan tumhe kisi kamre se udna hi pada ya kuch aisa.
+33,Any past trauma,routine,35_33,T,yq,,Koi bhi purva bhaav
+34,No,routine,35_34,P,on,,Nahe
+35,"Okay,",inactive,35_35,T,ack,,Thik hai.
+36,Do you sometimes feel keyed up on edge or restless?,routine,35_36,T,irq,,Kya tum kabhi kabhi keyed up ya edge par ya restless mehsoos karte ho?
+37,restless?,inactive,35_37,P,crq,,Kya tum an
+38,"restless, yes",routine,35_38,T,cd,,Restless हां
+39,restless.,inactive,35_39,P,id,,bechain hote
+40,Do you find yourself easily fatigued? I'm,routine,35_40,T,irq,,Kya aap aasaani se thakan mehsus karte hain? Main toh...
+41,tired all the time.,routine,35_41,P,id,,Hamesha thak thak hote rehna.
+42,tired all the time.,inactive,35_42,T,yq,,Hamesha thakan thakan hi rehte hain.
+43,Yes.,inactive,35_43,P,ack,,Haan.
+44,Do you have any trouble concentrating or finding your mind go blank?,routine,35_44,T,yq,,Kya aap ko dhyan lagane mein ya fir aapka dimaag khali ho jaata hai?
+45,"No, not really notice. ",routine,35_45,P,on,,"Na, bilkul dhyan nahin diya."
+46,"How about irritability find yourself. irritable.,",routine,35_46,T,irq,,क्या अपने से चिढ़चिढ़ाहट ढ
+47,"no, not really irritable.",routine,35_47,P,id,,"Haan, bilkul nahi gussa-khush nahi."
+48,Any muscle tension?,routine,35_48,T,yq,,Koi muscle tension hai kya?
+49,Not really. No. Okay.,routine,35_49,P,on,,नहीं है। नहीं। ठी
+50,"Hello. trouble sleeping. So to be falling asleep, staying asleep having unsatisfying sleep, anything like that?",symp/reasoning,35_50,T,irq,,"Namaste. Trouble sleeping hai kya? Toh kya aap sone ke liye jaa rahe hain, neend mein bane rahne ka, ya kuch aur?"
+51,"Well, I have unsatisfied sleep. But we just moved and we live next to a factory. There's trucks in and out all the time who can sit with that? There's crackling noise",symp/reasoning,35_51,P,id,,"¶
+Arey yaar, mera sulaapan unsatisfied hai. Lekin abhi humne ghar badla hai aur hum ab ek factory ke paas rehte hai. Wahan par trucks musalsal aate jate rehte hai, kaun usme baithega? Aur phir, wahin par crackling noise bhi hoti hai."
+52,so you think that might be causing Your sleep disturbance.,routine,35_52,T,orq,,So tu sochta hai ki yeh teri neend ki takleef ka kaaran ho sakta hai.
+53,"It's entirely possible. It's like who can sleep? Well, we got trucks in and out all hours of the night overnight, and in the wee hours of the morning, so it's pretty much impossible to fall asleep when you have just this noise",story,35_53,P,od,,"Yeh bilkul mumkin hai. Jaise ki kon so sakta hai? Dekho, raat bhar ghanto mein humare trucks aate jaate rehte hain aur subah ke thode hi der me, isliye jab aapke kaanon mein yeh shor hai to sone ka koi aasar hi nahi rehta."
+54,about before you moved there.,routine,35_54,T,crq,,Tere pehle wahan jaa kar se kuch haath pada?
+55,I don't remember.,routine,35_55,P,cd,,Mujhe yaad nahi hai.
+56,How long ago was it that you moved to the florida?,routine,35_56,T,irq,,Tune kitna time pehle hi tha ke tum florida mein shift hue?
+57,"Um, a couple years",routine,35_57,P,id,,"Um, do saal"
+58,couple years?,routine,35_58,T,yq,,Kuch saal ho gaye?
+59,Yes.,routine,35_59,P,ack,,Haan.
+60,So you've had the stories that by for a couple years?,routine,35_60,T,yq,,Kya aapko woh kahaniyaan sunani thi jinmein kuch saal ho gaye?
+61,Yes.,routine,35_61,P,ack,,Yes haan.
+62,So symptoms started eight months ago.,symp/reasoning,35_62,T,irq,,Symptoms shuru hue eight mahine pehle.
+63,"Yes. So I don't know if they've made it. I don't know if it made it if made it worse, or just the noises just been. So I don't know if it's the noise or why but I can't sleep.",story,35_63,P,id,,"Haa. So main nahin pata kya wo uspe bana hai. Mujhe nahin pata ki yeh aur bura bana hai, ya sirf shor hi hain. Isliye main nahin pata ki kya shor hai ya kyun, magar main so nahin sakti."
+64,"Okay, how about any vacations or anything? ",routine,35_64,T,irq,,"Okay, koi vacations ya kuch bhi plan kiya hai?"
+65,I'm sorry.,routine,35_65,P,id,,माफ़ करो/
+66,No vacation.,routine,35_66,T,gc,,Koi vaikeshan nahi hai
+67,So you've pretty much been sleeping. Your home every night for as long as the symptoms have been around.,symp/reasoning,35_67,T,yq,,Tum pretty much so rahe ho. Ghar par har raat jabse lakshan shuru hue hain.
+68,"Oh, yes, yeah. ",routine,35_68,P,ack,,"Haan, haan, hmm."
+69,All right.,inactive,35_69,T,gc,,"""To theek hai."""
+70,"All right, sir.",inactive,35_70,T,gc,,"ठीक है, सर।"
+71,I appreciate you answering these questions. For me. This has been helpful. I'm gonna get your schedule with a counselor. And they should be. I'll see you in a couple of days.,routine,35_71,T,gt,,Mai aapke inn sawalon ka jawab dene ke liye aabhaar deta hoon. Ye mere liye bahut faydemand raha hai. Main ab aapke schedule ko advisor ke saath fix karunga. Aur woh hona chahiye. Do se teen din mei aapse milunga.
+72,"Oh, thank you. Thank you. I would I would so appreciate it just to get this under control. ",inactive,35_72,P,gt,,"Oh, dhanyavaad. Dhanyavaad. Ye main bahut pasand karoongi jab aap ise control mein laoge."
+73,"Absolutely. Take care, sir. ",inactive,35_73,T,gt,,"Bilkul. Dhyan rakhiyega, sir."
+74,Thank you.,inactive,35_74,P,gt,,Dhanyavaad.
+75,summary,"The patient has joined school after a gap of 20 years last year, but is feeling very anxious for the past seven to eight months. It's been affecting the patient and they are struggling to control the anxiety. The patient used to be straight A student in undergrad and now they are not able to concentrate well, their entire time is devoted to assignments and constant worry about grades. The patient hasn't used drugs, does not drink, has no medical condition, no panic attacks. The patient has intense anxiety. The patient has no past trauma, finds themselves restless and fatigued. The patient has no trouble concentrating, not irritable nor experience muscle tension. The patient has unsatisfied sleep since they live next to a factory with noises all the time. They moved to Florida two years ago, since then they have had sleep issue. They have had no vacation hence they have been sleeping at home since the symptoms started. The therapist assured to set the patient up with a counselor. ",,,,,
+76,primary_topic,anxiety,,,,,
+77,secondary_topic,concentration-school,,,,,

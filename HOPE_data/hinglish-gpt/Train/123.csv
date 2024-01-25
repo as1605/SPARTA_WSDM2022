@@ -1,0 +1,44 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"So How you doing today? I heard you. I'm doing Okay, thanks for asking. What's your name? ",story,123_0,T,irq,,"Aur kaise ho aaj? Maine suna tumhari awaaz. Main theek hoon, tumhari puchne ke liye shukriya. Tumhara naam kya hai?"
+1,"Tom, Tom Beckwith ",inactive,123_1,P,id,,"Tom, Tom Beckwith टॉम,"
+2,And which hands you normally write? Right? Right hand would be all right to ask you some questions about your memory.,symp/reasoning,123_2,T,id,,"""Ohh aur aap normally kaunsi haath se likhte hain? Right? Kya right haath se kuch sawaalon ka aapki memory ke baare mei poochhna tamiz hai?"""
+3,2017,routine,123_3,P,gc,,2017﻿
+4,What season of the year is this?,routine,123_4,T,irq,,Is saal ka konsa mausam hai?
+5,Winter,routine,123_5,P,id,,Winter ठ
+6,What is the date today?,routine,123_6,T,irq,,Aaj ka date kya hai?
+7,The 16th,routine,123_7,P,id,,द सिक्स
+8,what day of the week is this?,routine,123_8,T,irq,,kyo week ka kaun sa din hai?
+9,Tuesday?,routine,123_9,P,id,,Tuesday?
+10,What month is this?,routine,123_10,T,irq,,Yeh month kaun sa hai?
+11,January,routine,123_11,P,id,,January
+12,Can you tell me what country we're in?,routine,123_12,T,yq,,क्या तुम मुझे बता सकते हो कि हम कौन से द
+13,the United States.,routine,123_13,P,id,,यूनाइटेड स
+14,What County are we in?,routine,123_14,T,irq,,Hamlog mein hum kis county mein hain?
+15,Wilmington.,routine,123_15,P,id,,Wilmington
+16,What city are we in?,routine,123_16,T,irq,,Hum aap kis sheher mein hai?
+17,Wilmington.,routine,123_17,P,id,,Wilmington.
+18,What is the name of this building?,routine,123_18,T,irq,,Is building ka naam kya hai?
+19,the Graduate Center.,routine,123_19,P,id,,The Graduate Center.
+20,What floor of the building are we on?,routine,123_20,T,irq,,Hum building ka kaun sa floor par hain?
+21,First floor,routine,123_21,P,id,,Pahela manzil.
+22,"I'm going to name three objects. After I've set them, I want you to repeat them back to me. Apple table, Penny ",routine,123_22,T,ci,,"Main tino cheezon ka naam bata rahi hoon. Jab mai inko set kar lungi, mujhe wapas se unka naam sunana hai. Seb ka table, Penny"
+23,Apple table penny,routine,123_23,P,id,,Seb table paisa ka Apple hai.
+24,Remember what they are. Because I'm going to ask you to name them again in a few minutes.,routine,123_24,T,id,,Yaad rakhna woh kya hai. Kyunki main aapse kuch hi minute baad phir se unka naam poochne jaa raha hu.
+25,WORLD.,routine,123_25,P,id,,duniya
+26,"Now, spell it backwards. ",routine,123_26,T,ci,,Ab haath mein seeti goom ke
+27,DLORW,routine,123_27,P,id,,Dalorv
+28,What were the three objects I asked you to remember?,routine,123_28,T,irq,,"""Aapase yaad rakhane ko maine aapase kaun se teen vastu poochhi thi?"""
+29,Apple table Penny,routine,123_29,P,id,,Seb apple table hai.
+30,What is this called?,routine,123_30,T,irq,,Isko kya bola jata hai?
+31,Watch,routine,123_31,P,id,,Dekho
+32,What is this called?,routine,123_32,T,irq,,Isse kya kehlate hai?
+33,Pen.,routine,123_33,P,id,,Pendik
+34,"I would like you to Repeat the phrase after me. The phrase is no ifs, ands, no buts. ",routine,123_34,T,ci,,"Mujhe chaiye k tum mujhse bolo kya baar baar. Yeh baat hai no ifs, ands, no buts."
+35,"No ifs, buts or ants",routine,123_35,P,id,,"Koi ifs, par koi ""buts"" ya  insects na ho"
+36,read the words on this page. Then do what it says.,routine,123_36,T,ci,,Is pannon par wale shabadoo ko padho. Phir karo jo kaha hai.
+37,Close your eyes.,inactive,123_37,P,id,,Apni aankhein band kar.
+38,Take this paper in your right hand. Fold the paper once with hands and put the paper down on your lap.,routine,123_38,T,ci,,Haath mein yeh kagaz le lo. Haathon se ek baar kagaz ko mudein aur kagaz ko apne godi mein rakh dein.
+39,Thank you.,inactive,123_39,P,gt,,Dhanyavaad.
+40,summary ,"Therapist started session by memory test which consists of some questions about the date, city, floor, etc. Therapist asks patient to repeat the words. Patient did it really well. Therapist tell to keep these words in mind because therapist will ask them later on. Therapist asks to count number backwards, but it was difficult for to patient. Then therapist asks to repeat those words asked earlier. Therapist asks some random questions and asks to repeat the words asked earlier. Then therapist asks questions about things around them and patient did it well.",,,,,
+41,primary_topic,Memory,,,,,
+42,Seconday_topic,Memory,,,,,

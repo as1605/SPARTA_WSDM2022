@@ -1,0 +1,80 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,Straight today?,inactive,71_0,T,irq,,Tu aaj seedhe hain?
+1,even better. I understand you haven't been feeling so well lately.,inactive,71_1,T,irq,,Aur bhi achcha. Main samajta hoon ki aap kuch samay se theek se mahsus nahi kar rahe hain.
+2,I haven't.,inactive,71_2,P,on,,Maine nahi kiya.
+3,Can you tell me about that?,symp/reasoning,71_3,T,irq,,Kya tum mujhe uske bare mein bata sakte ho?
+4,"Yeah, I think I've I've been depressed ",symp/reasoning,71_4,P,id,,"Haan, mujhe lagta hai ki main depress ho gayi hoon."
+5,and depressed?,inactive,71_5,T,crq,,aur naraj?
+6,"for about two months been getting worse and that's why I'm here. You know, I haven't been sleeping very well. I haven't had very much of an appetite. I've been eating very well.",symp/reasoning,71_6,P,id,,"Arre do mahine se mera haal kharab ho raha hai aur isiliye main idhar hoon. Tum jante ho, mujhe neend bilkul nahi aa rahi hai. Mere ishtiharo ki bhi thodi kammi hai. Khane ka bhi man nahi kar raha hai, aur jo thoda khaya hai, woh bhi achhe se nahi khaya hai."
+7,The last couple months I've lost a bit of weight from it.,symp/reasoning,71_7,P,id,,मैं अपने सोने में पिछले कुछ महीनों से थोड़ा वजन खो दिय
+8,Now I'm tired,symp/reasoning,71_8,P,id,,Ab mai thaka hua hoon
+9,tired all the time? You may have low energy?,symp/reasoning,71_9,T,yq,,Thak gaye hain aap hamesha se? Kya aapki energy kam ho gayi hai?
+10,Yeah.,inactive,71_10,T,ack,,Haan.
+11,And you said it's been going on for a couple months.,routine,71_11,T,crq,,Aur tumne kaha ki yeh kuch mahino se chal raha hai.
+12,Yeah. for about two months,routine,71_12,P,cd,,Haan. lagbhag do mahino ke liye.
+13,did anything major happen the thing to focus on?,routine,71_13,T,irq,,क्या कोई बड़ी घटना हुई है जो परखने का
+14,I mean,inactive,71_14,P,id,,Main toh keh raha h
+15,a big thing that happened,inactive,71_15,P,id,,हुआ बड़ी चीज
+16,"you know, between five and six months ago is my cat died",symp/reasoning,71_16,P,id,,"You know, pachhath, five te six mahine pehle mera billi mar gaya."
+17,sorry to hear that.,routine,71_17,T,gc,,दु:खी होने के लिए
+18,"And, you know, I miss them a lot but you know, sad for a little bit and I have days where I miss him. But if the last two months have been nothing like what I found when he died",story,71_18,P,gc,,"Aur, tu jaantaa hai na, mujhe unko bohot yaad ati hai magar tu bhi pata hai, thoda dukhi rehti hu aur mere paas dino hai jab main unko yaad karti hu. Lekin agar aakhri do mahine unke maut ke baad jo hai, woh bilkul kuch bhi nahi hai jaisa maine expect kiya tha."
+19,"last two months of symptoms have been more severe or less severe,",routine,71_19,T,gc,,Last do mahino mein takleef ke haalat zyada gambhir ya kam gambhir rahe hain.
+20," more severe, ",routine,71_20,P,gc,,aur zyada ghatak hai.
+21,more severe. See a cat passed away six months ago.,symp/reasoning,71_21,T,gc,,Aage zyada gambhir ho gayi hai. Ek billi chhaye maheenon pahle guzar gayi.
+22,Yeah.,inactive,71_22,P,ack,,Haan.
+23,And these symptoms you've had for the last two months?,routine,71_23,T,irq,,Aur tumhare paas do mahine se yeh lakshan hain?
+24,Yeah.,routine,71_24,P,ack,,Haan.
+25,So you're not sure if they're really related?,routine,71_25,T,crq,,To tu hai sure nahi ki kya vah sach mein related hai?
+26,"Yeah, I don't know. Like,",routine,71_26,P,cd,,"Haan, mujhe pata nahi hai. Jaise,"
+27,I do miss my cat.,routine,71_27,P,gc,,Main apni billi ko yaad karta hoon.
+28,Do you think about your cat? Most days?,routine,71_28,T,irq,,Kya tum apne kutte ke baare mein sochte ho? Adhiktar dino mein?
+29,"oh no, just,",routine,71_29,P,id,,"Arre nahi, bas,"
+30,"I would say, you know, a couple times a week. It will hit me that like, he's gone. It's not there. I'll think about him. But, you know, I'll have bad days without thinking about missing him. And so I don't know if it's it That.",story,71_30,P,id,,"Hinglish: Mujhe khud kehna padega, tum samajhte ho, kuch dinon mein ek do baar. Mujhe lagta hai jaise, woh chala gaya hai. Woh wahan nahi hai. Main uske baare mein sochunga. Lekin, pata nahi, kuch dino mein bura din aate hain aur main uski yaad ke bare mein sochte bina bhi pareshan rehta hoon. Isliye main nahi jaanta ki kya yeh sach hai ya nahi."
+31,I'm gonna ask you some other questions related to depression.,routine,71_31,T,yq,,Main tumse aur kuch sawaal depression se sambandhit poochunga.
+32,That's okay.,inactive,71_32,T,ack,,Acha thik hai.
+33,Have you noticed a change in your interest in seeking fun or pleasure? Like in how you approach pleasurable activities?,routine,71_33,T,irq,,Kya aapne apne mann mein fun ya kaushalya ka koi badlav mehsoos kiya hai? Jaise ki aap sukhad gatividhiyo ko kaise anubhav karte hain?
+34,"I mean,",inactive,71_34,P,id,,"Mera matlab hai,"
+35,"I feel like, I'm still trying to have fun, you know, like, I'll still, like, I know what I like to do. And I'll try to do those things.",routine,71_35,T,id,,"Mujhe lagta hai, main abhi bhi mazaa karne ki koshish kar raha hoon, pata hai, jaise, main abhi bhi karunga, jaise main jaanta hun jo mujhe pasand hai. Aur main koshish karunga ki woh cheezein karun."
+36,What types of things do you still try to do?,routine,71_36,T,irq,,Aapko aise kya-kya cheezein karna hai jo aap abhi bhi try karte hai?
+37,Like I like,routine,71_37,P,id,,Mai pasand karta hoon main.
+38,"going out to dinner with my sister. And I like reading books and watching movies. So I'll try to do that. Enjoy it. Sometimes it's hard for me to concentrate when I'm reading You're watching, don't get distracted, but I still try. ",routine,71_38,P,id,,"Meri behen ke saath dinner ke liye bahar ja raha hoon. Aur mereko books padhna aur movies dekhna bahut pasand hai. Toh main wohi karne ki koshish karunga. Maza aayega. Kabhi kabhi mujhe padhte waqt concentrate karna mushkil ho jata hai. Tu dekh rahe ho, distract mat ho jaana, par main phir bhi try karta hoon."
+39,You still,routine,71_39,T,crq,,Tum abhi bhi
+40,try,routine,71_40,T,crq,,हिं
+41,your feel restless. Or,routine,71_41,T,crq,,Tumhey about restless feel karte ho. Ya phir
+42,"kind of the opposite of that, like slow down. Like you can't move as fast as",routine,71_42,T,crq,,"Kuch vaisa chiz jo ulat hai woh, jaise ki slow down. Jaise ki tum utna teez se nahi move kar sakte."
+43,"Yeah, I mean, I have noticed that like, as, you know, the last couple months like at work",routine,71_43,P,ack,,"Haan, maine dekha hai ki, jaise, tumhe pata hai, kaam par last kuch mahino se aisa hi hai"
+44,it will be hard for me like it just feels like,routine,71_44,P,gc,,meri liye yeh mushkil hoga kyunki yeh bas ho raha hai ki
+45,"time's going so slowly and I just like I want it like, it was like, I'm in a dream and like I can't. Can't move. It's very, it's",routine,71_45,P,gc,,"Time toh bahut dhire-dhire chal rahi hai aur main toh chah rahi hoon ki woh aisa hi rahe, jaise main sapne mein hoon aur main aage nahi baddh sakti. Bohot, bohot ajeeb hai."
+46,weird.,inactive,71_46,P,gc,,Ajeeb
+47,So,inactive,71_47,T,gc,,Toh
+48,feel slowed down?,routine,71_48,T,yq,,Kya tumhe mahsus ho raha hain ki
+49,Yeah.,routine,71_49,P,ack,,Haan.
+50,Any feelings of worthlessness?,routine,71_50,T,yq,,Kya koi bekar ki bhavnaayein hai?
+51,"I mean, yeah. ",routine,71_51,P,ack,,"Main kehya, hanji."
+52,You tell me about,routine,71_52,T,irq,,Tu mujhe bata
+53,"You know, I just don't think that anyone really cares about what happens to me.",routine,71_53,P,od,,"Tu jaante hai, main bas yeh nahi sochta ki koi mujhe sach mein parwah karta hai."
+54,How would your ability to concentrate any changes there over the last two months?,routine,71_54,T,irq,,आपकी क्षमता से कांसेन्ट्रेट करने में कोई बदलाव हुआ है क्या पिछले दो म
+55,"Yeah, like it's harder for me to like pay attention to movies and stuff and at work it's I don't know if it's because I'm tired or or what but it's hard for me to pay attention to the projects I'm supposed to be working on and I have noticed Yes.",story,71_55,P,id,,"Haan, mujhe movies aur aur kaam mein dhyaan dena mushkil hai. Shayad main thaka hua hun ya kuch aur hai lekin mujhe apne kaam par dhyaan dena mushkil ho raha hai aur maine yeh notice kiya hai, haan."
+56,You have any thoughts related to death or dying?,routine,71_56,T,yq,,Tumhare pass mrutyu ya marne se sambandhit koi vichar hai?
+57,Not really no.,routine,71_57,P,on,,Nahi Bilkul nahin.
+58,Any drug or alcohol use,routine,71_58,T,yq,,किसी भी दवा या शराब क
+59,medical conditions Then,routine,71_59,T,yq,,चिकित्सा स्थ
+60,give her see or hear things other people can't see or hear.,routine,71_60,T,irq,,लीजिए उसे देखने या सुनने दो जो दूसरे लोग देख या सुन
+61,Not recently No. recently,routine,71_61,P,on,,कुछ दिन पहले नहीं
+62,"about before that, um,",routine,71_62,T,irq,,"Woah, pehle hi baat hai, um,"
+63,"well, years ago",routine,71_63,P,id,,"खाने, सालों प"
+64,I was hospitalized. But it was because my neighbors said that I was like throwing things and saying things that I didn't say like about the government. But I haven't had anything like that happen for years.,story,71_64,P,id,,Maine admit kiya gaya tha. Lekin yeh mere padosi kehte the ki main cheezein phenk raha tha aur government ke baare mein kuch galat bol raha tha. Magar maine aise kuch nahi kiya hai pichle kuch saalo mein.
+65,This was years ago you're hospitalized? Did they tell you anything about the hospitalization? Like exactly why?,routine,71_65,T,irq,,Yeh saal pehle tum hospitalized ho gaye? Kya unhone tumhe hospitalization ke baare mein kuch bataya? Jaise ki bilkul sahi reason kya hai?
+66,I don't remember.,routine,71_66,P,id,,Main yaad nahi kar raha.
+67,Remember it?,routine,71_67,T,crq,,Kya yaad hai?
+68,Did you feel depressed back then like you do now?,routine,71_68,T,irq,,Kya aap tab bahut udasin mehsoos kar rahe the jaise aap ab kar rahe hain?
+69,"Maybe apparently some of the same, some of the same things.",routine,71_69,P,id,,"Shayad kuch dikhawa hi hai, kuch same cheezein."
+70,But sounds like it's not clear in your memory.,routine,71_70,T,yq,,Lekin lagta hai ki teri memory mein safai nahi hai.
+71,Yeah.,routine,71_71,P,ack,,Haan.
+72,Have you ever had a period of time where you're too happy we had like a lot of energy and just couldn't stop moving. Nothing like that,routine,71_72,T,irq,,क्या आपने कभी एक अवधि को अनुभव किया है जहां आप बहुत ख़ुश थे और हमारे पास बहुत ऊर्जा थी और हम बस चलते रहते थे। उस से भिन
+73,no,routine,71_73,P,on,,nahin
+74,"Right Sherry, I'm gonna get you in to see a counselor. Okay, I'll just take you a couple days for us to, to get you in to see somebody and it's my hope that they can help you. I want to thank you for answering these questions. This has been helpful. '",routine,71_74,T,gc,,"Theek hai Sherry, main tujhe ek counselor se milane le jaunga. Theek hai, mujhe sirf kuch din lagega tujhe kisi ke paas le jane mein aur meri ummeed hai ki woh tujhe madad kar payenge. Main tujhe in sawalon ka jawab dene ke liye dhanyavaad dena chahta hoon. Yeh sahayak tha."
+75,Thank you.,inactive,71_75,P,gt,,Dhanyavaab.
+76,summary,"The patient feel they are depressed for about two months now. They haven't slept well and have lost appetite. They have lost energy and feel tired all the time. The patient's cat died six months ago. They are not sure if it is related to their depression. They have felt things moving slowly and they are unable to move. They feel worthless. The patient is having hard time concentrating, they do not have any medical conditions. They do not use drugs or alcohol nor hear things that people don't. The patient hasn't felt extremely joyful too. The therapist assures to the set the patient up with a counselor. ",,,,,
+77,primary_topic,depression,,,,,
+78,secondary_topic,cat,,,,,

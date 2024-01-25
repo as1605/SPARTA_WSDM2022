@@ -1,0 +1,85 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,How are you doing today?,inactive,19_0,T,gt,,Aap kese ho aaj?
+1,"Good, thanks. How are you? ",inactive,19_1,P,gt,,"Achha, dhanyavaad. Tum kaise ho?"
+2,I'm doing well. Thank you for asking. I understand you've been having some symptoms that are bothersome to you. Can you tell me about what? What's going on?,inactive,19_2,T,irq,,Me thik kar raha hu. Aapka puchhne ke liye dhanyavad. Mujhe samajh hai ki aapko kuch takleef dene wale lakshan hai. Kya aap mujhe bata sakte hain ki kya hai? Kya ho raha hai?
+3,"Yeah, I moved into my apartment about a year ago. And I've been having, I guess, like, anxious thoughts and sometimes I I'm scared I'm gonna lose my apartment.",symp/reasoning,19_3,P,id,,"Haan, maine lagbhag ek saal pehle apne apartment me shift ho gaya tha. Aur mujhe aksar ghabrahat ki baatein aati thi, aur kabhi kabhi main dar jaata tha ki meri apartment kho dungi."
+4,"So you've been having anxiety, maybe having thoughts about possibly losing your apartment? Yeah. So tell me more about that.",symp/reasoning,19_4,T,crq,,"Tu gets anxiety, aur soch rahi hai ki tere ko apartment kho sakti hai? Haan. Toh aur baat karo us bare mein."
+5,"Um, well, when I ran out my For the rent,",story,19_5,P,cd,,"Arre, haan, jab mujhe apna rent bharaane ke paise khatam hogaye the, tab maine bhagkar dekha,"
+6,I usually would pay it online but then I would click the button and it would submit it a couple times. So after I just wanted to make sure about paid,story,19_6,P,cd,,Mai usually online pe hi pay kar dungi par mujhe us button pe click karna hota aur voh kuch baar submit kar deti. Toh baad mein bas mai yeh ensure karna chahti thi ki paid ho gaya hai ya nahi.
+7,so then I started to actually go in person and pay it,story,19_7,P,cd,,So phir maine actual mein ja kar use pay karne shuru kiya.
+8,but then I check my statement just to make sure the cashier and they got to make,story,19_8,P,cd,,"Parantu phir maine apna statement check kiya, bas puchhne ke liye ki kaas cashier ne bhi sahi hua hai."
+9,sure they really received your yeah your payment.,story,19_9,T,irq,,Wo pakka yaqeen kar liya ki aapke yeah aapke payment receive ho chuke hain.
+10," And I'm also nervous that you know, something might happen where I leave my straightener on and the apartment, like burns down or something.",story,19_10,P,id,,"Aur main bhi ghabra rahi hoon ki kahin kuch aisa na ho jaye ke mere straightner ki switch on reh jaaye aur mera apartment, jaise ki kahin bhi sambhalke nahi jale."
+11,"Right. Do you find yourself like acting on that thought, like, say specifically that thought with the straightener.",routine,19_11,T,crq,,"Theek hai. Kya tum aise khayal par khud ko karte ho, jaise, wahi khayal seedhe karne ke saath, jaise straightener ke saath."
+12,"I'll check it and I'll just make sure that it's unplugged. And, and then I look around and make sure everything's unplugged, because I don't want anything getting caught.",routine,19_12,P,cd,,"Main dekh lunga aur main buss ho jayega ki ye unplugged hai. Fir, main charo taraf dekhunga aur sab ko unplugged hone ka zaroorat hai, kyunki mujhe koi cheez fasne nahi deni hai."
+13,When you say everything what what do you mean?,routine,19_13,T,crq,,Tum jab sab kuch kehte ho to kya maanzar ho?
+14,"Like the toaster and my computer with my laptop charger? And my cell phone, the charger for that. And just anything that's plugged in like television. I just want to make sure everything's unplugged before I leave",routine,19_14,P,cd,,"Toaster aur mere computer ko meri laptop ki charger se kya hai? Aur mera cell phone, uske charger ke liye. Aur bas koi bhi cheez jaise ki television jo bhi plug in ho. Mai bas yeh jaan na chahta hoon ki mai jaate waqt sab kuch unplugged hai."
+15,"before you leave. Yeah, your apartment. What do you do when you come back?",routine,19_15,T,irq,,"Tum jaaate waqt. Haa, tumhaara apartment. Jab tum waapis aate ho, tum kya karte ho?"
+16,"I check to make sure they're still unplugged. But then when I need to use it, I plug it back in.",routine,19_16,P,id,,"Me check karta hu ki woh abhi bhi unplugged hai. Par jab mujhe uska istemaal karna padta hai, tab main usse fir plug in kardeta hu."
+17,"So if you need to use for instance television, to plug it in and watch it and then unplug it immediately or only before you leave, ",routine,19_17,T,crq,,"aisa karoge ki aap television ko plug-in kar ke use karna chaahte hai, fir ise dekhna hai aur uske baad use turant unplug karoge ya aap tabhi karoge jab aap ja rhe ho"
+18,before I leave,routine,19_18,P,cd,,Main chhodne se pahle
+19,"before you leave, so you leave it plugged in while you're there. ",routine,19_19,T,yq,,tum jaaoge to tum use wahaan laipkaar rakhate ho jaane se pahle
+20,Yeah.,routine,19_20,P,ack,,Haan.
+21,When did you first notice the anxiety?,symp/reasoning,19_21,T,irq,,Tum pehli baar anxiety ka notice kab kiya?
+22,"I guess, like six months ago",symp/reasoning,19_22,P,id,,"Maine guess kiya hai, lagbhag chahe mahine pehle"
+23,six months ago?,routine,19_23,T,yq,,छ साल पहले?
+24,yeah.,routine,19_24,P,ack,,haan.
+25,how it start out?,routine,19_25,T,irq,,Kaise shuru hua?
+26,"It started with just thinking about things, thinking about leaving, you know, the door unlocked or being unsure if I paid bills, just like thinking about it. And then I would have to like double check and triple check. And just kind of make sure",routine,19_26,P,id,,"Yeh sab cheezen sochna shuru hua, sochna shuru hua ki chabi ka nishana he ya nahi, ya fir mujhe yakeen nahi hai ki maine bills bhugat diye hain, bas aise hi sochna. Fir mujhe do baar check karna padta tha, teen baar bhi check karna padta tha. Aur bas yakeen karke dhyaan dena padta tha."
+27,to the start that to start with the door locks.,routine,19_27,T,irq,,Door locks se shuru karna to shuru karne ke liye shuru karna.
+28,"Yeah, it started with just thinking and making sure the door is locked.",routine,19_28,P,id,,"Haan, yeh baat sirf sochne se shuru hui aur yeh pakka karne se, darwaaza band hai."
+29,"And you still do that now, do you check the door several times?",routine,19_29,T,crq,,"Aur ab bhi tum wahi karte ho, kya tum darwaze ko kai baar check karte ho?"
+30,"Yeah, I just make sure it's locked.",routine,19_30,P,cd,,"Haan, main bas yeh dekh loon ki yeh band ho gaya hai."
+31,So how do you do that to to get up and look at it and see the slot and then go sit down and think about it come back or do you operate the mechanism back and forth?,routine,19_31,T,irq,,Toh ab woh kaese karoge usko dekhne ke liye uthao aur slot ko dekho phir baith jao aur socho aur phir laut ke aao ya phir kya aap us mechanism ko aage peeche chalate ho?
+32,"Yeah, I just go in. I look in a niche where it's locked. And then I'll go back down and I'll just sit back down and I'll be okay.",routine,19_32,P,id,,"Arre, mai bas jati hun. Mai ek chhedh me dekhti hun jahan lock kiya hai. Fir bass mai vapas neeche jaaungi, aur baith kar thik ho jaungi."
+33,For a while. Yeah. When this up thought ever come back and have to go check it again?,routine,19_33,T,irrq,,Kuch samay ke liye. Haan. Jab ye khayaal bhata aaya aur fir usse dobara check karna pada?
+34,"Sometimes, not really not really. I'll just check in. It's fine.",routine,19_34,P,id,,"Kabhi-kabhi, bilkul bhi nahi. Main bas check kar lunga. Theek hai."
+35,"Do you have kind of a checklist in your mind for when you leave your apartment do you do? Like, unplug everything in roughly the same order? And check everything is so order.",routine,19_35,T,irq,,"Kya aapke zehn mein jab aap apne apartment se nikalte hain, kya aapke paas koi checklist hoti hai? Jaise, sab kuch lagbhag ek hi tarah se nikalne ka? Aur sab kuch theek tarah se check kar letay hain?"
+36,"Um, I haven't really thought about it, but I made sure everything's okay. I know what needs to be.",routine,19_36,P,id,,"Yaar, maine uske baare mein thodi soch nahi kiya, lekin maine ensure kiya ki sab theek hai. Mujhe pata hai kya zaroorat hai."
+37,"Alright, so you do have kind of a list in your mind of what has to be unplugged. Yeah, make sure it's all unplugged. ",routine,19_37,T,orq,,"Theek hai, toh tere dimaag mein ek tarah ki list hai, jo unplugged hona chahiye. Haan, dhyan rakhna ki sab unplugged ho."
+38,Exactly.,routine,19_38,P,od,,Bilkul
+39,And how about when you lock your door from the outside when you're leaving? Do you check that?,routine,19_39,T,irq,,"Aur kya jab aap ja rahe ho, toh aap bahar se apne darwaze ko band karte ho? Kya aap uska check karte hai?"
+40,"Yeah, I'll check it. And then if I'm sitting in my car, I just might go back just to double check and just make sure.",routine,19_40,P,id,,"Haan, mai dekh lunga. Fir agar mai apne gadi me baitha hu, toh mai shayad wapas jaau parivar ke sath dobara se check karne ke liye aur confirm karne ke liye."
+41,"So you're you're checking the door, you know? Plugging various items that may create heat. you're careful with you're paying your rent. Yeah. So, fear and anxiety surrounding losing the apartment in some manner. How is this affecting your daily life? Sometimes,",routine,19_41,T,orq,,"Toh tum door check kar rahe ho, samjhe na? Garmi utpann kar sakte hain kuch cheezein jo tum plug kar rahe ho. Tum apni kiraya dena ke liye careful ho. Haan. Isliye, dar aur chinta hai apartment kho dene ka koi na koi tareeka. Tumhare rozmarra ke jeevan ko kaise prabhavit kar raha hai ye? Kabhi kabhi,"
+42,"I mean, it's time consuming. Sometimes I'm late for work, because I'll think I left something plugged in and I have to go back inside. Sometimes I'll lock the door and have to go back and make sure it's locked. So I'm usually late for things because I'm double checking.",routine,19_42,P,od,,"Mera matlab hai, ye samay le raha hai. Kabhi kabhi kaam ke liye mujhe der ho jaati hai, kyunki main kuch chiz chhod kar bahar nikli aur fir se andar jaanna padta hai. Kabhi kabhi main darwaze ko band kar deti hu aur fir jaakar ye dekhna padta hai ki wo sach mein band hai. Isliye main aksar late hoti hu kyunki main cheezon ko do baar check karti hu."
+43,It's just quiet causing some problems. Getting places on time. Yeah.,routine,19_43,T,gc,,Ye sab sirf kuch samasyaaein paida kar raha hai. Samay par jagah pahunchne mein. Haan.
+44,How about your level of anxiety or worry? How high Would you,routine,19_44,T,irq,,Tumhara chinta ya pareshani ka level kaisa hai? Kitna jyada hai?
+45,say that is?,routine,19_45,T,irq,,batao voh kya hai?
+46,"Um, I guess it would be like,",routine,19_46,P,id,,"अरे, मुझे लगता है कि यह कुछ ऐ"
+47,thinking about it.,routine,19_47,P,id,,Iske baare me soch raha hai.
+48,It's troubling for you.?,routine,19_48,T,yq,,Kya yeh tumko pareshaan kar raha hai?
+49,Yeah.,routine,19_49,P,ack,,Haan.
+50,"If you think about from when it started, it started out sounds like with a few thoughts. Right? If we say that's relatively low anxiety. Yeah. How would what you have now compared to that?",symp/reasoning,19_50,T,orq,,"Agar aap is baat par sochenge ki kab shuru hua, to shuruwat mein kuch vichar ke saath shuru hua lagta hai. Sahi toh? Hum kahenge ki ye bahut kam chinta hai. Haan. Toh ab aapke paas woh se kaise tulna karega?"
+51,is modern look a little higher?,symp/reasoning,19_51,P,crq,,क्या इसका मॉडर्न लुक थोड
+52,"Just a little higher, Yeah.",symp/reasoning,19_52,T,cd,,"Thoda sa aur upar, haan."
+53,But you have noticed it's worsened over?,symp/reasoning,19_53,T,yq,,Lekin tumhe is baat ka pata lag gaya hai ki yeh aur bhi kharab ho gaya hai?
+54,Yeah.,symp/reasoning,19_54,P,ack,,Haan.
+55,Six months?,symp/reasoning,19_55,T,irq,,Chhah mahine?
+56,Is it the most things I have you've ever experienced?,routine,19_56,T,irq,,Kya yeh sabse zaada cheezein hai jo tumne kabhi ki hai?
+57,I'm kind of consider myself an anxious person. So I guess.Yeah.,routine,19_57,P,id,,Mujhe apne aap ko ek anxious vyakti samajhne ka kind of ehsas hai. Toh main guess karta hun. Haan.
+58,This is the most you've experienced?,routine,19_58,T,yq,,Kya yeh sabse zyada tumhara anubhav hai?
+59,Yes.,routine,19_59,P,ack,,Haan.
+60,Yes. This is particularly troubling.,routine,19_60,T,yq,,Haan. Yeh toh khaas pareshani wala hai.
+61,Yes.,routine,19_61,P,ack,,Haan.
+62,They said you've always been said anxious person.,routine,19_62,T,yq,,Woh keh rahe hain ki tum hamesha se pareshaan vyakti ho.
+63,Yeah.,routine,19_63,P,ack,,Haan.
+64,Tell me about that.,routine,19_64,T,irq,,Batao mujhe uske baare mein.
+65,I'm just like group settings or I refer to something when I was younger. I was like just playing with the door or something like that. And my parents took me to some doctor. And they just said I was anxious.,routine,19_65,P,id,,Main abhi bhi group ke settings ki tarah hoon ya main kisi cheez ka ishaara karte hoon jab main chota tha. Main bas darwaaze ke saath khel raha tha ya uss tarah ki koi cheez. Aur meri maa-baap mujhe kisi doctor ke paas le gaye. Aur unhone bas yeh kaha ki main bechain tha.
+66,They give me a treatment. I,routine,19_66,P,id,,Voh mujhe ek treatment dete hai. Main
+67,don't know. I don't think so they just said I was anxious.,routine,19_67,P,id,,Pata nahi. I don't think so unhone bas yeh kaha ki main pareshaan tha.
+68,"So other than saying you're anxious, was there any diagnosis provided? ",routine,19_68,T,crq,,Kya apko chinta ke alawa koi upchaar diya gaya tha?
+69,"No, not really.",routine,19_69,P,cd,,"आरे नहीं, ब"
+70,"Have you ever had any mental health diagnosis? Just, I guess",routine,19_70,T,irq,,"Kya tumhare paas kabhi koi mental health diagnosis hua hai? Bas, mujhe lagta hai"
+71,"just feeling anxious, but not necessarily like a diagnosis",routine,19_71,P,id,,"Mujhe bas chinta ho rahi hai, par yeh zaruri nahi ki koi diagnosis ki tarah ho."
+72,Not from a provider?,routine,19_72,T,yq,,Provider se nahi hai?
+73,Yeah.,routine,19_73,P,ack,,Oh haan
+74,Okay. How about any medical conditions?,routine,19_74,T,irq,,Okay. Koi bhi medical conditions ho toh?
+75,None,routine,19_75,P,id,,None
+76,Have you ever been in a hospital?,routine,19_76,T,irq,,Kya aap kabhi hospital mein the?
+77,"Just to like get my tonsils taken out, But not like anything else",routine,19_77,P,id,,"मेरे टॉन्सिल हटाने के लिए ही, पर कोई अन्य चीज नहीं जैसे ज"
+78,"How about drugs or alcohol, any any usage of those? ",routine,19_78,T,yq,,"Drugs ya alcohol ke baare mein kya, unka koi upyog hai?"
+79,No,inactive,19_79,P,on,,Nahin
+80,Thank you.,inactive,19_80,P,gt,,Dhanyavaad.
+81,summary,"The patient is anxious about losing their apartment. The patient is anxious to check if everything is unplugged before they leave their house. This started about six months ago when they initially had a thought to check them. It's been troubling and they feel it has worsened over the six months. They have been told they are anxious but had no medical diagnosis. They have had no medical conditions, has been to hospital for tonsils, and do not use drugs or alcohol.",,,,,
+82,primary_topic,anxiety,,,,,
+83,secondary_topic,home-routine,,,,,

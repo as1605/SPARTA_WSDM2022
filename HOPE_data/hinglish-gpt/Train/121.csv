@@ -1,0 +1,57 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Sue, it's good to see you again. I was hoping today, I could give you a test of your memory, you feel good about that?",symp/reasoning,121_0,T,yq,,"Sue, tere firse dekhne se achcha laga. Main umeed kar raha tha ki aaj main tumhe apni yaadon ki ek jaanch de sakunga, kya tum uske baare mein achcha mehsoos karti ho?"
+1,Okay. All right.,inactive,121_1,P,ack,,Thik. Theek.
+2,Okay. So I'm going to read a series of questions and ask you to do some different things. And this will just take a few minutes. Okay. All right. So what is today's date?,routine,121_2,T,irq,,Theek hai. Toh mein ek series ke questions padhunga aur tume kuch alag kaam karne ko bolunga. Aur yeh bas kuch minutes lega. Theek hai. Thik hai. Toh aaj ka date kya hai?
+3,I think it's the 10th,routine,121_3,P,id,,Mujhe lagta hai ye 10th hai.
+4,10th. What is today's year?,routine,121_4,T,irq,,10th. Aaj ka saal kya hai?
+5,2016,routine,121_5,P,id,,"""2016"
+6,what is the month?,routine,121_6,T,irq,,Kya mahina hai?
+7,It's January is 2017 into January.,routine,121_7,P,id,,यह जनवरी 2017 में जनवरी है
+8,What day is today?,routine,121_8,T,irq,,Aaj kya din hai?
+9,It's the 10th.,routine,121_9,P,id,,Yeh 10th hai.
+10,Can you also tell me what season it is?,routine,121_10,T,yq,,Kya aap bhi mujhe bata sakte hain ki ye kaunsa mausam hai?
+11,Christmas.,routine,121_11,P,id,,Christmas.
+12,Can you also tell me the name of this clinic?,routine,121_12,T,yq,,Kya aap mujhe is clinic ka naam bata sakte hain?
+13,I saw it when I came in. I don't remember.,routine,121_13,P,id,,Maine use dekha jab main andar aaya. Mujhe yaad nahi.
+14,What floor Are we on?,routine,121_14,T,irq,,Hum kitne floor pe hain?
+15,red,routine,121_15,P,id,,red (in
+16,What city are we in?,routine,121_16,T,irq,,Hum city aacha in hai?
+17,"Dover, Dover.",routine,121_17,P,id,,"Dover, Don't worry."
+18,What County are we in?,routine,121_18,T,irq,,हम हमारे देश में कौन से
+19,Dover County.,routine,121_19,P,id,,Dover pradesh.
+20,Dover County? What state Are we in?,routine,121_20,T,irq,,"""Dover County me? Hum kis state me hai?"""
+21,Delaware.,routine,121_21,P,id,,ड
+22,"So, I'm going to test your memory. I want to read these three words. And I want you to repeat them back to me.",routine,121_22,T,id,,"So, I'm planning to check your yaad (memory). I want you to suno (listen) to these teen (three) words. Aur (and) I want you to unko (them) mujhe wapas (back) sunao (tell) dena (give)."
+23,Okay. All right.,inactive,121_23,P,ack,,ठीक है। हॉ
+24,"Ball, flag. Tree. Can we get those back?",routine,121_24,T,irq,,"गेंद, झंडा। पेड़। हम क्या उन्हें"
+25,"Um, ball, frog.",routine,121_25,P,id,,"Uh, ball, frog."
+26,"Let me do that again. Okay. Ball, flag and tree.",routine,121_26,T,id,,"Fir hum usko dobara karte hain. Thik hai. Ball, flag aur tree."
+27,Ball flag and tree.,routine,121_27,P,id,,गेंद झंडा और प
+28,All right. I want you to remember those because I'd ask you to repeat them again later on.,routine,121_28,T,id,,Theek hai. Mujhe chaahiye ki tum unko yaad rakho kyuki mai tumse badme unko dobara dohraane ki request karungi.
+29,Okay. All right.,inactive,121_29,P,ack,,Thik hai. Theek hai.
+30,Can you begin with the number 100 and count backwards by seven?,routine,121_30,T,yq,,Kya tum 100 se shuru kar sakte ho aur saat se piche ginti kar sakte ho?
+31,"Okay, so 100 193",routine,121_31,P,id,,"Theek hai, to 100 193."
+32,continue,routine,121_32,T,ci,,ज
+33,85 79 72 65,routine,121_33,P,id,,"""85 79 72 65 aa jaao"""
+34,"Okay, that's good.",routine,121_34,T,id,,"ठीक है,ऐसा"
+35,Thank you.,routine,121_35,P,gt,,Dhanyavaad.
+36,Can you spell the word world backwards?,routine,121_36,T,yq,,Kya tum duniya shabd ko ulta likh sakte ho?
+37,LR no,routine,121_37,P,id,,LR nahi
+38,Right? I want you to name the three words that I asked you to remember a few moments ago.,routine,121_38,T,ci,,Thik h? Meine tumse poocha tha ki tum kuch pal pehle yaad rakhne ke liye teen shabdon ka naam karna chahte ho.
+39,Fall,routine,121_39,P,id,,Girna
+40,"Okay, let's take that was it Can you tell me what this is? ",routine,121_40,T,yq,,"Okay, yeh lo, woh tha kya hai? Kya aap mujhe bata sakte hain yeh kya hai?"
+41,A watch a watch.,routine,121_41,P,id,,Ek watch ek watch hotha hai.
+42,Yeah. Can you tell me what this is?,routine,121_42,T,yq,,Haan. Kya aap mujhe bata sakte hain yeh kya hai?
+43,Pen,routine,121_43,P,id,,Kalam
+44,"I'm going to say a phrase. I'd like you to repeat it back to me exactly as I say. Okay, all right. phrase is No ifs, ands, or buts.",routine,121_44,T,id,,"""Main ek phrase kahonga. Mujhe chaahiye ki tum use mujhse bilkul waise hi dohrao jaise maine kaha. Theek hai, thik hai. phrase hai No ifs, ands, ya fir buts."""
+45,No if and buts,routine,121_45,P,id,,"Koi na, agar aur koi shart ya shikayat nahi"
+46,Are you right handed or left handed?,routine,121_46,T,irq,,Tum right handed ho ya left handed ho?
+47,right handed.,routine,121_47,P,id,,dakchindra.
+48,I'd like you to take this piece of paper from me in your right hand. fold the paper in half and put the paper on the floor. Okay,routine,121_48,T,id,,Mujhe chahta hoon ke aap mujhse yeh kagaz apne right haath mein lelo. Kagaz ko middle mein fold karo aur kagaz ko zameen par rakhdo. Theek hai.
+49,Can only fold it with my right hand.,inactive,121_49,P,crq,,Mujhe sirf apne daayen haath se hi ise fold kar sakte hain.
+50,You can use both,routine,121_50,T,id,,Tum dono use kar sakte ho
+51,Just anything?,inactive,121_51,P,crq,,Kuchh bhi chalega
+52,any any complete sentence,inactive,121_52,T,id,,Koi bhi poora vik sheesh
+53,summary,"Therapist started session by memory test which consists of some questions about the date, city, floor, etc. Therapist asks patient to repeat the words. Patient did it really well. Therapist tell to keep these words in mind because therapist will ask them later on. Therapist asks to count number backwards, but it was difficult for to patient. Then therapist asks to repeat those words asked earlier. Therapist asks some random questions and asks to repeat the words asked earlier. Then therapist asks questions about things around them and patient did it well.",,,,,
+54,primary_topic,Memory,,,,,
+55,secondary_topic,Memory,,,,,

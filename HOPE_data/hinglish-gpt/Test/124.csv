@@ -1,0 +1,32 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,So I stopped for coffee because I wasn't sure if you had any coffee. How are you doing?,inactive,124_0,T,gt,,So maine coffee le li kyuki mujhe vishwaas nahi tha ki tere paas coffee hai ya nahi. Tum kaise ho?
+1,Sick of thinking about how I am.,symp/reasoning,124_1,P,id,-1.0,Mujhe apne baare mein soch kar thak gayi hun.
+2,Right here. You remember that thing I was telling you about that I found online.,routine,124_2,T,id,,Yahaan sahi hai. Tum yaad karte ho woh cheez jis ke baare mein maine tumhe bataya tha jo maine online khoj liya tha.
+3,What thing?,routine,124_3,P,crq,,Kya cheez?
+4,"I was telling you about it, how it helps you break down your goals into smaller steps. I thought maybe we could try it.",routine,124_4,T,cd,,"Main aaapko iske baare mein bata raha tha, kaise yeh aapki madad karta hai apke lakshyon ko chote-chote kadam banakar hasil karne mein. Socha ki shayad hum isko try kar sakte hain."
+5,We tried all this kind of stuff before.,routine,124_5,P,id,-1.0,Humne is tarah ka samaan pehle bhi try kiya hai.
+6,"I understand. You know, I've always loved this picture of you.",routine,124_6,T,id,,"Mai samajhta hoon. Pata hai, main hamesha se tumhari ye tasveer se pyaar karta tha."
+7,I haven't felt like this in a long time. I was like my old life. I don't even know what That person is anymore. Or how to be her.,symp/reasoning,124_7,P,id,-1.0,Maine bhot samay se aise mehsoos nahi kiya tha. Mein apni purani zindagi jaisa tha. Mujhe ab pata hi nahi hai wo insaan ab kya hai. Ya fir usse kaise banna chahiye.
+8,What do you miss about your old life?,story,124_8,T,irq,,Tum apne purane jeevan mein kya yaad karte ho?
+9,having friends going out I just can't seem to get started though.,story,124_9,P,id,-1.0,मेरे पास दोस्त होने के बावजूद बाहर जाने के लिए मुझे शु
+10,How can we start at the beginning? How do you start your day?,story,124_10,T,irq,,Hame kaise shuru kar sakte hai hum? Tum apna din kaise shuru karti ho?
+11,"Well, I sleep late. And I know I should clean up around here, but it's so intimidating. So I just do nothing like a loser.",symp/reasoning,124_11,P,id,-1.0,"Achha, I late taak sota hoon. Aur mujhe pata hai ki main yahaan saaf karne ke liye shakti ho, lekin ye bahut yahaan darna bhi hai. To main ek haarne waala ki tarah kuchh nahin karta hoon."
+12,"It sounds like you're pretty hard on yourself. Maybe if you start feeling a little bit better, you'd be more apt to want to go out and you see your friends.",story,124_12,T,id,,"Tum lagraha hai ki aap khud par kaafi sakht hai. Shayad agar aapko thoda behtar mehsoos hone lage, to aap zyada Bhaavuk ho kar bahar jaane aur apne doston se milne ko ichha karenge."
+13,I guess,inactive,124_13,P,gc,,Mujhe lagta hai
+14,I noticed your alarm clock is broken.,routine,124_14,T,crq,,I noticed your alarm clock is busted.
+15,"Oh, yeah. It needs batteries.",routine,124_15,P,id,,"Oh, haan. Isme battery ki zaroorat hai."
+16,I got you this alarm clock that doesn't need batteries. What time would you like to get up?,routine,124_16,T,irq,,मैंने तुम्हें इस अलार्म घड़ी को दिया है जो बैटरी की आवश्यकता नहीं है। तुम क
+17,"Well, I don't know.",routine,124_17,P,id,,"Achchha, mujhe malum nahi hai."
+18,"Well, why don't we start with 11 o'clock? You said you've been getting up in the afternoon. We could try 11 and then you can move it up in a couple of days.",routine,124_18,T,id,,"Achha, hum kyun na 11 baje se shuru karein? Tumne bola ki tum dophar mein uth rahe ho. Hum 11 bajane ki koshish kar sakte hain, fir kuch din baad tum use badha sakte ho."
+19,"Okay, I guess",routine,124_19,P,id,,"Accha, mujhe lagta hai"
+20,I thought maybe a calendar would help. How can we write stuff on it and then we could put it up where you'll see it?,routine,124_20,T,irq,,Mujhe lagaa kuch samaydaan (calendar) madad kar sakta hai. Kaise hum us par cheezein likh sakte hain aur phir hum use jahaan aap dekhenge us par laga sakte hain?
+21,"Like, what?",routine,124_21,P,crq,,"Hain, kya?"
+22,"Well, how about wake up at 11am and have a shower? maybe pick up clothes.",routine,124_22,T,cd,,"चलो, 11 बजे उठने के बाद एक शौचालय कर लो? शायद कुछ कपड़े भी उ"
+23,"Okay, but I have nowhere to put the dirty ones.",routine,124_23,P,id,,"ठीक है, पर मुझे गंदे कपड़े रखने के लिए कहीं"
+24,That's a good point. I can bring something next time. Maybe.,routine,124_24,T,id,,Yeh ek accha point hai. Main next time kuch le kar aa sakta hun. Shayad.
+25,I'll give it a try.,inactive,124_25,P,id,,Main thik thi aazma lunga.
+26,"That's great, Jules.",inactive,124_26,T,op,,"Wah wah, Jules. (वाह"
+27,Now what should we think about for next time?,inactive,124_27,P,irq,,Ab aage ka baare mein sochna chahiye ya nahi?
+28,summary,"The patient is sick of thinking how they are. The patient feel they have changed over their old life of hanging out with friends. They feel like a loser. The therapist helps to set the patient's clock with batteries and sets wake up time to 11 o' clock. The therapist suggests to have a calendar to write down wake up time, have a shower and pick up clothes. The patient agrees to try.",,,,,
+29,primary_topic,gloomy,,,,,
+30,secondary_topic,behavior,,,,,

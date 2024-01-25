@@ -1,0 +1,87 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"How are you Today?, Are you fine? ",inactive,69_0,T,gt,,"Hinglish: 
+How are you aaj? Kya tum theek ho?"
+1,Yeah.,inactive,69_1,P,gt,,Haan.
+2,I'm glad you could come in today or the syntek. Want to explain a little bit about the process? I understand you've already completed the informed consent.,inactive,69_2,T,gt,,Aaj mai khush hu ki aap aaj syntek par aa sakte hai. Kya aap thoda process ke baare me samjhana chahte hai? Mai samajhta hu ki aapne informed consent pehle se hi pura kar liya hai.
+3,"Yes. Yeah, I've done this before.",inactive,69_3,P,gc,,"Haan. Haan, maine pehle se yeh kar liya hai."
+4,So you've done this before.,inactive,69_4,T,yq,,To tussi pehle he eh kitta hain.
+5,Yeah,inactive,69_5,P,ack,,Yeah ह
+6,So understand my obligations to report certain things. Okay.,inactive,69_6,T,yq,,Samaj rahe ho na? Meri responsibilities ko certain cheezein report karne ki. Theek hai?
+7,Okay.,inactive,69_7,P,ack,,Thik ha
+8," So, you answered some other questions in that packet that you filled out with the informed consent, sexual type of questions. information might be on your driver's license or insurance cards, things like that. I'm going to be asking you more emotionally oriented questions as part of this part, the intake ",inactive,69_8,T,yq,,"Toh, aapne wo packet jisme informed consent, yaani jaankari di kuch aur sawal bhi jawaab diye hain, jisme sexual prakaar ke sawal thhe. Information aapke driver's license ya insurance cards par bhi ho sakti hai, us tarah ki cheezein. Is hisse ke roop mein, main aapse zyada bhaavnaatmak sawal poochh raha hoon, intake ki is hisse ka."
+9,"Okay,",inactive,69_9,P,ack,,Theek hai
+10,all right. Some of the topics we'll be covering are sensitive for many people. And you may not want to talk about it. That's okay.,inactive,69_10,T,yq,,Theek hai. Kuchh vishay jo hum dhankavo ki galtiyo ya kinhi koi logoko taklif karde. Aur shayad tum chahen bhi nahi ki unke baare mein baat karen. Woh toh koi baat nahi.
+11,All right.,inactive,69_11,P,ack,,Sab thik hai.
+12,"So if I stumble upon one of those topics, you know, I discuss it, just let me know. And we don't have to talk about it.",inactive,69_12,T,yq,,"To agar main kisi aise mudda par bat karu, to tumhe pata hai na, mujhe bata dena bas. Aur humein uske bare mein baat karne ki koi zaroorat nahi hai."
+13,Okay.,inactive,69_13,P,ack,,Thik hai
+14,"If it's an area that you don't want to talk about right now, but you want to talk about later, we can talk about later. Okay. Does that make sense?",inactive,69_14,T,yq,,"Agar abhi aapko baat karne ka mann nahi hai, lekin baad mein baat karna chahte hain, toh hum baad mein baat kar sakte hain. Theek hai. Kya yeh samajh mein aata hai?"
+15,Yeah. Okay.,inactive,69_15,P,ack,,Haan. Thik hai.
+16,"So, how are you referred here to our agency?",symp/reasoning,69_16,T,irq,,"So, aap yaha hamare agency se kaise jud gaye?"
+17,"Well, I have this friend that I've known for forever. And she told me that she was really concerned about the way I was living my life and that, you know, I shouldn't be coming here. So, as a favor to her, I'm here.",symp/reasoning,69_17,P,id,,"Waise, mere paas ek dost hai jise main bahut samay se jaanta hoon. Aur usne mujhe bataya ki woh sachmuch pareshaan hai meri zindagi ke jeene ki tarikay ke baare mein aur ke, tumhe aana nahi chahiye yahin pe. Isliye, uske liye mere pahunchne se main yahan hoon."
+18,Do you feel committed to counseling?,routine,69_18,T,irq,,Kya aap counselling se committed mehsus karte hai?
+19,"I mean, I guess there's some things I can work on, but I mean, they have problems that I really just don't i don't have.",routine,69_19,P,id,,"Mujhe matlab hai, main sochta hoon mere paas kuch kaam karne ki cheezein hain, lekin woh kuch masle hai jo mere pass bilkul nahi hain."
+20,"Why did you say they,",inactive,69_20,T,irq,,Tumne unhe kyun kaha?
+21,"some of my other friends, the friend that referred me.",inactive,69_21,P,id,,"Meri doosri doston mein se kuch, woh dost jo mujhe recommend kiya."
+22,"Alright, so there's some",inactive,69_22,T,yq,,"Theek hai, toh kuch hai"
+23,Yeah.,inactive,69_23,P,ack,,Haan.
+24,And you think they might not be there at all?,inactive,69_24,T,yq,,Aur tum sochte ho ke vo ho hi nahi sakte?
+25,Yeah. Okay.,inactive,69_25,P,ack,,Haan. Thik hai.
+26,"Fair enough. So, I want to talk about what we refer to as the presenting problem. And I know you indicated you're here because a friend referred you but in terms of the any symptoms or problems or issues that might be going on in your life. Right. Any of those you can identify? Good talk about?",routine,69_26,T,irq,,"Toh thik hai. Toh, main kya baat karna chahata hoon wo hai hum jaise presenting problem ke baare mein. Aur main jaanta hoon aap yahan par ek dost ke reference se aaye hain lekin aapke zindagi mein kisi bhi symptoms, pareshaani ya mushkilein ho rahi hain ya nahi. Theek. Koi aisi cheez hai jo aap pehchaan sakte hain? Kya baat kar sakte hain uske baare mein?"
+27,"Well, I mean, I will admit, I do get angry a lot.",symp/reasoning,69_27,P,id,,"Arre, I mean, mujhe maan lena chahiye ki main bohot gussa ho jaati hu."
+28,"Anger, okay.",inactive,69_28,T,gc,,"Gussa, thik hai."
+29,"Yeah. And sometimes when I get mad, I break a few things. Your wall alone. I won't hit anybody. So I mean, that's not a problem, you know, but I'll take it out on something that doesn't feel pain. I thought that was a good thing.",symp/reasoning,69_29,P,gc,,"Haan. Aur kabhi-kabhi jab main gussa hota hu, to main kuch cheezein tod deta hu. Tumhare diwar pe hi. Kisi ko maar nahi dunga. Isliye to mujhe koi takleef nahi hoti. Mujhe lagta hai, yeh ek achhi baat hai."
+30,"So, um, and objects are the target of some, some physical and angry behavior. Yeah, but not people. ",routine,69_30,T,gc,,"So, um, aur objects ko kuch kashtkar aur gussa ka vyavahar ka nishaana banaya jaata hai. Haan, lekin log nahi."
+31,Yeah.,inactive,69_31,P,ack,,Haan.
+32,So do you view anger as a problem you want to work on?,routine,69_32,T,irq,,"Kya aap gussa ko ek samasya ke roop mein dekh rahe hain, jise aap par kaam karna chahte hain?"
+33,"I guess I could work on being less angry. I don't think I have a anger problem, but I can be less angry.",symp/reasoning,69_33,P,id,,"मुझे लगता है मुझे थोड़ा कम गुस्सा होना चाहिए। मुझे लगता नहीं कि मुझे कोई गुस्सा की समस्या है, लेकिन म"
+34,"Okay. So so one of the symptoms would be anger. You don't necessarily necessarily feel like it's a large problem, but you could be less angry.",routine,69_34,T,gc,,"Theek hai. Toh ek lakshan yeh ho sakta hai ki gussa ho. Aapko zaruri nahi hai ki aapko lagta ho ki yeh ek bada masla hai, lekin aap kam gusse wale ho sakte hain."
+35,"Yeah, you'd be okay. I think everybody can work on being a little more peaceful.",routine,69_35,P,gc,,"Haan, tumhara theek ho jaega. Main sochta hun sab log thoda darmiyaan shant hokar kaam kar sakte hain."
+36,"Okay, that makes sense. Anything else?",routine,69_36,T,yq,,"Okay, yeh samajh me aata hai. Kuchh aur?"
+37,"Um, No, this is something I have tried to stop before, but I'm having a problem. I do smoke marijuana, a lot of time and a lot of you a lot. And recently I've been getting into like, snorting some drugs",symp/reasoning,69_37,P,on,,"अरे, नहीं, यह मैंने पहले भी रोकने की कोशिश की है, लेकिन मुझे कुछ समस्या हो रही है। मैं मारिजुआना तो धूमपान करता हूं, बहुत ज्यादा समय और बहुत से लोगों को दिया है। और हाल ही में मुझे कुछ ड्रग"
+38,can you tell me what drugs?,symp/reasoning,69_38,T,irq,,Kya aap mujhe drugs kya hain bata sakte ho?
+39,"like Xanax. And I've tried to stop before and it didn't work. But me, I like it. So it's kind of like that. I really want to give it up. ",symp/reasoning,69_39,P,id,,Mujhe Xanax pasand hai. Aur maine pehle bhi band karne ki koshish ki thi lekin wo kaam nahi aaya. Lekin mujhe pasand hai. To waise hi hai. Mujhe sach me chhodna hai.
+40,I'm not sure you seem a little more torn on that.,routine,69_40,T,crq,,मैं भी नहीं पक्का पर तुम उस पर थोड़ा और दूसरी त
+41,Yeah.,inactive,69_41,P,ack,,Haan.
+42,So you see a lot of marijuana. And that can mean something different depending on the person. What's it mean to you?,routine,69_42,T,irq,,"To rent an apartment in Delhi for a single person, it's important to save enough money beforehand."
+43,"several times during the day. Even when I'm at work, I'll go to my car on break.",routine,69_43,P,id,,"Kai baar din bhar mein. Jab kaam par bhi hoon, me break ke liye apni gaadi par jaata hoon."
+44,Does anybody notice that?,routine,69_44,T,irq,,Koi bhi dyan se notice karta hai kya?
+45,"I mean, the place I work at isn't very professional, I guess. I mean, there are managers that I hide it. But everybody that pretty much knows",routine,69_45,P,id,,"Mera matlab hai, jahan main kaam karti hun, wahan kaafi professional nahi hai, shayad.
+Mera matlab hai, wahan aise managers hain jo main chupati hun.
+Par har koi yeh jaanta hai."
+46,that they're okay with it.,inactive,69_46,T,yq,,"ki ve kar rahen hain, vah usake saath theek hain."
+47,Yup,inactive,69_47,P,ack,,Haan
+48,"And you mentioned specifically Xanax. Yes, benzodiazepine, any other drugs?",symp/reasoning,69_48,T,irq,,"Aur tumne khaas taur par Xanax ki baat ki. Haan, benzodiazepine, aur koi dawaai?"
+49,No. Maybe it's just mainly the marijuana then. I've started the Xanax.,symp/reasoning,69_49,P,on,,Nai. Shayad woh bas marijuana se hi hoga. Main Xanax shuru kar diya hai.
+50,It seems like it's more recent.,routine,69_50,T,gc,,Yeh lagta hai ki yeh abhi haal hi ki baat hai.
+51,"Yeah. I mean, within the past four months, a friend introduced it to me and started to like it.",symp/reasoning,69_51,P,gc,,"Haan. Mera matlab hai, peeche chaar mahine mein, ek dost ne mujhe isse parichay diya aur mai isse pasand karne laga."
+52,How often do you use that?,symp/reasoning,69_52,T,irq,,Tum kitni baar uska istemaal karte ho?
+53,That one's less often? I'd have to say about maybe twice every weekend.,symp/reasoning,69_53,P,id,,Woh kam hota hai? Mere liye toh shayad har weekend do baar karna padega.
+54,"Okay, the marijuana sounds more like an everyday thing.",routine,69_54,T,yq,,"ठीक है, मारीजुआना लगता है कि यह रोजम"
+55,Yeah. Okay.,routine,69_55,P,ack,,Thik hai. Thik hai.
+56,Any other drugs? Pretty much it?,routine,69_56,T,irq,,Koi aur dawai? Kaafi ho gaya na?
+57,No.,routine,69_57,P,id,,Nahi.
+58,"All right. How about in the past, ",routine,69_58,T,irq,,"Haan toh pehle, kya socha jaye?"
+59,"in my past, I have experimented with cocaine, but I Trouble with the dry for that. So, how to stop that. All right.",story,69_59,P,id,,"Meri pichhle zamane mein maine cocaine se experiment kiya hai, lekin mujhe usse haddi ghaṭna ho gayi thi. Toh iss baat ka kya karna chahiye. Theek hai."
+60,Anything else?,routine,69_60,T,irq,,Kuch aur?
+61,no,routine,69_61,P,id,,Nahi
+62,Any other problems you identify to work on?,routine,69_62,T,irq,,Kya tumhe koi aur samasya pata hai jis par tum kaam kar sakte ho?
+63,"Um, I can sometimes let my pride get in my way, ",symp/reasoning,69_63,P,id,,"ठीक है, मेरा गर्व कभी-कभी मेरे रास्ते में आने दे स"
+64,pride. Tell me what,routine,69_64,T,irq,,"""Ghamand hai. Mujhe batao."""
+65,I don't like being told I'm doing something wrong. Because most of the time I'm not or I'm doing it in a way. Like just because I'm not doing it your way doesn't mean I'm doing it wrong. I know what I can do and I know what I'm capable of.,symp/reasoning,69_65,P,id,,"Mujhe bataya jaana pasand nahi hai ki main galat kar raha hoon. Kyunki aksar main galat nahi kar raha hoon ya main woh aise hi kar raha hoon. Sirf yeh keh kar ki main tumhaare tarike se nahi kar raha hoon, yeh nahi hai ki main galat kar raha hoon. Mujhe pata hai ki main kya kar sakta hoon aur main apni yogyataon ko jaanta hoon."
+66,So is somebody telling you that you're acting in a way that's proud?,routine,69_66,T,irq,,Toh kya kisi ne bataya hai ki tum ghamand se behave kar rahe ho?
+67,"Yeah, I've had several people I've lost a few friends because over you know, little things that I won't budge on. For example, things like even like what the best TV show is. I know When's the Best TV show? isn't anybody who says any different is wrong? That's Oscars. But you know what, maybe they're not real friends.",story,69_67,P,id,,"Haan, maine kuchh logon ko khoya hai kyunki tumse jhagda hua. Chhote chhote baaton par main savage hoon. Jaise ki kaunsa TV show best hai. Main jaanta hoon ki best TV show kaunsa hai. Kisi ko kuchh alag kehne wale galat hai? Yeh Oscars ke baare mein hai. Lekin pata hai kya, shayad woh mere sachhe dost nahi hain."
+68,So you're indicating pride. But it sounds like maybe inflexibility is a part of it too. I guess. Is anybody ever said that to hear,symp/reasoning,69_68,T,gc,,Toh tum gaur bata rahe ho. Lekin lagta hai ki shayad tumhari gadbadi bhi uska ek hissa hai. Mera matlab hai. Kya kisi ne kabhi aisa kaha hai tumhe sunne ke liye?
+69,"me? Not that word, but let me know that you say it, I guess. Yeah.",routine,69_69,P,gc,,"मैं? वह शब्द नहीं, लेकिन मुझे बताओ तुम उसे क्या कहते हो, मुझे लगता"
+70,Do you think that's kind of together with the pride?,routine,69_70,T,yq,,Kya tumhe lagta hai ki yeh ekdum us Pride ke saath hai?
+71,Yeah.,routine,69_71,P,ack,,Haan.
+72,You feel like Okay.,inactive,69_72,T,yq,,Tumhe lagta hai thik hai.
+73,Yeah.,inactive,69_73,P,ack,,haan.
+74,"All right. So we have anger. Mostly objects, though. ",symp/reasoning,69_74,T,irq,,Theek hai. Toh humare paas gussa hai. Lekin jyadatar vastuon ke liye.
+75,"Yeah, ",inactive,69_75,P,id,,"Haan,"
+76,"not people. Marijuana, a lot. xanics not as much occasionally, occasionally. And then inflexibility and price. Yeah. Does that sound like an accurate",symp/reasoning,69_76,T,irq od,,"Nahi log hai. Marijuana is lyk, bahot jyada. Xanics kabhi kabhi, rarely. Fir, kathorta aur daam. Haan. Kya yeh sahi lagta hai?"
+77,I mean that the number one record that's not sure I hate to admit it. It does.,inactive,69_77,P,irq,,"Main aisa manta hoon ki number one record uspe poora bharosa nahi hai, main ye maan na pasand karta hoon. Lekin aisa hi hai."
+78,So it's tough for you to talk about this form.,inactive,69_78,T,id,,Toh tumhare liye yeh baat karne mein mushkil hai.
+79,"Yeah, yeah.",inactive,69_79,P,ack,,"Haan, haan."
+80,summary,"The patient feel they get angry a lot and sometimes break a few things, but not hurt people. The patient has been using Xanax drugs and a lot of marijuana too. The patient wishes to quit but is not able to. The patient started with drugs recently about four months ago. The marijuana is an everyday thing. The patient also has issues with feeling proud and being inflexible. The patient has lost few friends due to that. ",,,,,
+81,primary_topic,behavior,,,,,
+82,secondary_topic,anger-marijuana-drugs,,,,,

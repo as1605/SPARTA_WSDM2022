@@ -1,0 +1,25 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Well, how can I help you today? ",inactive,81_0,T,irq,,"Arre bhai, aaj mai aapki kaise madad kar sakta hun?"
+1,I'm exhausted and shattered the whole time. And I'm fed up. I'd like you to do something.,symp/reasoning,81_1,P,id,-1.0,Main thak gayi hoon aur theek theek barbaad ho gayi hoon. Aur main pareshaan hoon. Mujhe kuch karne ko chaahiye tumhe.
+2,And how long has this been going on for?,symp/reasoning,81_2,T,irq,,Aur yeh kitne samay se chal raha hai?
+3,"about six months, and I've been in loads of times, I've seen lots of different doctors. I've had scans and blood tests that you name it, and nobody can find out that they will. Nobody can see there isn't anything wrong with me. The last doctor I saw, so it was all in my mind. ",story,81_3,P,id,,"आबौट सिक्स महीनों से, और मैं बहुत सारी बार गया हूँ, मैंने बहुत सारे अलग-अलग डॉक्टरों को देखा है। मुझे स्कैन और रक्त परीक्षण भी कराए गए हैं, आप नाम बताये, लेकिन कोई भी मेरी समस्या का हल नहीं निकाल पाया है। कोई नहीं देख पा रहा है कि मुझमें कुछ ग़लत"
+4,I see. Perhaps we can start by getting a fairer understanding of what's been happening. What is the main problem for you?,symp/reasoning,81_4,T,irq,,Main problem kya hai? Mujhe lagta hai hum shuruat kar sakte hain ek adhik nyayik samjhane ke saath us cheez ki jo ho rahi hai.
+5,I feel exhausted the whole time and I can't get anything done. Work is becoming a problem.,symp/reasoning,81_5,P,id,-1.0,Mujhe hamesha thakaaan mehsoos hota hai aur main kuch bhi nahi kar paati. Kaam ek mushkil ho raha hai.
+6," I Understand, and what sort of work do you do?",routine,81_6,T,irq,,"Main Samajhta Hun, Aur Aap Kya Tarah Ka Kaam Karte Hain?"
+7,I work as a computer programmer. Luckily I can work from home a lot of the time because I find it difficult to get up in the morning.,story,81_7,P,id,,"Mai ek computer programmer ke roop mein kaam karta hu. Bhagya se, main kaafi samay ghar se hi kaam kar sakta hu kyunki mujhe subah uthna mushkil lagta hai."
+8,And how's your sleep?,routine,81_8,T,irq,,Aur kaise ho tumhara neend?
+9,"sort of okay, but then I I toss and turn all night and. And I feel terrible in the morning. So you don't find sleep very refreshing, but no, it makes it worse. If anything. I wake up feeling awful then late wake up really late and not often after 11:11am ",story,81_9,P,id,,"Thik hai sahi, par phir main poora raat idhar udhar hila-kud ke guzaarta hun aur phir subah mein bahut bechain mehsoos karta hun. Toh tumhe neend bahut taazgi dene wali nahi lagti, balki mai kaafi bura mehsoos karta hun. Agar kuch hota hai, toh main bahut tarda hua iske baad bhi uthta hun aur bahut der ke baad, general raat ke 11:11 baje ke baad kabhi nahi uthta."
+10,do you get sleepy in the daytime?,story,81_10,T,yq,,Kya aap din mein neend aa jaati hai?
+11,"Yes, I do. Because I get so tired. I often need to take a rest or a nap during the day.",story,81_11,P,op,,"Haan, main karta hoon. Kyunki mujhe bahut thakan hoti hai. Mein aksar din ke dauraan ek araam ya neend lena zaroori hota hai."
+12,Are there any other physical symptoms that are causing you problems at the moment?,story,81_12,T,irq,,क्या आपको वर्तमान समय में कोई अन्य शारीरिक लक्षण हैं जो आपको सम
+13,"My muscles ache quite a lot. My legs, my arms, my back. All over. Really.",story,81_13,P,id,,"Meri manspeshiyon mein kaafi dard hai. Meri taangein, meri bazu, meri kamar. Poori body mein. Bahut zyada."
+14,muscle aches all over your body. any symptoms?,story,81_14,T,irq,,Kya aapke shareer mein muscle pain hai? Koi lakshan hai?
+15,I get a lot of sore throats. And I think there might be some kind of infection running around my system.,story,81_15,P,id,,Mujhe bahut zyada gala kharab ho jaata hai. Aur main sochti hun mera system mein kisi prakar ka infection ho sakta hai.
+16,You feel that there's an infection running through your system?,story,81_16,T,crq,,Kya aapko apne system mein koi infection lag raha hai?
+17,Yes. And why else would I feel so ill all the time.,story,81_17,P,op,,जी हां। और फिर मुझे हमेशा इतनी बीमारी क्यों होती है?
+18,I see. Is there any other reason you think your symptoms might be caused through an infection?,story,81_18,T,ack,,Mujhe samajh aa raha hai. Kya aapko lagta hai ki aapke lakshan kisi sankraman se ho sakte hain?
+19,"Well, it all started when I had a really bad dose of the flu.",story,81_19,P,id,,"HinglishTranslation = 
+Goodly yeh sab shuru hua jab mujhe ek bahut kharab liy aya tha."
+20,summary,"The patient feels exhausted and shattered most of the time. It has been there for six months. The patient sometimes stays awake all night and feels terrible in the morning, not very refreshing and wake up very late. The patient naps through the day too and has muscle aches. The patient get sore throat too. The patient feels it might be due to a bad dose of the flu.",,,,,
+21,primary_topic,exhausted,,,,,
+22,secondary_topic,sleep,,,,,

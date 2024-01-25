@@ -1,0 +1,61 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"So I want to switch gears a little to social relationships. Be like romantic partners, friends, co workers. Anybody notable in that realm you can tell me about",symp/reasoning,30_0,T,irq,,"Toh main thoda apni baat badalna chahta hu aur social rishto ki baat karna chahta hu. Jaise ki romantic partners, dost, saath kaam karne waale. Koi bhi aisa khaas vyakti jo is daayre mein ho, aap mujhe batasakte ho?"
+1,"I have a few friends but mainly have I meet friends as I move around a lot you know if I can't pay rent at one place another friend will offer me to stay at their house but by the time we get there, there's like seven other people. You know, they'll be my friends until I move again. I mean, some of them are strong friends. Some of them are weak or friends that are you know, on friends because I'm there. ",story,30_1,P,id,,"Mere paas kuchh doston hain lekin mainly mere paas vahan jaate huye doston se milkar hi rehta hoon kyunki main bahut saara ghumta hoon, pata hai agar main ek jagah kiraya nahi de sakta to kisi aur dost ka ghar rahne ko kahega, lekin jab tak hum pahunchte hain, wahan sath mein kareeb saat aur log hote hain. Pata hai, jab tak main fir se na ghumne nikal jao, vah mere dost hain. Matlab kuchh unmein mazboot dost hote hain, kuchh kamzor ya dost hote hain jo mere vajah se mere dost hote hain."
+2,close friends. Yeah.,routine,30_2,T,irq,,क्लोज दोस्त।
+3,One or two.,routine,30_3,P,id,,Ek ya do.
+4,One or two?,routine,30_4,T,yq,,Ek ya do?
+5,Yeah.,routine,30_5,P,ack,,Haan.
+6,How often you talk with them?,routine,30_6,T,irq,,Tum kitni baar unse baat karte ho?
+7,One I live with my doctor every day. And the other one you know talk about every other day.,routine,30_7,P,id,,"""Mai roz mere doctor ke saath rehti hu. Aur dusre wale ke saath roz baat karti hu."""
+8,Have any romantic interest?,routine,30_8,T,irq,,Kya aapke paas koi romantic interest hai?
+9,"Um, I mean, I have I've had a few boyfriends but they get kind of annoyed because I make them do everything and you know that's how I guess guys see me now cuz I don't want to do certain things like clean or pickoff or just tell me you know I'm in pain because my accident I still went sometimes I'm in pain. Can you do this and like I'll be lazy or they call me. Whatever.",story,30_9,P,id,,"Arre, main keh rai thi ki maine ek do boyfriend rakkhe hu. Par unhe aadat nahi hoti hai kyunki main unko har kam karne ko bolti hun. Aur yehi wajah hai ki shayad ladke mujhe aise hi dekhte hai, kyunki main kuch kaam nahi karti jaise saaf-safai ya kuch kaam karke mujhe bata do. Mujhe agar dard ho toh tu kar lega na ya fir main lazy ho jaungi aur wo mujhe bulayenge. Kuch bhi chalega."
+10,You were in an accident.,routine,30_10,T,irq,,Tum ek haadse mein the.
+11,"Other day, Yeah, sorry. I didn't mention that.",routine,30_11,P,id,,"Kal, haan, maaf kar dena. Maine woh nahi bataya tha."
+12,"But we'll get to that in a bit. So you've had some, some boyfriends? Yeah. And they became annoyed",routine,30_12,T,irq,,"Lekin hum aapko us par thoda baad mein pahunchenge. To aapke kuch, kuch boyfriends the? Haan. Aur woh naraz ho gaye the."
+13,not currently? not currently.,routine,30_13,P,id,,abhi abhi nahi? abhi bhi nahi hai.
+14,"So I want to switch gears again a little bit and talk about your medical history. So Becca told me, I",routine,30_14,T,irq,,"Toh main phir se thoda badalna chahta hu aur tumhare medical itihaas ke bare me baat karna chahta hu. Toh Becca ne mujhe bataya, main yeh jaanna chahta hu ki tumhare paas koi bimaari hai ya nahi."
+15,I am 24 years old 24 Do you have any health problems currently?,routine,30_15,P,id,,"Main 24 saal ka hoon, kya aapke pass abhi koi swasthya samasya hai?"
+16,So tell me about the damage sustained in the car accident.,symp/reasoning,30_16,T,irq,,Toh batao mujhe car accident mein huye nuksaan ke baare mein.
+17,"Um, well, I was under the influence of cocaine. And I crashed into a car, parked car.",symp/reasoning,30_17,P,id,,"अरे, ठीक है, मैं कोकेन के संग्रह का असर था। और मैंने एक कार में टकरा दी, जो पार्क की थी।"
+18,I see you're driving a car and you're on the influence cocaine and you drove it To a crime as part,routine,30_18,T,yq,,"मैं देखा हूँ कि आप कार चला रहे हो और आप कोकेन के प्रभाव में हो, और आपने उसे एक अपराध के रूप में चलाया है।"
+19,Yes.,routine,30_19,P,ack,,Haan.
+20,"Okay, injuries Did you sustain?",symp/reasoning,30_20,T,crq,,"Okay, kya aapko chot lagti hai?"
+21,"Oh, my left leg was just shattered.",symp/reasoning,30_21,P,cd,,"Arrey, mere left leg ka toh pura tod hi diya!"
+22,You said it still causes you to limp now.,routine,30_22,T,crq,,Tumne kaha ki ab bhi tumhe chalne mein taklif hoti hai.
+23,"Yeah. I mean, some days are better than others. Some days are worse.",routine,30_23,P,cd,,"Haan. I mean, kuch din achche hote hain, aur kuch din bure."
+24,"In terms of the pain, ",routine,30_24,T,yq,,"Dard mein baat karke,"
+25,yeah.,routine,30_25,P,ack,,haan.
+26,You take any medications for pain?,routine,30_26,T,yq,,Tum kisi dard ke liye koi dawa lete ho?
+27,I'm not really. No.,routine,30_27,P,on,,Main neh sach mein nahi hai. Nahi.
+28,Did you have a surgery for that?,symp/reasoning,30_28,T,irq,,क्या उसके लिए आपने सर्जरी करवाई है?
+29,Yeah. After after the accident happened. Yeah.,symp/reasoning,30_29,P,id,,Haan. Accident ke baad hua. Haan.
+30,Any other surgeries or health problems?,routine,30_30,T,irq,,Kya dusre surgeries ya swasthya samasyayein hai?
+31,I sprained my wrist when I was when I was in school before,routine,30_31,P,id,,Maine apni kalai ko chair ki upar girate waqt ghutna chot lag gayi thi jab main school mein tha.
+32,"sprained your wrist. Which wrist,",routine,30_32,T,irq,,Tumne apna haath sprain kr liya. Kaunsa haath?
+33,"right, Worse, right",routine,30_33,P,id,,"right, Behtar, bilkul sahi"
+34,Any other health concerns in the past currently?,routine,30_34,T,irq,,Kya aur koi pehle ki sehat se sambandhit pareshani hai jo abhi bhi hai?
+35,"Well, I mean, my drug use did kind of cause the accident.",routine,30_35,P,id,,"Arre yaar, meri drug use hi accident ka karun banaya tha na."
+36,much. There's some some connection there. Maybe.,routine,30_36,T,yq,,Zyaada nahi. Wahan kuch kuch joda hua hai. Shayaad.
+37,Yeah.,routine,30_37,P,ack,,Haan.
+38,"I want to switch gears again, and talk about your mental health history. Okay,",routine,30_38,T,gc,,"""Main phir se gear badalna chahta hun, aur tumhare dimagi swasthya ke baare mein baat karna chahta hun. Theek hai,"""
+39,okay.,routine,30_39,P,gc,,ok thik hai
+40," Clearly, you're here today seeking treatment I've ever been treated before for mental health conditions.",symp/reasoning,30_40,T,orq,,Aap log aaj yehaan aaye hai kyunki aapko mental health ke liye upchaar chahiye hai jiska mujhe kabhi pahle received nahi kiya gaya.
+41,"Um, after my accident, they sent me to, like psychiatrists, talk about like, possible PTSD.",symp/reasoning,30_41,P,od,,"उम, मेरे दुर्घटना के बाद, वे मुझे, मानसिक चिकित्सकों को भेज दिया, ऐसे जैसे,"
+42,Post Traumatic Stress Disorder.,symp/reasoning,30_42,T,yq,,पोस्ट ट्रॉमाटिक स्ट्र
+43,Yeah.,routine,30_43,P,ack,,Haan.
+44,Were you ever diagnosed with that?,routine,30_44,T,irq,,क्या आपको कभी उससे डायाग्नोस ह
+45,Stick around long enough,routine,30_45,P,id,,खट्टर काफी वक्त तक
+46,How long did we treat it by the psychiatrists?,routine,30_46,T,irq,,Hame uss psychiatrist dwara iska ilaaj kitne samay tak kiya gaya?
+47,Not very long now,routine,30_47,P,id,,देर बहुत कम है।
+48,and the other mental health professionals.,routine,30_48,T,irq,,aur dusre mental health professionals ke saath.
+49,Once when I was in high school counselor pulled me aside talked about my grades and my not going to class and my behavior,routine,30_49,P,id,,"एक दिन जब मैं हाई स्कूल में था, काउंसलर ने मुझे बातचीत करके मेरे अंकों और मेरे क्लास से दूर रहने और मेरे व्यवहार के बारे में"
+50,was just a one time thing that happened maybe,routine,30_50,T,irq,,yeh sirf ek baar ka hua tha jo shayad hogaya tha
+51,"like three times, three times, and then I just got annoyed. Stop going.",routine,30_51,P,id,,"Itni teen baar, teen baar, phir meine bas gussa ho gaya. Ruk jao."
+52,"All right, any other diagnosis you're aware of in the past? You mentioned PTSD might have been a diagnosis you're not sure ",routine,30_52,T,irq,,"Thik hai, kya aapko koi aur purane se janakari hai? Aapne bataya ki PTSD ek diagnosis ho sakta tha, lekin aapko yeh khabar nahi hai."
+53,might have been,routine,30_53,P,id,,'के बन सकता था'
+54,but nothing else. Sure. How would you characterize your experience experiences so far at the mental health treatment system,routine,30_54,T,irq,,Par kuch aur nahi. Zaroor. Aap apne anubhav anubhavon ko kaise vivechit karenge ab tak manovigyan ka chikitsa pranali mein?
+55,"I mean, I haven't had that much experience. People try to tell me things are wrong with me and that's when I get annoyed.",symp/reasoning,30_55,P,id,,"I mean, mujhe utna anubhav nahi hua hai. Log mujhe batane ki koshish karte hai ki mere saath kuch galat hai aur tab mujhe gussa aata hai."
+56,So so far You don't seem like you're impressed okay.,routine,30_56,T,gc,,"Till now, Tu bilkul impress lagey nahi, teek hai."
+57,summary,"The patient is questioned about social relationships. The patient makes friends as they move around apartments. They have only one or two close friends with whom they talk everyday. The patient has had few boyfriends but annoyed them by making them do everything. The patient is 24 years old and has sustained a car accident. The accident involved crashing a car under the influence of cocaine. They injured their left leg. The patient does not take any medication but had surgery for the accident. After the accident, the patient has met pyschiatrists to talk about PTSD. The patient did not continue it for long. There was another counselling session in school for grades. The patient stopped going after three times since they got annoyed. The patient's view of mental health system is that they get annoyed if someone says something is wrong with them. ",,,,,
+58,primary_topic,Treatment,,,,,
+59,secondary_topic,therapy-accident,,,,,

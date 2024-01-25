@@ -1,0 +1,105 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Lisa How doing today, ",inactive,14_0,T,gt,,Lisa aaj kaisa kar rahi hai?
+1,I'm well how are you?,inactive,14_1,P,gt,,"Main theek hoon, tum kaise ho?"
+2,"I'm doing well. Thanks for asking. It's nice to meet you. I'm glad you could come into the agency. Could you tell me what brings you here today? Um, well,",inactive,14_2,T,gt,,"Mai theek kar raha hoon. Thank you for poochna. Aap se mil kar acha laga. Aapse agency mein aane ke liye khush hoon. Aap yahaan kis baat ke liye aaye ho, wo bata sakte ho? Um, well,"
+3,I am here now because I was caught stealing money.,symp/reasoning,14_3,P,id,,मैं यहाँ अभी हुँ क्योंकि मुझे पैसे चुराते पकड़
+4,All right. So you you ordered by a court?,symp/reasoning,14_4,T,yq,,Thik hai. Toh kya aapne court se order kiya hai?
+5,"Yeah,",inactive,14_5,P,ack,,"Haan,"
+6,yeah. Mm hmm when?,inactive,14_6,T,irq,,haan. Mm hmm kab?
+7,about a month ago,inactive,14_7,P,id,,Ek mahine se thoda pehle
+8,A month ago.,symp/reasoning,14_8,T,ack,,Ek mahine se.
+9,"like diagnosing,",symp/reasoning,14_9,P,,,"aise daag nikalna,"
+10,like diagnosing. Is that okay with you?,routine,14_10,T,yq,,पसंद है निदान करना। क्या यह आपके स
+11,Sure.,inactive,14_11,P,ack,,Pakka.
+12,So how old are you now?,routine,14_12,T,irq,,Toh ab tumhari umar kya hai?
+13,25,routine,14_13,P,id,,25
+14,"All right. So you say about a month ago, you got us in trouble. Can you tell me what happened there?",inactive,14_14,T,irq,,"Tik hai. Toh tum kah rahe ho kareeb ek mahine pehle, tumne humein pareshani mein daala. Kya tum mujhe bata sakte ho wahaan kya hua tha?"
+15,"Well, I stole money from a friend of mine. And",symp/reasoning,14_15,P,id,,Maine apne ek dost se paise chura liye. Aur
+16,You need the money.,symp/reasoning,14_16,T,crq,,Tumhe paise chaiye.
+17,This was a friend,inactive,14_17,P,cd,,Yeh ek dost tha
+18,How things stand between you and your friend now.,symp/reasoning,14_18,T,irq,,Ab aap aur aapke dost ke beech haalat kaise hai.
+19,"Well, She turned me in. So we're no longer friends.",symp/reasoning,14_19,P,id,,"Well, Usko ghuma diya. Isliye hum ab doston se nahi hai."
+20,No longer friends. All right.,inactive,14_20,T,ack,,Ab aur dost nahi. Thik hai.
+21,"Well, basically when I was younger, I got I used to get into a lot of fights.",symp/reasoning,14_21,P,id,,"Arre, dekho jab mai chota tha, tab mai bahut saari ladaiyan kar leta tha."
+22,"This day,",inactive,14_22,T,gc,,"Is din,"
+23,my family.,inactive,14_23,P,gc,,meri family.
+24,"remember doing it? Ah,",inactive,14_24,T,irq,,"kya tumhe usse yaad hai? ah,"
+25,"yeah, I remember doing it. Yeah.",inactive,14_25,P,id,,"Haan, maine woh yaad rakha ki maine woh kiya tha. Haan."
+26,How old are you in that happen? Remember?,inactive,14_26,T,orq,,Wo tum uss time kitne saal ke ho? Yaad hai?
+27,12 years old.,symp/reasoning,14_27,P,od,,12 saal ka hua hai.
+28,"Will you ever treated for that, like, that type of mental health treatment?",routine,14_28,T,irq,,क्या आप उस तरह के मानसिक स्वास्थ्य उपचार के लिए कभी उपचार करवाई ज
+29,"Oh, no",routine,14_29,P,id,,"Arre, yaar, aisa k"
+30,"Are you aware of any diagnosis that you've been given related to mental health in the past? No, no. So you got into the sounds like a fairly serious fight when you were 12. And you're 25 now can tell me what's happened in terms of the other problems between 1215",story,14_30,T,irq,,"Kya aapko is past mein, aapki dimagi sehat se sambandhit kisi bhi report ki jaankari hai? Nahi, nahi. Toh aap 12 saal ke the jab aapke ek kaafi tanavpurn jhagde mein ghire the. Aur aap ab 25 saal ke ho, kya aap mujhe bata sakte hain ki 1215 ke beech dusri kya samasyaayein ho gayi hain?"
+31,"I guess the usual I mean, I enjoy And got into some drugs and would use and do stuff like that. So",story,14_31,P,id,,"Mujhe lagta hai ki normal hai, matlab mujhe mazaa aata hai aur maine kuch drugs try kiye aur unka istemal karke aise cheezein karti thi. Toh"
+32,any other thefts or or assaults? Right?,routine,14_32,T,irq,,Koi dusra chori ya hamle hue hain? Sahi?
+33,"I mean yeah. So kept getting into fights and stuff but yeah, I think my last real fight was when I was about 20. So yeah.",story,14_33,P,id,,"Main toh haan. Toh jhagra kar kar ke padta tha aur sab kucch mile par haan, mujhe lagta hai mera aakhri sahi jhagra tha jab main kareeb 20 saal ka tha. Toh haan."
+34,All right. And how much danger were the people that you were fighting?,inactive,14_34,T,crq,,Theek hai. Aur aap lad rahe logon ko kitna khatra tha?
+35,"Yeah, yeah.",inactive,14_35,P,cd,,"Haan, haan."
+36,How many times did that happen to you seriously hurt somebody,symp/reasoning,14_36,T,irq,,Kita ko kitni baar hua aisa seriously kisi ko chot pahunchayi?
+37,probably every fight that I ever gotten into so many I don't have a number,symp/reasoning,14_37,P,id,,"Shayad har ladai jo mujhe hui hai, usmein se bahut saari hui hain, number mere paas nahin hai."
+38,Can you explain what happened? Like what what caused the fight?,routine,14_38,T,crq,,Kya tum bata sakte ho kya hua tha? Jaise ki kaun si baat ne ladai kaaran hui?
+39,"So the one girl, she just, I felt looked at me wrong and I didn't like it. So I punched her in the mouth and continued to do so until she was on the ground and then I still continue to do so.",symp/reasoning,14_39,P,cd,,"Toh ek ladki thi, woh bas, mujhe lage ki usne mujhe galat nazare se dekha aur mujhe pasand nahi aaya. Toh maine uski muh par punch maara aur uske niche tak jari rahi phir bhi main uski punch maarta raha."
+40,What are your feelings about that?,routine,14_40,T,orq,,Tumhare vicharo ke baare mein kya hai?
+41,She deserved that.,symp/reasoning,14_41,P,od,,Woh usko uska haq thha.
+42,"Because of the way she looked at you, hmm.",routine,14_42,T,crq,,"Uski nazar se jo wo tumhe dekhti thi, hmm."
+43,Yes.,routine,14_43,P,cd,,Haan.
+44,Do you ever have any feelings of guilt or remorse of that?,symp/reasoning,14_44,T,irq,,क्या तुम्हें कभी कोई गिल्ट या पश्चाताप की भावना होती है उसके
+45,No.,symp/reasoning,14_45,P,id,,Nahi.
+46,Have you ever apologize to the people that were hurt?,routine,14_46,T,irq,,Kya tumne kabhi un logo se maafi maangi jo thhe hurt?
+47,I'm apologize but just to appease people so that I didn't get into any more trouble.,symp/reasoning,14_47,P,id,,"""Maafi chaahta hu par bas logon ko khush karne ke liye, main aur koi musibat mein na padu."""
+48,"Also somebody situations, apologizing was kind of required.",routine,14_48,T,irq,,"Kuch samay ke alawa, maafi maangna zaroori tha."
+49,Yeah.,routine,14_49,P,id,,Haan.
+50,So you apologize to them that you didn't really mean it. Or,routine,14_50,T,crq,,Toh tum unhe maafi maango ki tumne sach mein uska matlab nahi rakha. Ya fir
+51,I think I didn't mean he didn't mean it. It was just to get out of trouble and go on myself.,routine,14_51,P,cd,,मुझे लगता है मेरा मतलब उसका मतलब नहीं था। यह सिर्फ मुसीबत से बाहर निकलने और खुद को बचाने के लिए था।
+52,you're successful in getting into trouble,inactive,14_52,T,orq,,Tum phirse mushkil mein padne mein kaamyab ho gaye ho.
+53,Absolutely. Yeah.,inactive,14_53,P,od,,Haan. Bilkul.
+54,You say that kind of with a little pride is something to take pride in.,routine,14_54,T,crq,,Tu kehte ho ki thoda garv ke saath wo kuch hai jo garv laane layak hai.
+55,"Yeah, yeah.",routine,14_55,P,cd,,"Haan, haan."
+56,Being able to travel.,routine,14_56,T,orq,,Safar par jaane ki kshamata.
+57,"Yeah. I mean, wouldn't you?",routine,14_57,P,od,,"Haan yaar. Mera matlab hai, kya tum nahi karoge?"
+58,So that's like something you look as like a skill that you have?,routine,14_58,T,crq,,"Kya aap usse ek kala ke tarah dekhte ho, jaise aapko koi kala hai?"
+59,Absolutely. Yeah.,routine,14_59,P,cd,,ठीक है।
+60,Have you ever fought like the theft type activities you ever felt any guilt or remorse there?,routine,14_60,T,irq,,क्या तुमने कभी  चोरी जैसी गतिविधियों की तरह लड़ाई की है? क्या तुम्हें कभी खेद या पश
+61,No.,routine,14_61,P,id,,Nahi.
+62,"Kind of same thing,",inactive,14_62,T,crq,,Thoda sa wahi cheez.
+63,"same thing. They, I mean, they had more money than me, so why not? They probably would have done the same thing to me. So I did it to them before they could do it to me.",symp/reasoning,14_63,P,cd,,"Yehi to, unke paas mere se zyada paisa tha, toh kyu na? Shayad woh mujhse bhi yehi karte. Isliye maine unse pehle hi wahi kiya jo woh mere se kar sakte the."
+64,Were you ever the victim of a crime?,routine,14_64,T,irq,,Kya tum kabhi mujrimi ke shikaar hue ho?
+65,"Now, I am smarter than most people so I can probably I can one up people. So, okay.",routine,14_65,P,id,,"Now, main sabse chaalu hoon among people so main sabko chodke sabse age hoon. To, theek hai."
+66,Do you feel the trick good in working with people like in terms of social skills?,routine,14_66,T,orq,,"Kya aapko yeh trick kaam karne mein acchi lagti hai, logon ke saath kaam karne mein, Social skills ke point of view se?"
+67,"I mean, getting what I want.",routine,14_67,P,od,,"Main manta hun, jo chahta hun wo paane main."
+68,So you're effective at managing relationships to go to one?,routine,14_68,T,crq,,"Tum kya sambandhon ko sambhalne mein prabhavi ho, ek ko jaane ke liye?"
+69,Yeah. All right.,routine,14_69,P,cd,,Haan. Thik hai.
+70,How would you describe your mood? Most of the time,routine,14_70,T,irq,,Tum apni mood kaise describe karoge? Zyaada tar samay
+71,"now, I guess I can get a little irritable,",symp/reasoning,14_71,P,id,,"Abhi toh mujhe lagta hai ki main thoda gussa ho sakta hun,"
+72,though irritable. How often does that happen?,routine,14_72,T,irq,,Kya hamesha hota hai?
+73,few times a week.,routine,14_73,P,id,,Kuchh baar ek hafte mein.
+74,Does that irritability ever lead to or has ever led to some of the aggressiveness? Yeah.,routine,14_74,T,irq,,क्या यह चिड़चिड़ापन कभी क्रोध की ओर ले जाता है या कभी क्रोध की ओर ले गया है? हाँ
+75,You're more likely to be aggressive when you've been in trouble for a while. Yeah.,symp/reasoning,14_75,P,id,,Aap zyada ho sakta hai ki tum aggressive ho jabse tum thodi der se pareshaan ho. Haan.
+76,What was the last time you were involved in a physical fight?,routine,14_76,T,irq,,Tum kabhi akhri baar physical ladai mein shamil hue the?
+77,So that was round 20.,routine,14_77,P,id,,Toh phir woh round 20 tha.
+78,About five years ago? Yeah.,routine,14_78,T,yq,,Lagbhag paanch saal pehle? Haan.
+79,yeah,inactive,14_79,P,ack,,haan
+80,One type of things I'm,inactive,14_80,T,gc,,Mera ek tarah ki cheezein hain jo main hoon.
+81,stealing,inactive,14_81,P,gc,,Chori kar r
+82,so the,inactive,14_82,T,gc,,So phir
+83,"Ah, I'm not sure. Not sure.",inactive,14_83,P,gc,,"Arre, mai bhi nahi sure. Bilkul sure nahi."
+84,You have a job?,routine,14_84,T,irq,,Tumhare paas koi naukri hai kya?
+85,"Yeah. Well, I did. ",inactive,14_85,P,id,,"Haan. Waise, maine kiya."
+86,Tell me about your work performance and experience there.,routine,14_86,T,irq,,मुझे अपनी काम की प्रदर्शन और वहां के अनुभव के
+87,"Well, you know, I show up when I need to most of the time and do what I have to do.",symp/reasoning,14_87,P,id,,"Tum bhi toh jaante ho, main zarurat padne par aati hoon aur jyaada tar kaam bhi kar leti hoon."
+88,You show up most of the time.,routine,14_88,T,yq,,Tu zyada tar dekhta rehta hai.
+89,Yes.,inactive,14_89,P,ack,,Haan.
+90,We are. How is your employer described as employee.,inactive,14_90,T,irq,,Hum log hain. Tumhara employer employee ke roop mein kaise varnan kiya jata hai.
+91,"I mean, I'm pretty good at doing what I do. But I guess my boss would like me to be there more.",routine,14_91,P,id,,"Mujhe mera matlab hai, main apne kaam mein kaafi accha hun. Lekin shayad meri boss ko chahiye ki main wahan zyada ho."
+92,"alright, so in terms of your feelings about missing work? How many jobs have you had?",story,14_92,T,irq,,"Theek hai, toh tumhare kaam ki kami se tumhare feelings kaise hain? Tum kitne jobs kar chuke ho?"
+93,Six,symp/reasoning,14_93,P,id,,Che
+94,okay. Tell me about it,inactive,14_94,T,irq,,"thik hai, mujhe iske baare mein batao"
+95,"They wanted me and they tried to get me to conform, I feel and I'm just not a conformist. God doing things your own way. Yeah.",symp/reasoning,14_95,P,id,,"Unhone ne mujhe chaha aur mujhe manne ke liye koshish ki, mujhe mehsoos hota hai aur mai bus ek aam aadmi nehi hoon. Bhagwan apne dhang se kaam karne mein. Haan."
+96,What do you want to gain of treatment here?,symp/reasoning,14_96,T,irq,,Tum treatment se kya prapt karna chahte ho yahan?
+97,I just want to get out of trouble.,symp/reasoning,14_97,P,id,,Mujhe bas trouble se bachna hai.
+98,You're in trouble now. And you'd like to get out trouble.,inactive,14_98,T,crq,,Ab tum mujhse khatarnak pareshani mein fas gaye ho. Aur tum pareshani se nikalna chahte ho.
+99,Okay. Thank you.,inactive,14_99,P,gt,,Thik hai. Dhanyavaad.
+100,Thank you.,inactive,14_100,T,gt,,Dhanyavaad.
+101,summary,The patient was caught stealing money and was ordered by a court a month ago. The therapist requests to make a diagnosis. The patient had stole money from their friend for which they were ordered by court. The patient used to get into a lot fight until they were 12 years old. They didn't have any problems when they were 12 to 15 years old. They later got into drugs and got into a serious fight when they were 20. They punched a girl because the patient felt they looked at them wrongly. The patient does not feel any guilt or remorse. The patient apologizes just to appease people and not to get more trouble. The patient gets a little irritable and that has led to some aggressiveness. The patient has switched six jobs and they show up to job most of the time. The patient feel they are not a conformist. The patient would like to get out of their trouble with the treatment.,,,,,
+102,primary_topic,crime,,,,,
+103,secondary_topic,stealing-fighting,,,,,

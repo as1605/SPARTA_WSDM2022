@@ -1,0 +1,70 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Okay, I understand you've been having some symptoms with a which have been bothersome. You tell me about those",routine,38_0,T,irq,,"Okay, I understand you're facing some symptoms that are causing inconvenience. Can you tell me more about them?"
+1,main thing is I'm just sleeping all the time. I'm really tired,symp/reasoning,38_1,P,id,,Bhai main toh bas saare time so raha hoon. Mujhe bohot thakan ho rahi hai.
+2,"You know, I",inactive,38_2,P,id,,"Tum jaante ho na, main"
+3,"I'm tired when I have to go to work and then I go home and I it's, you know, I just sleep a lot and it's I think it's abnormal. I haven't been eating as much lately I've I've lost a bit of weight and it's just the fact My life so I'm just one come in",story,38_3,P,id,,"'Mujhe thak jata hai jab main kaam par jaana hota hai aur phir ghar jaata hoon aur tab main so jata hoon, pata hai, main bahut soota hoon aur main sochta hoon ki yeh anormal hai. Main aakhir kuch zyada nahi kha raha hoon, main abhi thoda sa vajan kam ho gaya hai aur yeh haqeeqat hai ki meri zindagi bhi aisi hai, main bas aata hoon'"
+4,alright so you have excessive sleep you feel like what is excessive sleep,symp/reasoning,38_4,T,irq,,Thik hai toh tumhe excessive neend hai toh tumhe kaisa lagta hai excessive neend kya hai?
+5,like just hours like I'll I'll get home from work and I'll take you know three hour nap and then I wake up and you know do do something that I enjoy but that will be bedtime again and I'll be ready for bed even though I took a nap and I'll just sleep some asleep and I can't chance I get I don't wake up early or anything.,story,38_5,P,id,,"'
+Mujhe yahi pasand hai ke main kuch ghante kaam kar ke ghar vapas aaun aur main aaram ke liye teen ghante ki neend loon, phir jab main uthu, main koi kaam karo jo mujhe pasand hai par fir se time so jane ka hai aur main taiyar hona hoga sone ke liye, neend li hai to bhi. Mujhe bas kuch neend ki adhuri aadhi le leni hai, agar mauka mila to main jaldi uthunga ya kuch khaas kaam karne ka plan nahi hai."
+6,And you mentioned your appetite as well.,routine,38_6,T,irq,,Aur tumne apni bhookh ka zikr bhi kiya hai.
+7,"Yeah, I just I don't know if it's just because I I'm sleeping so much I'm not eating but I just like when I wake up. It's not like, Oh, I'm hungry. Nothing like I just",symp/reasoning,38_7,P,id,,"Yeah, I am not sure if it's because of me sleeping a lot or not eating, but when I wake up, it's not like I'm hungry. It's just that I like it. Nothing like that."
+8,how long have these symptoms been present?,routine,38_8,T,irq,,Yeh symptoms kitne time se present hai?
+9,"I mean, I would say I've noticed that in the last Two weeks or so, like I'm",routine,38_9,P,id,,"Main, I would say mene notice kiya hai ke last two weeks ya us se bhi thodese, jaise ki main hu."
+10,over the last two weeks.,routine,38_10,T,irq,,दो हफ्तों से बाद. (do haft
+11,Notice that it's been getting worse.,routine,38_11,P,id,,Notice करें कि इसका हालत और खराब हो
+12,"out of, say one week, how many days do you have these symptoms?",routine,38_12,T,irq,,"Aapko, ek hafte mein, kitne din tak ye symptoms hote hain?"
+13,Probably every day,routine,38_13,P,id,,Shaayad roz roz
+14,every day?,inactive,38_14,T,yq,,har roz?
+15,Yeah.,inactive,38_15,P,ack,,Haan.
+16,"So I'm gonna ask you some other questions related to this. Okay, just provide me the best answer you can. In the last two weeks, have you found yourself? depressed, sad, hopeless. I know that.",routine,38_16,T,yq,,"Toh main aap se kuch aur sawal puchunga joki isse juda hain. Thik hai, bas mujhe apna sabse accha jawaab dijiye. Pichle do hafte mein, kya aap khud ko dhundh paaye? udas, dukhi, nirash. Mujhe pata hai."
+17,"No, no, not really.",routine,38_17,P,on,,"Nahi, nahi, bilkul nahin."
+18,Have you lost interest in activities that used to be fun for you?,routine,38_18,T,yq,,क्या आपको वह गतिविधियां अभी भी मज़ेदार लगती हैं जो पहल
+19,"Um,no",routine,38_19,P,on,,"Um, n"
+20,"no, I mean, I still like still like all the things I did like all my hobbies. I like hanging out with friends and stuff.",routine,38_20,P,on,,"Nahi, mera matlab, main ab bhi sab cheezein pasand karta hoon jo main pehle pasand karta tha, jaise ki meri hobbies. Mujhe dostoon ke saath ghoomna aur aise hi cheezon se bhi lutf andaaz hai."
+21,"Sometimes it's it's hard for me to,",routine,38_21,P,on,,"Kabhi kabhi mujhe, ye mushkil hota hai ki,"
+22,"to remember to make plans with people and I just end up sleeping instead. But I genuinely enjoy it. So, I'd like to go and see if people think of us. Thanks.",,38_22,P,on,,"लोगों के साथ योजनाएं बनाने के लिए याद रखने के बजाय मैं सोने की बजाय खो जाता हूँ। पर मुझे यह सचमुच पसंद है। इसलिए, मैं जानना चाहता हूँ कि क्या"
+23,Do you ever feel agitated in terms of like movement? Like you can't stop moving or find yourself trying to resist moving?,routine,38_23,T,irq,,क्या तुम्हें कभी आदि की दशा में उत्तेजित महसूस होता है? जैसे कि तुम बार-बार गति बदलते हो या स्वयं को
+24,I guess I guess like,routine,38_24,P,id,,Mein sochta hun mujhe achha lagta hai
+25,"not so much I can't stop living but I do like try to like, stop it. I guess I do try to like stop myself. fidgety. Right.",routine,38_25,P,id,,मैं तो बहुत ज्यादा नहीं जी सकता पर मैं कोशिश करता हूँ कि ये जीना बंद करूं। मुझे अपने आप को रोकने की कोशिश करने में अच्छा ल
+26,That's been happening.,routine,38_26,T,irq,,Yeh ho raha hai.
+27,Any changes in terms of your level of energy?,routine,38_27,T,irq,,क्या आपके ऊर्जा स्तर में कोई बदलाव हुआ ह
+28,"Yeah, I mean, I like I said I'm tired all the time. I just sometimes I just can't get up and late to work. Just because I haven't had the energy to get up and stop sleeping, wake up.",story,38_28,P,id,,"Haan, main toh keh rahi thi ke main hamesha thaki raheti hoon. Kabhi kabhi main bas uth nahi paati hoon aur kaam ke liye der se pahunch jaati hoon. Bas isliye ki mujhe uthne ki aur neend se utarne ki taakat nahi hoti."
+29,So the excessive sleep has affected your level of energy. How about any type of feeling of worthlessness or anything like that?,routine,38_29,T,crq,,Kya excessive neend ka asar aapki energy level par padha hai? Kya koi bekar ki feeling ya kuch aisa hai?
+30,"I mean,",inactive,38_30,P,cd,,"Mera matlab hai,"
+31,"I guess yeah, I mean, I'm not",routine,38_31,P,cd,,"यह मेरे किये होने से है, मगर मैं"
+32,"it sounds harsh, but I'm not really a valuable person. Really, I you know, I don't have a very important job or anything. No one really depends on me or,",story,38_32,P,cd,,"iz sunds hars, bʌt mai rili nauot ek valuabol parsan. Rili, tu tumko pata hae, mai nauot hev ek vɛri impɔrtant jɑb ɔr ɛnimthing. Kisi vɛju mujpar nauot nirbhar hae yā,"
+33,"you know, be yourself desirable.",routine,38_33,T,irq,,"Tum jaante ho, apne aap ko chahiye ki khud ko manpasand"
+34,"I mean, no, not really, but it is. It is what it is.",routine,38_34,P,id,,"Yaar, nahi, bilkul nahi, lekin yeh hai. Yeh hai toh yeh hai."
+35,I'm always up to swear,routine,38_35,T,irq,,मैं हमेशा गाली देने के
+36,"You know for for a while, you know just you know when you don't contribute very much so it's it is what it is",routine,38_36,P,id,,"Tum jaante ho, bohot dinon tak, tum jaante ho ki jab tum bahut kam madad karte ho toh phir kuch bhi nahi hota, bas yeh hai yeh hi hai."
+37,about your concentration Have you found any changes there and your ability to concentrate,routine,38_37,T,irq,,Apne concentration ke bare mein koi badlaav paya hai? Aur aapki concentration ki kshamata mein koi farq mehsoos hua hai?
+38,"at work? Yes, definitely. No. Because I'll be tired and yawning and even when it comes to like outside of work I guess I'll forget to take plane friends or forget No, no little things just little things that I do forget a lot. It's hard for me to",story,38_38,P,id,,"काम पर? हां, बिल्कुल। नहीं। क्योंकि मैं थक जाऊंगा और यावना हो जाऊंगा और जिसमें बात हो, शायद मुझे कोई दोस्त याद नहीं रहेगा या भूल जाऊँगा। नहीं, नहीं शायद छोटी-छोटी चीजें, बस मैं बहुत सारी चीजें भूल जाता हूँ। म"
+39,to pay attention to movies. Because I'm tired or not like I just,routine,38_39,P,id,,Movies par dhyan dena. Kyonki main thaka hua hoon ya fir main unhe pasand nahi karta.
+40,should you having trouble focusing?,routine,38_40,T,yq,,क्या आपको ध्यान केंद्र
+41,Yeah.,routine,38_41,P,ack,,Haan.
+42,Do you ever have any Thoughts of death or dying?,routine,38_42,T,yq,,क्या आप जीवन या मौत के बारे में कभी विचार करते
+43,"No,",routine,38_43,P,on,,"Nahi,"
+44,"no, no.",inactive,38_44,T,gc,,"na, na."
+45,You mentioned that,routine,38_45,T,irq,,आपने मेरा न
+46,these symptoms have been causing problems at work any other areas where they've been,routine,38_46,T,irq,,"In karya mein yeh lakshan samasya paida kar rahe hain, kya aur koi jagah hai jahan unka asar hua hai?"
+47,causing trouble? Like limiting or functioning,routine,38_47,T,irq,,Kya pareshani ho rahi hai? Limiting ya functioning ki tarah?
+48,"mean like it was like social life,",routine,38_48,P,id,,"Meaning ki jaisa ki social life tha, mujhe pasand tha."
+49,social life Relationships life at home,routine,38_49,T,crq,,social zindagi Rishton zindagi ghar par
+50,"yeah, I mean I live on my own and",routine,38_50,P,cd,,"haan, main to apne aap pe rehti hun aur"
+51,"you know like sleeping all the time like I don't see anyone else and it's hard to meet new people. If I was looking for a relationship I yeah, I would say it affects it because I'm not like putting myself out there anything. And, you know, I forget or I'll sleep instead of making plans with friends on Friday night so that can't be good. ",story,38_51,P,cd,,"Tum jante ho na ki sara din soye rehne ki tarah, main kisi aur ko nahi dekhti aur naye logon se milna mushkil ho jata hai. Agar main rishta dhund rahi hoti, toh haan, yeh mujhe asar karta hai kyunki main apne aap ko kisi bhi cheez ke liye taiyar nahi karti. Aur, tum jaante ho, mein bhool jaati hoon ya phir doston ke saath Jumma raat ko plan banane ki bajay so jaati hoon, toh yeh achcha nahi ho sakta."
+52,How about substances you use any alcohol or drugs like that?,routine,38_52,T,irq,,Tum substances ke baare mein sochoge jo tum alcohol ya drugs ki tarah istemaal karte ho?
+53,"Now, I mean, altering socially. I haven't really",routine,38_53,P,id,,"Abhi, main toh mazaak mein keh raha tha, social taur par badlav kar raha hun. Main sach mein nahi hoon."
+54,thought about medical conditions,routine,38_54,T,irq,,Medical conditions के बारे में सोचा
+55,do you ever see or hear things that other people can't see or hear?,routine,38_55,T,irq,,"Kya aap kabhi aise cheezein dekhte ya sunte hai jo dusre log nahi dekh sakte ya sunt
+e?"
+56,Have you ever had that happen?,routine,38_56,T,irq,,क्या आपको कभी ऐसा हुआ है?
+57,Have you ever had a period your life were you having it now? Where? You're extremely happy how a lot of energy,routine,38_57,T,irq,,Kya aapki zindagi mein kabhi ek samay aisa tha jab aap use ab bhi jee rahe hai? Kahaan? Aap bohot khush ho aur bohot zyada urjawan bhi ho.
+58,"No, it's never happened like that.",routine,38_58,P,id,,"Nahi, aisa kabhi hua hi nahi hai."
+59,oaky,inactive,38_59,T,gc,,Okay सह
+60,oaky,inactive,38_60,T,gc,,Okey
+61,"Sherry I'm going to refer you to see a counselor. I've just scheduled and so you can see them in next couple days if that works for you. Yeah, that works fine. I appreciate you answering these questions. This has been helpful. ",routine,38_61,T,ci,,"Sherry main tujhe counselor se milne ke liye refer karne jaa raha hoon. Main abhi schedule kar diya hai aur agar tere liye do-teen din ke baad milna kaam aaye toh tu unse mil sakti hai. Haan, woh kaam chal jaayega. Tujhe inn sawaalon ka jawaab dene ke liye shukriya. Ye kaafi madadgaar raha hai."
+62,Thank you.,inactive,38_62,P,gt,,Dhanyavaad.
+63,Thanks.,inactive,38_63,T,gt,,Dhany
+64,summary,"The patient has been sleeping excessively and not eating much for the past two weeks and it has been getting worse. They have lost some weight and this is happening everyday. The patient wishes to make plans with friends but sleeps instead. The patient find themselves restless. The patient's energy levels has been affected and they have feeling of worthlessness. The patient also has issues concentrating. The patient does not have thoughts of dying. The patient's social relationship has been affected since they are not putting themselves out there. The patient do not drink or use drugs. They do not have any medical conditions, see or hear unusual things. They haven't had phases of extreme happiness. The therapist offers to refer to a counselor in a couple of days. ",,,,,
+65,primary_topic,sleep,,,,,
+66,secondary_topic,concentration,,,,,

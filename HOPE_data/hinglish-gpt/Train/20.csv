@@ -1,0 +1,83 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,How are you?,inactive,20_0,T,gt,,Tum kaise ho?
+1,"Thanks, how are you?",inactive,20_1,P,gt,,"Dhanyavaad, aap kaise ho?"
+2,I'm doing well. Thank you for asking. I understand that. You've come here today because you've had some symptoms that have been bothering you.,inactive,20_2,T,gt,,I'm doing fine. Thank you for inquiring. I get that. You've come here today because you've been experiencing some symptoms that have been troubling you.
+3,Yeah. I have anxiety sometimes. And I've lost about three jobs within the past year.,symp/reasoning,20_3,P,id,,Haan. Mujhe kabhi-kabhi anxiety hoti hai. Aur maine pichle saal tak lagbhag teen naukriyan kho di hain.
+4,You've lost three jobs in the past year. Is it because of things?,routine,20_4,T,irq,,Kya tum halti kar rahe ho peechle saal mein teen jobs kho diye? Kya wajah thi unki?
+5,"Yeah, well, I'm scared that something's going to happen and my apartment.",symp/reasoning,20_5,P,id,,"Haan, dekho, mujhe dar hai ki kuch hone wala hai aur mere flat mein."
+6,So I need to unplug things.,symp/reasoning,20_6,P,id,,इसलिए मुझे चीजों को अनप्लग क
+7,"But I it has to be in order. So when I unplug things, it has to start with the TV and then my computer And then my phone and then the lamps. And then I've been late to work.",story,20_7,P,id,,"Par fir order mein hi hona chahiye. Toh jab main cheezein unplugg karun, TV se shuru karna padega phir mera computer, aur phir mera phone aur phir lamps. Aur phir main kaam ke liye late ho jaata hun."
+8,"Alright, so you have a system you go through of unplugging. Yeah, different objects in your apartment. And you're worried that they're going to cause a problem if they're left plugged in.",routine,20_8,T,crq,,"Theek hai, toh tumhaare paas ek system hai jise tum unplugging karne ke liye jaate ho. Haan, tumhaare apartment mein alag alag cheezon ko. Aur tumhe chinta hai ki agar woh plugged in rehte hain toh problem create kar denge."
+9,Yeah. Like if they overheat it because they burned it down.,symp/reasoning,20_9,P,cd,,Haan. Agar unhone usse garam kiya kyunki unhone use jala diya.
+10,"You're so afraid that if you leave them plugged in or overheat, ",routine,20_10,T,orq,,"Tum bahut darte ho ki agar tum unhe plug-in kiya rakho ya overheat ho jaye,"
+11,"yeah, ",inactive,20_11,P,od,,"haan,"
+12,and your apartment will catch on fire.,routine,20_12,T,yq,,Aur agar tumhare flat mein aag lag jati hai toh
+13,"And you have a particular order, you go in as you unplug,",routine,20_13,T,yq,,"Aur tumhare paas ek khaas order hai, jaise hi tum unplugged hota jaate ho,"
+14,yeah.,inactive,20_14,P,ack,,Haan.
+15,What happens if you're unplugging the items and you get distracted or something interrupts that,symp/reasoning,20_15,T,irq,,Kya hoga agar aap saman ka plug nikalte huye hi kahi dikhao ya koi baat beech mein aa jaye?
+16,mean sometimes I'll get like a text message and I'll hear my phone call. Have to just start all over again.,story,20_16,P,id,,मतलब कभी-कभी मुझे एक टेक्स्ट मैसेज मिलती है और मैं अपने फोन को कॉल करता हूँ। फिर से शुरू करना पड़ता है
+17,Will you plug the objects back in? Are we how we do it for the items are already unplugged?,routine,20_17,T,irq,,क्या आप आइटम्स को फिर से प्लग इन करेंगे? क्या हमे वो करना होगा जैसे कि आइटम्स पहले से ही अनप्लग्ड
+18,"I would just have to unplug them, and then I would have to plug them back in or vice versa.",symp/reasoning,20_18,P,id,,"Main bus unplug karna padega, uske baad main unhe plug karna padega ya phir ulta karke."
+19,I should go back and plug them in?,routine,20_19,T,yq,,Muje wapas jaana chahiye aur unhe laga dena chaiye?
+20,Yeah.,inactive,20_20,P,ack,,हाँ
+21,What's your anxiety level? Like as you start that process?,routine,20_21,T,irq,,Tumhara anxiety level kya hai? Kya jab tum us process ko shuru karte ho to esa hota hai?
+22,It's it's really bad.,routine,20_22,P,id,,Yeh bohot hi kharab hai.
+23,Is it?,inactive,20_23,T,yq,,Kya hai?
+24,Yeah.,inactive,20_24,P,ack,,Haan.
+25,How about towards the end of the process?,routine,20_25,T,irq,,Kya process ke ant mein kaisa rahega?
+26,"It goes away. But it it's just kind of temporary for a little bit of time, and then it comes back and I have to go check it again.",routine,20_26,P,id,,"Yeh chala jaata hai. Par yeh sirf thoda sa waqt ke liye temporary hota hai, aur fir se laut aata hai aur mujhe use dobara check karna padta hai."
+27,"Okay, so So when it comes back, everything's unplugged. So you have to plug everything back in, unplug it. ",routine,20_27,T,crq,,"Thik hai, to jab vapis aata hai, sab kuch unplugged ho jata hai. Isliye aapko sab kuch wapas plug in karna hai, unplug karke."
+28,Yeah.,inactive,20_28,P,cd,,Haan.
+29,And go through the whole process again. It's just pretty distressing.,routine,20_29,T,yq,,Aur fir se puri procedure se guzar jao. Bas kaafi upsetting hai.
+30,Yeah.,inactive,20_30,P,ack,,Haan.
+31,Yeah. And you think that This is what led to the problems of deployment.,routine,20_31,T,orq,,Haan. Aur tum sochte ho ki Yehi wajah hai ki deployment mein problem hui.
+32,"Yeah, because I also, I have to lock my door, but I like to lock it 12 times. So I'll put the key in, and I'll hear it click, but then I just like doing it 12 times just to make sure it's locked. And that made me late for work. And then when I was at work, I have a drawer on the cashier. Um, so I would just make sure it was locked, but I would have to do it, you know, 12 times just make sure was locked. And I didn't get back in time to like, half the customers.",story,20_32,P,od,,"Haan, kyunki main bhi, mujhe apne darwaze ko lock karna padta hai, lekin main use 12 baar lock karna pasand karta hu. To main chaabi andar daal dunga, aur use click hone sunne ki bad, lekin main bas use 12 baar kar ke dekhna pasand karta hu ki vo lock hai ya nahi. Aur vo mujhe kaam ke liye der se pahuche hone ka karan bana. Aur phir jab main kaam kad ek, mere paas cash counter par ek khidki hai. Um, toh main bas dekhna pasand karta hu ki vo lock hai ki nahi, lekin maine use, pata hai, 12 baar check karna hota hai ki vo lock hai ya nahi. Aur main waapas time pe nahi pahucha taaki, adh hi grahako ko attend kar saku."
+33,Sure your employer wasn't wasn't happy with that.,symp/reasoning,20_33,T,yq,,"Zaroor, apke svaikaar ko ye manzoor naheen tha ki woh khush the."
+34,Yeah.,inactive,20_34,P,ack,,Arre haan
+35,And that led to those new job.,routine,20_35,T,yq,,Aur usne naye naukriyon par pahunchaya.
+36,Yeah.,inactive,20_36,P,ack,,Haan.
+37,you're working now?,routine,20_37,T,irq,,Kya tum ab kaam kar rahe ho?
+38,"No, um, I had a job for a little bit of time. It was again a cashier position. But I was on break. And, you know, I was like in the room and I have the fights and I Just Just want to be sure like they would go off all the way because they don't want me to light on.",story,20_38,P,id,,"Nahi, umm, main ek thodi der ke liye naukri kar raha tha. Firse wo ek cashier ki position thi. Lekin main break pe tha. Aur, pata hai, main room mein tha aur mujhe ladaiyaan sunaai di aur main bas yeh chahta tha ki wo poori tarah se khatam ho jaye kyunki unhe mujhe roshni nahi jalane dena hai."
+39,"And by the time I got done turning them on, and just make sure they were off",story,20_39,P,id,,"Aur mai unhe on karne ke baad apne kaam se thak gaya, aur bus yeh confirm kar lijiye ki wo band hain."
+40,and get back in time on the floor.,story,20_40,P,id,,aur wapas aao aur time par floor par laut aao.
+41,My employer just said I wasn't a good fit,symp/reasoning,20_41,P,id,,Mera employer abhi mujhe nahi pasand kiya kaha
+42,wasn't a good fit. So this so these symptoms have caused you some real problems.,routine,20_42,T,yq,,Yeh acha adjust nahi hua. Isliye yeh haalat aapko asli musibat mein daal diye hain.
+43,Yeah.,inactive,20_43,P,ack,,Haan.
+44,With employment and how about with your anxiety level?,symp/reasoning,20_44,T,irq,,employment aur tumhara anxiety level kaise hai?
+45,My anxiety is really bad.,symp/reasoning,20_45,P,id,,Meri chinta bahut buri hai.
+46,If we were to put on a scale like one was very little exciting. A 10 was the worst anxiety you've ever experienced. What kind of anxiety having a daily basis now?,routine,20_46,T,orq,,Agar hum ek scale par chadhate jaise ki ek bahut kam rochak tha. Ek 10 shuruwat mein tumne kabhi mahsus kiye sabse kharab chinta. Ab rozana hone wali chinta kaisi hai?
+47,"Probably, like a 10",routine,20_47,P,od,,"""Shayad, 10 ke tarah"""
+48,by 10. So the worst ever,inactive,20_48,T,yq,,"Dus saal mein, yeh sabse bura din tha."
+49,Yeah.,inactive,20_49,P,ack,,Haan.
+50,"and checking the door was checking light switches, unplugging everything. This reduces your anxiety for a while just for",symp/reasoning,20_50,T,irq,,"Aur door ki jaanch karne ke saath hi roshan switches ki jaanch kar raha tha, har cheez ko unplugged kar raha tha. Isse thoda samay ke liye tumhara chinta kam ho jaata hai."
+51,a little bit.,inactive,20_51,P,id,,Thoda sa.
+52,But then it comes back?,symp/reasoning,20_52,T,yq,,Par phir yeh laut aata hai?
+53,Yeah.,inactive,20_53,P,ack,,Haan.
+54,Is there anything else that you do that helps to reduce the anxiety?,routine,20_54,T,irq,,Kya tumhe kuch aur bhi karna hota hai jo tanav ko kam karne mein madad karta hai?
+55,"It's just, I guess when I'm in the act of doing it, it will relieve it. And that'll be okay for a little bit of time. But even coming in, you know, like I said, when you have chairs and some pictures, and I just like I had to touch them, like, had to touch the chairs. But I wanted to touch the chairs first, and then the pitchers. And that's normally what I do. I'm in a room like I have to touch the chairs first. And I feel okay when I'm doing it. And then when I'm finished, I feel a little better. But then it comes back things.",story,20_55,P,id,,"यह बस, मुझे लगता है जब मैं इसे करते समय हूँ, तो यह उसको दूर कर देगा। और वह thik हो जाएगा कुछ समय के लिए। लेकिन आने से भी, आपको पता है, कुर्सियों और कुछ चित्रों के साथ, और मैं बस उन्हें स्पर्श करने के लिए था, जिसे मैंने कुर्सियों को स्पर्श किया था। लेकिन मुझे कुर्सियों से पहले स्पर्श करने की इच्छा थी, और वहां फिर मैं चित्रकारों को था। और वह आम तौर पर मैं क्या करता हूँ। मैं किसी कमरे में हूँ, मैं कुर्सियों को थीक करने के लिए होना होगा। और जब तक मैं कर रहा हूँ, तब ठीक महसूस कर रहा हूँ। और जब मैं खत्म हो रहा हूँ, तो मुझे थोड़ा सही महसूस हो रहा है। पर फिर भी चीजें वापस आ"
+56,Do you know how long you've had these symptoms?,routine,20_56,T,irq,,Kya tumhe pata hai ki tumhe ye lakshan kitne din se hain?
+57,"Probably since, I guess like third grade.",routine,20_57,P,id,,"Shayad, mere hisaab se, mujhe teesri kaksha se lagta hai."
+58,So So sometime Yeah. Did they start off? Like they are now? Or are they different?,routine,20_58,T,irq,,Kya kabhi kabhi to aise hota hai na. Kya woh shuru ho gaye? Kya ab woh waise hi hain ya fir kuch alag hain?
+59,And started off with a little bit of things like I would just get a little bit of anxiety. I just went on to play with the doorknob. And then as I got it went away for like a year. Maybe and then I would start to play with the lights and just make sure that they were off.,story,20_59,P,id,,"Aur mai thoda sa aa kar ham sab shuru karte hai, jaise mai bas thoda sa anxious ho jata hu. Main bas darwaze ke saath khelne lagta hu. Aur phir jab main use kar leta hu toh saal bhar ke liye woh chala jaata hai. Shayad aur tab mai lights ke saath khelna shuru karta hu aur bas yeh dekhta hu ki woh band hai."
+60,It was the same thing that help reduce anxiety.,routine,20_60,T,yq,,Yeh wohi cheez thi jo ghabrahat ko kam karne mein madad karti thi.
+61,Yeah.,inactive,20_61,P,ack,,Haan.
+62,didn't cause any trouble?,inactive,20_62,T,irq,,Koi problem toh nahi hui na?
+63,"My parents didn't really like it. They kind of were like, you know, something's wrong with you. Yeah. Stop playing with that.",inactive,20_63,P,id,,"""Mere mummy papa ko vaise theek nahi pasand aaya. Unhone aise hi mujh par nazar rakhi thi, pata hai, tumhara kuch gadbad hai. Haan. Uske saath khelna bandh kar do."""
+64,Will you ever taken somewhere and diagnosed or treated?,routine,20_64,T,irq,,Kya kabhi aap kisi jagah le jaaye jaaoge aur janch ya ilaaj hoga?
+65,"No, no. My parents just thought it was like nerves.",routine,20_65,P,id,,"Nahi, nahi. Meri maa baap ko bas lag raha tha ki yeh toh nerves ki tarah hai."
+66,And now it's now it's the worst it's ever been.,routine,20_66,T,yq,,Aur ab yeh sabse kharab hua hai.
+67,Yeah. Yeah.,routine,20_67,P,ack,,"Haan, bilkul."
+68,Do you feel like you're able to go back to work with the symptoms? Boy they are now?,inactive,20_68,T,irq,,Kya aapko lagta hai ki aap apne kaam par jana sakoge kya? Ladka ab wo hain?
+69,Probably not.,inactive,20_69,P,id,,Shayad nahi.
+70,Because they're so disruptive.,symp/reasoning,20_70,T,yq,,Kyunki woh bohut hi disturber hote hain.
+71,Yeah.,inactive,20_71,P,ack,,Haan.
+72,Have you ever had any medical conditions?,routine,20_72,T,yq,,KYA apne kabhi bhi koi medical sthiti se guzara hai?
+73,No.,routine,20_73,P,ack,,Nahi.
+74,And have you ever used or do use a types of a type of drug or alcohol.,routine,20_74,T,yq,,Kya tumne kabhi kisi dawaa ya nasha ka istemaal kiya hai ya abhi bhi us tarah ke dawaa ya nasha ka istemaal karte ho?
+75,No,routine,20_75,P,ack,,Nahi
+76,And I want to thank you for coming. I'm going to get you scheduled to see one of our counselors. I appreciate you spending time with me. It's helped me to understand what you're going through.,routine,20_76,T,ci,,Aur mein aapka dhanyavaad dena chahta hoon aapke aane ke liye. Main aapse milne ke liye hamare counsellors mein se ek se milne ka aapka waqt taiyaar kar deta hoon. Aapka mere saath bitaya hua samay ka bahut shukriya. Isse mujhe samajhne mein madad mili hai ki aap kis prakaar se guzar rahe hain.
+77,Thank you.,inactive,20_77,P,gt,,Dhanyavaad.
+78,Thanks.,inactive,20_78,T,gt,,Dhanyava
+79,summary,"The patient feels anxious and feel something is going to happen in their apartment. The patient feels the need to unplug things. They fear it might overheat and burn the place down. The patient has to unplug items and if something interrupts in between, they have to start all over again or vice versa for plugging them. They patient also locks door 12 times to ensure it is locked. The patient has performed poorly at job due to this habit. Unplugging everything reduces the anxiety a bit for the patient and they feel the need to check again. Once they check again, they have to go through the routine again of plugging and unplugging things. It is very distressing for the patient. The patient has had these symptoms since third grade and has got worse since then. The patient has not diagnosed or treated before for these symptoms. The patient has had no medical conditions, no alcohol or drugs. The therapist offers to set the patient with a counselor.",,,,,
+80,primary_topic,paranoia,,,,,
+81,secondary_topic,apartment,,,,,

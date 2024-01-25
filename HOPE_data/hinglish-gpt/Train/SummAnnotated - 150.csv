@@ -1,0 +1,108 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi Ann, How are you doing today ? ",inactive,150_0,T,gt,0.0,"""Hi Ann, Aaj aap kaise kar rahe ho?"""
+1,I guess I'm okay. How are you?,inactive,150_1,P,gt,0.0,मुझे लगता है कि मैं ठीक हूँ
+2,"I'm well, thanks for asking. So you sau you doing okay, what's going on?",story,150_2,T,gt,0.0,"मैं ठीक हूँ, धन्यवाद। तो तुम कहते हो तुम ठीक हो, क्या हो रहा है"
+3,"I'm definitely no better than last week. When we talked. I mean, it's been I had some major binges this week. and I don't even honestly know why we're bothering to talk about it. Because I've been down this road before.",story,150_3,P,id,-1.0,"Mai pichhle hafte se bilkul bhi aage nahi hai. Jab humne baat ki thi. Mera matlab hai, is hafte maine kafi binges kiye hai. Aur sach bolu toh, mujhe khud bhi pata nahi hai ki hum is baare mein kyun baat kar rahe hain. Kyunki main pehle bhi iss raste pe gaya hoon."
+4,Umm hmm,story,150_4,T,gc,0.0,अरे हां ह
+5,"I should just, I should just like give up and buy some momos and, you know, just resign myself to the pack. I'm going to get fat and I'm going to stay bad.",story,150_5,P,gc,-1.0,"Main yeh soch raha hoon ki, main bas haar maan kar kuch momos kharid lu aur, tu samajh raha hai na, khud ko maan lu ki main fatty ho jaaunga. Main mota ho jaunga aur bura hi rahoonga."
+6,Tell me about some of the foods that you've been eating that have been kind of leading to this problem for you.,symp/reasoning,150_6,T,irq,0.0,Batao mujhe kuch aise khane ke baare mein jo tum khate rahe ho aur jisse tere liye yeh mushkil ho rahi hai.
+7,"brownies, brownies, brownies, brownies. And well, that's what got it started. You know, I was great the first half of the week and of staying away from the sugar away from the flour. I signed a stay at home from school, you know, hurt his head. He wanted to bake brownies with my son. Okay, let's bake brownies. So then we eat the whole pan and we bake two more pans. And then it didn't just stay the brownies, you know? Went out like hamburgers, french fries, candy, you know, stopped in wah wah on the way up. It's disgusting. I can't I didn't want to tell you how Because it's disgusting, and the clothes aren't fitting. It's just really, really sad.",symp/reasoning,150_7,P,id,-1.0,"Arre bachcho, I started eating brownies, I started and that's how it all began. At first, I was doing great by avoiding sugar and flour. I got a school break and then my son got hurt. He wanted to make brownies. So, we made brownies. But then we ended up eating the whole batch and then we made two more. And then it didn't just stop at brownies, you know? We started eating hamburgers, french fries, candy and even stopped at Wah Wah on our way back. It's disgusting. I can't even tell you how gross it is because it's disgusting and I'm getting fat. It's really sad, yaar."
+8,You've had a rough week ?,routine,150_8,T,yq,0.0,Kya tumne ek rough week bitaya hai?
+9,Yeah.,routine,150_9,P,op,-1.0,Haan.
+10,"So, let's talk about for a second. I'd like to the kind of your relationship to this problem. How do you how do you view this problem?",symp/reasoning,150_10,T,gc,0.0,"So, chalo ek second ke liye baat karte hain. Mujhe iss problem se tumhara kya rishta hai, woh jaanna hai. Tum iss problem ko kaise dekhte ho?"
+11,It's disgusting. It's like it's slavery. Food owns me.,symp/reasoning,150_11,P,id,-3.0,Ye gandagi hai. Yeh aisa hai jaise ki yeh ghulami hai. Khana mere ko mutmaeen karta hai.
+12,So the so the food is in control of this situation?,symp/reasoning,150_12,T,crq,0.0,Kya khana is situation ke haath me hai?
+13,"sounds ridiculous when you say it like that, but that's what it is.",symp/reasoning,150_13,P,cd,-3.0,"Yea woh toh aise bolne pe bekar sa lagta hai, par sach toh yehi hai."
+14,It's in control ?,symp/reasoning,150_14,T,crq,0.0,Kya yeh control mein hai?
+15,Yeah,symp/reasoning,150_15,P,cd,-3.0,Haan
+16,"Alright. So, now I want to ask you a couple of questions about the importance and the confidence of changing clearly, you have some desire to change or we wouldn't be be here. ",symp/reasoning,150_16,T,gc,0.0,"""Theek hai. Toh, ab main tumse kuch sawaal poochna chahta hoon badalne ki ahmiyat aur vishwas ke baare mein, tumhare paas badalne ki koi ichha hai ya nahi, nahi toh hum yahan nahi hote."""
+17,"Oh my god, I would love to Yeah.",symp/reasoning,150_17,P,gc,1.0,"Bhai, main toh khush ho jaunga Yeah."
+18,"So if you're looking at a scale of one to 10, one was, it's not important to change and 10 was extremely important change. This is just how important it is for you to curtail your eating 10 times very important to you.",symp/reasoning,150_18,T,irq,0.0,"Agar aap ek se das tak ke range par dekh rahe hain, toh ek ka matlab hai, ise badalne ki zarurat nahi hai aur das ka matlab hai ki change karna behad zaruri hai. Yeh tab hi hai jab aapke liye khana kam karne ke liye das guna behad zaruri hai."
+19,"Yeah, it's very important",symp/reasoning,150_19,P,id,0.0,"Haan, yeh bahut maayene rakhta hai"
+20,"very important. Okay. So what if I asked the same question except this time? You're confidence. So, one is you're not confident, all you can change, but 10 you're very confident you could change.",symp/reasoning,150_20,T,gc,0.0,"Bohot jaroori. Theek hai. Toh agar maine wahi sawal poocha phir se? Tumhara confidence. Toh, ek toh tum confident nahi ho, sab kuch change kar sakte ho, par das mein tum bahut confident ho toh change kar sakte ho."
+21,"I could probably change for half a day. I've done it. And sometimes if I'm lucky, I'll get a week. But overall?",symp/reasoning,150_21,P,id,-1.0,"मैं शायद अधिकतर अपने लिए बदल सकता हूँ। मैंने ऐसा किया है। और कभी-कभी मेरा भाग्य साथ देता है, ल"
+22,overall  yeah,symp/reasoning,150_22,T,cd,0.0,Overa
+23,it's impossible. Like you want a number at zero.,symp/reasoning,150_23,P,id,-1.0,Yeh aisa to namumkin hai. Jaise tum chahte ho ki koi number zero pe ho.
+24,So it's below the below the scale of one to 10 this is,symp/reasoning,150_24,T,crq,0.0,So iske neeche ek se dus tak ka scale hai.
+25,Yeah,symp/reasoning,150_25,P,cd,0.0,Haan
+26,so you can have no confidence at all.,symp/reasoning,150_26,T,crq,0.0,तो आपको कोई भी भरोसा नहीं हो सकता है
+27,"I've tried it. I know. I mean, it's like beating my head against the wall.",symp/reasoning,150_27,P,cd,-3.0,"Maine ise try kiya hai. Mujhe pata hai. Mera matlab hai, yeh toh meri taraf se dewaar par sir marna jaisa hai."
+28,"So, on one hand you'd like to, you'd like to stop the eating, It's important to but on the other hand, you don't believe you can do it. ",symp/reasoning,150_28,T,gc,0.0,"Toh, ek haath pe tu khaana bandh karna chahta hai, yeh zaruri hai, lekin dusre haath pe tu yeh nahi maanta ki tu kar sakta hai."
+29,I can't do it.,symp/reasoning,150_29,P,cd,-1.0,mai yeh nahi kar sakti.
+30,You can't do it?,symp/reasoning,150_30,T,crq,0.0,Tum kar nahi paoge kya?
+31,I can't.,symp/reasoning,150_31,P,cd,0.0,Main nahi kar sakta.
+32,"it can't be done. Have there been any other changes you have been able to make, say in the last few years that have been positive.",symp/reasoning,150_32,T,gc,0.0,"Yeh nahin ho sakta hai. Kya aapne koi aur badlaav kar paaye hain, haal hi mein jo sakaratmak rahe ho?"
+33,I stopped biting my nails.,symp/reasoning,150_33,P,id,0.0,मैं अपने नाखून चब
+34,So you had some small successes in terms of making changes.,symp/reasoning,150_34,T,crq,0.0,So tumne kuch chote kamyabein hasil ki hain jab baat aai badlaav karne ki.
+35,Yeah. Yeah.,symp/reasoning,150_35,P,cd,0.0,Haan. Haan.
+36,What do you think makes the this thought I'll just refer to as the food problem so much more powerful ? So much more difficult to tackle?,symp/reasoning,150_36,T,orq,0.0,"Tum kya sochte ho ki is soch ko khane ki samasya ke roop me jo mai bus sanket kar raha hu, isse aur zyada takatwar banata hai? Ise kaise tackle karna aur zyada mushkil hai?"
+37,"I wish I know. I mean, there's so many things it's it's everywhere.",symp/reasoning,150_37,P,od,-1.0,"Mujhe pata hona chaahiye tha. Matlab, itna saara cheezein hai, woh har jagah hai."
+38,The food is everywhere?,routine,150_38,T,crq,0.0,Kya khana har jagah hai?
+39,It is everywhere. I mean,routine,150_39,P,cd,0.0,It is sab jagah hai. Jaise-ki.
+40,You mentioned before that brownies were the culprit for this last week.,symp/reasoning,150_40,T,crq,0.0,आपने पहले भी बताया था कि ब्राउनीज पिछले सप्ताह के लिए दो
+41,"brownies, Hershey bars, Hershey Kisses, Yeah, chocolate.",symp/reasoning,150_41,P,cd,0.0,"Brownies, Hershey bars, Hershey Kisses, Haan, chocolate."
+42,You enjoy chocolate?,symp/reasoning,150_42,T,yq,0.0,Kya tum chocolate ka aanand karate ho?
+43,Yeah.,symp/reasoning,150_43,P,ack,0.0,Haan.
+44,Okay. How about other foods that could be contributing the problem? Maybe you don't enjoy as much as chocolate.,symp/reasoning,150_44,T,irq,0.0,Ab theek hai. Aur kya khane ki cheezein hongi jo samasya ka ek karan ho sakti hain? Shayad tumhe chocolate se itni khushi nahi hoti jitni kisi aur cheez se.
+45," Oh, potato chips. French fries. Mexican food. What else? Cheese?",symp/reasoning,150_45,P,id,-3.0,"Arre, aloo ke chips. French fries. Mexican khana. Aur kya? Paneer?"
+46,Definitely any of the types of candies ?,symp/reasoning,150_46,T,irq,0.0,Kisi bhi prakaar ke meethaiyon mein se koi bhi?
+47,"start naming Skittles, cherry Starburst basically any candy.",symp/reasoning,150_47,P,id,-3.0,"Shuruvat se naam karo Skittles, cherry Starburst jaise koi bhi mithai."
+48,Pretty much any candy?,symp/reasoning,150_48,T,crq,0.0,Koi bhi mithai hai kya?
+49,Yeah.,symp/reasoning,150_49,P,cd,0.0,Haan.
+50,"So of the candy, so I want to focus just on the candies. Okay, and not to the foods just for now. The thought of like I introduced the idea of stopping eating chocolate. How would you react to that? ",symp/reasoning,150_50,T,gc,0.0,"Toh, mai sirf candy par dhyan dena chahta hu, khaane ki vastuon par abhi nahi. Jab maine chocolate khane se rukne ka idea bataya toh tu kaise react karega?"
+51,Not gonna happen.,symp/reasoning,150_51,P,id,-2.0,ऐसा नहीं होन
+52,"That's not gonna happen?  All right,",symp/reasoning,150_52,T,crq,0.0,"Woh ho jaega kya? Theek hai,"
+53,I would love for it to happen.,symp/reasoning,150_53,P,cd,0.0,Mujhe iska hone se bahut khushi hogi.
+54,"right, But that's not gonna happen ?",symp/reasoning,150_54,T,crq,0.0,"Sahi hai, Par woh ho hi nahi sakta?"
+55,I can just tell you I don't even want to pretend.,symp/reasoning,150_55,P,cd,-1.0,Main tumhe bata sakti hoon ki main kewal tume jhoota naheen bolna chahti hoon.
+56,"So you know that for sure. How about the let's, let's go, for example with the Skittles. What if I introduce the idea of stopping the consumption of Skittles?",symp/reasoning,150_56,T,gc,0.0,"To tum jante ho na ki pakka. Chalo uske saath, chalo, Skittles ke saath, udaharan ke taur pe. Kya ho agar main Skittles ka sevan band karne ka vichar le aao?"
+57,Just the Candy Skittles ?,symp/reasoning,150_57,P,crq,0.0,Sirf Candy Skittles hi ?
+58,Just Just that one candy. Yeah.,symp/reasoning,150_58,T,cd,0.0,Bass ek candy hi do. Haan.
+59,"Why bother that? Like, can I not eat Skittles? Is that what you're saying? Like,",symp/reasoning,150_59,P,id,-1.0,"Kyu fikar karne ki zarurat hai? Jaise, kya main Skittles nahi kha sakti? Kya tum yahi kehna chahte ho? Jaise ki,"
+60,"you could. It's up to you whether or not but if I introduced that idea of stopping the consumption of Skittles, how would you react to that?",symp/reasoning,150_60,T,gc,0.0,"Tum kar sakte ho. Ye aap par hai ki tum karo ya nahi lekin agar maine Skittles khane ki practice bandh karne ki baat ki, to tum uss par kaise respond karoge?"
+61,I don't really understand why.,symp/reasoning,150_61,P,id,-1.0,Mujhe sach mein nahi samajh aata ki kyu.
+62,"Well, it represents a change in the direction that you want to move.",symp/reasoning,150_62,T,gc,0.0,यह मनाता है कि आप चाहते हैं कि आप किस दिशा में आगे बढ़ें।
+63,"But if I stopped eating Skittles, I'm still going to eat brownies I'm still going to eat. Yeah,",symp/reasoning,150_63,P,gc,-3.0,"Lekin agar Skittles khana band kardiya, toh main abhi bhi brownies khaane wala hoon. Haan,"
+64,"we know we know that scenario that you know, you can't really make a change right now from what you're saying. Like that's the idea of stuffing chocolate is not going over well, with you",symp/reasoning,150_64,T,gc,0.0,"Humko pata hai ki woh jo situation hai, jiske baare mein tum jaante ho, abhi tumhare kehne se kuch badlav nahi ho sakte. Yehi woh khayal hai ki chocolate ko stuffing karna abhi tak tumhare liye theek nahi hai."
+65,"no, it's not gonna happen.",symp/reasoning,150_65,P,gc,-3.0,"Nahi, yeh ho hi nahi sakta."
+66,and that's fine. But the idea of stopping Skittles,symp/reasoning,150_66,T,orq,0.0,Aur who thik hai. Lekin Skittles rukne ka vichaar achha nahi hai.
+67,Its fine.,symp/reasoning,150_67,P,od,0.0,Yeh theek hai.
+68,that doesn't seem as daunting?,symp/reasoning,150_68,T,yq,0.0,Kya yeh itna daravna nahi lagta?
+69,No.,symp/reasoning,150_69,P,on,0.0,Nahi.
+70,"Would you agree still on, say the 110 scale that it's important to stop Skittles?",symp/reasoning,150_70,T,yq,0.0,"क्या आप सहमत होंगे, क्या आप यह कहने पर भी कि 110 स्केल पर स्किटल्स को रोकना मह"
+71,Yeah.,inactive,150_71,P,op,0.0,Haan.
+72,Okay.,inactive,150_72,T,gc,0.0,Thik hai
+73,Yeah.,inactive,150_73,P,gc,0.0,"Shi,"
+74,How confident are you you could not eat  ?,symp/reasoning,150_74,T,irq,0.0,Tumhari kitne pratibhagi ho ki tum kha nahi sakte ho?
+75,"it's kind of funny now you're talking about it, I've sort of wants Skittles more. But, you know, I like from now till next week when I come in here, I'd say like I am 99% confident I could not eat Skittles and it would not be a major problem.",symp/reasoning,150_75,P,id,-1.0,"थोड़ा मजेदार लगता है अब तुम उस बारे में बात कर रहे हो, मुझे स्किटल्स खाने की इच्छा है। पर तुम जानते हो, अगले हफ्ते तक जब मैं यहां आऊंगा, मैं कहूँगा कि मैं स्किटल्स खा नहीं सकता और यह एक बड़ी समस्या नहीं होगी, मैं 99% भरोस"
+76,So this is a change that you think you could accomplish.,symp/reasoning,150_76,T,crq,0.0,Isse ek badlaav hai jo aap sochte hain ki aap karsakte hain.
+77,Yeah,symp/reasoning,150_77,P,cd,0.0,Haan
+78,Even though you're not sure it'll actually contribute to solving the larger problem. We know that that's something that that's an area where you don't really see a change as as likely,symp/reasoning,150_78,T,gc,0.0,"Dekho, agar tumhe sach much yeh vishwas nahi hai ki yeh bada masla hal karne mein koi sahayata karega. Hum jante hai ki yeh woh jagah hai jahan pe tune koi badlaav hone ka asar nahi dekha hai jaise jaise sambhav."
+79,"If I don't eat Skittles, this week or even for the rest of my life, is it going to solve my problem? No, but will I do it? If that's what you want me to do? Yeah, that's fine.",symp/reasoning,150_79,P,gc,0.0,"Agar mein Skittles nahi khaaungi, is hafte ya phir apni saari zindagi tak, kya yeh mera masla hal ho jayega? Nahi, lekin kya mein karoongi? Agar tum chahte ho ke mein yeh karoon? Haan, theek hai."
+80,"Well, I would hope it's something that that you would want to do. I mean, what I want is one thing, what you want is really important here. Is this something that mean your Skittles, part of the problem? ",symp/reasoning,150_80,T,orq,0.0,"ठीक है, मैं उम्मीद करूंगा कि यह वही कुछ होगा जो आप करना चाहते हो। मैं मतलब, जो मैं चाहता हूं वह एक बात है, आप चाहते हो वह यहां बहुत महत्वपूर्ण है। क्या यह कुछ वह है जो आपके स"
+81,"Yeah, ",symp/reasoning,150_81,P,od,0.0,"Haan,"
+82,small?,symp/reasoning,150_82,T,crq,0.0,छो
+83,Yeah,symp/reasoning,150_83,P,cd,0.0,Haan
+84,"Alrigh. No pun intended, right. But it's a small part of the problem, but you'd agree it's still part of the problem. ",symp/reasoning,150_84,T,gc,0.0,"Thik hee toh sahee. Koe nahee 🙏, teek h?? Par yeh problem ke ek chhoota sa hissa hai, lekin maanegaa ki yeh abhee bhee problem ka hissa hai."
+85,"Yeah, sure.",symp/reasoning,150_85,P,gc,0.0,"Haan, zaroor."
+86,Not a huge change. But it's one that we can work on.,symp/reasoning,150_86,T,gc,0.0,
+87,Alright,symp/reasoning,150_87,P,gc,0.0,"""Thik"
+88,"And we want you to be able to, you know, genuinely buy into the goal. I mean, if you don't think it's important, we can talk about other areas of change.",symp/reasoning,150_88,T,gc,0.0,"Aur hum chahte hain ki aap is laayak ho sakein, aap jaante hain, ke humeshah se lakshya mein puri tarah se shaamil ho jaayen. Mera matlab agar aapko yeh mahatvapurna nahi lagta, toh hum aur vaastuon ke baare mein baat kar sakte hain jo badalne ki zaroorat hai."
+89,"No, I guess I see what you're saying. I mean, if I'm gonna be completely honest with you, I Well, that's what I'm paying you for. Right? So I don't think it's gonna work. I'll just tell you that ",symp/reasoning,150_89,P,gc,-1.0,"Nahi, main samajhta hun ki aap kya keh rahe ho. Yaar, agar main aapke saath poora khul ke baat karoon, toh main Honestly, main aapko hi paise de raha hun, na? Isliye mujhe lagta hai ye kaam nahi hoga. Main bas aapko yahi bata doonga."
+90,"right. You think you could stop eating Skittles, but you don't think it's gonna solve the larger problem or lead to?",symp/reasoning,150_90,T,crq,0.0,"Sahi. Tumhe lagta hai ki tum Skittles khane se rok sakte ho, par tumhe lagta nahi hai ki wo bada masla hal kar dega ya leke jayega?"
+91,Exactly.,symp/reasoning,150_91,P,cd,0.0,Bilkul
+92,But that's what we have to work with right now. Because the larger problem is not something you mean the way you put it is it has control.,symp/reasoning,150_92,T,gc,0.0,Parantu uske sath aapko abhi kaam karna hoga kyunki badi samasya yeh hai ki aap iska matlab aap asa karte hai ke is par control hai.
+93,Yeah. Yeah.,symp/reasoning,150_93,P,gc,0.0,"Haan, haan."
+94,"So if I introduced the idea of stopping brownies, ",symp/reasoning,150_94,T,gc,0.0,"To agar maine brownies ko rukhne ki idea introduce kar di,"
+95,"no, no, no, sorry.",symp/reasoning,150_95,P,gc,0.0,"Nahi, nahi, nahi, maafi."
+96,"So let's let's go after the change that we can achieve in this case. You know, it's not perfect. It's not ideal, but it's what you can do. you saw the plan so suffer  so for this week so you can week for this week just Just continue eating Skittles. ",symp/reasoning,150_96,T,gc,0.0,"Chalo chalo, let's go after the change that we can achieve in this case. You know, it's not perfect. It's not ideal, but it's what you can do. tumne to plan dekha hai to let's continue with eating Skittles for this week."
+97,Now Skittles alright,symp/reasoning,150_97,P,gc,0.0,अब स्किटल्स
+98," And let's see, let's see how we do with that change.",symp/reasoning,150_98,T,gc,0.0,"Aur dekhte hai, kya hum us badlaav ke saath kaise kar lete hai."
+99,So that seemed to make sense.,symp/reasoning,150_99,P,gc,0.0,Theek ho raha tha ki lag raha tha samajhne ke liye.
+100,Yeah.,routine,150_100,T,gc,0.0,Yeah. ह
+101,So work with that and I'll see you again week.,routine,150_101,P,gc,0.0,Toh uske saath kaam karo aur fir hafte mein phir se milte hain.
+102,Thanks.,inactive,150_102,T,gc,0.0,धन
+103,Thank you,inactive,150_103,P,gc,0.0,Dhanyavaad
+104,summary,Patient started when she ate brownies. Food is in control of patient's situation. It's disgusting and like it's slavery. Food owns patient. It's important for patient to curtail eating 10 times.,,,,,
+105,primary_topic,Food,,,,,
+106,secondary_topic,Control,,,,,

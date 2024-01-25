@@ -1,0 +1,83 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"So, I want to change gears a little. And talk about your family. Is that okay?",symp/reasoning,29_0,T,gc,,"So, main thodi der se raftar badalna chahta hu. Aur apki family ke bare mein baat karna chahta hu. Kya yeh thik hai?"
+1,"Oh, that's a lot but all right.",inactive,29_1,P,gc,,"Oh, yeh to bahut zyada hai lekin theek hai."
+2,A lot of information there.,symp/reasoning,29_2,T,orq,,Bahut saari jaankari hai vahaan.
+3,Yeah.,inactive,29_3,P,od,,Haan.
+4,All right. Let's start with. Can we start with your parents and tell me what you feel comfortable? Tell me about them?,routine,29_4,T,irq,,Thik hai. Chalo hum aapke maa-baap se shuru karein aur bataiye mujhe aapko kya aaram hai? Unke baare mein bataiye mujhe?
+5,"Well, my father was incarcerated when I was four for drug trafficking.",routine,29_5,P,id,,"अच्छा, मेरे पिता चार साल की उम्र में नशीली दवाओं के व्यापार में"
+6,Drug trafficking.,routine,29_6,T,irq,,Drugs ki dhandli.
+7,Yeah. And he died a few years ago from a stroke.,routine,29_7,P,id,,Haan. Aur unki thode saal pehle par stroke se maut ho gayi thi.
+8,"How many years ago,",routine,29_8,T,irq,,"Kitne saal pehle,"
+9,about three years ago,routine,29_9,P,id,,kuch teen saal pehle
+10,It would age was he when he passed away. To be,inactive,29_10,T,irq,,Woh kitne saal ke the jab wo guzar gaye the. Ho sakta hai ki wo
+11,"honest, I don't even remember. I don't really talk to him.",inactive,29_11,P,id,,Aur sach bole toh yaad bhi nahi hai mujhe. Me toh usse bahut kam baat karta hu.
+12,How much your mother,routine,29_12,T,irq,,तेरी माता कितनी है? (Ter
+13,My mom is crazy.,routine,29_13,P,id,,Meri maa pagal hai.
+14,Tell me about that.,inactive,29_14,T,crq,,Batao mujhe us ke bare mein.
+15,"Um, when I was in high school, and I would still live with her. Sometimes I would come home and there was no running water. There was no electricity, there was no nothing. She had gambled the money away. We've had several times where I've had to hide the cars, in fear of them being repossessed. And I couldn't take it after a while and I moved out when I was about 16 She calls me every now and then sometimes for money sometimes to talk, really talk to her about.",story,29_15,P,cd,,"Um, high school main tha tab, aur main abhi bhi unke saath rehta tha. Kabhi kabhi main ghar aata tha aur paani nahi hota tha. Baarish nahi hoti thi, bijli nahi hoti thi, kuch bhi nahi hota tha. Wo saara paisa baazi mein kharch kar diya karti thi. Kai baar aisa hota tha ke maine gaadiyan chupani padti thi, kyunki unhe cheen liya ja sakta tha. Aur mujhe baad mein wo sab seh nahi paya aur main 16 saal ki umar mein ghar chhod kar chala gaya. Kabhi kabhi wo mujhe call karti thi, paise ke liye ya phir baat karne ke liye, sachchi baat karne ke liye."
+16,"So, how would you describe the quality of your relationship right now?",routine,29_16,T,orq,,"Toh, abhi aap apne rishtey ki kya quality batayenge?"
+17,Not good. Not good.,routine,29_17,P,od,,Na chal. Na chal.
+18,It sounds like there's not much communication.,routine,29_18,T,orq,,Yeh sunne se lagta hai ki bahut kam communication ho raha hai.
+19,"Not anymore. No, no, she's tried but I refuse to speak to her.",routine,29_19,P,od,,"Aur phir se nahi. Nahi, nahi, usne koshih kiya par main usse baat karne se inkaar karta hun."
+20,"Do you know if your father mother, either one has any history of mental illness?",routine,29_20,T,irq,,Kya tumhe pata hai ki tumhare pita mata mein se kisi ek ki dimagi bimari ki koi itihaas hai?
+21,"Um, my mom was diagnosed as bipolar. Um, my father, I don't know much about him. I know he had a problem with anger to",routine,29_21,P,id,,"Um, mere maa ko bipolar shabd se sanketit kiya gaya tha. Um, mere pita, mujhe unke baare mein bahut pata nahi hai. Mujhe pata hai ki unko gussa ki samasya thi."
+22,you remember that?,inactive,29_22,T,yq,,Tumhe yaad hai kya?
+23,"Yeah, I do.",inactive,29_23,P,ack,,"Haan, main toh karti hun."
+24,So that's your father and your mother. have any siblings?,routine,29_24,T,irq,,"Kya tumhare papa aur mummy hai, koi bhai behan hai kya?"
+25,I have an older sister and a younger sister.,routine,29_25,P,id,,Main meri ek badi behen aur ek chhoti behen hai.
+26,Two sisters?,routine,29_26,T,crq,,Do dono behne?
+27,"Well, my older sister pretty much raised me and my younger sister. Since mom was never around and dad was in jail. I love her to death.",routine,29_27,P,cd,,"Achha, meri badi didi ne aadhe se zyada mere aur meri choti behen ka palan poshan kiya. Kyunki maa hamesha nahi rehti thi aur papa saza mein the. Main usse beshumar mohabbat karta hoon."
+28,"This is your older sister,",inactive,29_28,T,crq,,Yeh hai aapki badi behen.
+29,my older sister.,inactive,29_29,P,cd,,Meri badi behen.
+30,How about your younger sister?,routine,29_30,T,irq,,Tumhari chhoti behen kaisi hai?
+31,"My younger sister. Um, we don't talk very much. She doesn't want to talk to me. She says I'm a bad influence. ",routine,29_31,P,id,,"Meri chhoti behen hai. Uh, hum zyada baat nahi karte. Woh mujhse baat nahi karna chahti. Usne kaha ki main ek bure asar ka hun."
+32,a bad influence on?,routine,29_32,T,crq,,kya yah hamper karne vala koi asar hai?
+33,"her on her, her her friends. I think she's kind of stuck up. I mean,",routine,29_33,P,cd,,"uski par uski, uski uski dost. Main to sochta hoon ki woh thodi hi ghamandi hai. Matlab,"
+34,we're actually think that,inactive,29_34,T,irq,,Hum actually yeh soch rahe hain ki
+35,"does she think she's better than me? Just because well She went to college. Well, good for you.",routine,29_35,P,id,,"Kya woh mujhse behtar hone ka yakeen rakhti hai? Bas isliye kyunki woh college gayi. Wah, aapke liye accha hai."
+36,"All right, so it sounds like a positive relationship. Kind of admire your older sister. Is that right?",routine,29_36,T,orq,,"Theek hai, aisa lagta hai ki yeh ek sakaratmak rishta hai. Tumhari badi behen ko thoda samman karta hoon. Kya yeh sahi hai?"
+37,"Yeah, I love my older sister.",routine,29_37,P,od,,"Haan, mujhe meri badi behen se bahut pyaar hai."
+38,"And her relationship with younger sister is a little bit different. I mean,",routine,29_38,T,irq,,"Aur uski chhoti behen ke saath uska relation thoda alag hai. Matlab,"
+39,"I love her too. And I can deal with her in small doses, but that's pretty much it.",routine,29_39,P,id,,"Mujhe bhi usse pyaar hai. Aur main usse chhote chhote hisson mein nibha sakta hu, lekin bas itna hi."
+40,How often you communicate with each one?,routine,29_40,T,irq,,Tum kitni baar har ek se communicate karte ho?
+41,"My older sister I talked to you, like almost every day. Um, you know, she's always there to know shoulder to cry on or, you know, if I'm in a bind, and I need some money, she's always willing to help me out. She can watch the kids if I need to go somewhere. If she's, she's my rock. younger than I mean, we talked maybe every other week. Let us know what each other is up to. Maybe we'll go to dinner.",story,29_41,P,id,,"Meri badi behen, main tumse roj baat karta hun, jaise ki har roz. Um, pata hai, wo hamesha mere liye uprant roti seene par hoti hai ya, pata hai, agar mujhe koi mushkil ho aur mujhe paise ki zaroorat ho, wo hamesha meri madad karne ko taiyaar rehti hai. Agar main kisi jagah jaana chahta hun, to wo bachchon ka dhyaan rakh sakti hai. Agar wo, wo meri dhaal hai. chhoti jo ki yani, hum shaayad har dusre haftemein baat karte hain. Hum apne haal chaal ke baare mein ek doosre ko bataate hain. Shaayad hum shaam ke khane pe chale jaayenge."
+42,"So, quite a bit closer to your older sister than younger sister. Any mental health history with either sister.",routine,29_42,T,irq,,"Toh, tumhari badi behen se chhoti behen se kaafi zyada kareeb hai. Kya tumhare dono beheno mei se kisi ke paas dimaag ki sehat se juda koi itihaas hai?"
+43,"Um, my older sister was depressed and has a lot of anxiety when she was young, because she dealt with more of my dad that I did",routine,29_43,P,id,,"Uh, meri badi behen behaal aur angooriyon se pareshani hai jab woh chhoti thi, kyunki unhone meri dad se zyada dheel di thi."
+44,Okay. So does your older sister or your younger sister for that matter? know that you're? You're here?,routine,29_44,T,irq,,Okay. To kya tumhari elder sister ya fir kya tumhari younger sister is baat ko janti hain? ki tum yahaan ho?
+45,"Oh, my older sister does my older sister I haven't spoken to her this week yet. ",routine,29_45,P,id,,"Arre, meri badi behen meri baat nahi hui iss hafte tak."
+46,So are you planning on telling her?,routine,29_46,T,crq,,Kya tum usse bataane ki soch rahe ho?
+47,"Yeah, I don't see why not. Maybe it'll kind of humanize her a little bit. Like, I'm not as bad as person She thinks I am",routine,29_47,P,cd,,"Haan, main nahi samajh raha ki kyun nahi. Shayad yeh usse uske ekdum se apne jaisa banayega. Jaise ki, main utna bura nahi hoon waise ki woh sochti hai."
+48,Do you feel a need to make a positive impression on them?,routine,29_48,T,orq,,Kya aapko unpe positive impression banane ki zaroorat hai?
+49,"No, but I think sometimes it's easier. It's easier. It's easier. You're not being the bad sister.",routine,29_49,P,od,,"Nahi, lekin kabhi kabhi yeh aasan hai. Yeh aasan hai. Yeh aasan hai. Tum buri behen nahi ho."
+50,That's how you believe you're viewed.,inactive,29_50,T,yq,,Yeh hai tumhari manne mein kitna khayaal hai tumhare baare mein.
+51,Yeah. by her by her.,inactive,29_51,P,ack,,"Haan, uske dwara uske dwara."
+52,All right. How about grandparents?,routine,29_52,T,irq,,Thik hai. Dada Dadi ke baare mein kya kehte hain?
+53,My dad's family they don't really know about.,routine,29_53,P,id,,Mere papa ki family unhe kaafi pata nahi hai.
+54,Any mental health history that the grandparents are aware of.,routine,29_54,T,irq,,Koi bhi dimagi swasthya ka itihaas jo dada dadi ko pata ho.
+55,"I mean, the one grandma that was still alive, she had like some kind of dementia or something and then all timers dementia",routine,29_55,P,id,,"Mai bol raha tha, woh ek dadi tha jo abhi tak zinda thi, uske paas kisi tarah ki dimagi betukhi thi ya kuch aur phir woh sab time ki dimagi betukhi ho gayi."
+56,"How about aunts, uncles, cousins? Hey babe. No,",routine,29_56,T,irq,,"Aur aunts, uncles, cousins kaise hai? Hey babe. Nahi."
+57,"I had a lot of cousins. A lot of cousins in and out of the house at various points in the even in the day, sometimes I leave for school, there'd be a certain set of cousins. They're coming from school completely different set.",routine,29_57,P,id,,"Mere paas bahut sahi sa cousins the. Ghar mein bhi bahut saare cousins din bhar aate jaate the, kabhi kabhi main school jaane ke liye bahar nikalte, tab kuchh cousins milte the. Vo school se aate the lekin bilkul alag-alag set ke hote the."
+58,"have contact with them? Um,",routine,29_58,T,irq,,Kya aap unse sampark me hain?
+59,"do like social media and stuff. I mean, they're all spread out over the country now. But, you know, I keep in contact with them as much as I can.",routine,29_59,P,id,,"Mujhe social media aur stuff pasand hai. Matlab ke, sab jagah phail gaye hai ab. Par pata hai, main jitna ho sake unse touch mein rehti hu."
+60,about children?,routine,29_60,T,irq,,Bacheon ke bareme?
+61,I have two children.,routine,29_61,P,id,,मेरे पास दो बच्चे ह
+62,"Okay, tell me about them. ",routine,29_62,T,irq,,"Theek hai, unke baare mein bataao."
+63,"Um, they are the loves of my life.",routine,29_63,P,id,,"अरे, वे मेरे जीवन के प्रेमी हैं। (Are, woh mere jee"
+64,which sister,routine,29_64,T,irq,,kaun si behan?
+65,my older sister she watches them when I'm off okay,routine,29_65,P,id,,"Meri badi behen, woh unko dekhti hai jab main chala jata hoon, theek hai."
+66,so.,inactive,29_66,T,ack,,aise.
+67,you want to kindergarten and the other in,routine,29_67,P,id,,"""Tum kindergarten jana chahte ho or dusra wahan hai."""
+68,the second grade you mentioned when can you gardens a son,routine,29_68,T,crq,,"Tum ne kitna 
+
+saal ka grade level bataya tha jab tum apne bete ko gudgaon le ja sakte ho"
+69,"She comes home with like they have like not the merits but like well referrals. She likes to be kind of a pushover. Not pushover but like a bully at school or boy. I've gotten several calls from the principal and our teachers saying she pushed another kid Oh, get another kid asked if he could have A piece of paper and she yelled and screamed. You know, she comes home and I feel I'll yell at her. Do you like this? Do you like me yelling at you? Why would you yell at somebody else?",routine,29_69,P,cd,,"Woh ghar atit karti hai jaise ki unke paas na mahatva ho, lekin acha sifarish ho. Usko ek turah ka ek badaadmi hone ka pasand hai. Nahin badaadmi, lekin ek dabang school mein ya ladkio. Mai na principal aur hamare teachers se samjha chuka hun ki wo kisi aur bache ko dabata hai. Kisi aur bache ne paper manga aur usne shor aur chillakar bolo. Aap jaanti hain, wo ghar ajati aur mai uske upar chillata hun. Kya tumhe aisa acha lagta hai? Kya tumhe meri chillane me mazza aata hai? Kyun kisi aur ko shor karoge?"
+70,"This problem worry, behavior.",routine,29_70,T,crq,,"I am worried about this problem, its behavior."
+71,"Well, yeah, I mean, I got in trouble in school too. When? I mean, not when I was her age. I was kind of better at school when I was in her age, but I don't want to go down the same path.",routine,29_71,P,cd,,"Achha, haan, mujhe bhi school mein musibat mein padna pada. Kab? Main, mera matlab hai, jab main uski umar ka tha. Main tab school mein thoda behtar tha, par main chahta nahi ki main wahi galti fir se karu."
+72,"Sure, a little worried about that. Yeah.",routine,29_72,T,crq,,"Haan, uske baare mein thodi chinta hai. Haan."
+73,"Um, I see them. I mean, why I work so I don't see the one on there. They go to daycare, but sometimes if I like go out to a party or something where I know some stuff that's gonna be there or there's parties over at my house where I know some stuff that's going to be there. I dropped off with my sister.",story,29_73,P,cd,,"""Yaar, maine unhe dekha hai. Matlab, main kaam kyun karta hoon, isliye main unhe vahaan pe nahi dekhta. Woh daycare jaate hain, lekin kabhi-kabhi agar main kahin party ke liye jaaun ya koi shaam ho jahan mere ghar pe kuch cheezein hongi, jahaan pe main jaanta hoon ki woh hongi. Main apni behen ke saath unko chhod deta hoon."""
+74,"When you say stuff to so clear, you mean drugs.",routine,29_74,T,irq,,"Jab aap sadak par itna saaf kehte ho, toh aap drugs ke baare mein baat kar rahe ho."
+75,"Yeah. drugs, alcohol. Yeah, I'd rather my kids not see me like that. So I say,",routine,29_75,P,id,,"Yeah. Nasha, sharab. Yeah, main apne bacho ko aise nahi dekhna chahta. Isliye main yeh kehta hoon,"
+76,so you're protecting them from that. Oh yeah yeah,routine,29_76,T,ack,,Toh aap unhe uss se bacha rahe hain. Oh haan haan.
+77,summary,"The patient is asked questions about their family. The patient's father was arrested for drug trafficking when they were four and he died three years ago. The patient feels their mom is crazy and recalled that their mom used to gamble away all the money. The patient's mom was diagnosed as bipolar and dad had anger issues. The patient has two sisters. The patient is not very attached to younger sister since she thinks patient to be a bad influence. The patient's older sister is very helpful to the patient and helps with money, looking after kids, meeting up every other week. The older sister had depression and anxiety and also dealt with their dad more. The patient shares their grandma to have suffered from dementia. The patient has two kids and one of them reports issues of bullying others from school which is worrying. The patient's older sister take care of patient's kids when they are out, or partying at home with drugs and alcohol. The patient wishes to hide these from their kids. ",,,,,
+78,primary_topic,family issues,,,,,
+79,secondary_topic,sibling-kids,,,,,

@@ -1,0 +1,17 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,So you made your bed. That's great. really makes a difference. How did waking up earlier ago?,routine,125_0,T,irq,,Toh tu ne apna bistar bana liya. Yeh toh badhiya hai. Sach mein farak padta hai. Pehle se pehle jaane ki kaise hui?
+1,"Well, it worked for like a day or two, but then the power went out. So then my alarm clock stopped working. And then I kinda started sleeping in again.",inactive,125_1,P,id,-1.0,"Accha, kaam toh ek din ya do din ke liye ho gaya, par phir bijli gayi. Toh phir mera alarm clock band ho gaya. Fir main thoda late tak so jane laga."
+2,I thought that might happen. So I made this sign for you. It'll help you remember to set the alarm.,inactive,125_2,T,id,,Maine socha ki ye ho sakta hai. Isliye maine aapke liye ye sign banaya hai. Ye aapko yaad rakhne me madad karega ki aap alarm set karna hai.
+3,"Oh, I did get out to the park.",routine,125_3,P,id,,"Oh, I did park se bahaar nikal aayi."
+4,How did that go?,routine,125_4,T,crq,,Woh kaisa gaya?
+5,"didn't go so well. I don't have enough clean clothes and I felt really uncomfortable. This thing is really hard, man. Like why bother?",symp/reasoning,125_5,P,cd,-1.0,"Nahi gayi thi itna accha nahi hua. Mere paas saaf kapde itne nahi the aur main bahut uncomfortable mehsoos kiya. Ye cheez sach mein mushkil hai, yaar. Kyun pareshan karoo?"
+6,"Well, that's why I bought you these. We can put your dirty clothes in To the hamper. And your clean clothes, you can fold them up and put them into this bin.",routine,125_6,T,id,,"Achcha, yehi ke liye maine tujhe yeh kharidke diye hain. Hum tere gande kapde hamper mein daal sakte hain. Aur tere saaf kapde, tu unhein fold karke is bin mein rakh sakta hai."
+7,"That's cool. Okay,",inactive,125_7,P,ack,,"That's cool. Thik hai,"
+8,"Well last time we talked about how you forget to take a shower, so I brought you this hygiene basket because remember if you become overwhelmed, if you keep it here by the bed, it'll remind you to take a shower and you can carry it with you.",routine,125_8,T,id,,"Well, hum pehle baat ki thi about how aap bhool jaate ho to shower lena, toh maine aapke liye yeh hygiene basket laaya hai kyunki remember agar aapko over aa jaaye, toh aap isse bed ke paas rakhe toh woh aapko yaad dilayega ki shower lena hai aur aap isse saath lekar jaa sakte ho."
+9,I think I could use a shower. I want to go have one.,routine,125_9,P,id,,I think main shower use kar sakta hu. Mujhe jaana hai ek karne ke liye.
+10,"I'll put the calendar up for you and also put this picture I love up here by the bed. Well, guess what? I got you a container so you can put all your meds in. If you fill it up for each day, and keep it by your bed with a glass of water. It will remind you to take your pills",inactive,125_10,T,id,,"मैं तुम्हारे लिए कैलेंडर ऊपर लगाऊंगा और इस बिस्तर के पास मैं अपने पसंदीदा तस्वीर ऊपर लगाऊंगा। तो, अब क्या हुआ? मैंने तुम्हारे लिए एक डब्बा भी ले आया हूँ ताकि तुम अपनी सारी दवाओं को उसमें रख सको। अगर तुम हर दिन उसे भर लो और अपने बिस्तर के पास एक गिलास पानी के साथ रखोगे। व"
+11,I'm gonna go take that shower now.,inactive,125_11,P,id,,मैं अब वह शावर लेने जा रहा ह
+12,Sounds good. I'll put up your calendar.,inactive,125_12,T,id,,Achcha lag raha hai. Main tera calendar laga dunga.
+13,summary,"If you forget to take a shower, this basket will remind you to take a shower. If you fill it up for each day, and keep it by your bed with a glass of water, it will remind you to take.",,,,,
+14,primary_topic,Stress,,,,,
+15,secondary_topic,,,,,,

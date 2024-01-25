@@ -1,0 +1,78 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,Hi Sandra. How are you doing today.,inactive,146_0,T,gt,0.0,Hi Sandra. Aap kaise ho aaj?
+1,"I  am  okay, I gues",inactive,146_1,P,gt,0.0,"मैं ठीक हूँ, मुझे ल"
+2,Just okay ?,inactive,146_2,T,crq,0.0,Bass thik hai?
+3,Yeah.,inactive,146_3,P,cd,0.0,Haan.
+4,I'm going to ask you some questions and give you some problems to solve. Please try to answer them as best as you can. What year is this?,routine,146_4,T,gc,0.0,Mai tumse kuch sawaal poochhne aane wali hu aur tujhe kuch samasyaen solve karne ke liye dungi. Kripya unn sawaalon ka sahi jawab dene ki koshish karna. Ye kaun sa saal hai?
+5,2014,routine,146_5,P,id,0.0,2014
+6,2014?,routine,146_6,T,crq,0.0,2014?
+7,Yeah.,inactive,146_7,P,cd,0.0,अर
+8,What season of the year is this?,routine,146_8,T,irq,0.0,Is this the kis season me hai?
+9,summertime,routine,146_9,P,id,0.0,"""ग"
+10,summertime ?,routine,146_10,T,crq,0.0,गर्मिय
+11,Yeah,inactive,146_11,P,cd,0.0,Haan
+12,What is the date today?,routine,146_12,T,irq,0.0,Aaj aaj ki tareekh kya hai?
+13,10th may,routine,146_13,P,cd,0.0,Dusri May
+14,May 10th ?,routine,146_14,T,crq,0.0,10th मई?
+15,yeah,inactive,146_15,P,cd,0.0,haan
+16,What is the day of the week?,routine,146_16,T,irq,0.0,Hfir yeh week ka kiss din hai?
+17,Thursday,routine,146_17,P,id,0.0,थर
+18,What month is this?,routine,146_18,T,irq,0.0,Ye kis mahine ka hai?
+19,May,routine,146_19,P,id,0.0,"May
+म"
+20,Can you tell me what country we're in?,routine,146_20,T,irq,0.0,Kya aap mujhe bata sakte hain hum kaunse desh mein hain?
+21,Delaware.,routine,146_21,P,id,0.0,ड
+22,What County are we in?,routine,146_22,T,irq,0.0,Hum County hum kis mein hain?
+23,Delaware.,routine,146_23,P,id,0.0,ड
+24,What is the name or the address of this building?,routine,146_24,T,irq,0.0,Is building ka naam ya address kya hai?
+25,Umm I guess,inactive,146_25,P,id,0.0,मैं तो सोचत
+26,What floor of the building are we on the,routine,146_26,T,irq,0.0,Hum building ka kaun sa floor pe hain hum?
+27,bottom floor,routine,146_27,P,id,0.0,निचला मं
+28,bottom floor ?,routine,146_28,T,crq,0.0,Neeche farsh?
+29,Yeah,inactive,146_29,P,cd,0.0,Haan
+30,"I am going to name Three objects. After I've said them, I want you to repeat them back to me. Apple, Table,  Penny, can repeat them back to me?",routine,146_30,T,cv,0.0,"मैं तीन चीजों का नाम बताने जा रहा हूँ। मैं उन्हें कहने के बाद, मुझे उन्हें वापस दोहराने के लिए चाहता हूँ। एप्पल, टेबल, पैनी, क्य"
+31,Penny,symp/reasoning,146_31,P,cr,0.0,Penny!
+32,"let me go again. Apple, Table, Penny ",routine,146_32,T,cv,0.0,"Mujhe dobara jaane do. Seb, Table, Rupaye."
+33,Apple. Table. Apple.,symp/reasoning,146_33,P,cr,0.0,"Apple. Table. Apple.
+सेब."
+34,Let me try again. Apple Table Penny,routine,146_34,T,cv,0.0,Mujhe dobara try karne do. Apple Table Penny.
+35,Apple Table Penny.,routine,146_35,P,cr,0.0,ಆಪಲ್ ಟೇ
+36,"Okay, good. Remember what they are? Because I'm going to ask you to name them again in a few minutes. Now I'm going to give you a word and ask you to start it forward and backward. The word is world. First, Can you spell the forward ?",routine,146_36,T,cv,0.0,"Okay accha. Yaad hai tumhe jo wo hai? Kyunki main kuch minutes baad tumse phir se unka naam puchne jaa rahi hu. Ab main tumhe ek shabd doongi aur poonchungi ki tum use aage peeche shuru se padh paaoge ya nahi. Shabd hai duniya. Pehle, kya tum aage se spell kar sakte ho?"
+37,Can you say that again ?,routine,146_37,P,crq,0.0,Kya aap uss baat ko dobara keh sakte hain?
+38,the word is the world.,routine,146_38,T,cd,0.0,the word is duniya.
+39,W U R A D,symp/reasoning,146_39,P,cr,0.0,Tum kya kar rahe ho?
+40,"Now, can you spell it backward?",routine,146_40,T,cv,0.0,"अब, क्या आप इसे उलटा स्प"
+41,What word in ?,inactive,146_41,P,crq,0.0,"""What word Hai?"""
+42,The word in world ?,routine,146_42,T,cd,0.0,Kya 'world' shabd duniya mein hai?
+43,D R  W,symp/reasoning,146_43,P,cr,0.0,"Darvaaza roka waha
+
+Translation: The door"
+44,Okay. What were the three objects I asked you to remember.,routine,146_44,T,irq,0.0,Theek hai. Mainey tumse jab aapse na hui thee teen cheezein yeh pudyi thi yaad rakhne ke liye.
+45,Table World World,symp/reasoning,146_45,P,id,0.0,"""Table duniya mein hai."""
+46,Okay What is this called?,routine,146_46,T,ci,0.0,Okay yeh kya bolte hai?
+47,bracelet,routine,146_47,P,cr,0.0,baaletz
+48,bracelet ?,routine,146_48,T,crq,0.0,"bracelet ?
+
+Bracelet k"
+49,Yeah,inactive,146_49,P,cd,0.0,ये
+50,What is this is called ?,routine,146_50,T,ci,0.0,What is this ko kyaa kahaa jaataa hai?
+51,marker.,routine,146_51,P,cr,0.0,Maaka
+52,"I would like to repeat a phrase after me. The phrases, no ifs, ands or buts",routine,146_52,T,cv,0.0,"मुझे एक वाक्य दुहराना है। कोई शर्तें, ना कि कोई अन्यथा।"
+53,"no if, ands, or buts.",routine,146_53,P,cr,0.0,"No if, ands, ya phir buts."
+54,I want you to read the words on this page and do it like this.,routine,146_54,T,ci,0.0,Main tujhe is page ke sabhi shabdon ko padhne ki arzoo rakhta hoon aur usse aise hi karna chahta hoon.
+55,....,inactive,146_55,P,cr,0.0,"""Kya"
+56,Thank you. Are you right handed or left handed.,routine,146_56,T,irq,0.0,Dhanyavaad. Kya aap daayen haath se likhte hain ya baayein haath se.
+57,Left handed,routine,146_57,P,id,0.0,"""Left-handed"" in hinglish"
+58,you're left handed,routine,146_58,T,crq,0.0,Tum left handed ho
+59,Yeah,inactive,146_59,P,cd,0.0,Haan
+60,Take this paper in your left hand. Fold the paper once with both hands and put the paper down on your lap. Okay. You pick up the notebook besides you. Can you write any complete sentence on a piece of paper for me?,routine,146_60,T,ci,0.0,Apni apni left hand me yeh paper le lo. Dun haathon se ek baar paper ko fold karo aur paper ko apni godi par rakho. Thik hai. Tum humaare saath aas paas pade huye notebook ko uthao. Kya tum mere liye koi complete sentence ek piece paper par likh sakte ho?
+61,.....,inactive,146_61,P,cr,0.0,द
+62,Okay. hang on to the pen there. Here's a drawing. Please copy this drawing on that same piece of paper,routine,146_62,T,ci,0.0,Arey. pen pakad ke rakho. Ye lo drawing. Please wahi paper pe ye drawing copy karo.
+63,....,inactive,146_63,P,cr,0.0,द
+64,copied on the same piece of paper. Yeah sure.,routine,146_64,T,gc,0.0,Is piece of paper pe kaagzi ka copy kar liya. Haan zaroor.
+65,Take a look at,inactive,146_65,P,gc,0.0,ek baar dekh lo
+66,That concludes this assessment. Sandra. I want to thank you for your participation.,inactive,146_66,T,gc,0.0,"Yeh assessment khatam hota hai. Sandra, main tumhe tumhari bhagidari ke liye dhanyavaad dena chahta hoon."
+67,Thank you,inactive,146_67,P,gc,0.0,Dhanyavaad
+68,summary,"Therapist give patient an assessment to test thinking and memory. Therapist starts asking questions regarding, today's date,year, month, day, season, surrounding items etc.Patient answer all the questions correctly. Therapist asks to memorize few objects and reversing words.Patient finds difficulty in this assessment and coudln't do it well.",,,,,
+69,primary_topic,Memory,,,,,
+70,secondary_topic,Memory and thinking,,,,,

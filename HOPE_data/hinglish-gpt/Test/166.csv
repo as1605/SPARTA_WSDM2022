@@ -1,0 +1,18 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi, August I'm Angie. I'm one of the nurses here.",inactive,166_0,T,gt,0.0,"Namaste, August main Angie hoon. Main yahan ke nurses mein se ek hoon."
+1,I'm not feeling very well. I am very sad. I am. I'm really scared.I want to run away.,symp/reasoning,166_1,P,id,-2.0,Mujhe bahut bura lag raha hai. Main bahut udaas hoon. Main hoon. Mujhe bahut dar lag raha hai. Mujhe bhaag jana hai.
+2,"Okay. All right. Well, I'm sorry to hear that. When you're sad what helps you feel better?",inactive,166_2,T,gc,-1.0,"Thik hai. Thik hai. Chalo phir, mujhe afsos hai. Jab tum udas ho to kya tumhe aaram milta hai?"
+3,Coming to the hospital,inactive,166_3,P,gc,0.0,अस्पताल आना। (Asp
+4,okay. What else helps you feel better? I see you have a phone there. Do you play any games on that?,routine,166_4,T,irq,0.0,Thik hai. Aur kuch aur hai jo tumhe accha mehsoos karwata hai? Mujhe dekh raha hai ki tumhare paas ek phone hai. Kya tum uspe koi game khelte ho?
+5,"Yes, I know lots of good games. ",routine,166_5,P,id,0.0,"Haan, mujhe bahut saare acche khel pata hai."
+6,"Okay, well, why don't you play one of your games that might help you feel better and I'm gonna go and come back in a few minutes. Okay?",routine,166_6,T,gc,0.0,"Theek hai, well, why don't you khelo one of your khel that might help you feel achha and main chalta hu aur aaunga phir kuch minutes mein. Okay?"
+7,Okay.,inactive,166_7,P,ack,0.0,Theek hai
+8,"Okay, that's good. August, you feeling better now? ",routine,166_8,T,gc,0.0,"Theek hai, vaise toh accha hai. Aagast, ab tumhe aaram lag raha hai?"
+9,I am feeling a bit better.,routine,166_9,P,op,-1.0,Main thoda sa behtar mehsoos kar raha hun.
+10,"Good. Okay, that's really good. And this time when you go back home, when you go home, can you talk to your group home worker, let him or her know that you've been here again, and that you were feeling sad again. ",routine,166_10,T,gc,0.0,"Acha. Thik hai, woh sach mein accha hai. Aur iss baar jab tum ghar jaoge, ghar jaoge toh apne group home worker se baat kar sakte ho, unhe ya to unhe bata sakte ho, ki tum phirse yahan aaye the, aur tum phirse sad feel kar rahe the."
+11,"Yes, I can do that.",inactive,166_11,P,gc,0.0,"Haan, main kar sakta hoon."
+12,"Okay, great. I'm gonna go get the doctor. ",inactive,166_12,T,gc,0.0,"Thik hai, bahut achha. Main daktar ko leke ja raha hu."
+13,Okay.,inactive,166_13,P,gc,0.0,Thik hai
+14,primary_topic,Anxiety,,,,,
+15,secondary_topic,Fear,,,,,
+16,summary,"Patient was not feeling well, sad and scared. Therapist asked patient when you feel sad what helps you feel better?  and patient tha tdo you play any games on phone. Patient knew lot of games. Therapist asks to play one of the game which makes feel better and therapist gonna comeback in a few minutes. When therpist asked patient you feeling better now? Patient was feeling better. Therapist suggests to talk to the group home worker and let him or her know that you've been here again and you were feeling sad again.",,,,,

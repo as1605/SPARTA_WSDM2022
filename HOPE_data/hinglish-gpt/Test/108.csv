@@ -1,0 +1,22 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hello, is it Luke?",inactive,108_0,T,gt,,"Kya sun re, Luke?"
+1,Yes. ,inactive,108_1,P,op,,Haan.
+2,Nice to meet you. I'm Dr. batata. Is it okay if I examine your abdomen and a few other parts in your body? ,symp/reasoning,108_2,T,gt,,Tumse milne mein khushi hui. Main Dr. batata hoon. Kya main tumhara pait aur kuch aur angon ka jaanch kar sakta hoon?
+3,"That's right, right. Okay.",inactive,108_3,P,op,,"Sahi hai na, bilkul. Thik hai."
+4,Can I ask you to just take your gun down if that's Right.,routine,108_4,T,yq,,क्या मैं आपसे बस यह आग्रह कर सकता हूं कि आप अपनी गन नीचे र
+5,A little bit.,routine,108_5,P,id,,Ek chhota sa hissa.
+6,"Okay, thank you for that.",inactive,108_6,T,op,,"Theek hai, thank you uske liye."
+7,"Okay, we can do that later.",inactive,108_7,P,id,,"Theek hai, hum baad mein kar sakte hain."
+8,"Right Okay, can I? I'm going to pull down on your eyelids. Okay, just looking for any evidence of anemia. Looking up, look down for me.",symp/reasoning,108_8,T,irq,,"Theek thik, kya main kar sakti hoon? Main aapke palkon ko khichne jaa rahi hoon. Thik hai, kya main khoon ki kami ki koi gawaahi dhoondh rahi hoon. Upar dekho, mere liye neeche dekho."
+9,is,inactive,108_9,P,gc,,hai
+10,good having a good look for any scars sinesses.,routine,108_10,T,id,,अच्छा सर्च करना सारे (any) घाव और समस्याओं के
+11,painful there.,inactive,108_11,P,id,,Dardnak ho gaya hai.
+12,"Okay, it's gonna feel like it's live enough. So would you be able to just take some nice deep breaths in and out for me please?",routine,108_12,T,yq,,"Thik hai, yeh jaise live lagne lagega. To kya tum mere liye kuch acche se gehre saas le sakte ho aur nikal sakte ho?"
+13,Sorry about that. Sorry.,inactive,108_13,P,ay,,Maaf karna uski wajah se. Sorry.
+14,I'm just gonna tap on your tummy now. Okay.,routine,108_14,T,id,,Mai ab aapki pet par bojh dalunga. Thik hai?
+15,"Okay, have you finished?",routine,108_15,P,yq,,"Theek hai, kya tumne khatam kiya?"
+16,"So to complete my examination, I'd like to perform a shifting dullness test. Check is You're in depth. And also I'd like to examine for a full lymph retinopathy screen, including accelerate and inguinal lymph nodes.",routine,108_16,T,id,,"Toh apne examination pura karne ke liye, mujhe ek shifting dullness test karna hai. Check karein ki aapki hadiyan theek hain. Aur mein ek full lymph retinopathy screen karwana chahta hu, jo accelerate aur inguinal lymph nodes ko bhi shaamil karta hai."
+17,Okay. Thank you.,inactive,108_17,P,gt,,Theek hai. Dhanyavaad.
+18,summary,"The therapist examines the abdomen and other parts of the body. The therapist pulls down the eyelids and checks for anemia, then for scar signs. The therapist requests to perform shifting dullness test, full lymph retinopathy screen including accelerate and inguinal lymph nodes.",,,,,
+19,primary_topic,treatment,,,,,
+20,secondary_topic,diagnosis,,,,,

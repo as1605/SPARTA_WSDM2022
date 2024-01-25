@@ -1,0 +1,63 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Okay, I want to switch gears. Again, I want to talk about risk, like suicide or harming others. ",symp/reasoning,32_0,T,gc,,"Thik hai, main apna rukh badalna chahta hun. Phir se, mujhe khatra ke baare mein baat karni hai, jaise ki aatmahatya ya doosron ko nuksaan pahunchana."
+1,Okay,inactive,32_1,P,gc,,Teek hai.
+2,"I know all these things don't apply to everybody, but I'm gonna make sure I go through and ask certain questions that Okay, ",inactive,32_2,T,gc,,"Mai janti hu ki ye sab baatein har kisi ko lagu nahi hotein, par mai yeh saadhan karrungi ki mai iss pe sabhal ke jakey kuch pooch lu joh sahi ho"
+3,okay.,inactive,32_3,P,gc,,thik hai.
+4,Have you ever had a suicide attempt?,routine,32_4,T,yq,,Kya tumne kabhi suicide ki koshish ki hai?
+5,NO.,routine,32_5,P,on,,Nahi.
+6,So no attempts I've ever had thoughts of suicide.,routine,32_6,T,crq,,So koi bhi prayas nahi kiya maine mujhe aatmhatya ke khayalaat aaye.
+7,"I mean, sometimes when I get really sad, I thought think that the world would be better without me. But I bring myself out of that. I don't think it's anything I'd never do but",symp/reasoning,32_7,P,cd,,"Main sochta hun, kabhi kabhi jab main bahut udaas hota hun, tab mujhe lagta hai ki duniya mere bina behtar hoti. Par main apne aap ko uss vichaar se bahar nikalta hun. Main yeh nahi sochta ki main kabhi bhi aisa na karun par."
+8,"that's all you ever do. But sometimes, yeah, the thought crosses your mind like that. Yeah, remember the last time I thought like that crossed your mind?",symp/reasoning,32_8,T,irq,,"Woh kabhi kabhi yeah sochte hai ki tu bas yahi karta hai. Par kabhi kabhi, haan, woh khayal bhi aata hai ki tere dimaag mein yeh tarah ke khayal aate hai. Haan, yaad hai jab pehle baar mujhe aisa laga ki tere dimaag mein aise hi khayal aate hai?"
+9,We were getting evicted from our last place. Cuz I just felt like a complete failure.,symp/reasoning,32_9,P,id,,Hum hamare last place se nikal diye ja rahe the. Kyunki mujhe bas ek poorna asafal hone jaisa mahsoos ho raha tha.
+10,How long ago was that?,routine,32_10,T,irq,,वह कितने समय पहले था?
+11,"was about a month and a half ago? Yeah, all the my friends in the house turned against me because I couldn't pay rent. And it would have been like, the third month but like not consecutively, so I don't see the big issue. Um, and so they told me that if I didn't get out, they would call the police. And I had to stay with my sister and I just, I felt like a failure. I felt like a failure and myself to my kids.",story,32_11,P,id,,"Kuch mahine aur ek adha purane the? Haan, mere saare dost ghar mein mujhse ulajh gaye kyunki main kiraya nahi de pa rahi thi. Aur yeh teesra mahina tha lekin lagatar nahi tha, toh mujhe bada masla nahi dikhta. Aur unhone mujhe bataya ki agar main ghar se nahi nikalti, toh woh police ko bulayenge. Aur mujhe apni behen ke saath rehna pada aur mujhe apni hi kami ka ehsaas hua. Mere bachchon ko bhi apne aap se aur khud se berukhi ka ehsaas hua."
+12,So it's a tough time for you.,routine,32_12,T,yq,,Toh tumhare liye yeh ek mushkil waqt hai.
+13,Yeah.,inactive,32_13,P,ack,,Haan.
+14,So you had some sounds like maybe passing thoughts.,routine,32_14,T,yq,,Toh tumhare paas kuch aawazen thi jaise ki shayad guzre hue khayalat.
+15,Yeah.,inactive,32_15,P,ack,,Haan.
+16,that ever changes would you tell me?,inactive,32_16,T,yq,,hamein bataaiye ki kya kbhi bhi badal jaata hai?
+17,Yeah,inactive,32_17,P,ack,,Yeah ठी
+18,So how about harm to others? Meaning Do you ever feel like you have good thoughts? Have you ever develop a plan to hurt someone else?,routine,32_18,T,irq,,Aur dusro pe nuksan ki baat kaise hai? Matlab kya kabhi aapko aisa lagta hai ki aapke paas achhe vichaar hain? Kya aapne kabhi kisi aur ko chot pahuchane ka ek yojna banaya hai?
+19,When I was younger not anymore,routine,32_19,P,id,,Jab me chota tha tab ab nahi
+20,What was the last time,routine,32_20,T,irq,,Kab tha uss baar?
+21,"probably when I was in high school well but yeah when I was still in that like violent stage in my life where I would fight but I never went to anything like out kill this person. It was always just you know, I'll knock you out, but I won't kill you.",story,32_21,P,id,,"Shayad jab main high school mein thi tab thoda violent stage tha mera par haan jab main uss stage par tha jab main ladai karta tha par main kisi ko maarne nahi jaata tha. Hamesha sirf yeh kaha tha ki main tumhe knock out kar doonga, par tumhe maara nahi."
+22,"And that was a while ago, but presently no thoughts of harming anybody else. No,",routine,32_22,P,id,,"Aur wo thoda sa time pehle tha, par abhi kisi aur ko nuksaan pahuchane ke koi vichaar nahi hai. Nahi,"
+23,"if I ever feel really, really angry, because held onto a wall I have like special plates. That all thrown on the ground and break them",symp/reasoning,32_23,P,id,,"Agar main kabhi bahut zyada gusse wala mahsoos karta hoon, kyunki main deewar se pakde hue hoon, mere paas khaas thale hote hain. Sab jameen par fek kar unhe tood deta hoon."
+24,like the suicidal thoughts if thoughts of harming others do come up would you tell me about those?,routine,32_24,T,irq,,"Kya aap mujhe bata sakte ho, agar dusro ko nuksaan pahuchane ki baatein bhi aati hain toh?"
+25,"Oh yeah, I don't want to go jail over hurting somebody. So I tell you ",routine,32_25,P,id,,"Arre haan, This is my Hindi (Hinglish) way - ""Oh haan, main kisi ko chot ya dard nahi dena ke karan jaaish se baachna chahta hu. Toh main aapko bata deta hu."""
+26,Thank you,inactive,32_26,T,gc,,Dhanyavaad.
+27,"No, no.",inactive,32_27,P,gc,,"No, nahi."
+28,How about under the influence of drugs?,routine,32_28,T,irq,,Drugs se prabhavit hone par kya haal hai?
+29,Ah well when I used to do go cocaine sometimes I would like think that somebody is at the door and they're not at the door. Nobody's nobody's there. think somebody in the house when there's nobody in the house?,symp/reasoning,32_29,P,irq,,"Achha jab mai cocaine karne jaata tha, kabhi kabhi mujhe aisa lagta tha ki koi darwaze pe hai lekin wo wahaan nahi hai. Koi nahi hai. Kya ghar me kisiko hone ka lagta hai jab ghar me koi nahi hai?"
+30,"Alright, so I want to switch gears again. I want to talk about if you're okay with this, the goals for counseling, okay? So the goals that you want to meet",routine,32_30,T,id,,"Thik hai, toh main phir se altaf chahiye. Main baat karna chahta hu ki kya tum isse thik hai, agar haan toh counseling ke lakshyon ke baare mein? Thik hai? Toh tumhari utkrishti"
+31,"Okay, ",routine,32_31,P,ack,,"Haan ok
+
+Correction"
+32,so let's start with if you're okay if your goals in life in general,routine,32_32,T,gc,,Toh chalo shuru karte hain agar tum theek ho toh zindagi ke maqsad in general.
+33,"that's I haven't really felt lunch about it, but I would like to just have a real I mean, it doesn't care. I don't care what the job is just a nice cushy job without a job where I can just relax and when my kids will have a good future. I'll have a good future.",story,32_33,P,id,,"That's mujhe lunch ke bare mein bilkul bhi kuchh mehsoos nahi hua hai, lekin main bas ek sachchi baat ka lunch chahta hun. Mujhe koi fark nahi padta ki kaam kya hai, mujhe keval ek acchi cushy job chaahiye jahaan main araam kar sakun aur jab meri bachchon ko ek accha bhavishya hoga. Mere paas ek accha bhavishya hoga."
+34,better future for your children.,routine,32_34,T,crq,,अपने बच्चों के लिए बेहत
+35,"Oh yeah,",routine,32_35,P,ack,,"ओह हाँ,"
+36,Have any other general life goals?,symp/reasoning,32_36,T,irq,,Kya tumhare paas koi aur aam jeevan ke lakshya hain?
+37,"I guess be drug free Like I said, I'd really like to quit. ",symp/reasoning,32_37,P,id,,"Mujhe lagta hai nasha mukt raho Jaise maine kaha, main sach mein chhodna chahta hoon."
+38,"But I have a goal specifically for counseling, like what you hope to get out of this counseling?",symp/reasoning,32_38,T,irq,,"Par mere ko counseling ke liye ek target hai, jaise aap kya ummid rakhte hain iss counseling se?"
+39,I'd like to learn to be less angry. Blood pressure down a little bit.,symp/reasoning,32_39,P,id,,Mujhe gusse kam karne ka seekhna hai. Thoda blood pressure kam karo.
+40,eat less?,routine,32_40,T,irq,,Kya thoda kam khana hai?
+41,"And again, guess try to quit. Quit drugs,",routine,32_41,P,id,,"Aur phir se, try karo ki chod do. Chod do drugs."
+42,quitting drugs.,routine,32_42,T,crq,,nasha tyagi chorr ledrags
+43,"kind of, I guess isn't the answer. To answer, kind of kind of confident, yeah, I mean, like I said, I haven't really move forward anywhere. And every time I go to a counseling place, so",routine,32_43,P,cd,,"I guess, kind of, isn't the correct answer. To answer, kind of kind of confident, yeah, I mean, like I said, I haven't really move forward anywhere. And every time I go to a counseling place, so"
+44,"Alright, so you're kind of confident and wanting to try again.",routine,32_44,T,crq,,"Thik hai, toh tu thoda confident hai aur dobara try karna chahta hai."
+45,Yeah.,routine,32_45,P,ack,,Haan.
+46,"So, throughout this intake of Sq, a lot of questions, I want to thank you for answering them. Do you have any questions for me?",inactive,32_46,T,yq,,"Tumhare bhar me Sq ke intake ke dauran, bahut saare sawal, main aapko unka jawab dene ke liye dhanyavaad karna chahta hoon. Kya aapke paas mere liye koi sawal hai?"
+47,No.,inactive,32_47,P,on,,Nahi.
+48,"So next time, I see you, sorry, if you would be about a week. And we'll start with the actual counseling sessions. And so I'll still have some questions, but not as many as I've asked today. ",routine,32_48,T,id,,"So agla baar, mai tumhe dekhungi, maaf karo, agar tum ek hafte ke baare mein hote ho. Aur ham shuru karenge haqeeqat me counselling sessions. Aur mai ab bhi kuch sawal puchungi, lekin itne nahi jitne mai aaj puche hai."
+49,Okay.,inactive,32_49,P,ack,,Thik hai.
+50,Does that make sense how it's structured,inactive,32_50,T,yq,,Kya yeh samajh me aata hai ki yeh kis tarah se banaya gaya hai?
+51,Yeah,inactive,32_51,P,ack,,"Haan, th"
+52,"Alright, so we've completed intake. Also some more questions, but we'll get to the Catholics, the counseling sessions. Next week, we'll get started working on specific details of what's happened to and what might be causing it, how we can treat it. ",inactive,32_52,T,gt,,"To thik hai, to humne intake pura kar liya hai. Aur kuch aur sawaal bhi hai, lekin hum Catholics tak pahunch jayenge, un counseling sessions par. Agle hafte, hum uss vyakti ke saath hone wale haalat ki khas tafseelat par kaam shuru karenge aur ye bhi dekhnge ki iska kya karan ho sakta hai, hum ise kaise ilaaj kar sakte hain."
+53,Alright.,inactive,32_53,P,gt,,Thikthak
+54,"So I appreciate again, you taking this time and answer these questions, and I'll see you next week. ",inactive,32_54,T,gt,,"Fir mai fir se aapka shukriya karta hu, aap iss samay nikal kaar in sawalo ka jawaab dena, aur agli hafte mulaqat hogi."
+55,Thank you.,inactive,32_55,P,gt,,Dhanyavad.
+56,"Thanks, Rhonda.",inactive,32_56,T,gt,,धन्यवाद
+57,summary,"The therapist discusses suicide with the patient. The patient denies to have had suicide attempt but have had thoughts about it. About one and a half months ago, the patient was not able to pay rent and was evicted from house and had to live at sister's which made them feel a complete failure. The patient used to have thoughts to harm others when they were younger but not anymore. The patient has consumed cocaine and illusioned presence of people in house when no one was there. General life goals are better future for patient's kids. Counseling goals are to quit drugs and learn to be less angry. The counseling sessions for the patient will begin in a week. ",,,,,
+58,primary_topic,Treatment,,,,,
+59,secondary_topic,suicide-drugs,,,,,

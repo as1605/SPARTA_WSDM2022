@@ -1,0 +1,74 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,Am I doing today?,inactive,18_0,T,gt,,Kya main aaj kar raha hoon?
+1,I'm doing good thanks. How are you?,inactive,18_1,P,gt,,"Main theek hoon, shukriya. Tum kaise ho?"
+2,I'm doing well. Thank you for asking. I understand you've been having some symptoms that have been bothering you lately.,inactive,18_2,T,gt,,Main theekh hoon. Shukriya poochne ke liye. Mujhe samajh aata hai ke aapke haalat mein kuch matbhed aa rahe hai jo aapko haal hi mein tang kar rahe hai.
+3,Can you? Can you tell me about that?,inactive,18_3,T,irq,,Kya aap kar sakte ho? Kya aap mujhe uske baare mein bata sakte ho?
+4,"Well, I just moved into an apartment.",symp/reasoning,18_4,P,id,,"Well, maine bas ek apartment me shift kiya hai."
+5,It's the first time that,symp/reasoning,18_5,P,id,,यह पहली बार है कि
+6,I'm on my own. And I kind of had heard that someone got robbed and ever since then. I'm kind of nervous about my apartment getting wrong.,symp/reasoning,18_6,P,id,,Mai apne akele hoon. Aur maine suna tha ki kisi ko loota gaya tha aur tab se. Meri flat ko galti se nahi hone se thoda darr lagta hai.
+7,Someone someone was robbed. near where you live.,inactive,18_7,T,crq,,Koi koi ek choraya gaya. Jahaan aap rehte hain ke paas.
+8,"Yeah. Someone in the same complex. Okay. So Sometimes when I'm sleeping, I'll wake up in the middle of the night, and I'll think that",symp/reasoning,18_8,P,cd,,"Yeah. Kisi who wahi building mein. Theek hai. To kabhi kabhi jab main so raha hoon, raat ke beech mein uth jaata hoon, aur main samajhta hoon ki"
+9,I locked the door. Is the door locked? And I can't fall back asleep.,symp/reasoning,18_9,P,cd,,Maine maine darwaza band kar diya. Kya darwaza band hai? Aur main ek baar phir se so nahi pa raha hoon.
+10,How long does it take you to fall back to sleep?,routine,18_10,T,irq,,Tumhe utna lamba samay lagta hai ki tum dubara so jaao?
+11,Sometimes it takes maybe an hour two.,routine,18_11,P,id,,Kabhi kabhi ek ghante ya do lagte hain.
+12,And what are you thinking about during that time?,routine,18_12,T,irq,,Aur tum us samay kya soch rahe ho?
+13,"I'm just worried that I left the door unlocked. And sometimes I'll hear sounds. And I think maybe someone's in the apartment or I just, I get nervous. I just get scared.",symp/reasoning,18_13,P,id,,Main fikar hai ki maine darwaza khula chhod diya hai. Aur kabhi kabhi main sunta hoon awaazein. Aur mujhe lagta hai shayad koi ghar mein hai ya toh main bas ghabrata hoon. Bas darr lagta hai mujhe.
+14,That sounds scary.,inactive,18_14,T,ack,,Ye sunaiyo toh daraavni lag rahi hai.
+15,And you said a couple hours to stay away.,symp/reasoning,18_15,T,gc,,Aur tumne kaha ki kuch ghante door rehne ke liye.
+16,Yeah. So,inactive,18_16,T,gc,,Haan. Toh
+17,yeah. So this is this is troubling for you. Have you ever gotten up and check the door?,routine,18_17,T,irq,,haan. Toh ye toh aapke liye pareshaani ka kaaran hai. Kya aap kabhi uth kar darwaze ko check kiya hai?
+18,"Now I sit in bed, and I just try to I just think about it.",routine,18_18,P,id,,"अब मैं बिस्तर पर बैठा हूं, और मैं केवल सोचने की कोशिश करता हूं।"
+19,So you just keep thinking about it. Does it get worse as the time goes on? Or does it get better? What happens?,routine,18_19,T,irq,,To tum sirf uske baare mein sochte raho. Kya yeh waqt ke saath bura hota jata hai? Ya phir theek hota jata hai? Kya hota hai?
+20,"It gets, it gets worse.",routine,18_20,P,id,,"Yeh bhi hota hai, yeh bhi hota hai aur bura bhi hota hai."
+21,"I mean, I try to fall back asleep, and I stay in bed and I just think, you know, maybe I did leave the door unlocked. And then I just keep thinking that maybe it isn't locked.",story,18_21,P,id,,"Main tab socha ki main dubara so jaau,aur main bed pe hi rehta hoon aur bas sochta hoon, pata nahi kya maine darwaza khol ke chhoda hai. Fir bas main usi baat pe sochta rehta hoon ki shayad wo band nahi hai."
+22,So keep cycling through the same,symp/reasoning,18_22,T,yq,,Har roz utne hi ghumte raho jitna pichle baar ghuma tha
+23,Yeah.,inactive,18_23,P,ack,,Accha.
+24,Do you ever do anything to try to get those thoughts to go away like focusing on something else?,routine,18_24,T,irq,,"Kya tum kuch karte ho, un vichaaron ko dur karne ke liye, jaise kisi aur cheez par dhyan kendrit karne ki koshish karte ho?"
+25,"Um, well, I have like a ceiling fan above me. So sometimes, I'll just like, count how many times it goes around and just to distract myself from thinking about it. But I still think about the door being unlocked. Sometimes it helps.",story,18_25,P,id,,"Arrey, dekho, mere upar ek ceiling fan hai. Toh kabhi-kabhi, main bas aise hi, ginte rehta hoon uski ghoomne ki baar baar aur bas apne aap ko door rehne se distract kar leta hoon. Par mere dimaag mein darwaze khule rehne ke baare mein toh phir bhi sochta rehta hoon. Kabhi-kabhi yeh madad karti hai."
+26,"Right? So you have have a fear that somebody is going to enter break in To where you live, and you're staying up at night thinking about whether the doors been secured. That's been that's been troubling. Anything else?",story,18_26,T,irq,,"Sahi? Toh tumhe dar hai ki koi tumhare rehne waale jagah mein ghusne ki koshish kare, aur tum raat bhar jaagne mein lag gaye ho ki kya darwaze band hue hai ya nahi. Yeh kafi chinta ka vishay hai. Aur aur koi baat?"
+27,"Um, sometimes if I'm leaving for work, I'll get to my car and I'll think I let the hair Sugarland. And I'll think to myself, should I go back? I don't know what to do. And I'll just, like, kind of debate whether or not I should just go double check. I'm just worried that if I left the straightener on something, you know, that would happen, ",story,18_27,P,id,,"Um, kabhī kabhī agar main kaam ke liye nikalta hoon, main apne car tak pahunchunga, aur main sochunga ke maine Sugarland mein apne baal chhod diye hain. Aur phir main apne aap se sochunga ke kya main waapas jaaun? Main kya karoon? Aur main bas, aise hi, sochunga ke main kya karoon, ya phir bass check kar loon. Mujhe bas yeh dar hai ke agar maine straightener kuch peechhe chhod diya toh woh ho jaayega."
+28,What do you think  happen?,inactive,18_28,T,orq,,Tumko lagta hai kya hoga?
+29,"Well, I mean, if I left the strainer on something, you know, it's if I have like clothes or something and it's it's on a quad like that burn, or if it's I just don't want anything. I don't want to place the burn down was nervous about.",symp/reasoning,18_29,P,od,,"Accha, dekho, agar maine chalni kuch pe chhodi hai na, samjhe tum, toh wo ya toh kapde honge ya kuch aur aur agar wo kisi tarah se jala hai toh main chahti hu ki wo kisi bhi cheez pe na gir jaye. Main ye nahi chahti ki wo jala raha ho kyunki mujhe thoda ghabrahat hai."
+30,"So when you leave, you're thinking about it was a hairspray Are you thinking about whether you unplugged it or not? Or turn it off or not?",routine,18_30,T,yq,,"Jab aap jate hai, kya aap hairspray ke baare mein soch rahe hai? Kya aap soch rahe hai ki aapne ise unplugged kiya hai ya nahi? Ya off kiya hai ya nahi?"
+31,Yeah.,inactive,18_31,P,ack,,Haan.
+32,And how long those thoughts go on for?,routine,18_32,T,irq,,Aur yeh khyaal kitna samay tak chalte rehte hain?
+33,"Normally I think about it before I get to my car, and I'm like, well, maybe I should just go just to make sure I unplugged it and I turned it off. And then sometimes during the day, I'll be at work and I can't focus just because I'm thinking about, I'll come back and I'll see you know, my apartment burned down so I left the strainer plugged in.",story,18_33,P,id,,"Normal mein main apne car tak pahoonchne se pehle iske baare mein sochti hun, aur main bas ye sochti hun ki shayad main bas jaun aur check kar lun ki maine plug nikala hai aur band kar diya hai. Aur phir kabhi kabhi din mein kaam pe rehte hue mujhe focus nahi kar paati kyunki main ye soch rahi hun ki laut kar dekhungi to pata chalega ki meri apartment jal gayi hai kyunki maine strainer plugged in chhod diya hai."
+34,"Alright, so remember with the door you're saying that you you struggle with those thoughts, but you don't get up and check the door. Have you ever come back and checked to see if something was left on?",routine,18_34,T,crq,,"Theek hai, toh yaad rakhna darwaze ke saath aap kya bol rahe ho woh aap uss vichaaron se ladte hai, magar aap uthke darwaza check nahi karte hai. Kya kabhi aap wapas aake check kiya hai agar kuch chhod diya gaya ho?"
+35,"No, I haven't. But it just I think about it. I would if I did leave it. If I did leave it on or plugged in.",routine,18_35,P,cd,,"Nahi, maine nahi kiya hai. Lekin bas main uske baare mein sochta hoon. Main karunga agar main ise chhod deta. Agar main ise chhod deta ya plug-in kar deta."
+36,So you're worried anxious,symp/reasoning,18_36,T,yq,,So tu chintit pareshaan ho
+37,Yeah.,inactive,18_37,P,ack,,Haan.
+38,"Yeah, afraid?",inactive,18_38,T,yq,,"Haan, darr lag raha hai"
+39,"Yeah, definitely. All three.",inactive,18_39,P,ack,,"Haan, zaroor. Teen saare."
+40,"And how, how often does this happen? Like the cycle of thoughts?",inactive,18_40,T,irq,,"Aur kaise, kaise aksar ye hota hai? Vaise hi jaise vichaar ka chakkar?"
+41,Probably throughout the day.,symp/reasoning,18_41,P,id,,Shayad din bhar bhar se.
+42,So every day?,inactive,18_42,T,yq,,Toh kya har roz?
+43,"every day, yeah.",symp/reasoning,18_43,P,ack,,"Har roz, haan."
+44,And how long has this been going on?,symp/reasoning,18_44,T,irq,,Aur ye kab se chal raha hai?
+45,"For Ever since I moved, I guess into the apartment. So about I guess a year ",symp/reasoning,18_45,P,id,,"Mere since I shifted, I feel into the flat. So roughly one year about."
+46,this specific a year,inactive,18_46,T,crq,,ye specific ek saal hain
+47,yeah.,inactive,18_47,P,cd,,haan.
+48,And in that year timeframe hasn't become any worse.,inactive,18_48,T,yq,,Aur us saal ki seema ke andar koi bura nahi hua.
+49,Yeah.,inactive,18_49,P,ack,,Haan.
+50,Yeah. How did it start out?,inactive,18_50,T,irq,,Haan. Yeh kaise shuru hua?
+51,"Um, it started out with just, you know, I would go to bed and I would wake up in the light and think to myself tonight, the door I'm pretty sure I locked the door. And then I would just be fine. I could go back to sleep and be like, no, I remember I locked it. But then as it progressed, I really, I would wake up multiple times throughout the night. And I would",inactive,18_51,P,id,,"Um, it started out with just, you know, I would go to bed and I would wake up in the light and think to myself tonight, the door I'm pretty sure I locked the door. और फिर मैं सोता और सुबह उठता, और खुद से ये सोचता कि शायद रात में, मैंने दरवाजा तो ठीक से लॉक किया था। और तब मैं बिलकुल ठीक हो जाता। मैं सोकर लोटकर नहीं सोता था, और ना ही दरवाजा खोलकर सोता था। पर देर-देर से, मैं वाकई, रात के दौरान कई बार उठता था।"
+52,it would just keep me up.,inactive,18_52,P,id,,yeh mujhe bas jagaye rakhega ।
+53,I should as you thought about it.,inactive,18_53,T,yq,,Main menu pe jaake dekho. Wahaan sab detail bata diye gaye hai.
+54,yeah,inactive,18_54,P,ack,,haan
+55,"All right, I want to ask a few other questions, try to help me figure out what's going on. Have you ever been diagnosed with any condition like a mental health condition?",routine,18_55,T,yq,,"Theek hai, mujhe kuch aur sawaalon ke baare mein puchna hai, koshish karo meri madad karne mein jis se mujhe samajh aa jaye kya ho raha hai. Kya aapko kabhi koi bimaari ki diagnosis hui hai jaise mann ki swasthya bimaari?"
+56,No,routine,18_56,P,on,,Nahi
+57,Have a medical condition?,routine,18_57,T,yq,,Kya aapke paas koi medical condition hai?
+58,"No, never.",routine,18_58,P,on,,"Nahi, kabhi nahi."
+59,Have you ever used alcohol or any other substances?,routine,18_59,T,yq,,Kya tumne kabhi alcohol ya kisi aur padarthon ka istemal kiya hai?
+60,No,routine,18_60,P,on,,Nahi
+61,And is this been the first time in your life you've experienced these symptoms? Starting a year ago up till now?,routine,18_61,T,yq,,Kya ye tumhare jeevan mein pehli baar hai jab tumne ye lakshan anubhav kiye hain? Ek saal pehle se ab tak?
+62,"Yeah, ",routine,18_62,T,ack,,"Haan,"
+63,never anything like this before.,routine,18_63,T,yq,,Isse pehle kabhi kuch aisa nahi hua.
+64,No,routine,18_64,P,ack,,Naahi
+65,I'm going to get you in to see one of our counselors here.,routine,18_65,T,ci,,Main kisi ek counselor se tumhe humare paas dekhne le jaane wala hu.
+66,okay,inactive,18_66,P,ack,,thik hai
+67,I appreciate you spending this time with me. It's been helpful for me to try to understand what's going on.,inactive,18_67,T,gt,,Mera tumhare saath yeh samay bitane par aabhari hoon. Yeh mere liye upyogi raha hai samajhne ki koshish karne mein ki kya ho raha hai.
+68,Thank you.,inactive,18_68,P,gt,,धन्यवाद
+69,Thanks,inactive,18_69,T,gt,,Thank you (
+70,summary,"The patient has just moved into an apartment and they are on their own for the first time. They heard someone got robbed in their same complex and they are nervous about their apartment ever since then. They wake up in the middle of the night to check if they have locked the door. If the patient hears some sounds, they feel someone is there inside their apartment. The patient keeps cycling through these thoughts. Sometimes it helps the patient to distract themselves by counting the number of times the ceiling fan goes around. When the patient leaves for work, they are worried if they have left their straightener on and something might burn in the house. The patient has been worried everyday, throughout the day for the past year. The patient hasn't had any medical condition, does not use alcohol or drugs and this is the first time they are experiencing these symptoms. The therapist assures to get in a counselor.",,,,,
+71,primary_topic,paranoia,,,,,
+72,secondary_topic,apartment,,,,,

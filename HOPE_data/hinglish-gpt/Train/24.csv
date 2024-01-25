@@ -1,0 +1,104 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,How you doing today?,inactive,24_0,T,gt,,Aap kaise ho aaj?
+1,I guess I'm doing okay. Good. I'm having some problems and some problems.,inactive,24_1,P,gt,,Mujhe lagta hai main theek kar raha hoon. Achcha. Mujhe kuch pareshaniyan hain aur kuch samasyayan hain.
+2,What's going on?,routine,24_2,T,irq,,Kya ho raha hai?
+3,"Ah, I find myself getting really distracted, kind of fidgety and stuff. And I think I might have that one disorder that I hear about all the time on TV",symp/reasoning,24_3,P,id,,"Ah yaar, I am finding myself getting super distracted, kinda restless and all. And I think I might have that one disorder that I keep hearing about on TV all the time."
+4,like ADHD. That's the one you think you might have ADHD?,symp/reasoning,24_4,T,yq,,Thik hoga teri ko lage ADHD? Tu sochta hai kya tu ADHD hai?
+5,Yeah.,routine,24_5,P,ack,,Haan.
+6,"Alright, so let me ask you some other questions, and then we'll get into some questions specifically about that and see what's going on there. ",routine,24_6,T,gc,,"Achha, toh main aapko aur kuch sawaal puchunga, phir hum uss vishay ke baare mein kuch sawaal puchenge aur dekhenge ki wahan kya ho raha hai."
+7,Okay.,inactive,24_7,P,gc,,Thik hai.
+8,Do you ever find yourself depressed or anxious?,symp/reasoning,24_8,T,yq,,Kya kya apko kabhi depression ya chintaatit hote hain?
+9,Yes,symp/reasoning,24_9,P,ack,,"Haan, the"
+10,A trouble with drugs or alcohol?,routine,24_10,T,yq,,Drugs ya alcohol se kya pareshani hai?
+11," Oh, no. ",routine,24_11,P,on,,"Aiyo, kya hua."
+12,Nothing like that. When did you first Notice you had the symptoms?,routine,24_12,T,irq,,Kuchh aisa nahi hai. Aapko pehli baar kab pata chala ki aapko lakshan hai?
+13,early teens maybe before,routine,24_13,P,id,,पहले टीन्स हो सकते है
+14,Do you Do you know what age?,routine,24_14,T,yq,,आप आपको पता है कि क्या उम्र है? (Aap aapko
+15,"No, no. ",routine,24_15,P,on,,"Nahi, nahi."
+16,All right. But you're thinking early teens maybe before?,routine,24_16,T,yq,,Theek hai. Par tum soch rahe ho early teens shayad pehle?
+17,Yeah.,routine,24_17,P,ack,,Haan.
+18,Do the symptoms of a really bothersome to you that caused me.,routine,24_18,T,yq,,Kya tumhe bohot pareshan karne waale lakshan hai jo mujhe hua.
+19,Yeah.,routine,24_19,P,ack,,Haan.
+20,Yeah. What kind of areas they cause you problems?,routine,24_20,T,irq,,"Haan, voh tere ko kaun se areas mein problem dete hain?"
+21,"I mean really all everywhere, I guess.",routine,24_21,P,id,,"Mai toh literally sab jagah, haan shayad."
+22,Yeah. Yeah.,routine,24_22,P,id,,Haan. Haan.
+23,Do do you work?,routine,24_23,T,yq,,"हाँ, क्या तुम काम करते"
+24,Yes. ,routine,24_24,P,ack,,Haan.
+25,this cause problems at work?,routine,24_25,T,yq,,Kya yeh kaam par problem kar dega?
+26,Yes.,routine,24_26,P,ack,,हाँ
+27,How about college?,routine,24_27,T,yq,,College pe kya?
+28,"Yes, it does",routine,24_28,P,ack,,"Haan, yeh karti hai"
+29,Okay. Have it at home?,routine,24_29,T,yq,,Theek hai. Ghar me hai kya?
+30,"Oh, yeah. ",routine,24_30,P,ack,,"Oh, haan."
+31,Good. Okay. All right. So tell me a little bit about the symptoms that you think might indicate ADHD. What's going on?,routine,24_31,T,irq,,Achha. Thik. Thik hai. Toh mujhe thoda batao ke tumhe konse lakshan hai jo ADHD ko dikhane ka sanket de sakte hai. Kya chal raha hai?
+32,"Well, When I go to class, and I find myself, you know, kind of going off into my own little world where the teachers talking, it's kind of like I just, I can't stand sitting down and then I'll stand up. And the teachers look at me like, Do you need something? And I'm like, No, I just really needed to stand up.",story,24_32,P,id,,"Jab mai class jaata hu, aur mujhe lagta hai ki mai khud ko dhoond raha hu, tab mai apne apko alag duniya mai jaane laga hu jab teacher bolte hai, toh mujhe bethke nahi raha jaata hai to mai khade ho jaata hu. Aur teacher mujhe dekh kar puchte hai, kya tumhe kuch chahiye? Mai kehta hu, nahi bas mujhe khade hone ki zaroorat thi."
+33,"So you feel compelled to, to stand up in class? ",routine,24_33,T,yq,,"Toh kya aapko majboori mehsus hoti hai, ki aap class mein khade ho?"
+34,Yes.,routine,24_34,P,ack,,Haan.
+35,"Even though you know, it might draw some attention.",routine,24_35,T,irq,,"Tumhe jaante ho, shayad kuch dhyaan khinch sakta hai."
+36,"Yeah, unfortunately, I mean, I know it, but I still I need to do it.",routine,24_36,P,id,,"Haan, afsos se, matlab, pata hai mujhe, par maine abhi bhi karna hai."
+37,"Alright, so I'm going to ask you a few questions. And as you can have two categories of questions. ",routine,24_37,T,gc,,"Acha, toh main aapse kuch sawaal poochhne jaa raha hoon. Aur jaise ki aapke paas do tarah ke sawaal ho sakte hain."
+38,"Okay, ",routine,24_38,P,gc,,shai ham K
+39,"so let's start with the first category. Do you feel like you have trouble establishing intention? And let's, let's look at this in terms of school? ",symp/reasoning,24_39,T,yq,,Toh chalo pehle category se shuru karte hai. Kya tumhe mehsoos hota hai ki tumhe niyat sthapit karne mein pareshani hai? Aur dekhte hai isko school ke context mein?
+40,"Yes, ",symp/reasoning,24_40,P,ack,,"Haan,"
+41,you do. Okay. How about when you have established attention Do you find yourself struggling to hold on to it?,symp/reasoning,24_41,T,yq,,"Tum karo. Theek hai. Jab tumhe tawajja qaim karne mein kaamyabi milti hai, kya tum khud ko isse taslem karne mein larte ho?"
+42,"Yes, yes.",symp/reasoning,24_42,P,ack,,"Haan, haan."
+43,"And again, I'll just stick with the school environment. Right. That's a place to be symptoms bother. Well, that's cool. ",routine,24_43,T,yq,,"Aur phir, main bas school ki environment mein rehta hoon. Sahi. Woh ek jagah hai jahan khwahishat pareshan karna ho. Achcha hai, woh toh cool hai."
+44,Yeah.,inactive,24_44,P,ack,,Haan.
+45,"Again, they bought other places, but that's a big issue?",inactive,24_45,T,irq,,"Fir se, unhone aur jagaho ko khareeda, par kya vo ek bada samasya hai?"
+46,That's a big one. ,inactive,24_46,P,id,,Uff ye badi si hai.
+47,Okay. Do you have trouble listening in class?,symp/reasoning,24_47,T,yq,,Theek hai. Kya tumhe class mein sunne mein dikkat aati hai?
+48,"Yes, ",symp/reasoning,24_48,P,ack,,"Haan,"
+49,you do. How about following through on instructions that are provided by say the professor?,symp/reasoning,24_49,T,yq,,Tum karo. Professor ke kehne par jo directions diye gaye hai unko follow karne ki baat kya?
+50,"Yes, ",symp/reasoning,24_50,P,ack,,"Haan,"
+51,yeah. class projects are the hardest.,inactive,24_51,P,id,,Haan. Class projects sabse muskil hote hain.
+52,Do you do you find yourself organized?,routine,24_52,T,irq,,Kya tumhe tumhe khud ko sanrachit payate ho?
+53,"Yeah, I pretty organized so",routine,24_53,P,id,,"Haan, main kaafi organized hoon toh"
+54,pretty organized.,routine,24_54,T,id,,bahut hi organized.
+55,"Do you find yourself in school or other settings, avoiding activities that require a lot of mental effort?",routine,24_55,T,irq,,"Kya aap khudko school ya kisi aur jagah mei paate hai, jaha par aap activity se bachte hai jo zyada dimaag ki mehnat mangti hai?"
+56,"Yeah, they give me a headache and I just don't want to deal with it.",routine,24_56,P,id,,"Haan, isse mujhe sir dard hota hai aur main bas isse deal karna nahi chahta."
+57,"What are some things you avoid? Oh,",routine,24_57,T,irq,,"Kuch cheeze aap avoid karte hai? Oh,"
+58,games. I can't stand chess. I just So understand it and then people explained to me the rules and I just zoned out.,routine,24_58,P,id,,Games. Mujhe chess bardasht nahi hai. Main use bas utna hi samajhta hun aur fir logon ne mujhe rules samjhaye aur main bas khoye raha.
+59,They were find yourself losing things that you need to to function at work or school.,routine,24_59,T,yq,,Unhe apne kaam ya school ke liye zaruri cheezon ko khone ka ehsaas tha jisse wo kaam ya school mein apna kaam karna mushkil ho gaya.
+60,No. No.,routine,24_60,P,on,,Nahi. Nahi.
+61,distracted??,routine,24_61,T,yq,,disturbed??
+62,Yes. distracted. distracted.,symp/reasoning,24_62,P,ack,,Haan. distract hoga. distract hoga.
+63,fairly easily?,routine,24_63,T,yq,,अच्छी त
+64,"Yeah, yeah.",routine,24_64,P,ack,,"Haan, haan."
+65,How about forgetfulness?,symp/reasoning,24_65,T,irq,,क्या भूलनेवाल
+66," Yeah, I am pretty forgetful.",symp/reasoning,24_66,P,id,,"Haan, mujhe bahut bhulakkad lagta hai."
+67,"Okay, so I'm gonna move and ask you another category of questions.",routine,24_67,T,gc,,"Theek hai, toh main move karke tumse aur ek category ki questions poochunga."
+68,Okay.,inactive,24_68,P,gc,,Thik hai.
+69,Okay. How do you find yourself? fidgeting?,routine,24_69,T,yq,,Acha. Tum apne aap ko kaise dhundte ho? fidgeting?
+70,"Yes, yeah.",routine,24_70,P,ack,,"Haan, haan."
+71,"How do you deal with I think you touched on this before, but I did it with quiet activities. Like for example, reading.",symp/reasoning,24_71,T,irq,,"Tum isspe pehle baat chuke ho par maine chupke se kaam kiya. Jaise ki, padhai karke."
+72,I really struggle with that.,symp/reasoning,24_72,P,id,,मैं वह के साथ वास्तव में स
+73,You start with that? Yeah.,routine,24_73,T,irq,,Tum uske sath shuru karo? Haan.
+74,"I can play video game for an hour, but I can't Read or play game or draw? ",routine,24_74,P,id,,"मैं एक घंटे के लिए वीडियो गेम खेल सकता हूँ, पर मैं पढ़ नहीं सकता या गेम खेल सकता हू"
+75,"So when you are engaged in quiet activities, do you find yourself kind of wandering off?",routine,24_75,T,yq,,"Kya aap shant samay mein vyast hai, toh apne aap ko kahin se khoye jaate hain?"
+76,"Yes, ",routine,24_76,P,ack,,"Haan,"
+77,you do. feel like you have an internal motor that won't shut off?,routine,24_77,T,yq,,क्या आपको आपके अंतरजालीय मोटर जैसी लगती है जो बंद नहीं होती?
+78,"No, I wouldn't say that.",routine,24_78,P,on,,"Nahi, main waisa nahi kehunga."
+79,No. Okay.,inactive,24_79,T,gc,,Nahi. Thik hai.
+80,Do you feel like you talk excessively?,routine,24_80,T,irq,,Kya tumhe lagta hai ki tum bahut zyada baatein karte ho?
+81,"Yes. Yeah, yeah, almost to the point that I allow even almost I interrupt people a lot.",symp/reasoning,24_81,P,id,,"Haan. Haan, haan, lagbhag us tak main anumati bhi deti hoon ki main kisi ko bhi aksar interrupt karta hoon."
+82,What settings to find that's a problem.,routine,24_82,T,irq,,कौनसे सेटिंग्स ढूंढने हैं जो एक
+83,at schools a big one.,routine,24_83,P,id,,Schools me ek bada wala hai.
+84,That's a big one?,routine,24_84,T,irq,,Woh bada waala hai kya?
+85,"Yeah. Because I'll talk and I'll talk. I mean, I'll get off track when called on by the teacher. And then somebody else will say something and be like, Oh, yeah, no, I forgot. Yeah, that too. And, I mean, I feel horrible, but I just I can't stop it.",routine,24_85,P,id,,"Haan. Kya karoongi main baat karoongi. Matlab, jab teacher mujhse puche to mai track se hatta hoon. Fir koi aur kuch bolega aur beech mei kahenge, Arre, haan, mujhe yaad nahi tha. Haan, wo bhi. Aur, main to bohot buree mehsus karti hoon, par mai bas rok nahi sakti."
+86,Do you ever find that same class you blurt things out?,symp/reasoning,24_86,T,yq,,क्या आप कभी महसूस करते हैं कि आप उसी कक्षा में हैं जहाँ आप
+87,Yes. Yeah.,symp/reasoning,24_87,P,ack,,Haan. Haan.
+88,do you interrupt people?,routine,24_88,T,yq,,Kya aap logon ko beech mein beech mein se beech mein interfere k
+89,"Yes, I do",routine,24_89,P,ack,,"Haan, main karrta hoon"
+90,"have a situation where, like, say at work or school or at home, where you have to wait your turn for something. Do you find that subproblem?",routine,24_90,T,irq,,"Kya aapke paas aisi situation hai jahaan, jaise ki kaam par ya school mein ya ghar par, aapko kuch cheez ka intezaar karna padta hai? Kya aapko yeh subproblem milti hai?"
+91,"What, like at a drive thru?",routine,24_91,P,crq,,"Kya, drive-thru mein?"
+92,It could be a drive thru dude. If your drive thru Do you find?,routine,24_92,T,cd,,Yeh ek drive-thru wala bandha ho sakta hai. Agar tumhara drive-thru hai to kya tumhara milta hai?
+93,"I mean, I don't get it.",routine,24_93,P,crq,,"Mera matlab hai, mujhe samajh nahi aata."
+94,You don't have any trouble with like waiting in lines or waiting for your turn? I guess not. It's not okay. Okay.,routine,24_94,T,cd,,Kya tumhe koi dikkat nahi hoti hai waise khade rehkar line mein ya phir apni baari ka intezaar karne mein? Mujhe lagta hai nahi. Ye theek nahi hai. Thik hai.
+95,"All right. So I'm gonna get you in to see one of our counselors, you mentioned that these symptoms are bothersome to you. And I want to make sure you get treated. We'll take a couple days to get you in to see somebody that okay, ",routine,24_95,T,id,,"Theek hai. Toh main aapko ek hamare counsellor ke paas le jaane wala hun, aapne bataya ki ye lakshan aapko pareshan kar rahe hain. Aur main chahta hun ki aapka ilaaj ho jaaye. Hum aapko kisi ke paas le jane ke liye kuch din lagega, theek hai?"
+96,"yes, that's fine. ",inactive,24_96,P,ack,,"Haan, wahi thik hai."
+97,So I want to thank you for spending this time with me and answering these questions. This has been really helpful.,inactive,24_97,T,gt,,Isliye main tumko dhanyavad dena chahta hun iss samay ko mere saath bitane ke liye aur in sawalon ka uttar dene ke liye. Yeh bahut hi madadgar raha hai.
+98,Thank you.,inactive,24_98,P,gt,,Shukriya.
+99,Thanks.,inactive,24_99,T,gt,,Dhanyava
+100,summary,"The patient find themselves distracted and fidgety. They feel they might have ADHD. The patient feels depressed and anxious. They do not use drugs or alcohol. They have had this symptoms since their early teens. The patient feels the need to stand up in class despite it might draw attention. The patient has trouble establishing and holding attention. The patient has trouble listening to class and following instructions from professor. The patient is organized however they wish to avoid activities with a lot of mental effort. They find themselves distracted, forgetful and fidgeting. The patient says they can play video games for an hour but can't read or draw. They find themselves wandering off. The patient accept they talk excessively and interrupt people a lot which is a big problem in school. The patient also feel they blurt things out. The patient does not have issues with waiting in line. The therapist offers to set the patient up with a counselor in a couple of days.",,,,,
+101,primary_topic,ADHD,,,,,
+102,secondary_topic,school,,,,,

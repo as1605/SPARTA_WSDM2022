@@ -1,0 +1,54 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi, Heidi, my name is Dr. Sarah. I'm one of the emergency doctors. I'd like to have a chat with you about what's been going On how you've been feeling so we can find out how best to help you. Would that be alright? ",routine,116_0,T,yq,,"Hey, Heidi, mera naam Dr. Sarah hai. Mai aapki emergency doctor me se ek hoon. Mujhe aapse baat karni hai aapki halat aur aapke man mein chal raha kya hai ke baare mein taaki hum aapki madad kaise kar sakte hai, pata laga sake. Kya ye theek hoga?"
+1,"Yeah, ",inactive,116_1,P,op,,"Han, th"
+2,"thanks. So everything we talk about will be confidential unless I think that you're at risk of being seriously harmed or someone else's, or they are being seriously harmed. In that case, I'd need to tell someone so we could make sure that person is safe. Is that okay?",inactive,116_2,T,yq,,"Dhanyavaad. Toh saari baatein hum karenge nishpati taki aapke liye khatre ki sthiti ho sakti hai ya phir kisi aur ke liye, ya wo khud ko khatre mein hai. Us haalaat mein, maine kisi ko batana zaroori hoga taki hum us vyakti ko surakshit kar sake. Kya yeh theek hai?"
+3,"Yeah, that's okay.",inactive,116_3,P,op,,"Haan, woh theek hai."
+4,"So, it seems like your mom's pretty worried about you. But I'm curious. Are you worried or concerned about anything at the moment?",symp/reasoning,116_4,T,yq,,"Bhai, lag raha hai ki teri mom toh kaafi chinta mein hai tere liye. Lekin main toh hairaan hoon. Kya teri koi chinta ya pareshani hai iss waqt?"
+5,"No, everything's fine.",symp/reasoning,116_5,P,on,,"Nahi, sab theek hai."
+6,Yeah. How's your mood been recently?,symp/reasoning,116_6,T,irq,,Haan. Tumhara mood haal hi mein kaisa raha hai?
+7,Crap.,symp/reasoning,116_7,P,on,-1.0,Yeh k
+8,Why?,routine,116_8,T,irq,,Kyun?
+9,"just crap. Just don't care about anything, don't want to do anything.",routine,116_9,P,id,-1.0,"Bas yahi bakwas hai. Sirf kuch bhi fikr nahi, kuch bhi karna nahi chahte."
+10,So how have you been spending your time filling up your days?,routine,116_10,T,irq,,"Toh tum kaise ho, apne din bhar ko bharne ke liye apna samay kaise vyatit kar rahe ho?"
+11,"just lying in bed all day, doing nothing. Just thinking, I've got these, these thoughts. ",routine,116_11,P,id,,"Bas hafte mei cho samay gujari, kuchh vi na karke. Bas soch rahi hun, mere paas yehi, yeh vichar hai."
+12,What thoughts?,symp/reasoning,116_12,T,crq,,Kya khayal hai?
+13,Any thoughts of dying,symp/reasoning,116_13,P,cd,-1.0,कोई भी मौत के बार
+14,You think about that?,routine,116_14,T,crq,,Kya tum uske baare mein sochte ho?
+15,"All the time, every day.",routine,116_15,P,cd,,"Har roz, har din."
+16,Do you think about how that could happen?,symp/reasoning,116_16,T,yq,,Kya tum yeh sochtay ho ke woh kaise ho sakta hai?
+17,I think I'll probably jump over a bridge.,symp/reasoning,116_17,P,id,-1.0,Mujhe lagta hai ki main shayad ek pul par kood jaaunga.
+18,Which one?,routine,116_18,T,crq,,Kaunsa?
+19,there's a really high bridge near my house the swing bridge. It's it's really high so I know I'll die if I jump off. There's also a train track underneath. So if the fall doesn't kill me then the train will,story,116_19,P,cd,,"Meri ghar ke paas ek bahut uncha pehra hai, woh swing bridge hai. Woh bahut uncha hai toh main janti hu ki agar main usse jump karti hu toh main marr jaungi. Neeche ek train ki patriyaan bhi hain. Toh agar mujhe girne se maut nahi aayi toh train mujhe marenge."
+20,Have you made any plans about actually going in?,routine,116_20,T,irq,,Kya tum actually jaane ke baare mein koi planning ki hai?
+21,"I'm thinking, thinking all the time",routine,116_21,P,id,,"मैं सोच रहा हूँ, हर समय सो"
+22,what stopped you from going there?,routine,116_22,T,irq,,kya aapko wahan jaane se rok diya?
+23,"My mom, she'd probably be really upset if I did it but things have just gotten worse and I can't take it anymore.",routine,116_23,P,id,,"Meri maa, woh shayad bahut upset ho jayengi agar maine ye kiya, lekin haalat aur bhi kharab ho gayi hain aur mujhse aur nai sehne ki takat nahi hai."
+24,Do you think about how you could get to the bridge? Um,routine,116_24,T,yq,,Kya tum sochte ho ki tum pul tak kaise pahunch sakte ho? Uh
+25,"I've been looking at bus timetables today. The bus that goes by the bridge. Yeah, I think I'm gonna do it tonight. Just can't take it anymore. She can't treat me this way.",routine,116_25,P,id,,"Mai bus timetables dekh rahi thi aaj. Bus jo pul se guzarta hai. Haan, mujhe lagta hai main aaj raat karungi. Mujhe aur bardaasht nahi ho raha hai. Woh mujhe is tarah se nahi treat kar sakti."
+26,Like what?,routine,116_26,P,crq,,Kaisa hai?
+27," I know sometimes when people have a feeling crap and struggling with stuff like you are, they can do other things to hurt themselves, like burning or cutting.",routine,116_27,T,cd,,"मुझे पता है कि कभी-कभी जब लोग क्रैप के भावना से गुजर रहे होते हैं और जैसे आप वर्तमान में हैं, तो वे खुद को चोट पहुंचाने के लिए"
+28,"Yeah, I cut up my links. ",story,116_28,P,id,,"Haan, maine apni links kaat diye."
+29,When was that?,story,116_29,T,irq,,वो कब था हो?
+30,Today yesterday every day.,story,116_30,P,id,,"Aaj kal, kal, har din."
+31,Have you ever done anything else to hurt yourself?,story,116_31,T,yq,,Kya tumne kabhi apne aap ko chot pahunchane ke liye kuchh aur kiya hai?
+32,"No, just cutting",story,116_32,P,on,,"Nahi, bas cutting lagao"
+33,it to the have thoughts about harming anyone else?,story,116_33,T,irq,,Kya aapke mann aur dimaag mein kisi aur ko nuksaan pahunchane ke baare mein khayal hai?
+34,No and never have anyone else.,story,116_34,P,id,,Koi aur kabhi nahi hai kya.
+35,"No, I don't think so.",inactive,116_35,P,on,,"No yaar, I don't think so."
+36,"Assess for disturbances in perception that can be auditory or visual. It's also important to assess the level of protection and supervision that the family offers. caregivers are able to provide for the young person and what other protective factors there are,",routine,116_36,T,id,,"Perception mein kharabi ko assess karein jisse sunai ya dekhne se juda ho sakta hai. Sath hi, ye bhi mahatvapurn hai ki pariwar dwara di gayi suraksha aur nigrani ka star assess kiya jaaye. Dekh bhaal karne waale log chhote vyakti ke liye kya provide kar sakte hain aur kya aur koi surakshit karne waale karniyaan hain, ye bhi assess karna zaroori hai."
+37,Just mum and jack is my younger brother.,routine,116_37,P,id,,Mum aur Jack hi mera chota bhai hai.
+38,How are things at home?,routine,116_38,T,irq,,Ghar pe sab kaise hain?
+39,Not good. Your mum mums always having a go at me. And today we had a massive fight,story,116_39,P,on,-1.0,Mummy tumhara sunna bura hai. Hamesha mere yahan mujhe daantti rehti hain. Aur aaj humne ek badi takraar ki.
+40,Do you have someone you can talk to about what's been going on how you've been feeling about these thoughts about wanting to die?,routine,116_40,T,yq,,"Kya aapke paas koi hai jisse aap baat kar sakte hain, aapke man mein chal rahe haalat aur iss khayal ke baare mein jo aapko aapse maut chahte hue khayaal aa rahe hain, unke baare mein?"
+41,"I talked to Sophie, she's she's my friend. She wants to die too, so. I know she won't tell anyone.",story,116_41,P,id,,"Mene Sophie se baat ki, wo meri dost hai. Usko bhi marne ki chaah hai, isliye. Mujhe pata hai wo kisi ko nahi batayegi."
+42,Have you had anything alcoholic to drink today?,routine,116_42,T,yq,,क्या आपने आज कुछ शराबयुक्त पिया है
+43,No.,routine,116_43,P,on,,Nahi.
+44,What about other drugs slot? pot I six to see other people's prescription drugs.,routine,116_44,T,yq,,Other drugs ka slot kya? Main chahata hoon ki main dusron ke prescription drugs dekh sakoon.
+45,No,routine,116_45,P,on,,Nahi
+46,"Any questions for me? Thank you so much for talking to me today. I appreciate it. I'm worried about some of the things you've told me and I'm especially worried that you might be at risk of hurting yourself. So I'd like to ask one of my specialist colleagues, john to come and have a chat with you. He's a mental health nurse. So he specializes in talking to young people who've been struggling with their mood or at risk of hurting themselves. Would that be okay?",routine,116_46,T,yq,,"Mera kya koi sawaal hai aapke liye? Aaj mujhse baat karne ke liye aapka dhanyavaad. Mujhe iska bahut abhaar hai. Aapne jo mere saath kuch baatein ki hai, usse mujhe chinta hai aur mujhe vaisa hi dar hai ki aapko apne aap ko chot pahunchane ka khatra ho sakta hai. Isliye main apne visheshagy john se aapse kuch baat karne ke liye bulana chahta hu. Vo ek mansik swasthya nurse hain. Isliye vo un yuva logon se baat karte hain jo apne mood mein pareshaan hain ya apne aap ko chot pahunchane ka khatra ho. Kya ye sahi hoga?"
+47,That's okay.,inactive,116_47,P,ack,,Thikā hē.
+48,"It is normally about half an hour, but it can take a little bit longer. Can I get you something to drink while you wait?",inactive,116_48,T,irq,,"Normally, yeh lagbhag aadha ghanta ka hai, pr yeh thoda sa zyada bhi samay le sakta hai. Kya aapko kuch peene ke liye mil jaaye jab tak aap intezaar kar rahe hain?"
+49,"Yeah, that's fine. Can I have a coke?",inactive,116_49,P,op,,"Haan, woh thik hai. Mujhe ek coke mil sakta hai?"
+50,summary,"The patient's mood has been crap and they have thoughts of dying by jumping of a bridge. The patient's mom has stopped them for going to the bridge. The patient hurt themselves by cutting up their links. The patient and their mom had big fight that day. The patient talks to their friend Sophie about their thoughts who wants to die too. The patient has not had any alcohol or drugs. The therapist sets the patient up with their colleague, john who is a mental health nurse to come in then. ",,,,,
+51,primary_topic,suicide,,,,,
+52,secondary_topic,mom,,,,,

@@ -1,0 +1,50 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Hi Chucky, How are you doing ?",inactive,87_0,T,gt,0.0,"""Hi Chucky, Kaise ho tum kar rahe ho?"""
+1,I'm doing good. What about you?,inactive,87_1,P,gt,1.0,Me bhi thik kar raha hoon. Aap kaise hain?
+2,Yeah me too thanks for asking. I understand you've been having some difficulties that brought you in to our agency.,inactive,87_2,T,irq,0.0,"Haan mai bhi, shukriya poochne ke liye. Mujhe pata hai aapko kuch mushkilo ka samna karna pada jo aapko hamare agency me le aaya."
+3,"Yeah, I'm really worried about my drinking.",symp/reasoning,87_3,P,id,-2.0,"Haan, mujhe apni drinking ke baare mein bohot chinta ho rahi hai."
+4,You're worried about your drinking. Tell me about your drinking.,symp/reasoning,87_4,T,irq,0.0,Tum apne drinking ke baare mein pareshan ho. Mere ko apne drinking ke baare mein batao.
+5,"So sometimes at work, you've been having cravings for alcohol and the other There are times when you will have a craving?",symp/reasoning,87_5,T,crq,0.0,कुछ समयों में काम पर तो आपको अल्कोहल की तमन्नाएं और दूसरों को भी होगी?
+6,"Yes, kind of at home, you know, not really doing anything for a period Hmm.",symp/reasoning,87_6,P,id,0.0,"Haan, ghar pe thodi-si hai, pata hai na, kuchh khaas kam nahi ho raha hai, sarcch hai."
+7,"So other than that feeling of having the craving, is there anything you do after you have a craving?",symp/reasoning,87_7,T,irq,0.0,Uske baad bhi us ichcha ke alaawa kuch karte ho kya jab tumhe us ichcha hoti hai?
+8,"Um, yeah, sometimes I'll, I'll have a drink. And I just feel like I want to get into it.",symp/reasoning,87_8,P,id,0.0,"Arre, haan, kabhi kabhi main ek drink lenge. Aur mujhe aisa lagta hai ki main isme chadhna chahta hu."
+9,How much do you drink?,routine,87_9,T,irq,0.0,Tum kitna peete ho?
+10,Like a beer or two.,routine,87_10,P,id,0.0,Ek beer ya do.
+11,Is this when you work in a day? ,routine,87_11,T,yq,0.0,Kya yeh din mein kaam karte ho?
+12,No,routine,87_12,P,on,0.0,Nahi
+13,"So when you're having cravings at work, you're not drinking there?",routine,87_13,T,yq,0.0,"क्या आपको ऑफिस में तलाशार हो रहा हो, वहाँ पेय नहीं क"
+14,"No, no.",routine,87_14,P,on,0.0,"Naa, naa."
+15,Right. So tell me about your typical alcohol consumption week.,routine,87_15,T,irq,0.0,Right. Toh tell me about your typical alcohol consumption week.
+16,"Like Do on Fridays after work, you know, after a long week, that's kind of when I really crave it. Like, go have a drink with some friends. I'll have a drink sometimes with dinner. If I'm at a social event, kind of feel like I want to have a drink, and I don't really want to feel that way. I feel like that might be a problem.",routine,87_16,P,id,-1.0,"Jaise Jumme ko kaam ke baad, tum jante ho, ek lambi hafte ke baad, us samay mujhe sach mein iski bahut iccha hoti hai. Ki, kuch dosto ke saath ek drink lekar jau. Kabhi kabhi toh raat ka khana ke saath ek drink leta hu. Agar mai kisi social event par hu, tab aisa lagta hai ki mujhe ek drink lena chahiye, aur mujhe sach mein waisa nahi karna chahte. Aisa lagta hai ki yeh koi problem ho sakti hai."
+17,You're worried that the craving is indicating you have an alcohol problem?,routine,87_17,T,crq,0.0,Kya tumhe dar hai ki yeh jadabazi tumhare liye ek sharab ka samasya batata hai?
+18,Yeah.,routine,87_18,P,op,0.0,Haan.
+19,Have you ever tried to cut down your drinking and you're unable to do so?,symp/reasoning,87_19,T,yq,0.0,"""क्या आपने कभी अपने पेय पर कट डाउन करने का प्रयास किया है और आप इसे करने म"
+20,"Um, well, I mean, usually I'm, I'm able to limit my days if I say I'll just going to go to a party this weekend. I'll have one and then Yeah, usually I can stick to it, too, I guess.",symp/reasoning,87_20,P,id,-1.0,"Arey, haan, main to hamesha hi koshish karta hoon ki jab main kahun ki main sirf iss weekend ek party mein jaa raha hoon, to main apne dinon ko seemit kar sakun. Ek party karunga aur phir haan, hamesha main ussi ko pakad sakta hoon, mujhe lagta hai."
+21,You spend a lot of time trying to obtain alcohol.,routine,87_21,T,irq,0.0,You apne hamesha try karte hai ki alcohol hasil kar lo.
+22,"Um, no, I, I guess not. I've I mean, I think about where I want to have a craving I think about like, when I want to have it, but I don't really spend a lot of time thinking about it or trying to get it.",routine,87_22,P,on,0.0,"Um, nahi, main, main toh nahi sochta. Main matlab, main jahaan pe mujhe waise mujhe apni ichha ho, main sochta hun ki kab mujhe woh chahiye, lekin main sach mein bohot jyada samay nahi bitata uske baare mein sochkar ya usko haasil karne ki koshish karke."
+23,How about in terms of your responsibilities? Have you failed to uphold any responsibilities because you're drinking? Or you have any social problems because you're drinking.,symp/reasoning,87_23,T,yq,0.0,Kya aapki jimmedariyon ke mamle me koi pareshani hai? Kya aap sharaab pi rahi hai isliye aapne apni jimmedariyon ka palan nahi kiya? Kya aapki sharaab peene ki wajah se koi samajik pareshani hai?
+24,"Well. No, I guess not. I mean, I get really friendly when I have a drink. So I don't really think that's a problem. But you know, I guess not.",symp/reasoning,87_24,P,on,0.0,"Hmm. Nahi, mujhe lagta hai nahi. Matlab, jab mujhe sharab milti hai to main bahut dostana ho jaati hu. To main yeh nahi sochti ki yeh ek samasya hai. Par pata hai, lagta hai nahi."
+25,It doesn't cause social problems. Do you find yourself giving up important activities because you're drinking instead?,symp/reasoning,87_25,T,irq,0.0,Yeh samajik samasyaen nahi paida karti. Kya aap pite huye hain isliye ke aap zaruri kaam chhod dete hain?
+26,"So thinking about it, maybe still some craving, but you're still going. You're still participating.",symp/reasoning,87_26,T,crq,0.0,"So soch rahe hain, shayad abhi bhi kuch tarashe hai, lekin tum abhi bhi jaa rahe ho. Tum abhi bhi hissa le rahe ho."
+27,Yeah.,inactive,87_27,P,op,0.0,Haan.
+28,Are you engaging in activities that are dangerous?,routine,87_28,T,yq,0.0,Kya aap khatarnaak gatividhiyon mein vyast ho rahe hain?
+29,"Because of the drinking, no.",routine,87_29,P,on,0.0,"पीने की वजह से, नहीं।"
+30,Drinking and driving?,routine,87_30,T,yq,0.0,Peene aur sair karna?
+31,"Well, no.",routine,87_31,P,on,0.0,"Accha, nahi."
+32,There's nothing like that. Yeah.,routine,87_32,T,crq,0.0,Kuchh aisa nahi hota. Haan.
+33,No. I wouldn't say worse. No.,routine,87_33,P,cd,0.0,No. Mai kahunga nahi. Bahut bura nahi kahunga. No.
+34,Do you have any medical or mental health problems in general?,routine,87_34,T,yq,0.0,Kya aapke paas koi general medical ya mental health ki samasya hai?
+35,No.,routine,87_35,P,on,0.0,Na baba
+36,Do you find that you have to increase the amount of alcohol you're drinking to get the same effect?,symp/reasoning,87_36,T,yq,0.0,Kya aapko mehsus hota hai ki aapko wahi asar haasil karne ke liye sharab ki matra ko badhana padta hai?
+37,No.,symp/reasoning,87_37,P,on,0.0,Nahi.
+38,"all right, and you've been drinks you save a drink about the same amount each time you drink. Have you noticed that the effect has been diminished, like you're not getting the same effect from the alcohol?",symp/reasoning,87_38,T,yq,0.0,"Bilkul, aur tussi drinks vich full control karta ho. Har vaar tu drinks peene toh pehlan sochda hunda hai ki kinni quantity vich peena ae. Tussi dekhya ae keh peene da asar ghatt ho gya hai, jivein tusi shraabi ni si."
+39,I usually feel the same.,symp/reasoning,87_39,P,id,0.0,Mi usually hee the same feel karta hoon.
+40,"Goes same way. Yeah. Have you ever noticed any symptoms when you stop drinking, like withdrawal?",symp/reasoning,87_40,T,yq,0.0,"Wahi sameh tarah chalte jata hai. Haan. Kya kabhi aapne dhaal (drinking) band karne par koi lakshan (symptoms) mehsus kiye hai, jaise ki khinchav (withdrawal)?"
+41,What do you mean by withdrawal?,routine,87_41,P,crq,0.0,Tum kya matlab ke liye withdrawal kahte ho?
+42,"Like when you stop using alcohol, are you finding that you're anxious, depressed, you have physical reactions like that. ",routine,87_42,T,cd,0.0,"Jab tum alcohol chhodte ho, kya tumhe lag raha hai ki tum pareshan ho rahe ho, udaas ho rahe ho ya tumhare sharir mein aisi koi pratikriya ho rahi hai?"
+43,No.,symp/reasoning,87_43,P,on,0.0,Nahi.
+44,"Okay, Jackie, I appreciate you. Tell me about what's going on and answer my questions. If you're okay with it, I'll get you in to see a counselor. I'll get that scheduled. And we can go from there.",story,87_44,T,gt,0.0,"Theek hai, Jackie, mujhe tere liye prashansa hai. Batao mujhe kya ho raha hai aur mere sawaalon ka jawab do. Agar tera man ho, main tujhe counsellor se milwa dunga. Main usko schedule karva dunga. Fir hum wahan se aage badh sakte hain."
+45,"Okay, thank you very much.",inactive,87_45,P,gt,0.0,"अच्छा, धन्यवाद।"
+46,summary,"The patient has a craving for alcohol. The patient has craving during work or when they are not doing anything at home. They drink a beer or two. The patient's typical consumption is during friends, with friends and at social events. The patient is able to limit their alcohol consumption. The patient does not spend too much time thinking about alcohol, not skip on responsibilities nor important activities. The patient does not engage in dangerous activities due to drinking and neither they drink and drive. They do not suffer from medical or mental health problem. They do not see the need to increase the amount of alcohol to feel the same effect. The patient has not noticed any withdrawal symptoms. The therapist assures to set the patient up with a counselor. ",,,,,
+47,primary_topic,drinking,,,,,
+48,secondary_topic,friends,,,,,

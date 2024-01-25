@@ -1,0 +1,61 @@
+,Utterance,Sub topic,ID,Type,Dialogue_Act,Emotion,Transliterated
+0,"Kathleen Hi,",inactive,60_0,T,gt,,Kathleen Hi.
+1,good. How are you?,inactive,60_1,P,gt,,Acha hai. Tum kaise ho?
+2,"doing? Well, thanks for asking. I'd like to ask you some questions about your memory. Listen carefully. I'm going to say three words. You say them back after I stop reading. Here they are milk, sensible before. Now repeat those words back to me. ",symp/reasoning,60_2,T,gt,,"Karte ho? Toh, dhanyavaad puchhne ke liye. Main tumse kuch sawaal apni yaadshaakti ke baare mein poochna chahti hoon. Dhyaan se suno. Main teen shabd boloongi. Jab main padhna band karoon, tum woh shabd lautaa do. Yahaan hai doodh, samajhdaari pehle. Ab woh shabd mujhe lautaa do."
+3,"Milk, sensible and before. ",symp/reasoning,60_3,P,cr,,"Doodh, samajhdar aur pehle."
+4,Now keep those words in mind. I'm going to ask you to say them again in a few minutes. Okay?,symp/reasoning,60_4,T,ci,,Ab ab us vajah se dhyaan me rakho. Kuch hi minute me main tumse dobaara unko kehne ko kahunga. Thik hai?
+5,What day is today?,symp/reasoning,60_5,T,irq,,आज दिन कौन सा है?
+6,Monday,symp/reasoning,60_6,P,id,,सोम
+7,what is the year,symp/reasoning,60_7,T,irq,,Saal / Varsha kitna hai?
+8,2015,symp/reasoning,60_8,P,id,,2015 ki sa
+9,What is the season?,symp/reasoning,60_9,T,irq,,Kya season hai?
+10,Summer. still hot.,symp/reasoning,60_10,P,id,,स्टमर। फिर भी
+11,What is the month of the year?,symp/reasoning,60_11,T,irq,,Saal saal ki maahina ke ho?
+12,September,symp/reasoning,60_12,P,id,,September मही
+13,What is the day of the week?,symp/reasoning,60_13,T,irq,,Kaun sa din hai?
+14,Monday,symp/reasoning,60_14,P,id,,"Somwaar', '"
+15,What is the date?,symp/reasoning,60_15,T,irq,,Date kya hai?
+16,The 14th,symp/reasoning,60_16,P,id,,The chautha'
+17,where are we now?,symp/reasoning,60_17,T,irq,,Hum log ab kahan hain?
+18,in your office,symp/reasoning,60_18,P,id,,तुम्हारे office में
+19,What is the state?,symp/reasoning,60_19,T,irq,,Kya haalat hai?
+20,Delaware,symp/reasoning,60_20,P,id,,डेल
+21,What is the county?,symp/reasoning,60_21,T,irq,,County kya hai?
+22,New Castle,symp/reasoning,60_22,P,id,,न्यू कैस
+23,what is the city?,symp/reasoning,60_23,T,irq,,yeh kaisa hai Uder hai?
+24,Smyrna,symp/reasoning,60_24,P,id,,Smyrna -
+25,What is the name of the building?,symp/reasoning,60_25,T,irq,,Is building ka naam kya hai?
+26,I didn't know it had a name. Okay.,symp/reasoning,60_26,P,id,,Maine uska naam nahi jaana tha. Thik hai.
+27,What type of building is it?,symp/reasoning,60_27,T,irq,,Yeh building kaun se type ki hai?
+28,A school.,symp/reasoning,60_28,P,id,,Ek school hai.
+29,What floor Are we on?,symp/reasoning,60_29,T,irq,,Are hum kaun se floor par hain?
+30,The second,symp/reasoning,60_30,P,id,,The doosra
+31,what were those three words I asked you to remember?,symp/reasoning,60_31,T,irq,,उन तीन शब्दों को तुमसे मैंने किसे याद रखने को कहा
+32,Milk.,symp/reasoning,60_32,P,id,,Doodh.
+33,cup. Book. Okay.,symp/reasoning,60_33,P,id,,Cup. Book. Thik hai.
+34,Now I'd like you to subtract seven from 100 then keep subtracting seven from each answer until I tell you to stop. What is 100 take away,symp/reasoning,60_34,T,cv,,"Ab me tumse 100 se saat ghatana chahta hun, phir har jawaab se saat ghtate jao jab tak main tumhe rukne ke liye na bolu. 100 se kitna ghatana hai?"
+35,92,symp/reasoning,60_35,P,cr,,Nau sau
+36,keep going,symp/reasoning,60_36,T,cv,,जार्य र
+37,85,symp/reasoning,60_37,P,cr,,85 हद
+38,keep going,symp/reasoning,60_38,T,cv,,chalte raho
+39,79,symp/reasoning,60_39,P,cr,,"""मैं"
+40,Keep Going,symp/reasoning,60_40,T,cv,,चलते रहो
+41,72,symp/reasoning,60_41,P,cr,,Chaar-versus-
+42,keep going.,symp/reasoning,60_42,T,cv,,जारी रख
+43,And 64 ,symp/reasoning,60_43,P,cr,,ओर ६४
+44,"Okay, good. What is this?",symp/reasoning,60_44,T,irq,,"Okay, accha. Ye kya hai?"
+45,Your eye,symp/reasoning,60_45,P,id,,Tere aankh
+46,And what is this,symp/reasoning,60_46,T,irq,,"""Or ye kya hai?"""
+47,your ear,symp/reasoning,60_47,P,id,,Tumhara kaan
+48,"Now I'm going to ask you to repeat what I say. Ready? It is a lovely, sunny day, but too warm. Now you say that",symp/reasoning,60_48,T,yq,,"Ab mei tumse wahi baat bolne ko poochungi. Tayyar ho? Yeh ek khoobsurat, soorma bharra din hai, lekin thoda garam. Ab tum bolo wahi."
+49,is a lovely sunny day and it's warm.,symp/reasoning,60_49,P,cr,,यह एक खूबसूरत धूपवाला दिन है और य
+50,"Listen carefully, because I'm going to ask you to do something. Look at these pictures and point to the circle. Then point to the square. And then point to the triangle.",routine,60_50,T,ci,,"Dil se suno, kyunki mai aapse kuch kaam karne ke liye poochne wala hu. Inn tasveeron ko dekho aur golakar mein ishaara karo. Fir chaukankar mein ishara karo. Aur fir trikonakar mein ishara karo."
+51,Please do what this says to do. Okay.,routine,60_51,T,ci,,कृपया यह करने के लिए जो लिखा है वह करें
+52,"You'll find a piece of paper diala for you before using that blank piece of paper, please write a sentence. I see it. Thank you.",routine,60_52,T,ci,,"Tu ek kaghaz ka tukda dhundh lega, us khaali kaghaz ka istemaal karne se pahle, kripya ek vakya likhe. Mai dekhta hun. Dhanyavaad."
+53,Okay,inactive,60_53,P,cr,,Thik hai.
+54,"Please copy this design, you can hold on to that. Good",routine,60_54,T,ci,,"Please is design ko copy karo, tum usse pakad sakte ho. Accha hai."
+55,"Kathleen, that's the end of the test. I want to thank you This was very helpful. ",routine,60_55,T,ci,,"Kathleen, yeh test ka ant ho gaya. I want to thank you yeh bahut help kiya."
+56,Okay. Thank you,inactive,60_56,P,cr,,Accha. Thank you
+57,summary,"The patient is asked a series of questions to test their memory. The patient repeats the right words given by the therapist. The patient responds the following, the day is Monday, the year is 2015, the season is summer, the month is September, the day of week is Monday, they date is 14th, they are in office, the state is Delaware, the county is New Castle, the city is Smyra, don't know the building had a name, the building is a school, they are on second floor. The patient responds only milk, cup and book when asked to recall the initial three words. The patient is not able to keep subtracting 7 from 100 correctly. The patient responds eye and ear for things pointed out by the therapist. The patient is asked to repeat new three words which is repeated correctly. The patient is given a couple of physical tasks which is carried out. The test is completed. ",,,,,
+58,primary_topic,memory,,,,,
+59,secondary_topic,test,,,,,
