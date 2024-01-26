@@ -107,6 +107,7 @@ class LightningModel(pl.LightningModule):
         f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         precision = precision_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         recall = recall_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
+        self.log("val_f1",torch.tensor([f1]))
         return {"val_loss":loss, "val_accuracy":torch.tensor([acc]), "val_f1":torch.tensor([f1]), "val_precision":torch.tensor([precision]), "val_recall":torch.tensor([recall])}
 
     def validation_epoch_end(self, outputs):
