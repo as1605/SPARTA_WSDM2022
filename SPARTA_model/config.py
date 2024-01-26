@@ -38,7 +38,7 @@ config = {
     
     "hidden":[1024, 768, 512, 256, 128, 64],
     
-    "num_dialogue_acts":10,
+    "num_dialogue_acts":12,
     
     "model_config": [{"dac_inputs": 6}], #model_config,
     "select_model_config":-1, # it will be from [0, 1, 2, 3, 4, 5, 6, 7]

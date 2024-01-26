@@ -25,7 +25,7 @@ class DACModel(nn.Module):
         
         self.config = config
         self.model_config = config['model_config'][config['select_model_config']]
-        print(self.model_config)
+        # print(self.model_config)
         
         # speaker invariant representation model, attetnion/relevance model and gru block 
         

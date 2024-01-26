@@ -81,7 +81,7 @@ class LightningModel(pl.LightningModule):
     def training_step(self, batch, batch_idx):
         targets = batch['label']
         logits = self(batch)
-        print(batch_idx, targets)
+        # print(batch_idx, targets)
         
         loss = F.cross_entropy(logits, targets)
         
