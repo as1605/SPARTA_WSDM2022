@@ -17,7 +17,7 @@ class LightningModel(pl.LightningModule):
     
     def __init__(self, model, tokenizer, config):
         super(LightningModel, self).__init__()
-        wandb.init(mode="offline") 
+        wandb.init(mode="offline", name="Hinglish-hingroberta:25") 
         self.config = config
         self.model_config = config['model_config'][config['select_model_config']]
 
@@ -86,7 +86,7 @@ class LightningModel(pl.LightningModule):
         loss = F.cross_entropy(logits, targets)
         
         acc = accuracy_score(targets.cpu(), logits.argmax(dim=1).cpu())
-        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
+        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'], zero_division=0)
         wandb.log({"loss":loss, "accuracy":acc, "f1_score":f1})
         return {"loss":loss, "accuracy":acc, "f1_score":f1}
         
@@ -99,12 +99,12 @@ class LightningModel(pl.LightningModule):
     def validation_step(self, batch, batch_idx):
 
         targets = batch['label']
-
+        # print(batch_idx, targets)
         logits = self(batch)
 
         loss = F.cross_entropy(logits, targets)
         acc = accuracy_score(targets.cpu(), logits.argmax(dim=1).cpu())
-        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
+        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'], zero_division=0)
         precision = precision_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         recall = recall_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         self.log("val_f1",torch.tensor([f1]))
@@ -117,6 +117,7 @@ class LightningModel(pl.LightningModule):
         avg_precision = torch.stack([x['val_precision'] for x in outputs]).mean()
         avg_recall = torch.stack([x['val_recall'] for x in outputs]).mean()
         wandb.log({"val_loss":avg_loss, "val_accuracy":avg_acc, "val_f1":avg_f1, "val_precision":avg_precision, "val_recall":avg_recall})
+        print(f"\n\n[VAL_EPOCH_END] \n\t val_f1:{avg_f1} \n\t val_acc:{avg_acc} \n\t val_loss:{avg_loss}")
         return {"val_loss":avg_loss, "val_accuracy":avg_acc, "val_f1":avg_f1, "val_precision":avg_precision, "val_recall":avg_recall}
 
     def test_dataloader(self):
@@ -133,7 +134,7 @@ class LightningModel(pl.LightningModule):
 
         loss = F.cross_entropy(logits, targets)
         acc = accuracy_score(targets.cpu(), logits.argmax(dim=1).cpu())
-        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
+        f1 = f1_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'], zero_division=0)
         precision = precision_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         recall = recall_score(targets.cpu(), logits.argmax(dim=1).cpu(), average=self.config['average'])
         return {"test_loss":loss, "test_precision":torch.tensor([precision]), "test_recall":torch.tensor([recall]), "test_accuracy":torch.tensor([acc]), "test_f1":torch.tensor([f1])}
@@ -144,6 +145,7 @@ class LightningModel(pl.LightningModule):
         avg_f1 = torch.stack([x['test_f1'] for x in outputs]).mean()
         avg_precision = torch.stack([x['test_precision'] for x in outputs]).mean()
         avg_recall = torch.stack([x['test_recall'] for x in outputs]).mean()
+        print(f"\n\n[TEST_EPOCH_END] \n\t test_f1:{avg_f1} \n\t test_acc:{avg_acc} \n\t test_loss:{avg_loss}")
         return {"test_loss":avg_loss, "test_precision":avg_precision, "test_recall":avg_recall, "test_acc":avg_acc, "test_f1":avg_f1}
 
 

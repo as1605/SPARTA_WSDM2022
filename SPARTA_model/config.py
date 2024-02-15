@@ -1,7 +1,7 @@
 import torch
 config = {
     # data
-    "data_dir":"../HOPE_data/english/",
+    "data_dir":"../HOPE_data/hinglish/",
     "data_files":{
         "train":"a2g_train.csv",
         "valid":"a2g_validation.csv",
@@ -17,13 +17,13 @@ config = {
     },
     
     "max_len":512,
-    "batch_size":16,
+    "batch_size": 16,
     "num_workers":8,
     
     "previous_sid":"start",
     
     # models
-    "model_name":"roberta-base",
+    "model_name":"l3cube-pune/hing-roberta",
     "hidden_size":768,
     "num_layers":1,
     "num_heads":12,
@@ -53,11 +53,11 @@ config = {
     
     "lr":1e-5,
     "monitor":"val_f1",
-    "min_delta":0.001,
+    "min_delta":0.0001,
     "patience":5,
     "filepath":"./models/{epoch}-{val_accuracy:4f}",
     "precision":32,
-    "epochs":50,
+    "epochs": 25,
     "average":"macro"
     
 }

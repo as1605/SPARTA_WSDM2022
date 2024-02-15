@@ -218,7 +218,7 @@
 193,OD,8,173_193,P,"yeah, I think I can handle that. Yeah."
 194,GC,3,173_194,T,Okay. So we'll leave it there and I'll see you next week.
 195,GC,3,173_195,P,"Okay, thank you. "
-196,NA,7,173_196,T,"Thanks, ma'am."
+196,NEG,7,173_196,T,"Thanks, ma'am."
 0,GT,4,143_0,T,"Hi Jack, how are you doing today ?"
 1,GT,4,143_1,P,"Hey, I am doign well. How are you ?"
 2,GT,4,143_2,T,"I am not doing bad, Thanks for asking. I'd like to give you an assessment to test your thinking and memory. Is that right? "
@@ -495,7 +495,7 @@
 6,IRQ,6,14_6,T,yeah. Mm hmm when?
 7,ID,5,14_7,P,about a month ago
 8,ACK,0,14_8,T,A month ago.
-9,NA,7,14_9,P,"like diagnosing,"
+9,NEG,7,14_9,P,"like diagnosing,"
 10,YNQ,11,14_10,T,like diagnosing. Is that okay with you?
 11,ACK,0,14_11,P,Sure.
 12,IRQ,6,14_12,T,So how old are you now?
@@ -2744,10 +2744,10 @@
 43,ACK,0,3_43,P,Yeah.
 44,IRQ,6,3_44,T,"Alright, so your last ploy or the one before the place you work now, you just outgrew that. Can you tell me how that interaction went? Like? Did you quit? Or did they encourage you to leave? Like, what happened to kind of the last moments of that job?"
 45,GC,3,3_45,P,"Um, well, I mean,"
-46,NA,7,3_46,T,So you initiate it and you quit. At the same time. They had a few issues with type issues they have.
+46,NEG,7,3_46,T,So you initiate it and you quit. At the same time. They had a few issues with type issues they have.
 47,ID,5,3_47,P,"They just said I you know, I talked too much or something like that, or I think there was an issue with somebody I was working with or something. But it was really it was another situation that just didn't. We just we weren't, we weren't communicating well, but in the end I had to do what was best for me. So because afterwards they were calling me and trying to get me back, but I was already here so that I wasn't gonna go back there."
-48,NA,7,3_48,T,So I have to quit the pursuit you to come
-49,NA,7,3_49,P,yet for them again. Yeah. Which I told them was gonna happen.
+48,NEG,7,3_48,T,So I have to quit the pursuit you to come
+49,NEG,7,3_49,P,yet for them again. Yeah. Which I told them was gonna happen.
 50,IRQ,6,3_50,T,You predicted that when you left
 51,ID,5,3_51,P,"Yeah, it was like you're gonna you're gonna miss me cuz I'm the reason this company is flourishing."
 52,IRQ,6,3_52,T,So what did you tell them when they offered you
@@ -3611,7 +3611,7 @@
 38,IRQ,6,190_38,T,"get you in trouble. Get your hand in the wall, you might get hurt. Moving forward Yon and your mom's not working for you too. Well, is it? Okay? So we're going to proceed with something that's going to work for you. In this situation, you have an idea that might work for you."
 39,ID,5,190_39,P,Just talk to her but it's so hard to talk to without stopped and I wouldn't be like quite so mad. So Now it's
 40,ID,5,190_40,T,"a good idea though, it's a good thought it might be worth a try to say, and maybe it's more, instead of telling her to do it later saying, Mom, okay, 10 more minutes with this show. There's two more minutes. I'm really interested in this show. And I just finished the 10 more minutes, and then I will do the dishes, kind of put it in a question. So, you know, instead of you know, say, I'm gonna do it later say, I just got 10 more minutes and I really want to finish the show. Is it okay if I just do the dishes as soon as in 10 minutes when I finish the show? Does that sound like something that maybe"
-41,NA,7,190_41,P,"that's what I said before, but it's kind of fun. "
+41,NEG,7,190_41,P,"that's what I said before, but it's kind of fun. "
 42,CD,1,190_42,T,"Yeah, yeah, I hear that.Well, I'm glad you acknowledge that. That's really good. So let's step through that one more time. s t o p. s is for?"
 43,ID,5,190_43,P,stop
 44,IRQ,6,190_44,T,"Yeah. All right, stop. Before you react Before you respond in anger You're gonna stop. What's the T?"
@@ -6812,7 +6812,7 @@
 0,GC,3,118_0,P,Such as the police interview that
 1,ACK,0,118_1,T,"Yeah, it's hard "
 2,ID,5,118_2,P,like to go into so much detail. Yeah.
-3,NA,7,118_3,T,"just just just come back to me just come back to the room a little bit. Can you just look up, look up, look up at me. We'll call out I still have can check it out."
+3,NEG,7,118_3,T,"just just just come back to me just come back to the room a little bit. Can you just look up, look up, look up at me. We'll call out I still have can check it out."
 4,GC,3,118_4,P,"Brown,"
 5,IRQ,6,118_5,T,"good events trying to get you back back into the room with me. Okay, so just look around the Can you see me this painting that's up here? What do you say to me other paintings? "
 6,ACK,0,118_6,P,"Oh, yeah. Yeah, cool. Okay. "
@@ -7752,7 +7752,7 @@
 38,IRQ,6,190_38,T,"get you in trouble. Get your hand in the wall, you might get hurt. Moving forward Yon and your mom's not working for you too. Well, is it? Okay? So we're going to proceed with something that's going to work for you. In this situation, you have an idea that might work for you."
 39,ID,5,190_39,P,Just talk to her but it's so hard to talk to without stopped and I wouldn't be like quite so mad. So Now it's
 40,ID,5,190_40,T,"a good idea though, it's a good thought it might be worth a try to say, and maybe it's more, instead of telling her to do it later saying, Mom, okay, 10 more minutes with this show. There's two more minutes. I'm really interested in this show. And I just finished the 10 more minutes, and then I will do the dishes, kind of put it in a question. So, you know, instead of you know, say, I'm gonna do it later say, I just got 10 more minutes and I really want to finish the show. Is it okay if I just do the dishes as soon as in 10 minutes when I finish the show? Does that sound like something that maybe"
-41,NA,7,190_41,P,"that's what I said before, but it's kind of fun. "
+41,NEG,7,190_41,P,"that's what I said before, but it's kind of fun. "
 42,CD,1,190_42,T,"Yeah, yeah, I hear that.Well, I'm glad you acknowledge that. That's really good. So let's step through that one more time. s t o p. s is for?"
 43,ID,5,190_43,P,stop
 44,IRQ,6,190_44,T,"Yeah. All right, stop. Before you react Before you respond in anger You're gonna stop. What's the T?"
@@ -8431,7 +8431,7 @@
 65,OD,8,15_65,P,"Absolutely, if my boss requires that my boss requires that then that's the right thing to do."
 66,GT,4,15_66,T,I want to appreciate you answering my questions and spin very helpful. We'll get you on the schedule to see a counselor here. I take about a week and we'll go from there.
 67,GT,4,15_67,P,"Okay, so in a week. All right. Thank you."
-68,NA,7,15_68,T,Thanks.
+68,NEG,7,15_68,T,Thanks.
 0,GT,4,163_0,T,"Hey Michelle, how are you doing today?"
 1,GT,4,163_1,P,"Umm I am kind of doing, I'm feeling a little bit stressed out"
 2,CRQ,2,163_2,T,stressed?
@@ -8776,7 +8776,7 @@
 41,ID,5,37_41,P,Great times. Great times. My friend tests
 42,IRQ,6,37_42,T,have gone out. Is there something specific to your home environment you think might be contributing to this because you don't have it? at school? You don't have socially
 43,ID,5,37_43,P,"I mean, we have some problems here. "
-44,NA,7,37_44,P,And there are some problems here. 
+44,NEG,7,37_44,P,And there are some problems here. 
 45,OD,8,37_45,T,"They're nothing you could isolate as maybe causing the symptoms,"
 46,OD,8,37_46,P,"um, windows, maybe maybe not things but just not an Ikea."
 47,CRQ,2,37_47,T,Nothing you can't work through.

@@ -9,7 +9,9 @@ from models.DAC import DACModel
 if __name__ == '__main__':
     
     
-    tokenizer = AutoTokenizer.from_pretrained(pretrained_model_name_or_path=config['model_name'])
+    tokenizer = AutoTokenizer.from_pretrained('roberta-base')
+        
+        # pretrained_model_name_or_path=config['model_name'])
     logger = WandbLogger(
         name="analyze"+"mha-final",
         save_dir=config["save_dir"],
@@ -31,7 +33,7 @@ if __name__ == '__main__':
         logger=logger,
         gpus=[0],
         checkpoint_callback=checkpoints,
-        callbacks=[early_stopping],
+        # callbacks=[early_stopping],
         default_root_dir="./",
         max_epochs=config["epochs"],
         precision=config["precision"],

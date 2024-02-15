@@ -83,7 +83,7 @@ for DIR in ["Test", "Train", "Validation"]:
     out = pd.DataFrame()
     for file in os.listdir(DIR):
         path = os.path.join(DIR, file)
-        df = pd.read_csv(path)
+        df = pd.read_excel(path)
 
         o = pd.DataFrame()
         o["ID"] = df["ID"]
@@ -123,7 +123,7 @@ for DIR in ["Test", "Train", "Validation"]:
         # for d in o["Type"]:
         #     if (str(d) == "nan"):
         #         print(d)
-
+        o = o.dropna(subset=['ID'])
         o = o.reindex(sorted(o.columns), axis=1)
         # print(o)
         out = pd.concat([out, o], axis=0)
