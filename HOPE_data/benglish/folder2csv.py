@@ -1,15 +1,15 @@
 import os
 import pandas as pd
 
-directory ='train'
-act_labels={'ack': 1, 'cd': 2, 'crq': 3, 'gc': 4, 'gt': 5, 'id': 6, 'irq': 7, 'od': 8, 'on': 9, 'op': 10, 'orq': 11, 'yq': 12}
-super_dacts = {
-                'crq': 0, 'yq': 0, 'orq': 0, 'irq': 0,
-                'gt': 1, 'gc': 1, 'ack': 1,
-                'id': 2, 'cd': 2, 'od': 2, 'op': 2, 'on': 2
-            }
-num_labels=13
-num_super_labels=3
+directory ='validation'
+act_labels={'ack': 1, 'cd': 2, 'crq': 3, 'gc': 4, 'gt': 5, 'id': 6, 'irq': 7, 'od': 8, 'on': 9, 'op': 10, 'orq': 11, 'yq': 0}
+# super_dacts = {
+#                 'crq': 0, 'yq': 0, 'orq': 0, 'irq': 0,
+#                 'gt': 1, 'gc': 1, 'ack': 1,
+#                 'id': 2, 'cd': 2, 'od': 2, 'op': 2, 'on': 2
+#             }
+num_labels=12
+# num_super_labels=3
 type_labels={'P': 'P', 'T': 'T'}
 
 data = []
