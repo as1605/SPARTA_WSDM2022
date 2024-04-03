@@ -1,0 +1,49 @@
+Utterance,Type,Dialogue Act
+Sheri ajke kemon achho?,T,gt
+Thik achhe. Thik achhe.,P,gt
+"Ami bujhte pari je apni khub ekta bhalo anubhav korchen na jodi apnar kichu uposorg dekha dey, tobe eti cholche.",T,irq
+"Hyan. Tai apnar janar jonno, ami ekhon proyo ek shoptaho hoyechi apni janen, protiti chhoto jinish amake birkat kore. Eta thik hoyeche, eta apni koto jano bhibhrantikor. Chhoto chhoto jinish amake birkat korche.",P,id
+Chhoto jinish satyi amake birkat korche.,T,yq
+Hyan.,P,ack
+Goto shoptahe?,T,yq
+Hyan.,P,ack
+Ei prothom eti ghoteche.,T,"yq,crq"
+Hyan.,P,"ack,cd"
+"To jwalar kotha bolun, ki dhonno je jinish hoyeche, mane?",T,irq
+"Kajei, amar pasher kubicale thaka loktir moto, mone hochhe se proti 15 minute tar gala porishkar kore ba nak phuke, eti amake pagol kore tole. Ebong poshondo korun, tarpor ami amar kajer upor focus korte pari na karon ami eti shuni. Tai gaan gawar chesta kori. Ebong tokhon amar bosh birkat hobe karon amar modhye jorboad ache kintu ami jore music bajate pari na karon ami onno lokeder proti jotnoban hoiar chesta korchi. Amar kubicol sangeer biporit, lokti onno kubicol, tarpor, apni janen, eti ekta udahoron. Ebong tarpor, ami jokhon bari jachchilam, tokhon ei lokti tar kukur-tike rastar pashe hatcil, ebong jemon kono kandho nei tai eti nirapad jayga noy. Tai, ami mone kori se tar jibon ebong tar kukurer jibon ebong amar jibonke jhukipurno korche. Ami bari te fire ami eto somoy kore mone kori eta bisoye chintakar. Ebong thik sobkichur moto, lokera ja kore ta kebal amake dewale chalit kore.",P,id
+"Tahole apni satyi, apni satyi birkat ebong apni mone koren je ei birkatikor ghotonaguli apnake bhibhrant korce?",T,yq
+Hyan.,P,ack
+Apni ki mone koren je apnar chintaguli douray jache?,T,irq
+"Hyan. Karon, ami chinta korbo, apni janen, kajer upor focus kora r chesta ba ami jay kichu korchhi. Ar eti sob kaj je manush, onno manush tader kan diye koreche. Eta onno lokeder o noy jemon shadharan jinisguli amake birkat kore ebong tai amar chintabhabnaguli bibhinno jiniser modhye die dourabe ebong eti amake aro hatash kore tole ebong biddoman kore tole.",P,id
+Apni ki ullikhit kaj khoje pechen? Apni ki lokkho koren je apni lokkhoguli shesh kore darun diker dikhe aro base?,T,irq
+"Mane, ekhon, sobcheye beshi noy, na.",P,id
+Apni ki nijeke beshi kotha bolchen ba mone hochhe apnar aro kotha bolar uchit?,T,irq
+"Na, na. Prokritipokkhe, tara lokeder sathe kotha bolte chai na karon tara emon kichu bale mone kore je tara amake birkat korbe.",P,id
+Tomar ghum kemon hoyeche?,T,irq
+"Ami bhalo achi. Jodi-o ete amar kono vayabohota hoy ni. Kono somoy somoy, jemon ami jokhon prothom bichanay jachchi jemon amar chintabhabnaguli amake posondo korte, ghumate ebong amar chintabhabnagulike posondo korte, bondho korte ektu somoy nebe, tobe eti khub beshi somoy ney na.",P,id
+"Thik achhe, eti apnar ghum er ghor. Thik achhe,",T,yq
+Hyan.,P,ack
+Apni ki lokkho koren je apni sob kharap? Naki bishonno mojaj ache naki aro kichu?,T,yq
+"Na, sotti na, na.",P,on
+Apani ki ekhono emona kriyakalap khujhe pachchen ja ekhono anondadayak hote anondadayak chhilo?,T,irq
+"Hyan. Thik achhe, ami bolte chachchi, kokhono kokhono emoni ekati kriyakalap ja ami pochhondo kori, keu ase ebong ami etir somoy emon kichhu dwara bibhranta hoye pori ja amake birkto kore. Kintu beshi rokomer onshoer jonno, ami etike atikrom korte pari ebong kriyakalapti upobhog korte pari jodi eti emon kichhu hoy ja ami sotti je upobhog kori.",P,id
+Apani apanar khudha paribartan.,T,yq
+Na.,P,id
+Kono mulyahin anubhuti somporke kivabe?,T,yq
+Na. Serokom kichhu na.,P,on
+Apani ullekho korechen je apani sahjei bibhranto hochchen. Eti apanar ghonatveke prabhavit korche.,T,crq
+Ektu.,P,cd
+Mrityu ba mrityu somporke apanar kono chinta achhe?,T,yq
+Na.,P,on
+Aro ei khitkhite mejaz apanake je kono kaje birkto korche ebong apani bari ebong onnyanoy jage gari chalanor kotha ullekho korechen.,T,gc
+"Ami bolte chachchi, hyan, shudhu kajer somoy noy ebong bari te gari chalanor moto, apani janen, amar ma phone kichhu balachen onno din amake birkto korechilo. Ebong tarpor ami phone kolti kete dilam ebong ami amar baba r sathe kotha bolte chai, karon ami pagol chhilam. Ebong tai je valo je prabhavit. Tai ektu like, amar personigoto jibon.",P,gc
+Kono madok ba alcohol byabohar. Sotti je kichhu nei.,T,yq
+Na.,P,on
+Apani ki kokhono emon kichhu dekhechen ba shunechen ja onno lokera dekhte ba shunte pay na?,T,yq
+"Na,",P,on
+Eti kokhono ghote ni.,T,yq
+Na,P,on
+Thik achhe.,T,ack
+Ami tomake aj kauke dekhte pete chai. Thik achhe. Amar ekjon counselor ache jini ei bishoye aro kichhu kotha bolte paren. Je sob thik hobe.,T,gc
+"Thik achhe,",P,gt
+Tai ami etir byabostha korbo. Ebong ei prosner uttor dewar jonno ami apanake dhonnobad janate chai shahayok hoyeche.,T,gt

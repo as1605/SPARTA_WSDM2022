@@ -1,0 +1,67 @@
+Utterance,Type,Dialogue Act
+"Jacky, ai.",T,gc
+Thik ache onuman.,P,gc
+Thik ache. Ami bujhte pari je apnar sampratik kichu somosya hoyeche ja apnake aj ekhane niye esheche.,T,id
+"Oh, hain. Well, amar chikitsok, ami tar sathe tar sakshat dekhechi. Se amake asar poramorsho dil. CEO. Tai.",P,id
+Apani keno mone koren se eta koreche?,T,irq
+"Um, bhalo, ami asustho, ami mone kori. Sutotrang, amra kichu poriksha ebong jinis chalachchi ebong se, se kichui khujte payni. Tai se bhobol hote pare amar tomar sathe kotha bola uchit. Ami onuman kori hoteo amar udbeg onyo kothao theke asche. Ami mone kori se etai se ja bhabe. Kintu ami jani na.",P,id
+Tahole apani bishwasi koren je apnar sharirik asusthata ache?,T,orq
+"Hain, ami shudhu jani kichu ekta thik nei.",P,od
+Aro apnar chikitsok ekadhik poriksha chaliyechen.,T,crq
+"Hain. Amra rokter kaj ebong somosto scan ebong sobkichu sompanno korechi. Se boleche se kichu deyni, kintu ami shudhu jani kichu ache.",P,cd
+Kichu. Sekhane kichu ache. Tai tar Sydney asa chara ar ki chhilo? Chikitsar jonno tar poramorsh ki chhilo? Tai tini poriksha chalano? Se kichui khujte payni.,T,irq
+"Hain, se koreni. Se amar jonno kichu chhilo na.",P,id
+Tahole se bolche kon sharirik asusthata nei?,T,crq
+"Hain, se tai boleche. Ami.",P,op
+Ami nishchit noi.,T,gc
+Aro ami mone kori se kichu mis korce. Tai.,P,id
+"Apani koto din dhore achen jodi apnar sharirik asusthata thake,",T,irq
+"Um,",P,gc
+"Tai prai ek bochhor age, apani tar kache giyechilen. Tini poriksha chalano shuru korechen. Ebong kon byadhi khujte pai ni.",T,crq
+"Na, se ekhono kichu khujte paini.",P,cd
+"Eta ki shudhu ekta byadhi chhilo ja tumi bhebechhile tomar chhilo? Naki besh kichhu hoyeche,",T,irq
+"Um, apni janen, ami miss er sathe shuru korechhilam. Ami eti somporkhe kichu jinish porechhilam ebong kivabe amar bosi manushder kache eti chhilo ebong tara emonki janena je tader kache eti ache ebong tarpor shob hothat korei tar jibon badle jay. Tai ami eti niye chintito chhilam. Ebong tarpor ami kichu poriksha ebong jinisgulo jonno onuman kori, ami onuman kori, bhabte shuru kori shomvobhob eti chhilo na ebong eti kichu chhilo na. Ami miss korechhi. Ami mone kori eti cancer. Je boroshel eka. Hain. Apani ki janen, jodi-o amar kichu uposorgo nei, apani janen, shudhu apanar modhe mithya bolte pare ebong apanar kono dharonai nei. Ebong matro ekdin, apani janen,",P,id
+"Apnar chikitsok, chikitsokra ei somosto byadhir jonno poriksha chalan korechen ke bhebechhilen apnar hoyeche? Amra mone kori",T,gc
+"Se hain, hain. Kintu, ami bolte chachchi, jodi ami ek bochhor age je poriksha disechhilam? Eta jodi na dekhay tahole ki hobe karon eti eto gotor hote onothoi hoini. Ebong eti.",P,crq
+Tai ami dekchi apani chintito.,T,id
+Hain.,P,ack
+Tai apani ek bochhor age ei bishoye prothombar moto chikitsokke dekhechilen. Ero age ki apnar udbeg ba udbeg chhilo?,T,irq
+"Na, shudhu udbigno je shuru. Asustho chhilo je anubhuti peyechhilam. Tai ami ja niye chintito chhilam ta chhilam, tobe ta chhara ar kichu chhilo na.",P,id
+Kintu apani asusthata niye chintito chhilen. Jodi othocho onyo kichu na. Apnar ki kono sharirik uposorgo ache?,T,irq
+Na.,P,on
+"Apani ki nijeke prothom dekhechen, sharirik uposorgo dekhte?",T,irq
+"Hain, hain. Ami uposorgo ebong je dhorte kore check kora uchit seta niye Internet e bibhinno loker golper onek kichu porechi. Nishchit koro je ami tader talikabhukto emon kichu nei. Tai",P,id
+"Apani ki Internet forume shokkho achhen jekhane tara asusthata niye alochona kore tai,",T,irq
+"Haan, haan, ami sekhane onek loker golpo porechi je kivabe tader ekta uposorg chhilo, kintu tara satyoi eti sambandhe kichu-i bhabe ni, apni janen, ebong tarpor tader ekta gurutôr roga nirnay hoyeche. Tai ami shudhu chintit ami kichu mis korte jachchi, apni janen, tai ami onek chek kori ebong nischoitô korar jonno chek kori.",P,id
+Tai apni satyo post form porechen.,T,crq
+"Haan, haan. Amar udveg sambandhe, ebong kokhono kokhono lokera amar sathe ekTu hatash hoy. Tara khub sundor na. Je sambandhe bolun. Shudhu karon ami satyoi kichu anubhav korchi na. Tara mone kore je amar chintar kichu nei. Ebong tara amake bolte thake kintu ami mone kori amake chintar korte hobe je amar ei anubhuti ache je kichu bhul ache.",P,cd
+Apni amader agency shunte ki chan?,T,irq
+"Ami shudhu swachhontô bôdh korte chai je ami osustho noi. Apni janen, ami ar chintar korte chai na, kintu ami satyoi mone kori ami achi. Kichu bhul ache. Tai.",P,id
+"Haan, apni chintit apnar ekTi sharirik, ekTi sharirik swasthya byadhi ache. Tumi ki chintit? Apni ekTi manoshik swasthya byadhi ache?",T,irq
+Hoyto kichu lok boleche.,P,id
+Apni eta niye chintit.,T,id
+Eta ekTu udvigno je ami ekTu atirikto chintit bôdh korchhi. Hote pare je jokhonoi osustho ekTi uposorg.,P,id
+Tai udveg je udveg ekTi sharirik osusthya-r ekTi uposorg hote pare.,T,crq
+Haan.,P,op
+"Tai abar, ekhane apnar laksho ki hobe? Apni ki chan? Apni ki poriborton korte chan? Counseling er madhyame?",T,irq
+Ami mone kori amar udveg eta amake bhalo bôdh kore na?,P,id
+Apni chinta korte chan? Chintahin?,T,irq
+Haan. Haan. Ami hote chai na. Ami pore hote chai na.,P,id
+"Tai apnar onnoto ek bochor dhore mourir ache, bishesh kore sharirikbhabe osustho hower bishoye. Sharirik osusthotar kono khonj pawya jayni, kintu apni ekhono take niye chintit. Ebong apni ekTu chintit hote paren je apni, apnar ekTi manoshik swasthya byadhi royeche.",T,crq
+"Haan, ami mone kori kichu bondho hote pare.",P,cd
+Ebong apni sharirik swasthya byadhi sambandhe udveg bondho korte sôkkhom hote chan? Thik ache. Apni ki ei mohorte chintit je apnar sharirik swasthya byadhi ache?,T,irq
+"Oh, haan.",P,id
+Apni ki mone koren je apni ekhono hote paren?,T,irq
+"Um, cancer, ami mone kori amar sharirer kichu onsho jara shôṛiye poreche bole udvigno.",P,id
+Ebong apni etir jonno apnar chikitsok dvara porikha kora hoyeche.,T,crq
+"Haan, haan. Kintu apni janen, kokhono kokhono porikha jinishguli khujhe pawe na. Tai",P,cd
+Apni ki kokhono ashustho hon jokhon apni netibachok porikhar pholaphol phire pān jokhon ami bolechhilam sekhone kiṣu-i hoy na.,T,irq
+"Ekhon ami shudhu mone kori tara kiṣu mis koreche. Na, amar daktar ba amar paribarik chikitsok dvara, tini kebal amar sathei satyoi hatash karon tini amake ar dekhte paben na. Satyi bolte. Ami jokhon bhitoray jai tokhon se khub sundor noy. Kintu ami abar sei porikhagulo korte chai.",P,id
+Apni poriksha punoray chalate chan?,T,irq
+"Haan, ami abar dekhte jachchi.",P,id
+Thik ache. Tai apni ekhane counseling er jonno unmukt.,T,irq
+"Haan, haan, ami mone kori apni hoyto ekTu sahayyo korte paren ebong khujte ber korte paren ki bhul ebong ki hochhe.",P,id
+Tumi ki thik thakbe? Dirghoshwas chhede din jate ami apnar daktar sathe kotha bôlte pari?,T,irq
+Haan.,P,op
+"Tai ami apnake ekhôn somoyshuchi kore deb jevabe hok, apni sign release chan ba na chan. Tobu eti eto kichu jeta ami mone kori amar pokkhe ki ghôtoche ta arô bhalo bôdhte sahajyo kôrte pare. Kintu ami apnake ekjon counselorer sathe dekha korbo. Oh, matro koyek din somoy nino. Amra ekhôn je kaj out paben. Thik ache, khub bhalo. Dhonnobad.",T,gt
+Dhonnobad.,P,gt

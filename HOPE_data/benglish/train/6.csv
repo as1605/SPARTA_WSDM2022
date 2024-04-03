@@ -1,0 +1,55 @@
+Utterance,Type,Dialogue Act
+"Hi, Sasha, tumi aaj kemon ach?",T,gt
+Ami thik achi. Jijnasha korar jonno dhonnobad. Ami bujhte parchi je kichu upasorg niye apnar kichu asubidha hochhe. Thik?,T,"gt, yq"
+Hyan.,P,ack
+Aapni ki amake bolte paren ki hochhe?,T,irq
+"Hyan. Atit, atit, hayto koyek shoptoh, ami koyek shoptoh onuman kori. Ami kormokhetro shopto ekbare ei shokaler meeting kori ebong amake ekti uposthapona korte hobe. Ebong protibar ami uposthapon korte jai, eti amar pala ebong ami pete shuru kori. Sotyi narbash pete shuru.",P,id
+Sotyi narbash pete shuru koro. Kajei apnar shokaler meeting. Ebong tai meeting e uposthit protyek bokti ekti shari moto?,T,yq
+"Hyan, hyan, amra sobai ghure asi,",P,ack
+"Tara pala nebe. Ebong jokhon apni narbash bodh korte shuru koren, jokhon eti apnar kotha bolar somoy ba tar age ba pore ebong eto",T,crq
+"Ami sadharanot meeting er shurute ekjon lok, karon ami jani amake korte hobe, amader modhye prai 10 jon ache ebong ami shobdo shokoler shesh koyek joner ekjon bole mone kori, jemon shohor bo sath jan, uposthapon er jonno line e dharoner",P,cd
+"Meeting e prai 10 jon bolchen. Hyan. Ebong ebong bhagyo eti hobe, apni shesh dik theke hote thakben. Tahole apni ki barna korte paren meeting er shurute apni jaa onubhobh korchen tar poriprekshitte ki ghotoche?",T,crq
+"Hom. Jokhon ami bhitore jai, ami sadharanot thik achi ebong apni janen, sobaike subho shokal bolun ebong tarpor amar boser kolo mane order. Ebong je sadharanot jokhon eti shuru hoy, jemon dharoner shuru hoy, hayto amar pete projapoti rokom. Ebong tarpor tini tar report korer por, ebong tarpor eti keboli ghore charpase jete shuru kore ebong amar hridoy dhurto hote shuru kore, amar hater talu ghamte shuru kore ebong ami keboli, ami sotyi narbash bodh korte shuru kori. Ami bujhte pechi je ami hayto onno kichu uposthapona korte shuru korechi. Karon ami, ami kemon anubhob korchi setike monoyoggi hote shuru kori.",P,cd
+Ebong ami narbash hoa sharirik somvedon ebong monsik somvedone upor focus korechi ebong tara jaa bolche ta apni sotyi shunte pachchen na.,T,yq
+"Hyan,",P,ack
+"Tara bolche,",T,gc
+"Hyan,",P,gc
+"Thik ache. Tai jao. Tai ei apnar ei sharirik lakshan, ei narbashness, ki hoy ebong",T,crq
+Hyan,P,cd
+"Jokhon eti amar uposthaponar pala, ami shuru kori. Ami shudhu, ami prai thik prai jhakuni moto achi. Hyan, ami lokkho korchi je amar hat ekta bondon ache. Ebong tai amar hat niche rakhoon, jemon amar koley ebong thik je. Ami chai na keu tader eibhabe kampte dekhte. Ebong ami amar samne ekta kago aache je theke ami shudhu dharoner pora. Kintu jokhon ami pora te shuru kori tokhon amar konthoswor kichuta nordo hoi, ebong ami ekdhoroner totolatam ebong amar kothay chitke pori. Ebong ami mone kori ami valo uposthapona korchi na ebong tarpor eti amar boser kache bhalo dekha jache na.",P,cd
+"Tai, sei momente jokhon apni apnar uposthaponar pala, apni ekhono sei ekoi narbashness onubhob korchhen je tekebare duur hoi na. Ebong apni apnar sharirke sthir rakhar chesta korchhen. Pray ekta ghonokhetro nionto koro moton.",T,orq
+Hyan.,P,od
+"Haan. Ebong tarpor apnar kanthoswor ei dhôrône krôkôli ba break up moto shôbdo apni like theke porar chesta korchhen, chaan moto bullet point?",T,yq
+"Haan,",P,ack
+Ekti ruprekhā moto?,T,crq
+Haan.,P,cd
+Apni jokhon shesh pothit shesh pointi porechen tokhon ki hobe?,T,irq
+"Amar kaj shesh hole sobkichu shant hote ekṭu somoy lage. Kintu ami, tokhon ami ami, tokhon ami ei dhôrôṇay achhônnô hôye jai je amar bôsh mône kôren ami ekti bhôyônôk kaj korechi, ebong tini amake ei ôbosthane rakhar jônnô ônushôchônā korchhen ebong ami bhal rekôrd kôrte pari na ba apni janan je ami taki shôkkhô taki shôkkhô report kôrini ebong tai, eti sôṭyi dure jay na. Eta thik eta prae amar mône emon akjône sthânântôrîto kôre jai jôr ami udvignô.",P,id
+"Thik achhe, tahale nôrbhâsnês jeta nôrbhâsnêsêr ôrô shaktishâli ônubhûti chale jay, seta ôrô shadhâron ônubhûti dwaṛâ prathishtit hôe. Apnar bôsh apnar shômbôrke kibhabe bhâbôben ta nîye nôrbhâsnês. Haan. Kârôn upôsthâpônâr môn.",T,"gc, yq"
+Haan.,P,ack
+"Kârôn apni upôsthâpona korchen ebong sthîr thâken ebong apnar konthoshôr kôrkôsh hôe, tini eti grôhôn kôrchhen. Ebong apni je shôcheton.",T,crq
+Haan.,P,cd
+Apni kôtkhon lôkôr bâsêtâ apni êbong êbong lôkôr dekhâ dey.,T,crq
+"Umm, apni jokhon ami kôleje snatak chhilam, amâke somoye somoye kichu upôsthâpônâ kôrte hoyechilo, ebong ami jokhon upôsthâpônâ kôrbo tokhon ami ghâbdre yetam. Ebong ami, ami bolte châchi, ôdikangsh mânush pôblok spîking bhôy pây tai ôrdheko âutô je setai ki chhilo. Tai apni jânen, 30 jôner môto kichu lôker sâmne ekti upôsthâpônâ kôrchen ebong tai eti sôṭyi amar mône êkjonke sthânântôrito kôre jai je ami udvignô.",P,cd
+Gôt kôyek shôptâh hôlo jôkhn apni lôkshô kôren je kôlege upôsthâpônâ kôrar age âmâder kichu nôrbhâsnês chhilo kintu apni etike sâdhârôn bhâbe sâdhârôn bhâbe apnar grêd ba shôthik kichur upôr prôbhâb ôbosthapon kôrar khômotâke bôjhaten.,T,orq
+Apnar ki ônno kono upôsôrg âche jeta apni ki ghôṭchhe tar sathê shômproti ba êmônki shômbôrkhin bolê mône kôren?,T,crq
+"Umm ami nishchit noi je etir kono prôbhâb âche kina. Amar mâ, she, she ami jâni she jônsômokhê kôtha bôlte pôndo kôre na. Ebong ami târ shathe kôtha bôltam kibhabe ami upôsthâpônâ kôrtam târâbârô bôdh kôri. Shkule âbañâkur ôh, apni jânen, apni eti kôite paren. Eta chhôṭo. Ebong, apni jânen, tai ami jani na er kichu ôrth ache kina.",P,cd
+"Tai apni jâ kichu kôchhen, apni mône kôren je hôte hôte, hôte hôte tar setâi cholchhe.",T,orq
+Hôte hôte,P,od
+"Eki, eki upôsôrger set, ôntôtô.",T,orq
+"Haan. Mâne, ami take jijôsâ kôrechhi, apni jâni, ami take ei bishôye bolechhi. Ebong tini êmôn poristhiti te chhilen nâ jekhane tâke ei dhôrône upôsthâpônâ kôrte hôbe, jemon ekti chhôṭo dal. Ebong tai ami na, ami eti ôrtanto kôrte pâri na. Kintu ami bolte châchi, she bôlechhe je she age nôrbhâsn hôye geche.",T,od
+Dukher ônubhûti bâ erôm kichu?,T,irq
+"Yes, jemon ami karmakshetre uposthapona korar pore kori ebong tarpor ami sotyi dukhito bodh kori. Apni janen, ami jemon bolechi, karon tokhon amar mone hoy amar bos amar performance-e santusht non ebong tini amake ei obosthan deoar siddhanto janaben. Ebong tai, yes, eta oboshoyi amake du:khito kore tole. Ami nijekete hatash bodh.",P,id
+"Apnar ki alkohol, onyo kichhute kono padarther byabohar achhe?",T,irq
+Ebong ekhon ami protibar pan kori ebong eti khub birolo.,P,id
+"Ebong eigulir moddhe ami jani eti apnar jonno sompratik kichhu kintu ei porjonto ei meetinggulite, apnar pala asar age narbhasone ki kono somoy apnake room chore chhilo?",T,crq
+"Na, na, ami eti niyontro korte porechi, ami onuman korchhi je ami sekhane thakte pari. Jemon ti ami bolechi, ami kichhu somoy zone out korechi jokhon onyo lokera uposthapona korchhe ebong ami eti somporeo kharap bodh kori karon amar mone hoy tader kache amar sathe bhag korar moto guruttopurno thakbe ebong ami tader monoyog deowar moto shomman deowar uchit kintu ami amar hriday khawar moto bhiter kichhu ghotechhe ebong apni janen, amar hat ebong tai ami kono somoy kono somoy tader upor zone out korte pari na, kintu na, ami etir modhye dhakka diyeche ebong ami amar uposthapona kori.",P,cd
+Tader ki chinta korchhe ta niye apni ki kono somoy chintito? Tini ullekh korechen je apnar bos apnar somporko ki bhabe chhara tao table theke thaka onno kormirao ki bhabe mone korche ta niye chintito?,T,crq
+"Yes, bar bar amar mone hoy apni janen je ami management team-er sob theke notun sadasya ebong tai amar mone hochhe tara ei chhanar ki obostha? Ami etake ekokhono pete pari na kintu apni janen sekhane ekjon ojana chhilen jini sotti shomorthon korlen ebong apni janen, tini emon chhilen, are, apni ajke durdanto korechen ebong durdanto totho ebong erom jinishguli. Tai ei dharoner amake bhalo bodh korte sahayyo kore. Kintu ami dine shese amar kache onuman kori, eta sotti amar bos er moto mato guruttopurno karon tini amar bos.",P,cd
+Apni ki kono somoy mone koren je apni meeting-er shurute narbhas chhilen bole ullekh korechen? Apni ki kono somoy narbhas bodh koren? Meeting er agei.,T,crq
+"Ami jokhon prastuti nichchi sei shokaler moto kaj korte jaoar jonno, ebong eti emon ekjon, thik ache, ami ei meetingti notate peyechi. Ebong ami bhobte shuru kori je ami kaj korrar path-e amar pochhondo kori ebong ami kori na, ami asli room-e na thakar porjonto ami kichui anubhav korte shuru kori na.",P,cd
+"Tahole apni ki narbhason shojjo korechen, motamuti tibro? Proyojone shudhumatro ei meeting-e. Eti apnake kichu saptah dhore birkkato korche. Kichu notun, apnar jonno ekto bhoyonkor kichu. Amra apnake chikitsar byabostha kore deb. Ami apnake agami koyek diner moddhe kauke dekate nie jabo. Je apnar jonno kaj kore jodi.",T,gc
+"Yes, eta khub bhalo hobe.",P,op
+Ebong ami amar sathe ei somoy kataate apnar proshongsha kori. Eta sahayok hoyeche.,T,gt
+Dhonnobad.,P,gt
+"Dhonnobad, Sasha.",T,gt

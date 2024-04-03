@@ -1,0 +1,58 @@
+Utterance,Type,Dialogue Act
+"Robert Smith, amake dekhte asar jonno dhonnyobad, ami Doctor Stanley. Ami ekhane kaj kora doctorder ekjon. Spashtotai amra ja boli ta amader ebong doler moddhe goponio je ami ekjon notun GPer sathe kaj kori jini amake apnar sathe dekha korte bolchen. Ami shunechi apnar abashon niye kichu somossha hoyeche. Apni ki amake eti somporko ekto bote chan?",T,irq
+"Haan, ami sob dhonnoye porechi. Mane, apni amake kothay shuru korte chan? Pratibeshi police. Amar rostay lokera amar upor guptochorvritti korche. Apni janen, tader keu eta sweekar kore na. Kintu ami je apni janen, ami apnar ekta protibedon niye kotha bolte dekhechi ebong rosta jureo.",P,id
+"Apni janen, tahole ki, kohon jeigulo bhul hote shuru koreche?",T,irq
+"Ami jani na. Ami bolte chachchi, apnake tader bhalo vabe jijnasha korte hobe, jokhon tara sotti bhabe shuru koreche, jemon tara chai je tara amake rosta theke ber kore dite chai. Ami mone kori eta koyek mash age chhilo. Mash koyek mash dhore cholche.",P,id
+Apni ki mone koren je tara apnake rostai ber korte chai?,T,irq
+"Well, eta hoirooni. Eta amar upor guptochorvritti amar, amar bari te amar phone-e bag rakha. Apni janen, ebong je, apni janen, je prothome ami bhebechilam ami eti shunte pachhi na. Kintu ekhon tara janen je ami janina je tara, apni janen, janala diye amar somporko kotha bole. Apni janen, ami ki korchhi ta niye kotha bolchi. Ami jani ami jani. Ami jani je eta korchhen. Apni janen, jokhon ami amar shador darjar mohilake saat number-e rekhe jai, se sob somoy sekhane thake. Apni ki janen, ami kothay jachhi, ami ki korchhi se dekhe.",P,id
+Apni keno mone koren tara eta korchhe?,T,irq
+"Achha, ami jani na. Tara shudhu ami jani na ami ki mone kori tara amake out korte chai. Ami mone kori tara, ami mone kori tara amake poriksha korche. Ebong tara chesta korche, tara khujte ber kore dharar chesta korche je tara amake mooloto koto ta dhakka dite pare. Eta sob kichu, kichu porikshaar ongsho. Ami kiser jonno janate chai, apni janen, apnake tader jijnasha korte hobe. Ami policeke bar bar bolechi setai. Ami take bolechilam keno tumi amake eso beshi proshno korchho? Keno apni shudhu tader sathe kotha bolen na?",P,id
+Apni bolechen je apnar phone-e click kora hochhe ki chhilo?,T,irq
+"Ekti landline. Haan haan. Keu amake ring kore ba ami saat theke 10 second er moddhe kauke ring kori. Ami click kori, click kori, click kori, click kori, protibar click kori.",P,id
+Ei jonno anyo kono byakhya?,T,irq
+"Ami jani na. Bhalo, bhalo, jodi hote pare tobe apni janen, protibar ebong tarpor ebong tarpor tara amar sathe kotha bolche ebong tarpor tara janen ami phone-e ki bolchi.",P,id
+"Apni janen, tara apnar sathe kothay kotha bolche?",T,irq
+"Thik achhe, ami tar pasher bari te shunte pachchi. Sarbada abar phone, sarbada abar sei boiti pora. Aponi janen, ami take eta bolte shunte pachchi. Aro tara janen je ami tader shunte pachchi ebong sejonno tara eta korche.",P,id
+"Thik achhe, tai ei mohurte sসংক্ষেপভাবে bolte gele, apnar phoneguli telephone kichu ghote, apni apnar protibeshider apni ja korchen ta niye kotha bolte paren, protidin, protidin apnar kormer upor ekta bhashyo toiri korte paren. Ebong apni mone koren je tader kriyakaler jonno kichu karon royeche. Apnar sathe somossha ache je onyo kono jinis?",T,irq
+"Amake anusaran koro, ami jokhon kenakata korta jachhi tokhon rastay lokera amake anusaran kore. Apni janen, eti arro beshi kore ghoteche. Ebong aro ebong aro. Mane, pore, apni janen, ami amar bonduder eta somporkhe bakhya korar chesta korechi, tara sotti uttejito hoyeche, tara mone kore, apni janen, tara mone kore je ami amar rokar theke dure achi, kintu tara eta dekhte pay na. Apni janen, tara protidiner sathe thake na. Tumi jan.",P,id
+Tai apnar bondhurao chintito.,T,crq
+"Hyan, hyan. Tini-o chinta korben na. Mane, ami na. Ami mone kori na tara etar upor ache. Ami mone kori na tobe tara ki ghoteche she somporkhe onek kichu jane ebong sambhobotho polis tader sathe kotha bolche ba onyo kichu. Athoba hoyto amar protibeshi tader sathe kotha boleche. Ami jani na abar, apni janen, apnake tader jiggasa korte hobe. Kintu apni janen, eto kothin. Eta jana kothin, kar sathe apnar sathe kotha bolben ta jana kothin karon tara sobai koreche. Apni janen, tai tara sobai joddhit.",P,cd
+Tai tara koyek mash age ghote shuru. Eta apnar jibone onyo kono probhav ache?,T,yq
+"Acha, hyan,",P,op
+Jemon,T,crq
+"Sotti baire jete pare na. Thik achhe, ami pari, kintu ami jani jodi ami kori tahole ki hobe. Tai ami korechi, apni janen, ami sudhu chesta korchhi ami sudhu kom ki thakar chesta korchhi ebong ami manusher poth theke dure thakar chesta korchhi. Tumi jan? Sambhobotho ghumiyeche sambhobotho sheshbare mato ghumiyeche. Ami jani na, ami sheshbare 54 ghontar beshi ghumiyechi ta mone korte parchi na.",P,cd
+"Tai ki ei rokom bikto kore,",T,irq
+"Ami na, ami ghumai na jatokhon na ami dui, tin na hoiya porjonto ghumate jete chai na. Thik ache, ami nischoi je tara, apni janen, tara sobkichu bondho kore diyechhe. Apni janen, niche ebong sudhu apni janen, apni ki janen na, ami eta niye chintit.",P,id
+Radio shonar jonno teli dekhar kono somossha?,T,yq
+"Hyan, hyan, hyan. Hyan, tara tivio boshor kore. Spashtotai, tara ei projuktiro lakhye ekti somosto boshor kore. Ami bolte chacchi, ami jani ei somosto smartphone ache ebong akhon jai hok na keno, apni janen, tader ja dorkar ta holo tader moddhe ekti. Ebong tara kebal hyan, tivi, apni janen, ami jodi kono somoy eti dekhe thaki tobe tara sthanio sonbad peyeche, apni janen, sekhaney sordai kichu na kichu montobyo thakbe, sekhaney ja hoyeche tara sekhaney sordai kichu bole. Cholche, apni janen, proyojone proyojone ami akhon tivi choluo kori. Ami bolte chacchi, eta, apni janen, eta thik ache, eta sob sudhu tarer, tai na? Tai tara niksap korte pare ami jani, tara sudhu je eta plag koreche.",P,op
+"Apni ki bolte chacchen, tarer",T,crq
+"Keval TV, apni janen, eti rastay chole. Apni janen, pratyek-e etite access peyechhe, jodi tara janen je tara ki korche. Tumi jan.",P,cd
+"Tai spastota-i, ei sob khuboi kastadayak, bibhinn jinis ja ghotoche. Ami ki apnake ek tu pichhoney niye jete pari ebong apnar somporke aro kichu jante pari. Tai apnar doctor bolchen apnar boyos 29. Apnar jonmer bishoye amake ek tu bolun.",T,irq
+Uttor London.,P,id
+"Cholo jai. Haan, jao. Ekhono bikroyer jonno. Tai apnar bondhu chhilo.",T,crq
+Amar koyek bondhu amake janate chhilo. Ami school pochondo korini. Ototuku.,P,cd
+Tara ki somosshay porechhilo?,T,yq
+Ami korechi. English korte shuru korlam. Ami darshan pariborton korhechi. Tobe protom bochorer ordhek.,P,gc
+Eta keno?,T,crq
+"Amar sathe kichu English tutor jebhabe chhilo ta ami pochondo korini ebong ami darshane besh aghrani hoye chhilam. Amar bondhuder ekati domboti shonge eti live korchhilo ebong shudhu haan, aro akorshaniyo.",P,cd
+Aro pare apni Norwood esechhilen? Aro kaj peyechhilam. Tumi ki korcho?,T,irq
+"Ami koyek bochor tempod hoyechhilam ebong tarpor ami Rashiyaay ekoti bhalo chakri peyechhilam, Viva eti kichhu somoye ekoti Irish Union chhilo tokhon eti chhilo. Um.",P,id
+Eta die ki somossho?,T,irq
+"Kichhukshane thik chhilo. Eti biswer shera kaj chhilo na, tobe ami bujhte peyechhilam je ami thik hoye jachhilam. Shesh prante dik. Eto tara chhilo na. Eti kaj korar shera jagai chhilo na. Kintu bibhagti outsourcing hoye gechhe. Ami oproyojoni kora hoyechhe.",P,id
+Apni ki ei muhurte kaj koren?,T,yq
+Na.,P,on
+Apnar ki kono onshidar achhe? Ebong apnar paribar somporke ekto bolun.,T,irq
+"Ma ebong Baba London-e thaken, ekjon bhai ebong ekta bon. Bhai ekjon engineer, bon ekjon nurse.",P,id
+Tara ki ekoti koop?,T,crq
+"Haan, ami jatdure jani. Haan. Wail ami sato hote hisabe proyojito. Prayoi tader dekhte na.",P,cd
+Paribare oshusthotar kono itihas.,T,yq
+"Ami shob somoyoi shei ekjon ja ami tarun chhilam. Tai Ihad Meningitis. Haan, haan, amake bola hoyechhilo ami besh bhagyo-ban.",P,id
+Paribarer onyo kono purush kono mansik oshustho?,T,yq
+"Mansik rogg. Ami jokhon chhoto chhilam tokhon amar ma, amar ma bhalo chhilen na. Amar boner jonmer por she chhilo, she hotashay bhugchhilo. Kintu mone nei. Tini drishtyot amar chacha chhilo. Amar mayer pashe amar chacha chhilen ami jani na tini chhilen. Take hote hobe, pratishthanik dhornor jinish. Aapni janen, tader kichu somoyer jonno take dekhawona korte hoyechhilo karon eti bhalo chhilo na, ami sotti ei ti shomporke jani na.",P,id
+Alcohol? Aapni kemon pan koren.,T,irq
+"Protibar ebong tarpor ami ekta pan korbo. Bhule gechi bondhu. Kintu ami ta kori na, ami mone kori na je ami sotti ei kivabe etir gondho pachhi.",P,id
+"Ebong tarpor potobhumi somporke chhordonto proshno sajano, aapni koto ta madok bole mone koren?",T,irq
+"Um, ami protibar ekto ekto kore agacha khai.",P,id
+"Tai aapni amake ja bolchen tar shongkshiptosarer jonno, ja ghotoche tar poriprekshite, mone krun ekhon koyek mash dhore cholche. Aapni sotti ei uttejanapurno ebong backgrounde bhinno jinish kichu nei korechi. Aapni hoyeche. Aapni apnar pratebidhir kotha shunechen je amra apnar nije flat-e achi. Haan, lokera apnar telefon-e hastakshep korche, lokera television-e apnar jonno bishesh barta dichhe, bishesh kore, sambhobota radio-teo, ghumer jonno, aapni ghomate jawaar age prottek-er shobkichu bondho na hobe porjonto opekshya korbe. Ebong baire jete na parar karon aapni mone koren apnake onusorjon kora hobe. Aapni aro bolchen je apnar bondhura bhebechhilo je, aapni janen, tara apnar somporke kichhuta chintito hote pare.",T,id
+"Thik achhe, aapni janen, ami jemon korechi, aapni janen, ami amar pratebisher shathe kotha bolechi, je kono somoy. Ebong, aapni janen, amar bondhura shekhane ache ebong ami bolbo, amar bondhur ekjon Mark, ami take bolbo, accha, dekho, aapni dekhte pachchen je tara ekhoni amar upor guptachorbritti korche. Ebong tini, aapni janen, tini na. Tini mone koren tini mone koren tini mone koren ami eti toiri korchi. Se mone kore ami shudhu, tumi jano, Shovit kintu ami noi, tumi jano, karon eto prothidin. Tai eta khuboi kastodayak ebong kastodayak.",P,id
+Apanar jibone je somosto kichu cholche se somporkhe amake bolaar jonno aapnake onek dhonnobad ebong asha kori amra kichu somadhan korte pari.,T,gt

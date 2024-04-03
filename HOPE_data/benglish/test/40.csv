@@ -1,0 +1,67 @@
+Utterance,Type,Dialogue Act
+"Hello, Maria, tomake dekhe bhalo laglo.",T,gt
+Hello. Ami jodi bolte partam tomake dekhe bhalo lagchhe kintu daktarer kache jawar kono somoy bhalo noy.,P,gc
+"Shoubhagyobashat amar jonno, ami eta onek shunte. Tai amra apnar rakt jomato bondha ebong chikitsar bikalp-guli porichalona korar upay-guli sambodh korte jachchi. Kintu prathome ami koyekti jinish porikha korte chai. Prathomti holo apni dhoompan korchen. Apnar shesh poridrshone apni ardhek pack korte giyechilen ebong amra tyag korar jonno eti koto guruttopurno ta nie kotha bolechhilam, ami bolbo eti ekhon aro beshi guruttopurno je dhoompan DVT er sathe jukto. To, apni ki chhede diyechen?",T,yq
+"Na, ami chhadinni.",P,on
+Eto gheer. Apni ki amader shesh dekha theke amader kothopokathon mone rakben? Tokhoni ami apnake dhoompan chhadaar totho ebong tamak chikitsa bisheshjon er jogajog number dibo.,T,irq
+"Haan, amar mone ache. Kintu na, ami hal chhadinini. Ar na, ami take dakini.",P,id
+Ar ta keno?,T,crq
+"Ami proshutto noi. Aar ami ei bishe kotha bolte khub virat. Ami obhodro doktar hote chai na. Kintu idaning amar khub kosto hoyeche. Aar chhede na dewar jonno apni amar upor ksipito hower majaj e ami noi. Ami proshutto hole ami apnake janabo. Amra eta somporko kotha bolte paren. Kintu aj ekhane, ami ekhane amar rakt jomato bondhar bisoye kotha bolte eshechi.",P,cd
+"Thik achhe, amra tokhon eki prothay ache karon tokhon eki karon e ami apnar shathe dhoompan chhadaar bisoye kotha bolchi, karon dhoompan hoilo DVT-er jonno ekta mukhya jhukir karon. Emon somoye jodi apni jodi dhoompan tyaag na koren, ami bhoy pacchi rakter jomato abar phire asbe.",T,irq
+Ekhon sudhu amar chikitsa somporko kotha bole jak. Thik achhe?,P,com
+"Hello, Maria, tomake abar dekhe bhalo lagche. Hello.",T,gt
+Ami jodi bolte partam tomake dekhe bhalo lagche. Kintu daktarer kache asa kono somoy bhalo noy.,P,gc
+"Durbhagyo bashat amar jonno, ami eto onek shunechhi. Tai ajke apnar rakter jomato bondho kivabe porichalona korben ebong chikitsar jonno kichu bikalpo-gulo sambodhana korte jachchi. Kintu prathome, ami apnar dhoompaner obostha jante chai. Amar shesh poridrshane, ami sushrishi korechhi je apni ardhok pack korte giyechilen, aar amra protishthan korte chhi koto guruttopurno, tai amra kotha bolechhi je eta abar beshi guruttopurno je dhoompan DVT er sathe jukto. To, apni ki chhede diyechhen?",T,irq
+"Na, ami chhara ni.",P,id
+Eto goponio. Apni ki amader shesh dekha theke amader kothopokathon mone rakben?,T,irq
+"Haan, karon apni amake prosthan korte bolben jemon apni shob somoy onno shobaike ekta sima filter koren. Amar case-work-er moto. Building manager sobai mone kore tara jane amake ki korar hobe. Aar keu mone kore na ami kichu jani na.",P,id
+"Tai jokhon dhoompaner kotha ashe, apni onubhobh korben je onno lokera apnake ki bolte chay koto korar hobe ebong apnar jonno apnar nijer nirdharon korte chay. Apni shunte na baa somman kothay?",T,crq
+Somman nei. Etai. Haan.,P,cd
+"Achha, ami sudhu bolte chai je ami khub khushi je apni aj asar shiddhanto niye chhilen. Tai amra ei rakt jomato bondhar joton nite pari karon rakt jomato bondha kub guruttor ebong ami jani apni udvigno. Apnar prodankari hisebe, amake sot hote hobe ebong bolte hobe je dhoompan rakt jomato bondhar jonyo kichu jhukir karon hote pare. Tobe asha kori ajke ami apnader kichu onnanno tathya dichchi jeta apnader dhoompan chhara tomar sidhdhanto neite sahayya korbe. Ekhon, eta bolar por, ami amar mato mone janina, sidhdhanto niye dhoompan tyag kora shudhumatro apni nite paren.",T,irq
+"Thik achhe, ami satti je ami ei rakt jomato bondhar obostha niye noton korechi. Ami je jani",P,id
+Ami dhumpan ebong rokt jomat bandha somporke kichu tottho share korle ki apnar sathe thik hobe. Ebong ami ja jani ta apnake bolte pari ebong tarpor apni ki bhobchen ta amra dekhabo.,T,orq
+"Hyan. Ami jani na je ami chhede deb, tobe ami shunbo.",P,od
+"Tahole, apni ki mone koren?",T,irq
+"Ami shobshomoy vabtam je rokt jomat bengheche amar mayer kach theke. Hyalo, genetics moto pass niche. Ami janatam na je dhumpan er karon hote pare. Ami shudhu bhebchilam je amar poribare rokt jomat bengheche. Ami onumon kori je ei jomat bandha koto ta bipojjonok hote pare ta ami bujhte parini.",P,id
+Apni bismith ebong dhumpaner jhuki somporke akhon ek tu beshi shocheton?,T,yq
+Ami tai onumon. Hyan.,P,op
+"Tai Maria, apni dhumpan somporke ki bhobchen ta ami aro bhalo vabe bujhte chai. Tai ek shottar shathe 1 theke 10 er scale, apni mone koren na je apni tyag kora ekebarei guruttopurno ebong 10 hochhen apni ajke prosthon korte prostut? Apni nijekete kothay rakben?",T,irq
+"Achcha, apni jodi amake jijnyasa korten ami kokhon eshechi, ami ekti'r cheye kom bolatam. Kintu ekhon amake char ti bolte hobe.",P,id
+Keno char ebong ek ti kom shongko noy.,T,irq
+Eta ekti bhalo proshno. Amake eta somporke chinta korte din.,P,id
+Rokt jomar bandhar karon-e amar mone hoy eti ekto char. Rokt jomar bedhe ekhon sotti ami amar mone bhari.,P,id
+Sutrang dhumpan kibhabe rokt jomar bandhar jhuki baraye ta aro bhalo vabe bojhar fole ta chorar apnar iccha bade.,T,yq
+Ektu hyan.,P,ack
+"Ar ki, jodi kichu, apnar jonno chhede dewa guruttopurno kore tole?",T,orq
+"Jene rakhun, amar jonno sobcheye boro bishoy holo, amar apartment theke bere kore dewar bhoy. Bari te dhumpan karar niyom ache. Ebong ami beshi bhaag-e etike atke rakhi, kintu onno din, ami janala diye dhumpan korechi. Ebong je ami eta korechi shudhu matro duiti bar chhilo. Kintu tumi ki jano na, building manager amake dhoreche. Tai ekhon ami nishchit je se amake aro beshi dekhebe. Ami amar ongsh harate pari na. Songe",P,od
+"Dhumpaner karon-e apnar apartment haranor somvobona apnar shasther pasher apnake sotti virkto kore,",T,irq
+"Ami eta vabte grina korbo je amar sogodiyan tara tader bari hariyeche karon tader ma dhumpan beche nichechilen boka code mene cholar jonno, emonki jodi ami sei niyomtike grina kori. Ami jokhon tader shathe garvoboti chhilam tokhon ami dhumpan kortam. Ebong apnake dhonnobad, pabitr ma, tara shustho jomograthon korechilo. Ami mone kori na je amar kichu karar karon-e tara jodi tader bari hariye fele tobe ami nije-r shathe bachte parbo.",P,id
+Tai mone hocche apnar jibone apnar ogrodhikar hocche apnar shontander jotno neowa. Eta sposto je apni ekjon bhalo ma. Ebong jodi apni dhumpan karar karon-e apnar bari chhede jete hoy tobe ta shohyo kora kothin hobe.,T,yq
+"Hyan, tara korbe.",P,ack
+Tai amake ek theke 10 er eki scale ektu bhinn proshno jijnyasa kortey din. Apni apnar atmobishwashke kibhabe rate korben?,T,orq
+Atmobishwash? Ami dui e bolte habe.,P,od
+Tai apni ei muhurte khub atmobishwashi bodh korchen na,T,crq
+"Ke oh, na, moteo atmobishwashi noy. Ami bolte chhachchi, ami onekbar prosthon korechi, ebong ami eta korte pari na.",P,cd
+"Tai apni obicholito ebong chesta korechen ebong ekhonoi shofol honi. Tobuo, apni ekti duti ebong ekti ek set no. Ami je somporko agrohi.",T,irq
+"Thik achhe, ami je duiti karan bolechi ta hol ami jokhon shonthir sathe garbhavati chhilam tokhon ami dhumpaan chhede dewar chesta korechi ebong tara dujon-i. Ami deler sathe cigarette chharaei dui mash jabo. Ebong ami eta je atit kora na. Ebong je sotti je jonyo nijekete kshipto chhilo. Ami sotti ami amar bachchader theke prasthan korte chaiye chhilo amar borth hoyeche. Ami onuman kori. Ami shudhu ashaheen. Ami bolte chachchi, bhitor ekti shishu thakle ke dhumpaan kore?",P,id
+Mone hochhe apni sotti anubhav korchen je apni nijete ebong apnar santander hotash korechen. Ebong apni apnar bachchader koto bhalobasen ta mene nioa kathin.,T,crq
+Hyan. Ebong ami niyom onusoron na kore ekhoni eti abar korchi. Ami ekjon madokasokter motoi cigarette-er proti ashokto. Shesh porjonto sob somoy sathe cigarette.,P,cd
+Tahole apni ki mone koren Santa ebong apnar dhumpaan somporke ki bhabe bhabchen?,T,orq
+"Shanti amar dik theke chitkar kore. Ebong kono kono tara kando be jokhon ami dhumpaan korte jai. Tini bolen, ma dhumpaan kharap.",P,od
+"Tai apni jane je jodi apni chhede den tobe eti apnar ebong apnar santander jonno sobcheye bhalo hobe. Ei ashokti porichalona korar jonno apnar jodi sotti samarthan ebong saranjam chhilo. Apni jodi biswas koren je apni eti korte paren, apni korben.",T,irq
+Ami eta korte chai kintu ami mone kori na ami eta korte parbo.,P,id
+Jokhon apni leje diye garbhavati chhilen tokhon apni dui maser jonno prasthan korechilen.,T,irq
+Apni tader sathe kivabe korechilen?,T,irq
+Ami jani na. Ami shudhu eta korechi. Ami stra ebong kichu hard keli er upor chusha shonge tagid juddho ami eta korechi.,P,id
+Sutaron apni dui maser jonno apnar nijer theke prasthan korte shokkhom holo. Oita chittakarshak. Apni ki kono nicotine protisthapon ba sahayata goshti-r moto onno kono sahayyo boshoto korechhen?,T,irq
+"Na, ami mone kori manush chhede dite pare. Jodi tara sotti chai. Ami shudhu khub durbol.",P,id
+"Ah, baa. Apni nijer upor besh kathin hote habe. Apni ki bolben jodi ami apni bolte boli je khub kom lokoi amader modhe matro 4% shofolbhoi thanda turkey chharte shokkhom.",T,irq
+"Na, sotti-i achhe? Eta ki sotti, haha?",P,crq
+Hyan. Ebong ebong beshirbhag lokera shofol hower age onekbar chesta kore. Tader oshudh ebong group-e ebong ami apnar sathe sei information share korte peri khushi hobo. Ami apni sahayyo korte chai jodi emon kichu hoi ja apni chan.,T,cd
+"Acha, ami jani na. Ami amake eta somporke chinta korte dichchi. Apni amake abar information dite paren? Pustikati apni amake age diechen. Ami apni bolte chai ni kintu ami bari te fhire tader dure chhude fellam. Kintu ami sotti-i ei somoy tader porte chai.",P,id
+Eta chamatkari. Maria.,T,gt
+"Apni tader dekhte paren ebong ami amader tamak chikitsa bisheshjog, Soniya-ke apnar sathe onusoron korb. Amader ekta chamatkari tamak chikitsa program royeche ebong ami biswas kori je apni prostut hole Soniya apnake chhede dite sahayyo korbe. Thik? Ki? Abar check-in korer jonno kkhon bhalo somoy hobe?",T,id
+"Tini amake pore saptah-e ebong dui nomber-e kol korte paren, ami abar chesta korte pari.",P,id
+Ekebare. Aar ami Soniya-ke dakbo. Ami shudhu apnake janate chai je ami bujhte pari je dhumpaan chhadaar bishoye kotha bola apnar pokkhe koto kotha kothin. Ebong ami sotti je jonyo ami bujhte pari je dhumpaan chhadaar bishoye kotha bola apnar pokkhe koto kothin.,T,gt
+"Tahole, apni ki rakter jamat bandha kivabe porichalona korben she somporke kotha bolte chan? Hyan.",T,orq
+Eta bhalo shonachhe. Thik achhe.,P,od

@@ -1,0 +1,45 @@
+Utterance,Type,Dialogue Act
+"Thik achhe, jijnasha korar jonno dhonyobad. Ami bujhte pari je aponi kichu osuvidhar sommukhino hochhen ja apnake amader agency te ashte sahayyo koreche.",T,gt
+"Hyan. Thik achhe, ami bolte chachchi, ami svabhaviker cheye onek beshi pan korchi, kintu eta amar jiboner onsh matro. Kintu ami jani na, ami mone kori ekuti briddhi ache. Tai eta, je amake ek tu chintit.",P,id
+Tai apnar mone hochhe apni svabhaviker cheye beshi pan korchen. Apni akhon koto pan korchen?,T,cd
+"Ami shaptahe koyek rat amar bondhuder sathe ghurte jacchi. Tarpor prai ekbar ba tar beshi amra amar shokormider sathe baire jai. Tai hyan, shaptahe hoyto tin, char rat,",P,id
+Shaptahe tin ba char rat?,T,crq
+Hyan,P,cd
+Aro apni protibar jete koto pan korchen?,T,irq
+"Um, apni janen, ami kar sathe achi tar upor nirvor kore. Tobe sadharanot jokhon ami shaptahante amar bondhuder baire jai, tokhon ami beshi dirgho somoy thakbo. Ami bolte chachchi, amar mone hoy somossha holokhon ami amar shokormider sathe shaptahe baire jai, apni janen, ami amar icchar cheye beshikshan thakbo, ebong tarpor jokhon amake sokale uthte hobe, eti ekdhore amar ek tu age chek out jawa uchit chhilo, kintu eti, jara amake amar sob chek out. Tai ami sekhane gele tara bujhte pare.",P,id
+"Thik achhe, tahole apni ki janen je somoyer moddhe apni koto alcohal khan. Apni asle koto pan korchen janen?",T,irq
+"Prati rate amra anumani-bhabe ami ek ghontay duiti beer pan kortam, kintu tara sotti tai party korte pachhe ebong ami tar sathe thakar chesta korachilam. Tai, bondhura, hyan. Ebong tai ami amar kache thaka beer-gulir sathe ekta shot-er moto pan korchi. Tai hoyto ghontay tin ba charti panir.",P,id
+Tahole apni ki dekhte pachchen je poshondsoi prohob pette apni aro pan korte hobe?,T,irq
+"Um, hyan, apni janen, baki sobai sei srote pouchheche. Tai ami mone kori amar tader sathe thakar dorkar. Ebong sadharanot age ami ek ti ba duiti panir theke je pette hobe. Tai ekhon, ami ek tu beshi kaj korchi, ami mone kori, sethe jawaar jonno.",P,id
+Apni ki khoroch kamonor kono chesta korachhen?,T,irq
+"Apni janen, shaptaher shurute, ami bolbo je ami ei shaptahe matro du-bar baire jete jacchi. Kintu tarpor tara amake amntron janay ebong ami poshondo kori, thik achhe, ami miss korte chai na ba amar, amar bondhura, apni janen, eti shaptaher amar samajik somoy, tai ami sadharanot jai, tara jai na sotti-e porikolpo lathi. Tai je dhroner ek tu hatashazonok hoyeche, kintu ami jani eta ekhono bhalo.",P,id
+"Eta thik achhe. Sutornoto, ami alcohal byabohar kore apnar byay kora somoy somporke kotha bolte chai. Apni je poriman somoy ullekh korchen je apni dirgh somoy er jonno byabohar korchen tate apni thik achhen? Kintu tumi ki thik achho? Naki emon kichu ja apnake kosto dicche?",T,irq
+"Um, ami mone kori ami amar somoye sathi valo jinish korte partam, tobe eti ekta boro somossha noy. Ami mone kori onek manush eta koreche. Tai apni janen.",P,id
+Apni ki alcohaler jonno trishna peyechhen?,T,yq
+"Hyan, hyan. Ami bolte chai, kajgulir moddhe ekta sompurno korar jonno prastut jate ami amar shokormider sathe khushi sorot jete pari ba, apni janen, ekta barbecue ba paribarer sathe kichu theke. Ami ekhane kibhabe hote chai somporko chintak. Tai hyan, mahano jinish, kintu na, sobai dhroner je kore. Jemon ami ekhon baire jete pari. Tai je dhroner ek tu hatashazonok hoyeche, kintu ami jani eta ekhono bhalo.",P,op
+"Tahole apni eta somporko chintachhilen, kintu apni trishna anubhav korte pondo koren.",T,crq
+"Hyan, hyan, hyan. Hyan.",P,op
+"Apni kajer kotha ullekh korechen, apni karmokshetre ba anyo kono kshetre dayitwo niye somoshyay porchen?",T,irq
+"Na, amar kajer jibon besh bhaloi cholche. Ami eta ba erokom kishur karon e kaj mis kori ni. Tai modyopaner karon e.",P,on
+Alkoholer karon e apnar ki kono samajik somosha hoyeche?,T,yq
+"Na, ami mone kori amar samajik jibon ashole etir karon e durdanto. Apni janen, amar bondhuder sathe adda din ebong apni sotti bhabe bhalo thakben. Tai je amar samajik somoy.",P,on
+Thik achhe. Tai samajik somosha nei.,T,crq
+"Haan, kono somosha nei.",P,cd
+Alkohol boshor er karon e apnake ki kono guruttopurno kaj chhede dite hoyeche?,,yq
+"Karyokrom? Thik achhe, sadharanot guruttopurno kriyakalapgulite modyopan jorito thake jate ami emon guruttopurno kriyakalap tag kori ni ja modyopan jorito noy. Kintu eti besh sohoje hoyeche karon sei somoye sadharanot alkohol thake.",P,on
+Apni kono guruttopurno karyokrom miss korenno. Sharirikbhabe bipojjonok karyokale jorito somporko kivabe?,T,irq
+Karon ami'o ekhon jorito ebong ami sadharanot besh nirapod. Haan. Tai.,P,id
+Apnar ki kono chikitsa ba monoshik shasthyer itihas achhe?,T,yq
+"Um, thik achhe, ami jokhon chhoto chhilam tokhon amar nirnoy hoyeche amar mone hoy, hoyto ADHD ba erokom kichu, kintu ami mone kori shikshokra amar dware birkotto hoyechilen karon ami thik emon chhilam, khub bhalo somoy. Tai kintu idaning ekta somosha hoyeche keno.",P,op
+Ekhon kichu somosha? Alkoholer karon e ki kono chikitsa somosha ba monoshik shasthya somosha aro kharap hoyeche?,T,crq
+"Um na, ami er pore modyopan shuru korechilam tai ekhon na eti niye kono somosha hoy ni.",P,on
+Tai apni alkohol boshor ullekh korechen. Kono drug boshor hoyeche?,T,yq
+"Na, amar modyopan ba apni jokhon jano etomor kichur sathe noy, ami jokhon chhoto chhilam tokhon sadharan kishorrara ganja ebong jinis dhumpan korto, kintu ami ar ta kori na.",P,on
+Tahole eta shudhu alkohol?,T,crq
+"Haan, shudhu alkohol.",P,cd
+"Thik achhe. Apni jokhon modyopan bondho koren, apnar ki kono sharirik lakshon ba udveg protyahare kono lakshon ache?",T,yq
+Na. Pore sadharanot bhalo lage. Ami thik ache kichu din jete paren.,P,on
+"Thik ache, tai eta kono somosha na. Thik ache. Jyaki, counseling poriseba ba sangstha praptir jonno unmukto?",T,ack
+"Haan, dekha jak keno eta kichute aghat korbe. Amar sotti ei tiar proyojon nei tobe eti aghater sathe thik chhilo,",P,op
+"Ami mone kori thik ache, thik ache. Thik ache. Ami apnake ekjon counselorer sathe dekha korar jonno nirodh korechi. Amar proshner uttor dewar jonno ki ghotche sei somporkhe ami apnake dhonnobad janate chai. Eta sahayok hoyeche.",T,gt
+Haan. Dhonnobad.,P,gt

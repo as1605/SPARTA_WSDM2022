@@ -1,0 +1,78 @@
+Utterance,Type,Dialogue Act
+"Tai, ami ektu gear poriborton korte chai. Ebong apnar paribarer kotha bolun. Eta ki thik achhe?",T,gc
+"Oh, eta onek kintu thik achhe.",P,gc
+Sekhane onek tathya.,T,orq
+Hyan.,P,od
+Thik achhe. Cholo amra shuru kori. Amra ki apnar baba-mayer sathe shuru korte pari ebong amake bolo apni ki swachchhondyo bodh koren? Tader somporko bolun?,T,irq
+"Thik achhe, amar baba jokhon char bochor boyoshe madok pachar jonno jele chhilen.",P,id
+Madok pachar.,T,irq
+Hyan. Ebong koyek bochor age tini stroke kore mara jan.,P,id
+"Kot bochor age,",T,irq
+Pray tin bochor age,P,id
+Tini mara gele boyos hobe. Hote,T,irq
+"Sat, amar moneo nei. Ami sotti jeo tar sathe kotha boli na.",P,id
+Tomar ma koto,T,irq
+Amar ma pagol,P,id
+Amake se somporko bolun.,T,crq
+"Um, jokhon ami high school-e chhilam, ebong ami ekhono tar sathe thakbo. Majhe majhe basay ashtam ar pani chhilo na. Bidyut chhilo na, kichu-i chhilo na. Se taka jua khelle. Amra besh koyekbar korechi jekhane amake gari guli lukie rakhte hoyechilo, seguli punoruddhar hower bhoye. Ebong ami kichukshon pore eti nite parini ebong ami pray 16 bochor boyoshe baire chole asi.",P,cd
+"Tahole, apni ekhon apnar somporker gunmane kibhabe barno korbhen?",T,orq
+Bhalo na. Bhalo na.,P,od
+Mone hochhe khub beshi jogajog nei.,T,orq
+"Ar na. Na, na, se chesta koreche kintu ami tar sathe kotha bolte raji noi.",P,od
+"Apni ki janen apnar baba ma, karoroi mansik roger itihas ache kina?",T,irq
+"Um, amar ma bipolar hoiye nirnoy kora hoyechhilo. Um, amar baba, ami tare samprkhe temon kichu jani na. Ami jani tar roger somossha chhilo.",P,id
+Mone ache?,T,yq
+"Hyan, ami kori.",P,ack
+Tai eta apnar baba ebong apnar ma. Kono bhaibon ache?,T,irq
+Amar ekta boro bon ebong ekta chhoto bon ache.,P,id
+Dui bon?,T,crq
+"Acha, amar boro bon amake ebong amar chhoto bonke boro koreche. Jehetu ma khono ashepase chhilen na ebong baba jele chhilen. Ami taki amrittyu bhalobashi.",P,cd
+"Eta tomar boro bon,",T,crq
+Amar boro bon.,P,cd
+Tomar chhoto boner obostha kemon?,T,irq
+"Amar chhoto bon. Um, amra khub katha boli na. Se amar sathe katha bolte chay na. Se bole ami kharap pravabshali.",P,id
+Ekta kharap pravab?,T,crq
+"Tar upor tar, tar tar bondhura. Ami mone kori se atke ache. Ami bolte chaitesi,",P,cd
+Amra ashole etta mone korchhi,T,irq
+"Se ki mone kore se amar cheye bhalo? Thik ache bolei se kolege gechhilo. Bhalo, apnar jonno bhalo.",P,id
+"Thik ache, tai eta ekta positive somporker moto shonachchhe. Apnar boro bonke onubhut korar chesta kori. Eto thik?",T,orq
+"Hyan, ami amar boro bonke bhalobashi.",P,od
+"Ebong chhoto boner somporko ekta kichhu alada. Ami bolte chai,",T,irq
+"Ami o taki bhalobashi. Ebong ami tare chhoto doze mokabela korte pari, tobe eto-i.",P,id
+Apni pratyeker sathe koto ghon ghon jogajog koren?,T,irq
+"Amar boro bon ami apnar sathe katha boltam, pray protidiner moto. Um, apni janen, tini sob somoy kande kate jane ba, apni janen, jodi ami bondho pore thaki, ebong amar kichu ortho-er proyojon hoy, se sorboda amake sahajjo korte ichchhuk. Ami kothao jete hole se bachchader dekhte pare. Jodi seta hoy, se amar Shila. Amar cheye chhoto, amra heto prothi saptah kotha boltam. Amader eke oporer ap ki janote din. Hote pare amra dinner-e jabo.",P,id
+"Tai, chhoto boner cheye apnar boro boner kachhe besh kichhuta ghonishtho. Boner sathe jekono mansik swasthyer itihas.",T,irq
+"Um, amar boro bon hôtrashgrôshto chhilo ebong se jokhon chhoto chhilo tokhon tar onek udbeg chhilo, karon se amar babaar sathe emon aachoron korechhe ja ami",P,id
+Thik ache. Tahole ki apnar boro bon ba apnar chhoto bon shei bishoye? Tumi ki jano? Apni ekhane?,T,irq
+"Oh, amar boro bon amar boro bon kore ami ei saptah-e ekhono tar sathe katha bolini.",P,id
+Tahole apni ki take bol-ar porikolpona korchen?,T,crq
+"Hyan, ami keno ta dekhte pachhi na. Hote pare eta take kichhu manobik korbe. Like, ami toto-ta kharap noi joto manush se amake bhabche",P,cd
+Apni ki tader upor itibachok dharona tori korar proyojon bojhchhen?,T,orq
+"Na, kintu ami mone kori kono somoy kono somoy eta soho. Eta sohajtar. Eta sohajtar. Apni kharap bon hocchen na.",P,od
+Eivabe apni bishwosh koren je apni dekha hochhe.,T,yq
+Hyan. Tar dwara tar dwara,P,ack
+Thik ache. Kemon dada-dadi?,T,irq
+Amar baba-r poribar tara satyoi jane na.,P,id
+Je kono mansik swasthyer itihas ja dada-dadirao janen.,T,irq
+"Ami bolti chai, ekjon thakurma je ekhono beche achhen, tini kichhu dhôrôner dimenshia ba onno kichhur moto ebong tar pore shomosto timer dimenshia chhilo",P,id
+"Khala, chacha, chachato bhaider ki obostha? Hey baby. Na,",T,irq
+"Amar onek kajin chhilo. Emonki diner belay bari-r bhitore ebong baire prochur kajin, majhe majhe ami school-er jonno roina dii, sei khane kichu kajin thakbe. Tara school theke shompurno bhinn set ashche.",P,id
+"Tader sathe jogajog ache? Um,",T,irq
+"Social media and jinis poshondo koro. Ami bolte chai, tara ekhono shara deshe shorjio poreche. Tobe, apni janen, ami joto-ta pari tader sathe jogajog rakhi.",P,id
+Shishuder shongge?,T,irq
+Amar duto shonton achhe.,P,id
+"Thik ache, amake tader shongge bolun.",T,irq
+"Um, tara amar jiboner bhalobasha.",P,id
+Kon bon?,T,irq
+Amar boro bon jokhon ami thik thaki tokhon she tader dekhe,P,id
+Tai.,T,ack
+Apni kindergarten korte chan ebong onnoti,P,id
+"Apni je ditio shreniti ullekh korechen, apni kohon ekta cheleke bagan korte parben",T,crq
+"She bari te ase tader jemon medha noi, bhalo referral-er moto. Tini ekta pushover dhôrne hote pôchondo kôre. Dhakkadhakki noi kintu school-e ba chele-er moto. Ami principal and amader shikkhokder kach theke besh koyekta kôl peye chi je she onno ekti bachchake dhakka diyechhe, oh, onno ekti bachchake jijjôsya kôrûn je tar kach theke ekta kagaj thakte pare ebong she chitkar kore chitkar kore uthe. Apni janen, she bari te ase ebong ami amake chitkar kore. Apni eta pôchondo kôren? Tumi ki amake chitkar korte pôchondo kôro? Apni onno kauke chitkar korben keno?",P,cd
+"Ei shomossha chinta, aachoron.",T,crq
+"Achha, hyan, mane, ami school-eo shomosshaye porechhilam. Khon? Mane, ami jokhon tar boyoshi chhilam tokhon noy. Ami jokhon tar boyoshe chhilam tokhon ami school-e bhalo chhilam, kintu ami eki pothe jete chai na.",P,cd
+"Oboshshoi, eta niye ektu chintit. Hyan.",T,crq
+"Hum, ami tader dekhte pachhi. Ami bolte chai, ami keno kaj kori tai ami shekhane ekojonke dekhte pachhi na. Tara de-care jay, kintu kono kono ami jodi emon kono party-te ba emon kichhu-te jete pôchhondo kori jekhane ami jani je shekhane kichhu jinis thakbe ba amar bari-te party ache jekhane ami kichhu jinis jani je shekhane hote cholbe. Ami amar boner sathe bodh porlam.",P,cd
+"Apni jokhon jinisgulike eto spôshṭobhabe bolen, tokhon apni madok bojhachchen.",T,irq
+"Hyan. Madok, alkol. Hyan, ami borong chai amar bachchara amake eibhabe na dekhbe. Tai boli,",P,id
+Sutôrang apni tader eti theke raksha kôrchhen. Oh hyan hyan,T,ack

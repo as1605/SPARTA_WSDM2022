@@ -1,0 +1,92 @@
+Utterance,Type,Dialogue Act
+Apni aaj kemon ashen?,T,gt
+Ami mone kori ami besh bhalo korchi.,P,gt
+Besh bhalo korchen.,T,gt
+"Accha, tai ami onlaine dekhte chhilam amar classer modhye biratir somoy ami online school-e jai.",P,irq
+College-er moto?,T,crq
+"Haan. Aar tader ei aache ami amar lakshanguli khujchhilam, amar dharona, monoyog ditte asubidha, sthir thakte asubidha. Thik erokom jinis aar apni janen, ami mone kori amar sei ekta byadhi thakte pare.",P,cd
+ADHD?,T,crq
+Haan.,P,"ack,cd"
+Apnar ADHD thakte pare.,T,id
+"Thik ache, ei lakshanguli ki apnake bhirro korchhe? Tumi bolechhile tumi online college jao.",T,"id,yq"
+Haan.,P,ack
+Eta tomake shekhane birro korchhilo?,T,crq
+"Haan, eta kore.",P,cd
+"Eta kore. Thik ache. Ki ghotoche ta aro bhalobhave bujhate amar aponake koyekti prashno jignasha korte jachchi. Thik ache. Ei uposargguli apnar hochhe, eguli kon boyoshe shuru hochhe?",T,irq
+Pray atto bochor boshi.,P,id
+Atto bochor boshi. Thik ache. Aar apni mone koren je tara apnake birro korchhe. Apni online je klas nen?,T,irq
+"Haan, kintu ami akhono ami akhono bhalo grade pete, apni akhono",P,id
+Jonno bhalo grade pete?,T,irq
+"Keu apnake eti sambhobho e kichu prashno koreche. Tai ami bisheshvabe jignasa korbo kivabe eti class-e apnake pravabhit kore, kintu onyo kono khetre apnake pravabhit kore. Je somporko amake bolun.",T,irq
+Thik ache.,P,ack
+Thik ache. Apnar ki monoyog protishtha korte somoy hoy?,T,yq
+Haan.,P,ack
+"Jokhon apni monoyog protishtha koren, tokhon apnar ki monoyog dhore rakhte asubidha hoy?",T,yq
+"Haan, kore.",P,ack
+"Uddharonshorup, ekjon professor-er sathe, apni ki professor-er apnar online class shonen?",T,irq
+Amar shunte asubidha hoy.,P,id
+Eti apnar jonno ekta somoy. Professor apnake je nirdeyshona den ta anusaran korle kemon hoy?,T,irq
+Ami ekta somoy likhechi.,P,id
+Apni ki sngothito?,T,yq
+Ami asle sngothito.,P,ack
+Apni ki nijekete emon kriyakalap erate dekhen jara jonno onek manoshik prochesta proyojon hoy?,T,yq
+Haan.,P,ack
+Apni ki janen ki dhoroner kriyakalap erate hobe?,T,irq
+Birohider moto kichu? Ami tader sohjo korte pari na. Daba eta sohjo korte pari na. Lokera amake niyom byakhya kora'r chesta kore. Ami akhono eta pete na. Amar matha byatha hoy ebong ami chhede di.,P,id
+Apni ki kokhono nijekete class ba onno kono jaygai jonno proyojonio jinisguli hariye felchen?,T,yq
+Sob somoy. Haan.,P,ack
+Apni ki sohoje bhramonto hon?,T,yq
+Haan. Somoy nin.,P,ack
+Apni ki bhule gechhen?,T,yq
+Haan.,P,ack
+Haan. Thik ache.,T,ack
+Tai ami prashn-gulir arekti series-e jete jachhi.,T,gc
+Apni ki eta anen?,T,yq
+Haan. Ami kori.,P,ack
+Apni ki apnar asone thaka kothin mone koren?,T,yq
+"Haan, ache, amader kache ei bhidio-gulo ache. Aar kokhono kokhono ami tader biratir dite hobe aar ami kichhukhane amar room-er charpase hatte perechi. Apni janen, call back, bosun, amar system ber koro. Click koro, aar amra bhalo.",P,"ack,id"
+"Thik ache, tai apni uthe dadatete aar ghure bedate badhya bodh korchen.",T,crq
+Haan.,P,"ack,cd"
+Aar tarpor apni bosote aar punoray shuru korte paren.,T,crq
+Haan.,P,ack
+Porrar moto niribili kriyakalap neye apni kibhabe korben?,T,irq
+"Na, na, na, ami eguli korte pachhi na karon ami pari na. Ami chupchapi samlate pari na.",P,id
+"Na,",T,crq
+Na.,P,cd
+Thik ache. Ekhane mone hocche apnar ekta antorik motor ache ja sorboda choloman thakche.,T,orq
+Haan. Haan.,P,"od,ack"
+Katha bolle kemon hoy? Apni ki khujte paren je apni atirikt katha bolen?,T,yq
+"Haan, ami kori.",P,ack
+Jinisgulike jhapsa kore kemon hoy?,T,"yq,irq"
+"Haan. Kintu lokera sotti ei lakshyo kore na karon especially class-e, ami uttor-ti chitkar korte chai, tobe apnake ekta botam tipte hobe.",P,"id,ack"
+"Jate ami chalu kori ebong audio chalu hoy. Sutroṅg apni kichu out blut hobe, kintu tara eta shunte hobe na. Haan, tara korbe na karon apni nei.",T,gc
+Tai ami eta bhalo anuman.,T,od
+Thik ache. Kivabe manush badha sambhob?,T,irq
+"Haan, haan.",P,ack
+Haan. Apni apnar pala apekshay kortey asubidha ache.,T,irq
+Blarting oute phire ami botam tipte bhule jai. Ami tarpor uttor dite botam tipun aar eti ei line-er moto kichu jay. Ami amar pala jonno apeksha ghrina. Ami etta mokabela korte parben na. Thik ache.,P,id
+Eti apnar jonno ekṭi shaktishali suit noy.,T,"on,od"
+"Na,",P,on
+"Thik ache, tai apni ullekh korechen je eti school-e kichu asubidha srṣṭi kore kintu apni etao bolchen je apni school-e thik achen. Haan. Thik ache. Apnar jiboner anyo kono khetre ki eti apnar shomosha srṣṭi kore?",T,"crq,irq"
+Na ami bhavte pari na. Na.,T,"on,cd"
+Haan. Apni ki ki korben? Tahole tumi college jao?,T,irq
+"Haan. Niyojito anyonno karyakrom. Ba kichu-i pochhondo na. Ami eti shomponno korte chai ekṭi shompuṛṇo kote-course load peye chi. Sottoi ar kichu korben na. Ami bolte chaitesi,",P,id
+"Haan, na, ami kintu atmiyader pochhondo kori.",P,id
+"Ami amar atmiyader onek dekhi na. Amar baba-ma oboshor neowar moto, tara sthanantarito hoyeche, tai ami tader dekhi na aar tader dekhi na.",P,id
+Kono bondhu ache?,T,irq
+"Eta bibroṭokor, kintu sotti ei kono bondhu nei. Shreph live, khawa aar shwasha neowar moto school.",T,"id,on"
+Apni ki kokhono college theke apnar shohopather sathe melamesha koren?,T,yq
+"Na, na.",P,on
+Haan. Apni ki mone koren je ei lakkhongulir karan? Aṭhoba je apni jai hobe na?,T,orq
+"Thik ache, ami eta shomponno kore kharaap bôdh. Tai ami bolte chachchi, amar pôshe eti atikram kôra kôthin karon ami eti lakkho korechi, tobe shekhane theke bere asha amar pôshe kôthin.",T,o
+"Thik. Apni ki mone koren je apnar shohopathider sathe samajikvabe jôrrito hôa apnar pokshe kôthin, karon kono ghôntôbô hôle hiperactiveitir dhoroner lakkhon?",T,orq
+"Kintu ami bishwas kori haan,",P,od
+Apni bishwas koren karon eti lakkhon,T,crq
+Haan.,P,"cd,ack"
+"Aar anyo kono elaka jemon, kenakata ba porishkar ghor?",T,crq
+"Na, ami er sathe besh thik achi.",P,"cd,on"
+Eta kaj kore. Thik ache.,T,crq
+Haan.,P,"cd,ack"
+"Thik ache. Thik ache, antôt ami apnake ekjon counselorer sathe dekha kortey jachhi ba matro koyek din somoy nitte jachhi amar shurute koyek diner jonno, ami amar sathe ei somoy kâtate apnar proshôngsha kori. Aar amake ei proshno jijnasha kôrun. Ei shôhôk chhilo.",T,gt
+Apnake dhônnobad.,P,gt
+Dhonnobad.,T,gt

@@ -1,0 +1,55 @@
+Utterance,Type,Dialogue Act
+"Nishchit apni bujhte pechhen je apnar kichu upasorg ache ja apnake birkat korche, kintu apni ki amake bolte paren apni ki bhabechen?",T,irq
+"Hyan, ami sotti khub kharap bodh korchi ebong ami mone kori ami hotash hote pari.",P,id
+Apni ki mone koren apni hotash hote paren?,T,irq
+Apni ki atit-e kokhono ei bhabe anubhav korechen?,T,irq
+Mane,P,id
+"Bochor age ami jani, anubhut ei dhore kichu jinish chhilo. Kintu ami sotti ei somoye anubhob kori ni ebong ami bolte chachchi, ei temon bhabe chhilo, ami ek maser moto ei bhabe anubhob korchi. Ebong, apni janen, amar mone hoy kichu bhul hoyeche.",P,id
+"Bishonno bishonnata, ashahinotar kono anubhuti ache?",T,yq
+"Hyan,",P,ack
+Hyan?,T,crq
+Hyan. Ami ghumate shokkho hoyeche na.,P,cd
+Ghumate somossha hoy?,T,irq
+Eta ek mas dhore cholche.,P,id
+Hyan,P,gc
+Apni ki moja ba anondo anubhav karoar apnar kshamotar poriborton lakhechen?,T,irq
+"Ami sotti ei somoye mone kori ni. Kintu mane, ami ekhono maje maje moja kori.",P,id
+Ami shudhu lakhyo korechi je amar adhikangsho,P,gc
+"Beshirbhaag somoy apni dukhito, kintu apni ekhono moja acho. Apni ki mojar jinishguli anusaran korar aagroho harie felechen?",T,irq
+"Na, mane, ami ekhono chesta kori, apni janen, apni janen, nijekete bibhranto korar jonno. Ami jodi lakhyo kori je ami bhalo achi, shudhu sotti ei khub kom anubhob korchi ebong ba bhalo lage, emonki jodi ami rate ghumate na pari, jemon ami emon kichu korte jabo jeta ami korte pchondo kori. Somoy par korte janen?",P,"on,id"
+Goto koyek shoptahe apnar khudha ba ojon-e kono poriborton hoyeche?,T,irq
+"Hyan, mane, ami sotti ei moto khaini. Ebong ami asli koyek pound hariyeche. Hyan, tin pound. Hyan.",P,"ack,id"
+Aar apni ghumer byaghat er kotha ullekh korechen jeta ghuma te chan?,T,irq
+"Sotyo. Amar ghumite pora sotti kothin. Ebong kokhono kokhono ami rate shekhane ghontar por ghonta shoite thaki ebong apni janen, bhoyonkor focused, ebong ami saradin klanto, karon ami rate ghumai ni. Ebong jokhon ami bari fire abar bede jawar somoy hoy, tokhonoi ami ghumate pari na.",P,id
+Tahole eti apnar shaktir sthorer kono pravritti korche?,T,yq
+Hyan.,P,ack
+Apni ki asthir bodh koren ba biporito dhoregati anubhob koren ebong ei anubhutigulir modhye ekta hocche?,T,irq
+"Na, sotti sotti noi",P,"on,id"
+Moolyonotar kono anubhuti ache?,T,yq
+Na.,P,on
+Erokom?,T,crq
+"Na, ami bolte chai, sotti noi, jemon ami ekhono dukhito. Ami keno dukhito janina.",P,cd
+Seikhane apnar ghotonar storer starer kono paribartan kemon?,T,irq
+"Hyan, kormoshetra te ebong shadharonbhabe amonei kothin karon ami khub klanto. Ghum asche na ebong aj rate ami sotti sudhu like dwara bibhranto hoye pori, apni janen, ami kotha korte jokhon ami shekhane thaki, tahole ami janina je ami ki korchi, tar upore manoyog deoya amar jonno kothin. Ami jodi sei chintay bibhranto hoi.",P,id
+Apni ki mrito ba mrito somporkito kono chinta ache?,T,yq
+Temon kichu noy. Na.,P,on
+Sutorar age apnar kajokarito srijitir modhye ki kore?,T,irq
+Ki kaj,P,crq
+Bari te,P,id
+"Ami amar bider sathe khelte chai ami shadharonot ami amar bider kache prothi rater moto ekti ghonta moto bhalo basi karon ami sara din kaj kori kintu amar sei rokom kaj korte khub kothin hoye jai na. Hyan, tai ami bolbo ebong tader por o amar samprkagulike amar samajik jibon-e bhalo basar jonno, eta etiketake pravabito kore.",P,id
+Kono drug ba alko hol somporko koren?,T,yq
+Na,P,on
+Kono chikitsa obostha somporko kivabe?,T,yq
+Kichu noi,P,on
+Onno lokera dekhte ba shunte pay na emon jinishgulike dekhte ba shunte?,T,yq
+Na.,P,on
+Eta ki kokhono hoyeche?,T,yq
+Na. Kokhono o hoy ni,P,on
+"Apni ki sompriti anubhav koren je kothao thakun jekhane apni ekhono kono bhabe jemon apni protarona korchen khub kushi, jevabe beshi shakti chhilo ebong",T,irq
+"Maniar moto,",P,crq
+Maniar moto? Hyan. Otar moto kichu noy. Kokhono.,T,cd
+Goto mas-e ki kono boro ghotona ghotecche? Othoba ei age apni mone korechilen je eta hote pare,T,irq
+Kichu noi kichu ta amake ei rokom e anubhob korte deoa gache,P,id
+Apni mone koren je bishonnoyotar modhye hotte pare.,T,gc
+"Shori, ami tomake ekhane ekjon counselor-er sathe dekha korte jachchi. Apnake prabesh korte matro koyekdin somoy lagbe. Eta ki thik ache? Ei prosner uttor daoar jonno ami apnake dhonnobad janate chai. Amar jonno. Ei shohokari hoyeche.",T,gt
+Hyan. Thik ache.,P,gt

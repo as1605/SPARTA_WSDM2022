@@ -1,0 +1,67 @@
+Utterance,Type,Dialogue Act
+"Haan, Haris aaj apanar daktar hobe. Achha, amake khub taratari hat dhute dao.",P,gc
+"Aapni ki Miss Belami ba Potter jorimana pochhondo korben, durdanto. Achha, apanar sathe dekha kore bhalo lagche, Miss Ma. Tumi ki bolte paro tumi aaj ekhane keno?",T,"gt,irq"
+Amar bhayanak mathavatha achhe.,P,id
+"Satyoi kharap dekhay. Um, apanar mathavatha chhara ar kichu achhe ja apani aajke ekhane clinic-e samadhan korte chan?",T,yq
+"Na,",P,on
+"Kichu chhilo? Karon amra ja korte pari ta hol jokhon amra kotha bolchi ebong apanar itihas ebong sharirik kaj korchhi, ami amar office secretaryke apanar bima porikalponaṭi dekhte chai. Thik achhe, tai apanake eti niye chinta korte hobe na. Eta bhalo.",T,irq
+"Thik achhe, chamatkar shonachchhe.",P,ack
+"Um, ar kichhu achhe?",T,crq
+"Na, ami shudhu, eta satyoi kharap. Thik achhe.",P,"on,cd"
+"Tahole aajke ami ja korte chai ebong ta hol cholun ek nore dekhe nao jak ki karon apanar mathavatha hochhe. Ami itihaser arthoshore jabo, ebong tar pore amra ghanar sharirik pariksha korbo. Ebong tar pore amra apanar bima policyti dekhabo ebong nishchit korbo je eti ekati bhalo porikalpanar moto shonachchhe. Tai je",T,irq
+Bhalo. Perfect.,P,ack
+"Thik achhe, eti prae tin din age shuru hoyechhilo ebong kichhui sahayya koreni eti amake phlat kore diyeche. Ami kajete parini. Eta kichhu sahayya koreni. Ami, eti shob shesh. Ami jokhon nôṛācaṛā kori tokhon ami satyoi kharap tai ami khub besi nôṛācaṛā na kôrār chesta korchi ebong alo amake jibito birkat korche.",P,id
+Na.,P,gc
+Aapni ki amake emon kichu bolte paren ja etike aro bhalo kore tole?,T,irq
+"Kichui etake bhalo koreni. Ami kichu Tylenol ebong Motrin niyechhi, kichui nei. Ami shudhu khub besi nôṛācaṛā na kôrār chesta korchi. Thik achhe.",P,"on,id"
+Emon kichu achhe ja etike aro kharap kore tole?,T,irq
+"Haan, andolon ebong alor môto. Thik achhe. Ebong eta shudhu dhruvôk jôdishi apani janen, eta shudhu dhruvôk noy, eta sob shesh. Thik achhe.",P,id
+"Tai jodi apanake byatha scale rate dite hoy, shunyo na hôite byatha 10 apanar sobcheye kharap byatha 10 chhilo",T,irq
+Amar kokhono emon mathavatha hôini. Thik achhe.,P,id
+"Hyan, eta sotyi kharap shonacche. Ekhon jatdur radiation shore na, tai na je aponi matha bolen. Byatha sob samne. Tini dhornor sob shesh. Thik acche?",T,irq
+Kintu etao amar ghader niche ei shootingyer byatha peyechhe ebong amar ghad khub shokto. Thik acche?,P,id
+Jatdur porjonto aponi je somoye bolchhilen je tin din age shuru hoyechhilo songeet dhruvok hyan byabohar kore,T,gc
+Eti dhire dhire shuru hoyechhilo kintu ekbar eti shekhan gele eti chole jay ni eti bhalo hay na kharap hay na eti thik eki rokom. Thik acche,P,gc
+Tai ami ja pete chai ta hol aponi ja bhabchen ta samborke apanar upolobdhi.,T,irq
+Ami khub kome bhabte pari eta eto bedonadayak. Ami shudhu karon eta khub kharap ami bhoy peyechhilam. Ami jantam protibeshir matha byatha chhilo ebong eti upeksha korechhilam. Gat borsho ebong tar hothat khinchuni shuru hoy ebong dekha jay tar brain tumor hoyeche. Tai ami bhobolam ami shudhu asha uchhit ebong,P,id
+Ami apanar udveg bujhte pari.,T,gc
+Ami kaje jete pari na. Ami kichui korte pari na. Hyan.,P,id
+Tai mone hocche eta sotyi apanar jibonke pravabito korche.,T,crq
+"Hyan, ami thik korto pari na.",P,cd
+"Eta thik thakle, ami apanar chikitsa itihas ebong apanar samajik itihas samborke kichu kotha bolte chai. Thik acche. Apani ki amake bolte paren jatdur apanar chikitsa itihashe apanar kono chikitsa shart ache je samborke amar sachetan hoya uchit.",T,irq
+"Pray tin bochhor age amar ucch roktachap dhora porani, tobe amra etike khadyo poriborton er madhyome mokabela korchi, ebong eti niyontroto o poribeshon kora hoyeche. Hyan, ami bhitore jai. Barshik, ami chhilam shudhu etta bhalobhabe niyontroto kora hoyeche. Tai thik acche, ami medicade chhilam na. Ero jonno, ta chhara amar kono somosha hoy ni.",P,id
+Thik acche. Kono astroprochar itihas?,T,yq
+Na.,P,on
+Kono hospital e bhorti?,T,yq
+Na.,P,on
+Thik acche. In aponi bolchhen apanar nijeor oshudh apani grôhon korchhen amar somosto proshikhon bolchi.,T,yq
+Hyan.,P,ack
+"Ebong tara apanake sahajyo koreni? Thik acche. Shudhu jachai korto chhelen. Ekti drug allergy deowa,",T,yq
+Na.,P,on
+Thik acche. Paribarik itihas samborke ki? Apanar ki ekhoni ba amar paribare mathavothar kono chikitsa itihas ache?,T,irq
+"Apani janen, amar ma bolchhilen jokhon tini tar 20 ebong 30 er dashake chhilen tokhon tini migrain peten. Thik acche, kintu amar mone nei se e bishe ar kichu bolchhe. Amar bon. Amar ek bon ache. Se sustho ache. Amar baba. Tar ucch roktachap charao se sustho. Ebong je eti samborke. Amar kono bachcha nei.",P,id
+Thik acche. Ami dukhito. Ami apanake kichhu samajik itihas proshno jijnasha korte chai ja shudhumatro rekorder jonno. Rekord. Tumi ki dhumapan kor?,T,yq
+"Hyan, ami kori.",P,ack
+Thik achhe. Eta ki cigarette naki?,T,yq
+Hyan.,P,ack
+Thik achhe. Ar apni koto ta pan koren?,T,irq
+Ami pan kori na.,P,id
+"Thik achhe. Um, echarao, apni ki bibahito?",T,yq
+Hyan. Bibahito.,P,ack
+"Thik achhe. Aro, shishur?",T,yq
+Na.,P,on
+"Thik achhe. Aro shudhu kichu, kichu kichu atiriktro prashno apnar dhorno GYN itihaser dikhe takie achhe. Apnar ki shesh mashik hoyeche?",T,irq
+Thik achhe. Ami menopoj-e achhi.,P,id
+"Tai abar itihas-e fire jawa, apni ki bolchen apnar mayer age migrane hoyeche. Apni khasakhasi hoyeche ebong onyo kono apni vomi vomi bhav hoyeche na, ba apni hoyeche?",T,irq
+"Hyan, ami vomi vomi korchhilam.",P,id
+Thik achhe.,T,gc
+"Asle ek shaptah age ami ek-ti paribarik punormiloner jonno uttor Khyarolinaay chhilam, thik achhe. Ebong sekhane ek-ti char bochor boshi asustho chhilo. Ami jani na tader ki chhilo, kintu tara, ami onumon kori je tara tader joruri obosthaye nie geche.",P,id
+Tai amake sangksepe bolte din je ami akhon porjonto ja kichu peyechi ta nischoit korer jonno prae tin din age tivr mathabatha shuru hoyeche. Eti andolon-er sathe aro kharap ebong alo sotti eti-ke kharap kore tole. Eti 10-tir modhe 10-ti byatha ebong apni eti-r sathe eti-ti sakt ghader abhoyog o korchen?,T,"id,irq"
+Hyan.,P,ack
+"Eti dhire dhire ashe ebong eti shamine oshhe kromogoto byatha hoy. Medical history apni hyper-e achhen apnar uchch roktchap achhe, kintu seta diet die niontrito. Astropocharer itihas nei. Na sotti byatha ache jodi-o sotti apnar dainondin jibonoyapon dainondin jibon probohito kore na. Apni Tylenol, Motrin korar chesta korechen, eti onnyo-oye kono oshudh sahayyo korenini. Apni migrane-er sathe apnar mayer paribarik itihas peyechen. Onno-oye sotti apnar paribar sosto. Hyam. Apni dine prae ded pac dhoompan koren. Pan korben na. Ebarpor apni bolchen je apni prae ek shaptah age ek-ti trip niechhilen? Dui shaptah age?",T,irq
+Hyan.,P,ack
+Thik achhe.,T,gc
+"Hyan, ami Uttar Khyarolinaay chhilam.",P,id
+Thik achhe.,T,gc
+Ami age kono ei dharoner byatha paini.,P,id
+Thik achhe.,T,gt

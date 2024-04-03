@@ -1,0 +1,29 @@
+Utterance,Type,Dialogue Act
+"Tai, ami coffee porjonto thamiye diyechi, karon ami jantam na tumi coffee kheyecho ki na. Tumi kemon acho?",T,gt
+Sick thinking of ami kemon achi.,P,id
+"Ekhanei. Mone hocche, tumi mone rakho ota ke ami online e dekhechi, seta mone aache to?",T,id
+Ki jinish?,P,crq
+"Ami tomake ota bolchilam, jeta tomar lakshyer chhoto kore anbojha korar jonno maddome kore. Mone hocche ebar amader try kora jay.",T,cd
+Amader agei ei rokom kichu try korechi.,P,id
+"Ami bujhte parchi. Tumi jano, ami tomake erokom ekta chhobi oboshyo bhalobashi.",T,id
+"Ekdom besh kichu din dhore ei rokom obostha hoy nai. Ami chhilo amar purono jibon. Ami eto kichu kore kemon hoye jeto, tai ami janina. Na oi jon ta ke ki bojhabo, na ki obosthai hote hobe.",P,id
+Tomar purono jiboner kon dike tomake kichu miss hoyeche?,T,irq
+"Bandhobi-gon ke dekha, berano. Kintu ami shuru korte parchina.",P,id
+Shuru kivabe korbo? Tumi din ki bhabe shuru koro?,T,irq
+"Ami besh deri kheye shuye thaki. Ar ami janina, eto bhalo kore ei ghor ta kivabe sajabo, seta amake darate lagche. Tai ami ekhono kichu korina, amar moto harayejana.",P,id
+"Shune mone hocche tomake nijeo khub bhalo kore mone hoy. Mone rakho, jodi tomake ekhon theke thoda bhalo lage, tahole tomake aro utsahito hote ichhe korte pare, ar tomake tomar bandhobi-gon dekhte mile.",T,id
+"Thik ache, bujhlam.",P,gc
+Amar kachhe tomar alarm clock ta dekha gelo na.,T,crq
+"Oh, haan. Tar jonne battery lagbe.",P,id
+Ami tomake ekta alarm clock niyechi jeta battery lagbe na. Tomar kemon somoy theke uthbo seta bolo?,T,irq
+Bujhte parchi na.,P,id
+"Thik ache, cholo 11 ta theke shuru kori. Tomake tomake sham theke uthte hoyeche bolecho. Ei rokom kichu din por, tomar somoy ta bere jete pare.",T,id
+"Thik ache, bujhlam.",P,id
+Mone hocche ekta calendar maddome hote pare. Kivabe likhbo oi upore ar tomar dekha jabe kothao?,T,irq
+Ar ki?,P,crq
+"Bhalo, 11 am e uthe shower nebo, ar mone kore kichu kapad aarong kora jabe.",T,cd
+"Thik ache, kintu gandar jonno kothao nai.",P,id
+Tui bhalo bolis. Ami next time kichu aniyechi. Shayad.,T,id
+Ami ekbar try korbo.,P,id
+"Bhalo, Jules.",T,op
+Abar next time e ki kora uchit mone koro?,P,irq

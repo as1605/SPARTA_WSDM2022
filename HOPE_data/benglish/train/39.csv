@@ -1,0 +1,69 @@
+Utterance,Type,Dialogue Act
+Bikel. Ami khushi je aponi aj pete paren.,T,gt
+Ami ekhono udvigno.,P,gt
+"Hyan, gat shoptahe jokhon aponi chilen ebong aponi amake bolchilen je aponi khub udveg anubhob korchhen, ebong amra apanar udveger jonno ekta porikolpona tairi korechi. Ebong amar note onuyayi, aponi kichu jog classer dike nojor dite jachhilen. Aponi kom kofi panar chesta kortey jachhilen. Aponi lokeder sathe aro beshi bere hote chhilen karon aponi bari te nijekete alada rekhechhilen ebong aponi prokritite aro beshi somoy baye korte chhilen. Tai ami bhobchi kibhabe sob gelo?",T,irq
+"Thik achhe, ami jimer dike takalam ebong sekhane satyoi kono jog class chhilo na, tai ami ta korini. Ami amar kofi kichuta kete felechilam, kintu ami dekhte pai je eti amake shokale ghum theke jagiye tole. Sutanno, aponi janen, ami dui kaper poriborte ek kape ketechhi. Ebong ami kukurtike bedate niye giyechhilam. Kintu ami satyoi etta chhara onno arjit hoini.",P,id
+"Thik achhe, tai mone hocche aponi aponar lakshyer dike kichhuta aghrato hochhen. Jim-e jog class na thakleoi aponi atat jogbajayamer dike nojor ditechen. Aponi dui kaper poriborte ek kape kete chhen. Ebong aponi hatar jonno prokritite aponar kukurer sathe berechhen. Kintu mone hocche aponi kichhute samsaye porechen. Manusher sathe aro bere hawa.",T,"gc,id"
+"Hyan, ami kori na. Ami ashole manusher sathe bere jete pachhondo kori na. Sekhane sadharanotom anek adda hoy, anek kotha bola hoy ebong ete thakar amar pokkhe kothin.",P,"gc,id"
+Tai sob kotha bola ebong adda dewa ebong kotha bolar sathe sathe lokeder sathe thakar aponar pokkhe osvostikor ebong eti aponar kemon anubhob kore?,T,irq
+"Eta amake ekta nurbash bodh kore. Ebong tarpor jokhon ami sekhane out, ami satyoi na, ami satyoi kothopokothono jorito noi.",P,id
+"Thik achhe, tai mone hocche aponi apanar laksher dike kichhuta agrashor hoyechhen. Jim-e jog class na thakleoi aponi komtuo jogbajayamer dike nojor ditechen. Aponi dui kaper poriborte ek kape kete chhen. Ebong aponi prokritite hatar jonno aponar kukurer sathe berechhen. Kintu mone hocche aponi kichhute samsaye porechen. Manusher sathe aro bere hawa.",T,irq
+"Hyan, ami nischoi jante pari je ami aponake jiggasha kori, aponi eke theke 10 er scale-e ekta jog class khoje pete koto anupraneet?",P,id
+Pray panch ba chhoy.,T,od
+Thik achhe.,P,ack
+"Umm, thik achhe, ami, jogbajayam shomporke amar newsfeed-e ei shob chobi dekhi ebong ami ei shob chobi dekhi ebong ami eti korte chai. Tai ami eta korte aghri, eta satyoi kothin.",T,od
+Tai sob kotha bole ebong adda deoya ebong kotha bolar sathe sathe lokeder sathe thakar aponar pokkhe aswostikor ebong eti aponar kemon anubhob kore?,P,id
+Eta amake ekta nurbash bodh kore.,T,irq
+"Tai mone hocche aponi aponar bari te lokeder invitation janate pare, ebong tarpor aponi aponar ashepashete ke achen ta chonno korte paren.",P,id
+Thik achhe.,T,ack
+"Umm, thik achhe, ami, jogbajayam shomporke amar newsfeed-e ei shob chobi dekhi ebong ami ei shob chobi dekhi ebong ami eti korte chai. Tai ami eti korte agrohi, eti satyoi kothin.",P,id
+"Sutanno aponi jokhon apanar newsfeed-e chobiguli dekhen, tokhon eti apanake eti korar bishoye utsukhito kore tole. Kintu jokhon apani asle eti korar jonno jayen, tokhon eti aro challenging kore tole.",T,crq
+"Achha, ami age eta kori ni. Tai sekhane theke bere howa ekta kothin karon ami mone kori ami onno lokeder moto onnorokom noi?",P,cd
+Hum ebong tai aponi bhabe je aponi onno lokeder moto onnorokom hoteo pare na. Ami mone kori je jogbajayam namonoyota somporke ki?,T,irq
+"Thik achhe, ami mone kori ami satyoi bhalo bodh korchi. Tai ami mone kori kichhuta lok eitimati hoye uthbe. Kintu ami mone kori kichhu lok etimati hoye uthlo.",P,id
+"Hum, tai aponi mone korchhen je hatash hote parben.",T,irq
+Hyan.,P,ack
+Ebong aponi ekjon shikshonobis hote chan?,T,irq
+"Achha, ami chintit je ami class-e pose kortey parbo na.",P,id
+Thik achhe. Tai aponi ki mone koren je eti korar maddhye bondho dicche?,T,irq
+"Aponi, ami oboman korechi je ami vibrot bodh korchhi, ami mone kori. Ebong tarpor jokhon shikshok amake eti korar chesta koren, ebong onno sobai dekhte pabe je tara amake ekta vibrot tolayechhe, ebong ami mone kori je eti vibrotokor hobe.",P,id
+"Thik achhe. Sutanno, aponi jodi nirdisht nitiguli korte na pare, tahole aponi vibrot hobe. Ebong class-e sob bhangi korte parle kemon lagbe?",T,crq
+Ami mone kori ami satyoi bhalo bodh korchhi.,P,cd
+Ebong tai aponi ki mone koren je eti class-e samasto bhangi na kora theke badha dicche?,T,irq
+Thik? Ami anuman kori eti sambhobho eti korte na parear bibratokor obostha.,P,id
+Ki karon-e aponi eti korte parben na?,T,irq
+Karon-guli amra nishchit noi. Thik achhe.,P,id
+"Amar mone ache apni jokhon gato shoptahe prothom esechhilen, apni amake bolchhilen je apni jokhon chhoto chhilen, apni khub, khub namoniyo chhilen. Ebong ami bhabechi, tokhon ebong ekhonkar moddhe parthokyo ki hobe?",T,irq
+"Thik ache, ami jokhon chhoto chhilam, tokhon ami prochur stretch anushilon kortam, ebong ekhon ami ta kori na, amar eki namoniyo nei. Mom hum. Tai ami boisho badaar sathe sathe ami onek namoniyo hariye fellechi.",P,id
+Ebong apni jodi class-e somosto bhongi korta na paren ebong apni bibrot hon ebong apni kebol eti ke bibrot hote den tobe kivabe hobe?,T,irq
+"Mane, eto thik hobe. Kintu ami ei anubhuti pochhondo kori na.",P,id
+Porishod ki hobe? Tumi ki mone koro? Ektu bibrot bodh korle?,T,irq
+"Achha, ami sambhobato shesh porjonto sotti ei bhalo anubhav korchi.",P,id
+"Apni janen, ami apnake dite pari amar prochur adhyayan ache ja ami apnake dite pari ebong bhirudioguli ja ami apnake dekhte pari jaara jogabhyayam shurukorechhen ebong jog anushilon shurukorechhen ebong tader udvog komche. Prokrito pokkhe, kichhu goshona dekhay je udvog, jogabhayam kora oshudher motoi komano jete pare. Tai ami nishchit noi je apni chhilen kina ta apni janaten ba na.",T,"gc,id"
+"Ami sotti ei janatam na. Ami shudhu bhebhechilam je apni jabena namoniyotar jonno, ami bujhte parini aaro onek subidha ache.",P,"on,od"
+Thik ache. Tahole eti apnake ek theke 10 er scale-e koto anuprannito korbe?,T,irq
+"Thik ache, ami sambhobato, jodi ami bhabhtam je ami hobo tobe eti amake kom udvigno korbe, ami mone kori ami sambhobato ato baa noyti'r kachakachite hobo.",P,id
+"Bhalo, bhalo. Je ekta nirdisht unnoti. Ebong, ebong apni sei prothom shrenir pore nirdharon korte paren, apnar udvoger matra komche ki na. Ebong je, je apnar jonno boidhota hobe? Naki seta hobe? Eti apnake aro beshi anuprerona dey? Jog class-er por jodi apnar udvoger matra tatkalikbhave kombe?",T,irq
+Ami mone kori eti chaliye jawaar jonno onek anuprerona hobe.,P,id
+"Thik ache. Tai arekti jinish ja ami apnake ullekh korte chhichhili, apni bolchhilen je apni apnar kukurke prokritite hatbe ebong apni apnar kukurke prokritite hatte koto tuku samoy bhyo korechen ta jante agrahi. Ki darun.",T,gc
+Eta proyojonno 30 minut chhilo. Eta sotti ei thanda ebong batas chhilo. Tai amra baire thakte chai. Ebong amra dvara ami kukur ebong ami Mm hum mane.,P,"gc,id"
+"Ebong tai er karone, eti thanda ebong batas chhilo. Apni hat ta chhoto kato dhorener siddhanto niyeche. Hyan. Ebong ebong je spashtobhabe bodhgo. Ami bhabechi je apni kukurtike ek dine ek ghonta hatar jonno ki korte paren.",T,od
+Baha. Ami porer bar ekta jacket neile eti sahayyo korte pare.,P,gc
+"Thik ache, tai jodi apni thandar kshetre ekta jacket nen, hyan. Ebong apnar ki prokritite emon ekta bishesh jayga ache ja apnake shanto bodh kore, apni sekhan thekate paren je apnake aro beshi sahayyo korbe. Upobhog koro.",T,orq
+"Jotokkhon ami rastar kolahol ebong janjat theke dure thaki ebong tarpor eti onek bhalo. Thik ache, ebong amar bari'r charpase erokom onek path ache. Thik ache,",P,od
+Chomotkar. Eta chomotkar je apni apnar bari'r charpase trail ache jekhane apni je sob golmal unmukt korchi na.,T,od
+Sambhobato.,P,ack
+Ebong ek theke 10 er scale-e amake bolun er sambhobato arth ki.,T,irq
+Eta sambhobato uposthit. Ami eta korte pari.,P,"on,id"
+"Thik ache. Thik ache. Tai mone hochhe gato shoptahe, apnar udvog komanor jonno assignment-guli sampaadon korte apnar koyekti somosya chhilo. Apni sotti ei ekta jog class khujte pacchen na karon apni itimodhye emon ekta gym-e sign up korechen jekhane jog class nei. Kintu apni itimodhye jogabhayam bideo samborke janen je ami apnake pathiyechi jate apni seguli bari te korte paren.",T,"irq,yq"
+"Hyan,",P,ack
+Apni bari te eguli karar bishoye apni koto dridho anubhav koren?,T,irq
+Jodi ami eguli bari te korte partam tobe ami sambhobato seguli sob somoy korbo. Mom hum. Ami mone kori je ekta boro parthokyo hobe.,P,id
+"Ebong tarpor kon bibrot factor hobe na. Apni jodi kom kofir bhongi korte na paren tobe apni dui cup theke ek cup-e chole gesen ja khub bhalo. Ebong lokeder sathe aro beshi kore bere jao, apni onno lokeder sathe baire jawar poriborte apnar bari te lokeder amntran jananoar siddhanto niyechen je apnar jagaye ke thakbe ta na janen. Eti sordda ekta atankito muhurto jokhon apni janen na je apnar space-e ke thakbe tar upor apnar kono niontron nei. Ebong ek theke 10 er scale-e apni mone koren je apni kukure sathe hatar jonno protidin komoshe ek ghonta byay korte paren?",T,irq
+Ami mone kori eti ekta 10. Ami mone kori ami chhotti chhottitei korte pari.,P,id
+Chomotkar ebong apni ki mone koren jodi apni kalpana koren je apni porer shoptaheer course-er porer shoptahe apnar jibone ei somosto itemgulike kivabe ontorbhukto korben? Koto ta parthokyo apni ki mone koren eti apnake onubhob korbbe?,T,irq
+Nikhut eti hoyto amake ei jinishguli korte jonno unmukh kore tole jodi ami seguli niyomito kori. Mom hum.,P,id
+Ebong eti apnake kemon onubhob korbe?,T,irq
+Eta amake sotti ei bhalo bodh korbe.,P,id
+Ebong tai apni swachchhondo bodh korben ebong apni aro itibachok bodh korben ebong ami mone kori je apni to korbhen.,T,"gt,cd"
+Apnake onek dhonyobad.,P,gt

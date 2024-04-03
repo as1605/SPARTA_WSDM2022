@@ -1,0 +1,51 @@
+Utterance,Type,Dialogue Act
+"Hi, Heidi, amar naam Dr. Sarah. Ami ekjon emergency doctor. Ami tomar sathe kotha bolte chai, ei je ki ghotche seta niye ar tomar kemon lagche, ta janar jonno. Eta thik holo to?",T,yq
+"Haan,",P,op
+"Dhonnobad. Tader kotha gulor proti amader obostha gopon thakbe, ekmatro ami mone kori jodi tumi nijer jonno khatre porte thako, kauke onno kichu jonno khatre porte thako, naki karo khatre thakche. Ovijog hote pare. Eto obosthaye, ami kauke janate hobe, tai jate sei jonno surakshit thake. Eto thik holo to?",T,yq
+"Haan, eta thik ache.",P,op
+"To, maa tomake khub chinta kore, eto bojha jacche. Kintu amar kichu jana ache. Tui kichu ektu mone korcho naki?",T,yq
+"Na, sob thik ache.",P,on
+Haan. Tomar moddho kemon lagche abar?,T,irq
+Kharap.,P,on
+Keno?,T,irq
+"Shudhu kharap. Kichu bhalo lage na, kichu korar ichhe o nai.",P,id
+"Toh tomar din kemon katche, tomar somoy kivabe katche?",T,irq
+"Shudhu pothe giye ghumachhi, kichu o korini. Mone hocche, mone hocche, eibar gulo ache.",P,id
+Eibar ki gulo?,T,crq
+Mrityur kotha.,P,cd
+Tui eto mone korish?,T,crq
+"Protidin, sob somoy.",P,cd
+Tui mone korish kivabe eta ghote pare?,T,yq
+Mone hocche ami bridge theke jump korbo.,P,id
+Kono ekta?,T,crq
+"Amar bari theke khub boro ekta pul ache, sei swing bridge. Eta khub boro, tai ami jani ami jokhon theke jabo, amar mrittyu hobe. Tairi niche ekta train track o ache. Tai jodi gote pora amar mrittyu na kore, tahole train korbe.",P,cd
+Tomar kono plan ache sei jaite?,T,irq
+"Mone mone mone hochhe, bar bar mone hocche.",P,id
+Ki roklo tomake othere jete?,T,irq
+"Amar maa, tar jonno toh khub dukkho hobe mone hochhe, kintu ghotona gulo orokom kharaap hoyeche, ami ati dosh korte parbo na.",P,id
+Tomaye mone hocche tomake kivabe pul e giye jete paro? Um,T,yq
+"Ami ajker din bus timetable dekhechi. Bus ta je pul er kache jay, haan, mone hocche aaj raat e korbo. Aro atyanto na jai. Orokom tor kore amay thakte dite pare na.",P,id
+Ki rokom?,P,crq
+"Ami jani, kichu lok mone rakhe, jabar somoy, ebong tomar moto kichu kharap bhabte pare, jemon jolte, katiye fela.",T,cd
+"Haan, amar link gulo katiye felechi.",P,id
+Se koto din age chhilo?,T,irq
+"Ajke, kalke, protidin.",P,id
+Tomar kono ar kichu korte hoyeche?,T,yq
+"Na, matro katiye felechi.",P,on
+Tomay mone hochhe karo kache kichu korte hoyeche?,T,irq
+"Na, ar keu noi.",P,id
+"Na, mone hocche na.",P,on
+"Dristikon bhenge porjonto jana o mukhosh ke, je ta shunano o dekhechi, seta shune khojano mahatvapurno. Ei o guruttopurno je paribarik chakri o kaporchora kichu korte pare kina, shishuder jonno ki suraksha o dekha o furolo anumodan kore na, ar koto tuku suraksha bhavna ache,",T,id
+"Matro amar maa ar Jack, oi amar chhoto bon.",P,id
+Ghar e kemon cholche?,T,irq
+Valo noi. Amar ma amar kachhe shob somoy amay akta dhonta dei. Ar ajke amader modhye ekti boro jhogra hoyeche.,P,on
+"Tomar kache ki kauke achhe jake bolte paro ki ghotchhe, ki rokom mone hocche tomar mrittyur ichhe gulo niye?",T,yq
+"Ami Sophie ke boli, o amar friend. O oto ki marte chai, tai. Ami janina or kachhe kichu bolbe na.",P,id
+Aj tomake kono mohito piyo millo?,T,yq
+No.,P,on
+Aar ki kono drug shonalo? Pot? Shondhya-darshan shonalo? Aar ar keu shoto manusher prescription drugs?,T,yq
+No.,P,on
+"Amar kachhe kono proshno aache? Tomar ajker janya amay kotha bolar jonno dhonnobad. Ami khub chinta kori ei sob gulo kotha shunle, ar ami beshi chinta kori je tomake nijer kachhe khatra hote pare. Tai ami amar ekjon visheshta sahayak sathi, John ke bolbo, or sathe tomar kotha hote. O mental health nurse, tai o bisheshbhabe kotha bolte pare taratari hariechi. Eto thik toh?",T,yq
+Thik aache.,P,ack
+"Eto prothom kichu dui-diner modhye hoy, kintu ek chhoto somoyo chhute pare. Tumi tomar kichu pitey dey kintu tomar wait korte samay ki kono kichu dichhi toh?",T,irq
+"Haan, thik aache. Ekta coke pate pari?",P,op

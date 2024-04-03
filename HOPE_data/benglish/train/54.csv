@@ -1,0 +1,104 @@
+Utterance,Type,Dialogue Act
+Are Karla. Aponi kemon achen?,T,gt
+"Bhaloi to, kemon asho?",P,gt
+Ami bhalo korchi. Jijnasha korar jonno dhonnyobad.,T,gt
+Ei gato shoptahe ki hochhe?,T,irq
+"Um,",P,gc
+"Ami sobmatri ek prokar moto anubhav korchilam. Ami bolte chachhi, ami ekta chakri khujchi ebong sotti kothao paini ebong tarpor",P,id
+Ami onno rate ekta pani. Ebong ami thik moto anubhoot,P,id
+"Je amar moto kaj nei ebong baire giye drink khachi. Amar moto, eta propto chhilo na, ebong ami shudhu ei doroner moto anubhav korechi karon amar sei somoy thakar uchit chhilo jeta amar kaj-e thakar uchit chhilo. Ami jodi ekta kaj ebong poriborte ami pan bar-e chhilam. Tai ami ekta pani kheye chhilam, ebong tarpor elen duto onnoti koro karon tokhon ami aro kharap anubhav korechi. Ebong ami bhablam amar ekta chhilo. Tai asha.",P,id
+Tahole apnar moto koto pani kora uchit?,T,irq
+Ami mone kori ami char ba pache track hariye felechi.,P,id
+Kintu apni pan kora por koto kshon hoyeche? Er age?,T,irq
+"Ami sotti korechi. Ami chhilam, amar mone hoy tin shoptah,",P,id
+Tin shoptah ba tar beshi. Tini sotti korechen. Ebong tarpor apni ekta pani chhilen. Ebong eti apnake anubhav koreche je apni saphol nono.,T,gc
+Ami ekjon here jawar moto anubhav korchi,P,gc
+Ekjon here jawar moto anubhav korchilam.,P,gc
+Ebong apni mone koren je ei doroner aro kichu pan kora dik parichalito kore. Tai apni jinis shonge ekta ruksho somoy chhilo?,T,yq
+"Hyan, hyan.",P,ack
+Ekhon ki,T,irq
+"Ami bolte chachhi, ekhon ami thik emonvabe ami fire jete bhoy pai na je ami kichu bondhuder sathe baire jete bhoy pai. Tara amake dinner-e amntron janay. Kintu ami jani sethe alochol ache. Ebong",P,id
+Prothom strike-er somoy apni ki sethe chhilen? Bondhuder sathe baire chhilen?,T,yq
+Hyan.,P,ack
+Tai kichu jinish cholche.,T,gc
+"Amra atite kotha bolechi, boktir theke acharonke alada kora. Thik? Sutonoto, acharon amra ja kori ta noy, amra ke. Sesob alochona mone ache? Ebong jodi ami apnar boshor kora soman bhinn shobdo babohar korchi bole mone hoy tahole amake shongkha korun. Kintu mone hoy jokhon apni sei prothom pani-ti kheye chhilen, apni ekdhore lojjito je apni ekta pani kheye chhilen ebong jokhon kaj korten tokhon apni eti pani korechilen.",T,yq
+"Hyan, eta besh shokkh.",P,ack
+"Eta besh shokkh. Thik ache. Tai nijerke sei mohorte phire niyo. Thik ache, amra je prothom chhilam. Apnar moto je prothom pani ses je prothom pani",T,gc
+Apnar ki chhilo sei mohurte apnar chinta ki chhilo?,T,irq
+"Jemon lojjajonok. Jemon ami sotti korechi, sotti valo. Ebong tarpor ete ami chhilam. Ami sobmatri ekta pani ses korechi ebong ami jantam je ami arekta chai.",P,id
+"Thik ache, eto lojjajonok anubhutir moto. Kintu chinta ami sotti, sotti valo. Thik?",T,crq
+"Tai apnar chinta ki chhilo. Ami sotti, sotti valo korchi.",T,irq
+"Ar ki? Eti ki chintar shesh chhilo, naki poroborti kaushalto korar age aro kichu chhilo?",T,irq
+Amar mone hoy ami bhalo korochilam. Ebong tarpor ami ekta panio kheye chhilam ebong ami kebol ekta bhojongo bhyaktir moto anubhav korechi. Tai ami chintao ki aro ache aghat.,P,"cd,id"
+"Krom onusare apnake pan korte hobe. Tomar lojja lagchhilo. Eki somoye apni bhabechen je apni sotti bhalo korchen. Ebong tarpor thik sotti, jemon apni age bolechhen, apni shudhu ekjon here jaoar moto anubhav korechhilen. Ebong tarpor apni siddhanto niyeche, pashapashi shudhu dvitiyo panio pete pare. Tai onno chinta hote pare je, ami shudhu ekta dvitiyo panio pete pare.",T,yq
+"Hyan,",P,ack
+"Hyan. Tai apni onnyoder kichu chintabhavana ebong kajer kichu anubhuti dekhte paren. Apni je protom panio shesh hisabe dan ekta motamuti druto chhilen, kintu jara chinta motamuti anubhuti. Panio pore motamuti druto ghotebe.",T,crq
+"Hyan, ekebare. Ami jokhon shesh korchilam ebong tarpor shesh korlam,",P,"ack,cd"
+"Tai ekhon, apni eti jonno onushochona korchen ebong sei onushochona jevabe apni eti sompore bhebechhilen,",T,crq
+"Shudhu ekhon madhyopan chaliye yaben na, karon apni etiye diye chhen.",T,cd
+"Ami itimodhye talgol pakie felechi, ami'o chaliye jete pari.",P,od
+Thik ache.,T,ack
+"Ebong eti ekta sadharan chakrer moddhe pore. Ebong apnar tin shoptah chhilo, er age amra ekta panio pani. Tai asun, er ei takan. Asun ekta shob theke alada kora. Apnar jodi emon kono bondhu thake je ekoi durgotshar moddhe chhilen, thik ache, apnar alcohol bhabnar itihas chhilo ebong tarpor tin shoptahe, kono alcohol bhabhar binaei, ebong tarpor tader aacharono chhilo ekta panio khawa. Apni tader ki mone hobe?",T,orq
+Ami mone kori je tader ekta rukhso din chhilo ba jekhane kichhu ghotebe,P,od
+"Mane, eta shudhu ashcharyajanak,",P,od
+"Ami ekta rukhso ekta din pano, ebong apni tader aacharono ki mone hobe? Apni kivabe je aacharono shrenibaddho korben?",T,irq
+Tara shudhu bhul koreche.,P,id
+"Tai adorsh noy,",T,crq
+"Tader drishtibhongir upor nirvor kore, hote ashay kichhu dayitwagyanhin.",T,crq
+"Hyan, ami dayitwagyanhin mone kori,",P,cd
+"Dayitwagyanhin, kintu apni ogotto tader kharap bhyakti hobe chinnot korben na.",T,yq
+Na.,P,on
+Kintu tader aacharono ekta dayitwashi chhilo.,T,yq
+Hyan.,P,on
+"Apni janen, punoruddharer porikolpanar moto poriprekshite, ja pan na kora hobe.",T,irq
+"Kintu jokhon apni eki udahoron parikshatiti apnar nijer poristhiti te proyog korechen, tokhon apni protom panio pan korer pore kivabe nijekete chinnot korben?",T,irq
+Eta amar bhul chhilo eta chhilo. Eti korar jonno eti amake aro kharap bhyakti kore tole.,P,id
+"Sutaron apni dekhte pachhen je apni kemon aschen apni nijer proti kichhuta rukhso hochhen. Apnar nijer somporko apnar mulyayan jemon, motamuti kothor. Apni age harar kotha ullekh korchen ebong lojjito.",T,gc
+Jekhane apni ogotto onyo kauke sei vabe mulyayan korben na.,T,irq
+Apni kivabe apanar acharonke mulyayon korben? Apni kivabe pratham panio grahon apanar acharon Apni kivabe bichar korben?,T,irq
+"Lojjajonok. Ami bolte chachchi, daiyitvajnanhin, ja samgrhibhabe kharap.",P,id
+"Tai, eto kharap, daiyitvajnanhin, lojjajonok.",T,crq
+"Apanar chintabhavanar pariprekshite sei acharonke alada korar kono upay ache, jevabe apni etike nije theke mulyayon koren, jemon apni acharone achen?",T,irq
+Eksathe meshed naki alada kora jay?,T,irq
+"Ami mone kori amra alada hote pari kintu eta, mone hochhe amra sei acharoner moto",P,id
+Sei mohurte. Eta apnar jonno khub songatipurno.,T,gc
+"Haan,",P,ack
+"Lojja acharone shathe acharone shathe lojjar shathe mele. Eta je mohurte eti ache. Mom hum. Kintu satyoi, yauktikbhabe, yauktikbhabe, apni apni, rayan, apnar porichoy ebong mulyabodh ebong apnar acharon, apni kichu koren.",T,gc
+"Kintu ei mohurte, apnar pokshe eti dekha kathin.",T,gc
+Mim hum. Akhon etir dik theke phire takale apni ki lokera ki kore ebong tara ki ta er moddhe parthokyo dekhte pachchen?,T,irq
+"Haan, ami bolte chachchi, shudhumatra ekta panio apnake bhoyonkoro bichhiti kore na",P,id
+"Na, oboshoyi na. Ebong apni chhilen, apni tin shoptaher jonno porishkar chhilen, ebong apni ekta panio chhilen. Tai satyoi, apnar acharon ekta slip chhilo.",T,gc
+"Thik ache ebong apnar laksher sathe samparkher khetre daiyitvajnanhin chhilo, ami mone kori. Kintu ekhono ekta slip. Ebong apni thamate paren. Kintu sei lojja tomarke dhoreche. Thik. Ami bhebhechhilam, bhalo, akhon ami eti korechhi. Ami etai uṛiye. Haan. Sutaraṅge sei mansikotar sathe, apni aro madyapaner jonno nijke set koren. Sutaraṅge, ami mone kori eti guruttopurno karon amra ei chakrati dekhechhi jekhane apnar koyek shoptah shanto thakbe ebong tarpor amra kichuta pan korbo ebong tarpor lekhar moto shoptah thakbe. Ebong ami bhabhi je apni je somosyar mukhomukhi hochhen ebong tarpor amra kichuta pan korbo na",T,gc
+Thik ache.,P,ack
+Apni tader slip-er cheye onek beshi madyapaner probeshdwar hote dichhen. Je janar jonno? Je besh sotti.,T,"id,crq"
+"Ebong apni dekhte pachhen je kivabe lojjajonok anubhutiguli emon acharone hastaḳṣepa kore ja apni satyoi chhan je eti tader lakṣyagulir sathe sotti samanjasipurṇo, ja madyapan chaliye jabe na.",T,gc
+Mim hum.,P,"cd,ack"
+"Ero aro ekṭi angsha holo madyapanakari bondhuder sathe melamesha kora, apni nijke ekṭi bishwosghatak paristhiti te felchen. Abar, je ekṭi acharon.",T,gc
+Thik? Je apni ek upay bā onnō na. Eta ekta acharon. Bondhuder sathe baire jawar sei acharonke apni kivabe bichar korben?,T,irq
+"Ami jani na. Ami bolte chachchi, kothin karon ami sei lokder kachakachhi thakte pochondo kori. Kintu ami mone kori eta jhunkipurno hobe.",P,"on,id"
+"Jhunkipurno, thik ache. Eta ekta jhunkipurno acharon. Ebong eti apnake ki kore tole apni ke? Karon apni sei acharon koren. Apnar nijer sompore kemon lagche? Apni jokhon sei jhunkipurno acharon grahon koren,",T,irq
+"Doshi,",P,id
+Thik ache,T,ack
+"Sutôraṅ āpani yakhana āpanāra bandhudēra sāthē bāirē yāna takhana āpanāra aparādhabōdha thākē. Ēbhaṅ ta'para āpani yadi pāna karanē tāhale āpanāra lôjā āchē. Ēbhaṅ ubhaya, ēi kṣētrē, ubhaya ābēga yē dharaṇēra āpani ārō madyapāna dik nirdēśa. Sutôraṅ ēkhānē ēi ācaranagata kauśalēra aṅśa hala ēmōna parishtiti ēḍātē yā jā āpanāra kāchē ēkaṭi jhukipurna ācarana, jā chinatē pārē. Ēbhaṅ ôn'ya aṅśaṭi ārō kāryakarabhābē mōkabēlā karā habē yadi āpani dūrē sarē yāna, ṭhika. Yē bicchēda karē nā āmara yā kari ēbaṅ āmara kē? Yukti-sangata arthē tōlē?",T,irq
+Dharanēra,P,id
+Yadiō ēkaṭu aprākṛta bōdha karē.,T,yq
+Hyāṁ.,P,ack
+Hyāṁ.,P,ack
+"Tai hayaṭō, āpani mukhōmukhī haćchēna",T,gc
+"Parēra saptāhē anurūpa parishtiti, āpani ēmōna ācarana samparke sachētana haṭē pārēna yē āpanākē jhukitē phēlatē pārē ēbaṅ sēi ācarana thēkē āpanāra paricaya ālāda karāra chēṣṭā karāra chēṣṭā karatē pārēna. Sutōraṅ, tai śudhur ācarana bicara. Ṭhika āchē. Ṭhika. Ēbaṅ nijēra upara kōna rāẏa pasa karabēna.",T,gc
+Tai ēṭā bōjhā yāẏa.,T,crq
+Hyāṁ dharanēra.,P,ack
+Ēṭā āpanākē sahāẏya karatē pārē.,T,od
+"Jehetu eta ekatu kathin karon ei mohurte, anubhuti ebong ray, biparitamukhi twind. Thik. Ei jinisguli ghotalo eti likhte sahayya korte pare, ebong ei dhorene ek sariro moto likhte sahayya korte pare je ami ei acharanko kibhabe bichar kori. Kintu ami korar kotha bhavchi ebong eibhave ami nijeke bichar kori. Sutaraong, apni jodi onek shob-bichar dekhte pan, tobe eti ekti sanket hote pare je apni ekti chakrer moddhe pore yachchen.",T,od
+Thik ache,P,ack
+Jekhane apni yuktijukt ray ebong acharaner poriborte sei abeger upor bhitore kore shiddhanto nicchen.,T,od
+"Thik ache,",P,ack
+Eti ekatu sahayya koreche.,T,yq
+"Hyan, ami mone kori eti sambhobota upokrito hobe.",P,ack
+Tai eto hobe amader porikalpona egie yacche.,T,gc
+"Porer shaptah porjonto apnar acharan somporke apnar ray nothibhukto korun, apnar nijer somporke apnar je kono ray thakte pare. Thik ache, ebong sekhane kichu antordrishti pawa jete pare. Thik. Duitike alada kora ebong seguli tairi koraar ebong apnake ekati jhukipurno jagaye fele dewar shiddhanto neowar age sei pramanguli byabohar korar chesta korun.",T,gc
+Thik ache.,P,ack
+Porikalpona moto shobdho?,T,yq
+"Hyan, ami mone kori ami eti chesta korte pari.",P,ack
+"Thik ache, bhalo. Ami porer shaptah-e dekha hobe. Ebong amra dekhaob je apni sei lakshyaguli nie kibhabe korechen.",T,gt
+Thik ache.,P,gt
