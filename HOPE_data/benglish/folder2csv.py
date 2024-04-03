@@ -22,6 +22,7 @@ for f in os.listdir(directory):
     df = pd.read_csv(file_path)
 
     if not set(['Utterance', 'Type', 'Dialogue Act']).issubset(set(df.columns)): continue
+    df['Dialogue Act'] = df['Dialogue Act'].fillna('yq')
     df['Dialog_Act'] = df['Dialogue Act'].map(lambda x: str(x).split(",")[0].split(" ")[0].split(".")[0])
     df['Dialog_Act_Label'] = df['Dialog_Act'].map(lambda x: act_labels[x] if x in act_labels else 0)
     df['Type'] = df['Type'].map(lambda x: type_labels[x] if x in type_labels else 'P')
