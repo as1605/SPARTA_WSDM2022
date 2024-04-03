@@ -1,0 +1,77 @@
+Utterance,Type,Dialogue Act
+Soja aaj?,T,irq
+Aro bhalo. Ami bujhte parchi apni idaning etota bhalo boshchhen na.,T,irq
+Ami nei.,P,"on,id"
+Aapni amake eta somporko bolte paren?,T,irq
+"Haan, ami mone kori ami hatash hoye porechi.",P,id
+Ebong bishonno?,T,crq
+"Pray dui mash dhore kharap hocche ebong sei karonei ami ekhane achi. Jano, amar khub bhalo ghum hoyni. Ami khub ekta khudha chhilo na. Ami khub bhalo khawa hoyeche.",P,id
+Goto koyek mash e ami eti theke kichhu ojon hariyechi.,P,id
+Ekhon ami klanto.,P,id
+Sob somoy klanto? Apnar shakti kom thakte pare?,T,yq
+Haan.,T,ack
+Ebong apni bolchilen je eti koyek mash dhore cholche.,T,crq
+Haan. Pray dui mash dhore.,P,"cd,id"
+Focus korar moto goruttorpon kichu ki ghoteche?,T,irq
+Mane.,P,id
+Ekti boro jinish jaa ghoteche.,P,id
+"Aapni janen, panch theke chhoy mash age amar biddal mara geche.",P,id
+Eta shune dukkho.,T,gc
+"Ebong, apni janen, ami tader onek miss kori kintu apni janen, olpoer jonno dukkho ebong amar emon din ache jekhane ami take miss kori. Kintu gato dui mash jodi se mara jaiyache ami jaa peyechi tar moto kichui na hoy.",P,gc
+"Gato dui masher uposrgguli aro goruttor baa kom goruttor hoyeche,",T,gc
+"Aro goruttor,",P,gc
+Aro goruttor. Dekhun chhoy mash age ekti biddal mara geche.,T,gc
+Haan.,P,ack
+Ebong gato dui mash dhore apnar ei lakshangulo?,T,irq
+Haan.,P,ack
+Tahole apni nishchit non je tara sottiye somporkito kina?,T,crq
+"Haan, ami jani na. Mot,",P,cd
+Ami amar biddal miss kori.,P,gc
+Aapni ki apnar biddal somporko korechen? Beshirbhaag din?,T,irq
+"Oh na, shudhu,",P,id
+"Ami bolbo, apni janen, shaptah-e koyekbar. Eta amake emon aghat korbe je se chole geche. Eta sekhan nei. Ami take niye bhobbo. Kintu, apni janen, take miss koraar kotha chinta na korei amar kharap din jabbe. Ebong tai ami jani na eta setai.",P,id
+Ami apnake bishonnoto somporkito aro kichu prashner jijnasha korbo.,T,yq
+Thik ache.,T,ack
+Aapni ki moja baa anondo khujar apnar aagroher poriborton lokkho korechen? Aapni kibhabe anondodoyok kriyakolaper shathe jugajug korte chan?,T,irq
+"Mane,",P,id
+"Amar mone hocche, ami ekhono moja korte chai, apni janen, bhalo legeche, ami ekhono, pochondo korbo, ami janina ami ki korte pochondo kori. Ebong ami sei jinishgulo korte chai.",T,id
+Aapni ekhono ki dhonno rokomer jinish korte chan?,T,irq
+Jemon ami pochondo kori.,P,id
+"Ami boner sathe dinner korte jacchi. Ebong ami boi porte ebong cinema dekhte pohondo kori. Tai ami seta korar chesta korbo. Upobhog koro. Kokhono kokhono amar pokkhe monoyog deowa kathin hoye jay khon ami porchhi apnir dekhtechen, bibhranto hoben na, tobey ami akhono chesta kori.",P,id
+Apni akhono,T,crq
+Chesta korun,T,crq
+Apnar asthir bodh. Ba,T,crq
+"Je dhore, dhir moto. Apni jemon druto nôrachôrakorte parben na",T,crq
+"Hyan, mane, ami lokkho korechi je, jemon, apni janen, gôto koyek mash kôrmokhetro bhalo legeche",P,"ack,cd"
+Eta amar jonno kathin hobe jemon mone hoy,P,gc
+"Shomoy khub dhire cholche ebong ami jemon chai, temonoi chhilo, ami shopne achi ebong ami pari na. Nôrôr chhote parche na. Eta khub, eta",P,gc
+Odhbut.,P,gc
+Tai,T,gc
+Manthar lagche?,T,yq
+Hyan.,P,ack
+Moolyohinotar kono anubhuti?,T,yq
+"Mane, hyan.",P,ack
+Apni amake sompôrke bolun,T,irq
+"Apni janen, ami mone kori na je amar sathe ja ghotbe ta nio kau satyoi chinta kore.",P,od
+Goto dui mash apnar kono poriborton shekhane monoyog deowar kshamota kemon hobe?,T,irq
+"Hyan, movie ebong jinishgulite monoyog deowa amar pokkhe kathin ebong kôrmokhetro ami jani na eti karon ami klanto ba ki, tobe ami je projektaguli korchi segulite monoyog deowa amar pokkhe kathin kaj kora onumit ebong ami hyan lokkho korechi.",P,id
+Apnar mrittu ba mritto sompôrke kono chinta ache?,T,yq
+Satyoi na.,P,on
+Kono madok ba alcohol bôbhôr,T,yq
+Chikitsa obostha tarpor,T,yq
+Take emon kichu dekhte ba shunte din ja onyo lokera dekhte ba shunte pay na.,T,irq
+Shomproti na. Shomproti,P,on
+"Tar age, um,",T,irq
+"Besh, bochor age",P,id
+Ami hospital e bhôrti chhilam. Kintu eta chhilo karon amar protibeshira bolechhilo je ami emon jinish chhude feli ebong emon kotha bolechhi ja ami sôrkari sompôrke bôlini. Kintu bochhor por bochhor amar kache emon kichu hoy ni.,P,id
+Ei to koyek bochor age apni hospital e bhôrti chhilen? Tara ki apnake hospital e bhôrti r bishoye kichu bolechhilo? Thik moto keno?,T,irq
+Amar mone nei.,P,id
+Mone achhe?,T,crq
+Apni ki akhonkar moto bishonno bodh korechhilen?,T,irq
+"Shombhobto apatdrishtite eki, kichu eki jinish.",P,id
+Kintu mone hochhe eta apnar smritite porishkar noy.,T,yq
+Hyan.,P,ack
+Apni ki kokhono emon somoy pechhen jekhane apni khub khusi je amader prochur shôkti chhilo ebong kebol nôrachôrakorte parini. Otar moto kichu i na,T,irq
+Na,P,on
+"Thik shei, ami apnake ekjon counselorer sathe dekha korte jachchi. Thik ache, ami apnake amader jonno koyek din somoy nebo, apnake kauke dekate ebong eti amar asha je tara apnake sahajjo korte pare. Ei prosner uttor dewar jonno ami apnake dhonnobad janate chai. Ei sahayok hoyeche.",T,gc
+Dhonnobad.,P,gt

@@ -1,0 +1,68 @@
+Utterance,Type,Dialogue Act
+"Hi Sam, apeksha korar jonno dhonnobad. Ami apnar mayer sathe school-e bari te je kichu cholchhilo tar kichu kotha bolechhilam. Aar ekhon ami apnar sathe koyek minute kata-te jacchi apnake kichu prashna jijnasa korchi. Ami shomosto bachchader je prashn guli jijnasa kori, tader moddhe kichu apnar jonno manansoi hote pare ebong tader moddhe kichu khub bhalo bhabe fit nao hote pare. Kintu jodi emon kichu thake ja somporke apni koutukhli, ami jijnasa korchi ba apnar jodi prashna thake jemon amra kotha bolchi, tahole nirdhishay amake jijnasa korun keno ami kichu jijnasa korchi ba kono prashna jijnasa korun. Thik aache. Ami prothom je jinishti porikha korte chhile ta holo bari te kivabe jinisguli cholchhe?",T,gt
+"Oh, thik ache. Ami onuman kori.",P,id
+Thik ache. Apni onuman. Aar mone hochhe onek kichhui ghoteche. Onek stress aar onek kichhu ja ghoteche ma sei shomosto jinis-er sathe koreni.,T,crq
+"Thik ache, aar ami onuman se bhalo ache.",P,cd
+Kothono ki emon akta somoy esheche jokhon apni mone koren je apnar ma bichana theke uthote paren na ba tar jeta kora dorkar ta korte paren na?,T,yq
+Na. Na.,P,on
+Tai se bichana theke utheche aar se apnar dekhashona korche.,T,crq
+Beshirbhag somoy.,P,cd
+"Beshirbhag somoy, tara beshirbhag somoy amader dekhte na mane?",T,gc
+"Acha, se beshirbhag-i onek bhalo korche, se onek kichhu korche. Tai tini jinisguli khub druto korchen, ami onuman.",P,id
+Emon kichu jinis jeta apni bhabe teni se aro bhalo korte paren?,T,irq
+"Proyojone protidin,",P,id
+Apnar ma ki apnar sathe chiri'os korchen? Apni ki apnar ma ki korchen chiri'os hocchen?,T,irq
+Mooloto nije'r.,P,id
+Apni nije-i chiri'os korchen.,T,crq
+Na aslei na,P,cd
+Thik ache. Aar apni jodi khabar nie chintito hon tahole eti apnar jonno udbeg-er bisoy chhilo,T,irq
+"Ero moddhe na bolte thako, amra go malle akjon-er jonno shopping korbo kintu amra eti kobei shesh korbo na karon se onek bishonno.",P,id
+Tahaile tomar ma kemone asen?,T,irq
+"Thik ache, ami besh bhalo onuman.",P,id
+Kothono ki emon akta somoy ache jokhon apni mone koren je apnar ma bichana theke uthe na emon somoye take nishtejo ba mon kharap kora hoyeche? Je jonyo tini ekta satyi kathay kotha bole mone hochhe.,T,irq
+Edaning dadir karon-e ekta chhoto chap.,P,id
+Apni ki amake ekta chap die bolte chan se sompork-e aro kichu bolte paren? Tai,T,irq
+Tara torko korche aar chitkar korche. Tai,P,id
+Kar thakuma ar ma ache?,T,crq
+"Haan, tara torko korche aar chitkar korche.",P,cd
+Apni ki amake eti sompork-e kichu bolte paren?,T,crq
+"Thik ache, tara kebal jinisguli nie torko korche khub sundor noy. Ami etta khub shunini. Ami shudhu amar room-e jai, tai khub ekta bhalo lage na.",P,cd
+"Aar jokhon tara apni hano aar torko kore, tokhon ki kothono emon somoy esheche je apni bhoi peyechen je kau aghat pete pare?",T,irq
+"Ekbar, hoyto,",P,id
+Ekbar? Sei somoy'er kotha ekTu bolben ki?,T,irq
+"Athoba tara kebal sottokarer orthohin hoye uthchhilo, ja tara sadharanot korbe tar cheye beshi. Karon eti ekhon besh kichhuTa ghôTchhe. Ami chhilam na, khub kharap chhilam na. Ami onuman kori.",P,id
+"Tahole apnar Thakurma ebong apnar mayer modhye laddai, eti kotoTa tibro hoy? Eta ki tôrkô kôrchhe naki chitkar kôrchhe, chitkar kôrchhe? Tara kôhon manush hoy? Emon somoy ki hoyeche jokhon keu sharirikbhabe tader mushti ba hat bôbhôr kôrechhe?",T,yq
+Na.,P,on
+Onyo kono upay je tara sharirikbhabe juddho kôraTe pare?,T,irq
+"Na, na.",P,on
+Bôsthu nikshep ba na sompôrke ki?,T,yq
+Na.,P,on
+Ebong jokhon tara juddho kôre tokhon apnar ki hoy? Tumi kothay?,T,irq
+Ami shudhu amar roome jai ebong eti upôksha kôrar chesta kôri.,P,id
+Thik tai apni amar kach theke shunte jachhen ebong pore ki ghôTbe ta jânben.,T,id
+Tara kichu somoy'er jonno eke o poreer theke dure thakbe. Thik achhe.,P,id
+"Sutôrang jokhon tara juddho kôrche, ami jeta shunechi ta hôl shôbdguli,",T,crq
+"Achha, majhe majhe amar didima amake ektu somalochona kôren. Jemon sei amake bolbe ami kichu thik korchhi na, kintu tarpor amake sahayyo kôrun. Like, bôkhya kôrun.",P,cd
+Tai apni Thakuma dwara somalochito bôdh kôchhen. Mayer ki hobe? Se ki kôno somoye tomay kharap ba kshatikor kôtha bolechhe?,T,irq
+Na.,P,on
+"Sham, keu ki apnar shorirke anupôyukto upayê ba emônbhabe sparsh kôreche ja apni pôchôndô kôrenni?",T,irq
+Apni ki bolte chachchen?,P,crq
+"Keu ki apnar gôponang sparsh kôreche ba apnake yôun upayê sparsh kôreche? Sham, tomar bari'r keu ki tomarke aghat kôre ba marbe? Keu apnar shorire aghat kôrle apnar shorirer aghatêr bishôye ki hobe? Tai jokhon ami aghat bôli, mane aghat, lathi, ghushi, ancharer moto jinish.",T,yq
+Na.,P,on
+Tahole apnar bari te keu apnake yôun ba sharirikbhabe aghat kôreni? Keu ki madhyôpan kôreche ba kôhôno manush khub beshi madhyôpan kôrche ba matal hochhe kina ta nie chintito hochhe? Na? Onnyo oshudh shompôrke ki?,T,crq
+"Na, na.",P,cd
+"Tahole apnar baba-mayer madok ba alcohol bôbhôr kôrar bishoye apnar konochinta nei? Thakuma shompôrke ki, apnar poribarer onno keu je apni eivabe chintit? Tai Sham, apnar ghônnishto shompôrker kshetre apni kemon anubhav kôren? Apni ki priyo ebong jotnoshil ebong bishesh bôdh kôren?",T,irq
+"Athoba amar ma amar chhoto bhaiyer proti beshi mônoyog den. Ebong tarpor jokhon ami amar mayer sathe kotha bolar chesta kori, jodi ami emon kichu chai ja she sotti pôchônd kore. Tini sotti je bhal shone na. Tini shudhu dhôrône tini ki korche rakhô. Ebong tarpor pore abar amake jigyasha kôrte pare, aro ki korte hobe. Onek na, jodio. Kôdachit je kon somoye.",P,id
+Tahole apni ki bhalobasen na? Kono prapto bôshobôskoder sathe ba karo sathe apnar jibone emon kono jayga ache je apni prem anubhob kôchen? Amar roome amar môto?,T,irq
+Ami sotti anoy.,P,id
+"Tai jodi apnar kono somoye kono somosya hôe, ba apni kono bhabe aghat pôno ba kichu ghotte thake, tahole apni sahayyer jonno ke kache jaben? Athoba apni ki korben?",T,irq
+"Amar roome giye keu vabbe na. Jemon, ami majhe majhe amar ghore thakte pochhondo kori.",P,id
+Ebong apnar poribarer keu ki kono somoye jêle ba karaGar'e ache? Tai apnar bari te chap ebong ki hochhe? Apnar ma apnar jonno jôtôtuku na hote pare?,T,yq
+Na.,P,on
+Ei chaper kichhu bishoye apni ki mone koren?,T,irq
+"Thik achhe, sambhobato amar dadir ladiyer karone ebong amar baba'o chole jachhen, karone tader divorce hoyeche. Seta thik.",P,id
+"Apni jete chan apnar ma amake bolechhilen je apni ebong apnar ma ar eksathe nei ebong tini apnar babake dekhte B.C.-te chole gecchen. Ekhon, ek bochhor age apni take shesh kobe dekhechhilen? Take dekhar jonno apnar ki kono porikolpona achhe? Na na. Ami ja shunechhi ta holo, apni janen, apnar jibone kichhu chap ebong kichhu jinis royeche ja apnar jonno kathin. Ebong apni amar sathe apnar ma ebong apnar thakurmar moddhe je jhogra hochhe sei somporkhe kotha bulun. Je, apnar baba chole gecchen, apni sob somoy sotik poshak paren na ebong apnake apnar kichu khabar thik korte hobe. Ebong apni sob somoy priyo ebong bishesh anubhav korchhen na. Kintu apni amake bolechhen je keu apnake sharirik, moukhik, ebong yon upaye aghat kore na. Na, keu apnake kharap kichu bolche na. Je apni manasikbhabe apnar ma ke niye chintit non ebong tini sordi taki niye chintit non. Aro manasikbhabe sangram? Ebong apnar parichit keu karagare nei, ba ekhon karagare royeche. Ebong apni madok ba madypaan ba apnar bari te kono udveg nei? Syam, apni ki mone koren je kichhu manasik chap shule apnar jonno kathin korche?",T,cd
+Ami tai mone kori. Sambhoboto.,P,ack
+Haan. Keno hote pare bole mone koren?,T,orq
+"A karon ami eta nie bhabchi. Ebong tarpor ami ki ami korchi ebong tarpor na, khub pete somporkhe chinta mato na.",P,od
+"Ami jani je Syam, Syam, jokhon kichu jinis bari te chapayukto hoy tokhon bacchader monoyog dite shomossha hoy ebong eti tader school-e prohobit kore. Tai ami apnar mayer sathe aro kotha bollte jachhi ebong amra emon ekta upay ber korar chesta korbo jate ami apnake ebong apnar mae sei jinisgulir kichu diye sahayyo korte pari.",T,id

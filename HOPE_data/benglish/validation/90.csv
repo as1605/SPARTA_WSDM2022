@@ -1,0 +1,61 @@
+Utterance,Type,Dialogue Act
+"Jacki, kemon achho?",T,gt
+"Thik achhe, kemon achho?",P,gt
+Jijnasha korar jonno dhonnyobad. Ami dekhte pachchi je apni ekta release signature korechen jate ami apnar mayer sathe kotha bolte pari ebong tini aaj apnake niye eshechen. Ki hocche sekhane ki hocche?,T,id
+Tara mone kore amar madhyapaner somosha ache. Amar poribar...,P,id
+Apanar poribar mone kore madhyapaner somosha dekhay.,T,crq
+Haan. Tai amra satyoi shuru ei gato shoptahante chhilo. Tara amar bridal showerer jonno amake nite eshechilo. Ebong ami matal chhilam jokhon tara amake pete eshechilo tai ami jete parini ebong akhon sobai amar upor khub bhirko.,P,op
+Tai tara apnake agencyte ashte bolechhe.,T,crq
+"Haan, apni janen, ami chai na tara amake ba onno kichu ghurna koruk. Tai ashte raji hoye gelam.",P,cd
+Apni ki bishwos koren je apnar madhyapaner somosha ache?,T,yq
+"Mane, ami pan kortei pchhondo kori.",P,op
+Apni mone koren eta thik ache?,T,yq
+"Haan. Ami eta pchhondo kori, ami pan korte chai.",P,op
+"Aso, ami jodi tomay madhyapan sambadito kichu prashna kori,",T,yq
+Thik ache.,P,op
+"Tahole, apni ekhon koto ghon ghon pan koren?",T,irq
+"Pray protidin. Ami nischoi bhave shoptahante protidin pan kori. Jemon, shoptaher modhye, ami jai hok na keno shera sthanio khushi somoy, apni janen, ki ghotche ta khujte ber koro. Tai ami kajer pore giye kichu panio khai.",P,id
+Shoptahante ki?,T,irq
+"Shoptahante amake nijer modhye rakhte hobe. Amar bari te ja ase ta ekhono khonikota pani kori, tobe ami satyoi khub beshi shoptahante baire jai na beshi bari te thakar jonno ebong haan, amar sekhane ja ase ta pani kori.",P,id
+"Apni koto pan korchen, shoptahante boli",T,irq
+"Jinisher track rakhano kothin. Shoptahante beerer dui ba tin ta case er moto koyekta case bolun. Jodi kichu bikri hoy, apni janen, rastaye moder dokane, thik ache, ami bhodrokar botal ba tar sathe jete kichu pchhondo kori.",P,id
+"Thik ache, shoptahane kemon hobe?",T,irq
+"Shoptahane, ami bare matro koyek ghonta thaktam, hoyto chhoy ba sattiti drinks kheye bari te chole jai.",P,id
+Apni ki apnar cheye beshi pan korchen?,T,yq
+"Um, ami tai onumon. Ami bolte chacchi, ami shoptahante sudhu kichu pan korar jonno ekta plan korechi. Ebong eti satyoi rakha hoy ni karon ami khushi somoy ebong jinishgulo te jete pchhondo kori.",P,op
+"Tai, apni age kom korar chesta korchen?",T,yq
+"Haan, eta satyoi ghote na. Satyoi eta ghote na dekhte.",P,on
+Apnar ki alcohol pan korar iccha ache?,T,yq
+"Um, apni haan bolte paren. Ami kaj korechi ami pan korte chai ebong baire kaj korechi. Ami pan korte chai.",P,op
+Tahole apni ki ekchotiobhabe alcohol boshano korchen naki onno kono oshudh jorito?,T,irq
+"Ei mohorte sudhu alcohol ebong sob law abiding jinish. Ami odhyor chhilam. Cocaine er jonno kichu bar, kintu ami bondho korechi. Je satyoi kichu ami ar korte chai na. Tai",P,id
+Sheshobor apni kohon odhyor chhilen?,T,irq
+"Pray char mash age, panch mash age,",P,id
+Char ba panch mash age? Ar sei somoy apni cocaine boshano korchen.,T,crq
+Haan. Ami boshano korechilam.,P,op
+Ebong keno apni cocaine boshano bondho korechilen?,T,irq
+"Thik ache, ami college theke graduate hoyechi, ami college ek dhoroner partyr chhilam, ebong tarpor amake ekta chakorite pete hoyechilo ebong ete amar chakorite haranor bhoy chhilo ebong ami ekta drug test korbo ebong staff. Tai je amar mone pora dharoner je songe. Tai haan. Ami mone kori je chikitsa etir sathe sahay koreche.",P,id
+Apni cocaine chaan?,T,yq
+"Na, beshirbhaag-i shudhu alcohol. Shudhu.",P,on
+Apanar kaj somporkhe kibhabe apani apanar kaj ba apanar kormokshamota apanar kaj rakhte somossha hochhe?,T,yq
+"Um, ami mone kori ami ja korte pari tar tip top korchhi na kintu hyan, eta asle kono somossha hoyeni. Amake chakorichhut ba erokom kichu korar humki deowa hoyeni. Kintu apani janen, ami maje maje ekbar derite asbo kintu ami lukie achi jate keu kheyal na kore.",P,on
+Madyapaner karone kono samajik somossha?,T,irq
+"Um, ekhon amar paribarer sathe. Hyan. Tader sathe khub bhalo vabe milite hochhe na. Amar bondhura, jodi, ami jokhon saptahe tader baire jai jekhane apani bhalo thakben, tobe tara ager moto mojadar noy. Tai khonoo khonoo, hyan. Khonoo khonoo tara jinis korte chan ebong cinema ba jai hok na keno je'te chan. Ebong Ilo pagol karon ami jete chai na ami boro kothao party jete chai. Tai.",P,id
+Apanar kichhu samajik somossha achhe. Apanar bondhuder sathe ek tu beshi noy boro apanar paribarer sathe aro beshi.,T,crq
+"Amar paribarer sathe aro. Hyan. Ami bolte chhachi, ami onuman kori amar bondhura amar sathe khushi noy kintu ami mone kori na eti ek ti bishal chukti. Ami serar bondhur sathe ami koyekdin katha bolini karon se onno rate tar sathe diner'e na asar jonno amar upor kshipto karon ami dekhte matal ebong ami ta korte chai.",P,cd
+Apani ki dekhechen je apani alcoholer karone sharirikbhabhe bipajjonok kono kriyakalape jorito?,T,yq
+"Um ami koyekbar aghat peyechi. Mane, shiri beye porechi, kintu ami skydiving ba onno kichur moto dakhchi na, jano? Tai ami koyek mash age amar gorali mochhechilam karon ami shirite porechilam kintu thik aache.",P,op
+Apani ki dekhte pachchen je apanar itimodhye lokshongulir kono tivrata royeche? Alcohol dwara kharap kora kono chikitsa ba manasik swasthya somossha moto?,T,yq
+Eti ek ti sundor swasthyokoro. Hyan hyan.,P,id
+Tahole apani ki madyapan shuru kara'r por sei pointi lokkho korchen jokhon apani eki pravab pete chesta korchen emon poriman barate hobe?,T,yq
+"Oh, hyan.",P,op
+Eta kohon ghotechhilo?,T,irq
+"Ami mone kori ami etir sathe poryakrome chhlechi, apani janen, ami kichukhon er jonno ekti nirdishto poriman pan korbo ebong tarpor ami lokkho korbo je ami ar matal noi, tai amake aro kichu pan korte hobe.",P,id
+Shesh kobe apani lokkho korechen je eki pravab pete apanake onek beshi pan korte hobe?,T,irq
+"Dharo jak, gat shaptahante, apani janen, ami amar bari te koyekti beer peyechhi ebong koyek ghonta kete geche ebong ami sombhoboto 12ti beer pan korechi ebong ami kichhui anubhav korinai. Tai ektu druto pan kora shuru korun ebong ashun shuru kori, apani janen, ektu bhalo bodh korun.",P,id
+Kibhabe pratyahar korben? Apani jokhon madyapan bondho koren tokhon ki pratyaharer kono uposorgo thake? Sharirik lokkho udveg moto?,T,irq
+"Mane, ami aro kichu chai. Nishchit. Lalsa.",P,id
+"Thik aache, Jyaki, apani ki ekhane agency'te ekti counselorke dekhte chan?",T,yq
+"Ami mone kori amar ma aslei etai chai. Tai, tai hotat tara ekbare ba du'bar chesta kore dekhebe ki hoy kintu ami take khushi korte anumon kori.",P,op
+Tai apani nishchit non je eti ki chesta korben. Hyan. Ami apanake ekti counselorer sathe dekha korar jonno nirdishto korbo. Ami ki ghoteche se somporke amake bola'r jonno ebong amar prashner uttor dawar jonno apanake dhonnobad janate chai. Eta sahayok hoyeche.,T,id
+"Hyan, nishchit.",P,gt

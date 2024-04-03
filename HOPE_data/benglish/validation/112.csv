@@ -1,0 +1,30 @@
+Utterance,Type,Dialogue Act
+"Amanda, ashoar jonno dhonnobad.",T,gt
+"haan, thik ache",P,gt
+"GP amay ekta chithi pathiyeche, jeta bolche kichhu din dhore tomar jonne kichhu kathinai chhilo. Bolo, tomar shathe ki ki ghoteche, janabo toh.",T,id
+"Khub kathin hoyeche. Ami khub jor kore achi. Ar ami jani na keno. Jani na. Eta amar jonno khub sundor dhoroner somoy hote chhilo, tai toh ami ei keno ektu bujhte parchi na.",P,id
+Kintu hoini. Ei obdhi sundor somoy chhilo na.,T,id
+"Ami ekhon bhabteo parini je eto hobe. Eto hobe eta amar chhobi noye, eto hobe mone hoini.",P,id
+"Tomar jonno eta kemon chhilo, eta bolte paro toh?",T,irq
+"Ami mone hoy je ami jeno jemon bhabte chai, seta mone hoy na. Kichu somoy khub kathin hoy, amar jonno je kichu korte hoy seta amar jonno kora khub kathin hoye jai. Ami ekjon maa hote parina, eta khub anushthit hoeche, ebong eto galat lagche. Ami",P,id
+Galat keno?,T,crq
+"Ei holo na je amar mane hoyeche. Ei toh ami ki korbo, bhabteo parchi na. Ami just eto kharap keno bujhte parchi na. Ekhon je ei obdhi aro kharap lagche. Abaro, kichu somoy obdhi bhabteo ichhe hoi na.",P,cd
+Eto hobe seta mone hoy,T,id
+"Haan. Ebong eta something jeta amra akhon khub dhoroner jonno chesta korchhi, ebong eta obdhi. Eto important chhilo, ar ekhon jei holo, eta, eta onno rokom. Eto mone hoi je tumi bhabchhile seta theke onno rokom.",P,id
+"Eta jeta khub important chhilo, ar ei obdhi, ei holo, eto bhabchhile seta theke onno rokom",T,id
+"Thoda thoda different. Ami mone korechhilam je ami khub kichhu korchi, ar ami tomake bhalobashi, eta holo na je ami tomake bhalobashi na. Ekhon eta khub kichhu bhinn, ami janina keno. Janina keno, kintu eto kichhu bhinn kore mone hoi, eta khub kathin.",P,id
+"Ei bhinn bhabe ki hoyechhilo, seta kichhu bolo toh.",T,irq
+"Eta kotha bolar khub kathin, karon eta mone hoi na. Ekhon eta mone hoi je eta bhabte othoba bolar kono mane hoy na. Kintu ase ekta bhinno bhag, je amar jonno bed theke utha te oshubidhe lagchhe. Sokal sokal, ami kichhu korte ichhe korina. Ami kichhu korar iccha kori na.",P,id
+Shudhu sob kichhu cholte deoa ichhe?,T,yq
+"Bolar khub kathin, karon mone hoi je ar keu bujhte parbe na je ei kemon lagche, eto atotai atotai kore. Ekhon eta bolte khub kathin, almost unnaturally mone hoi, kintu bolar jonno khub shobdo ber kore.",P,id
+"Ar ei jayga ta, tomay bolte paro jeta bole dite hobe.",T,id
+"Haan. Haan. Ei amar ekta part, jeta almost khedo amar shob kichu korte hoy, ar ami mone kori ami oi support ta pachi na. Ar etao khub kothin. Mone hoy, amar sob kichu korte hoye amar jonnoi dite hobe.",P,ack
+"Tai, mone hoye sob kichu tomakei thakbe. Tumi shob somoy ei bharosa korte thakbe.",T,id
+"Haan, ar etao beshi boro, etao ekta chhoto chele jeta amar kache aache, je amake sudhu tomake thakte hobe. Ami oikhane thakar jonno koshto korchhi ar ami thakteo chai, add korteo chai. Tai khub e asahyojonak. Mm hmm.",P,id
+Tumi nijei nijei shomosto shonge deal korte thakcho.,T,id
+"Amar jiboner sathi, John's Bay, tao chesta kore, kintu mone hoy, tarao amar shonge asahchhe, tao ami mone kori, tini amar upor asahchhe. Tini mone korechhe je ami kivabe thakbo, amader kivabe thakbo, ar ei sob kivabe thakbe, tao tini amar upor nirash hoye gechhe. Ar tai amar proti etao ektu bhenge gechhe, tai amar mone hoy, ami proti ta thik achi bole dekhanor jonno ami etao korte hote hobe. Ar ami bhalobashi ei shob.",P,id
+Tai ekta mask dhore rakhate chesta korchho. Chesta korchho je sob thik ache mone hoy.,T,crq
+"Haan. Tumi tao bujhe gechho. Jano kivabe ami mone kori, ami jokhonoi khub kharap maa mone kori.",P,cd
+Kintu etao kosto hoy. Ekti kharap bhabona.,T,id
+"Ami ektu kathin korei ei cheleke niye proti kichu korte chhilo, jeta amra chhoto thekei kotha bolsi, planning korsi, ar John er jonnoo eto important. Kintu amar mone hoy, ei sob hoye jacche na. Tini abar ekta onubhuti korchhe, amar upor expectation chhilo je ami kivabe thakbo, amra kivabe thakbo, ar etao kivabe thakbe, ar mone kore, tini amar upor disappoint hoye gechhe. Ar tarpor eta help korche na, tai amar mone hoy, ami etao korte hote hobe je ami thik achi ar je ami sob kichu thik moto niye chaliye jachhi.",P,id
+"Tai ei point e, ar etao shoy six weeks, khub kathin hoye jacche. Shoy six weeks amar jonno khub kathin mone hocche. Eto kothin mone hocche karon ami eto kichu korechi, chele niye chele korar jonno aamra eto kichu korechi, ar ami bujhechi GPM pump theke je janma hochhe, tao jodi kom kichu kotha bole mone hocche, tahole kom kichu. Ebar amar jonno ei baby er jonno reality ashche. Amar jonno mone hocche, tomake chirokal theke ekta juddho korar jonno tairi hochhe. Kintu etao juddho, jeta tomake mone hocche khub e akela feel korar jonno.",T,id
