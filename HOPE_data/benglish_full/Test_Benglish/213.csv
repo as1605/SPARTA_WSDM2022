@@ -1,0 +1,50 @@
+Utterance,Type,Dialogue Act
+Ki cholche? Apni ekhon kemon feel korchen?,T,"gt,irq"
+Ami khub disgust feel korchi.,P,id
+Disgust ki niye.,T,crq
+Ami eta korte parbo na.,P,"on,cd"
+"Emon eta korte parbe na. So, bolo disgust feel korar karonta. Ki bishoye disgust lagche?",T,irq
+"Amar body er moton, ami jani na, amar khabar iccha hole emon hoy, you know, khub kharap uncomfortable, I don't know.",P,id
+"Yeah. Well, dekhe mone hochhe kichu judgement ache okhane. Accha. So, shune mone hocche apnar kichu justment ache ei bepare, ami asholei khub kharap feel korchi.",T,crq
+"Ha, Ha.",P,ack
+"Orokom kichui. But apni etake khub descriptively kbolechen, eijonnoi apni etota uncomfortable feel korchen.",T,gc
+"Thik, na khele amar icky feel hoy. Ami janina. Just.",P,ack
+"Yeah. And ami bujhte parchi apni okhane kivabe pouchalen. Apni jodi chinta koren, amar mota feel hocche. Ami mota hocchi. Tumi jano, Eta jabar jonno eta easy jaiga. Okay.",T,gc
+Okay.,P,ack
+"But amar mone hochhe amra kichu miss korche, aroo, karon ami mone korina eta justice. Ani mone kori aro kichu ekta primary emotion ache etar pichone. Apni ki mone koren ?",T,orq
+"Ei bhalo lagchhe je, just dekhechi oita ke, ami sei mishti ta khete icche kori. Ami mone kori, ami just bari theke berote icche kori. Ami eikhane thete chai na, shudhu thakte chai na.",P,od
+"Bishesh. Tai, etar kon bhabe bhav lagche tomake mone hoy?",T,orq
+"Bhoy lagchhe, bhoy lagchhe je ami oita khaile ki hote pare?",P,od
+"Mone hoy toke beshi beshi. Ekhane toke ekdom chipiye dekhechi. Jane, tomake ekdom chinta mukhe lagche, jane, ar toke taratari kachhe ana oshubidha hoteche. Mone hoy, toke bhoy lagche, etai ami dekhte pacchi. Ar ami chai tomake janano, ei bhabe mone kora valo mone hoyeche. Jane, tumi last kobe cheesecake khaochho.",T,"id,irq"
+Ami honestly mone kori na. Janina.,P,"on,id"
+"Ami jani, khub kichu din hoye geche. Tui to tai khuchhbi na, jane, jabar somoy, tui tui ekdom tui khuchhbi na, jane, toke tui ekdom tobe khawa uchit chilo na, jane, jabar somoy, tui tui ekdom tomar khawa khub kothin hoto, jane, toke jane,",T,gc
+"Ami used to, Ami used to like it. I mone rakhi, kintu eto din pore.",P,gc
+"Ami janina, ebhabe tomake khete thakte eto din tomake bhoy lagche, tai bhoy lagche bujhte.",T,gc
+Hm.,P,ack
+"Aar tomake mone hochhe, ei khadyo ti tomake jonno ekdom shreshtho. Tai amar jonno etai bujhte thik.",T,crq
+"Hm. Ami etake dekhi, ekta boro fat er lump mato.",P,"cd,ack"
+Hm.,T,ack
+Ei rokom dekhte parchi.,P,gc
+"Eta ki! Ki! Ki? Eta ki, ekta boro fat er lump.",T,irq
+Ekti judgment?,P,crq
+"Hm, exactly. Jano, ami tomake ei rokom kotha bolte debo na. Theek ache. Okay. Tai, karon ei kotha shob somoy kono sahajota korbo na. Tai ami mone kori, amader dhoron taratari upokrito hote hobena. Tahole ami ki mone kori, etai shokol kichu chhere dile, tomar bhoy barbe. Ki bolcho?",T,cd
+Mm hmm.,P,ack
+Ami ki bolchi?,T,irq
+"Bhoy theke palay na thakar bodole, tomar jonyo bhoy er dik theke ese, mone hochhe, ami tai korte pari, tai na chhere jete.",P,id
+"Theek, exactly. Tai, jancho, etai bhoy er sathe jontronar somporko. Amra jani, tomar ichhe holo, bhoy er sathe dure chole jete. Tahole etai amader kamon?",T,yq
+Theek.,P,ack
+"Theek ache. Tai, ami dekhechi, etao koto kathin. Tomar jonyo ar amar jonyo, honestly, eta dekhar kotha bolar khub kathin. Kintu toke mon kharap korar jonno ami ei bhoy tule nite partam na. Karon, toke mone rakhar jonno etai atyanto mahatvapurno. Karon ami jani, jodi ami etai bhoy tule niye jai, ar bolte dei, ""Ar no more cheesecake,"" tahole tomar bhoy barbe. Tomar prothom kono khadyo er samne eshe, jeta tomake kathin lagbe, tokhono.",T,od
+"Hm, etao bhalo kore na hoy.",P,on
+"Hm. Eta korle tomake bhalo lagbe na. Tai ei rokom kore, ashay kori, tomar bhoy shekhan theke kombe. Theek ache. Ekhon ki tomake bhoy hoyeche? Ar etao kheye nite paarbo kichu bite?",T,yq
+Theek ache.,P,ack
+"Theek ache. Cholo, kore felbo. Kemon chhilo?",T,orq
+Eta kothin.,P,od
+"Hm, dekhte pachhi koto kothin.",T,gc
+"Kintu ami korchi, kintu kothin.",P,od
+Exactly.,T,ack
+Ato sukhom nei.,P,on
+"Na, ami mone kori asbe na. Kintu tomake etai korar jonno sob theke bhalo opposite action chilo, jeta holo, tomake kharap lagche, eta bujha jachhe.",T,od
+Hm.,P,ack
+"Tomar jonyo onno kichu na holeo, tomake nijeo garva lagche kichu?",T,irq
+"Hm, halka halka lagche.",P,ack
+"Theek ache. Eto dekhlam, tomake ei kaj kora possible. Tai abar try kori. Ektu asha niye shwas niye, firbo, ar eto opposite action korbo.",T,irq

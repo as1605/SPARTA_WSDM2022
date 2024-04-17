@@ -1,0 +1,51 @@
+Utterance,Type,Dialogue Act
+"Nikole, aaj kemon achen?",T,gt
+Ami bhalo korchi Mariya.,P,gt
+Bhalo korchen. Jiggasha korar jonno dhonno-bad. Ki ajke amader agencyte apnake nie ashe?,T,"gt,irq"
+"Thik aache, ami jokhon-i kaj-e jai tokhon ami sotyi ek dhorno udvigno bodh korchi.",P,id
+"Aapni jokhon-i kaj korte jan tokhon udvigno bodh koren, kono dhorno kaj korben.",T,crq
+"Ami shudhu ekta bima companyte kaj kori, ekjon admin sahakari.",P,cd
+"Bima company-er jonno kaj, ebong apni kotodin dhore udvigno bodh korchen? Seikhane?",T,irq
+"Achha, ami ek bochhor age shuru korechi.",P,id
+Apnar ki kono somoy emon udveg chhilo? Ageer niyogkorta naki onyo kono jagai?,T,crq
+"Haan, ami bolbo jokhon ami notun chakri shuru korechi ba emonki notun academic poribesheo, ami kichhuta udvigno bodh korbo. Tai.",P,cd
+"Eti kichhuta porichito, uttejanapurno. Mom hum. Amake je jinisguli sompurno bolun,",T,gc
+"Um, achha, eta shuru hoye apni janen, jokhon ami sokale ghum theke uthe kaj-e jawaar jonno prostut hoi, emonki jokhon ami gari chalachhi, tokhon ami udvigno hote shuru kori. Ebong tarpor ekbar ami sekhane gele, ami sotyi, apni janen, ami kaj korte jai ebong amar jaa kora uchit ta ami kori, kintu ami nijekete dhore rakhartar chesta kori. Apni janen, ami amar kichhuta sahakarmir sathe alapcharita sotyi upobhog kori na.",P,gc
+Apni jokhon sathe jugajug koren tokhon ki ghote?,T,irq
+"Um, amar mone hoy, ami sotyi tader karo sathe kono sambandho kori ni ebong ami, ami amar kajti sotti vabe korchi kina ba tara amake poshondo kore kina, tai mone korte thake. Tai amar nijer office lege thaka sohoj.",P,id
+"Thik aache, tai apnar ekta office ache alada office ache. Ebong apni nijekete ekto bichchhinno korte paren. Haan,",T,crq
+Ami onuman apni bolte paren.,P,cd
+"Aapni jokhon dharoner hon tokhon apnar udveger abhijatok ki? Ami nischoi je poristhiti ebong diary ache, apnar udveger abhijatok shimit korar jonno kambeshi onno lokeder sathe jugajug korte hobe.",T,irq
+Apni bolte chachen ami kemon anubhav korchi ba kon dhore paristhiti te ghatche?,P,crq
+"Achha, chalun dutoi cover kori. Chalun shuru kora jak ki dhore paristhiti etike trigger kore.",T,cd
+"Thik ache, um, ami anuman kori jokhon ami ekta boro bhirer modhye thaki, ekguchho sahokarmir sathe kenakata kori. Jodi amader meeting hoye ba tara kono bisay e amar input jiggasha kore, ami nervous hoye jai ebong ami shudhu ashcharya hoi, apni janen, ami jodi sotik kotha bollam, ebong tarpor ei dhore amake tader charpase nervous kore tole. Ebong tarpor jokhon ami nervous anubhav korte shuru kori, tokhon ami kichu pet byatha pai. Ami sotti shudhu kotha bola, meeting bondho korte pohondo korbo. Ebong tarpor ami pete, apni janen, ek tu lal ebong lal, pashapashi, jokhon ami meeting ache.",P,id
+Apnar ki kokhono chole jawar iccha ache? Apni jodi ekta group-e thaken tahole shudhu bahyik dhoroner?,T,irq
+"Oh, hyn, sob somoy. Um, ami chesta kori na karon ami kharap kaj korte chai na ebong ami kori na, apni janen, ami kharap kaj korte chai na. Kintu maje maje dushchinta ektu beshi hoy, ebong ami shudhu amar office phire jete ebong eka thakte pohondo kori.",P,id
+"Ar eta tomar jonno koto ta kosto? Ami bolte chachhi, spastotai, apni ekhane aschen. Sutroh, eti oboshoi kichu srot-er kosto hote pare, tobe eti apnar karyokarityer jonno koto ta byahot?",T,irq
+"Ken bolben ami, apni janen, ami jokhon kaj shuru kori, apni janen, jemon ami protidin udvigno bodh kori ebong ami sotti amar chakri chhede onyo kichu khujte berar kotha bhabchi je kothan e ami sambhobot thakte pari aro nirjon ebong ghon ghon meeting-e jete hobe na ba uposthapona korte hobe na ba erokom kichu korte hobe na.",P,id
+Tai meeting ebong uposthapona bisheshbhave trigger kore.,T,crq
+"Ami bolchilam, hyn, ami tai bolbo. Jekono kichu jekhane onek lok amar dik theke koyek er cheye beshi takachhe, ami anuman apni bolte paren.",P,cd
+"Apni ki amake sharirik lakshanguli sambhok kichu bolte paren? Apni apnar pet byatha ullekh korechen, jokhon apni udvigno bodh koren? Onyo kono uposorg ache ki? Apni sharirikbhabe anubhav korte paren,",T,irq
+"Um, thik ache, ami majhe majhe amar hater talu ghambhe, amar mukh lal hobe ba ami otirokt garam hobe. Tobu beshi shob somoy eti kevalam kichu pet-er byatha ja apni janen, saradin dhore ami jodi bhabchi amake ki korte hobe, eti amake udvigno kore tole ami kichu pet byatha pette shuru kori.",P,id
+"Sutroh jokhon ei udveger porbguli aro tivr hoy, jemon apnar jokhon apnar pet byatha hoy, ebong apnar onyanno uposorg thake, apni ki eti abar ghoteche ta nite chhinte chhinte? Jemon, apni ki chhinte chhinte jante paren je sei lakshanguli abar ghoteche, jar fole apnar aro uposorg dekha dibe?",T,crq
+"Ami sob somoy eti abar ghoteche chintit noi. Ami bolte chachhi, kokhono kokhono ami etta ghote anuman korte paren. Ebong ami eti adate chai. Tobu ami ekhane ebong shekhane bolbo, ami pet byatha ba lok-er samne lal hoya niye udvigno hobo, ei jatiyo jinish, tobe eti protibar hoy na.",P,cd
+Apnar je meetingguli ache se somporko amake bulun. Apni ullekh korechen je apnar meeting ache ja apnake pratyashitbhabe jetey hobe. Ekti sadharan sabhay koto jon lok thake?,T,irq
+"Thik ache, eti ekta khub chhoto kompany, kintu ami bolbo sambhoboth pach theke 10 er modhye kothao. Jodi tader beshi bhaagei amar upore. Tader obohthon amar upore tai,",P,id
+Tai pach theke 10 koto ghon ghon ei meeting niyotito hoy,T,irq
+"Shoptahe prae ekbar ba duibar niyomit, ebong tarpor khono khono amra er cheye beshi dekha korte pari jodi kichu samadhan-er proyojon hoy.",P,id
+"Thik, tai kichhuta aporikolpot.",T,crq
+Mim hum. Ebong tarpor kichhu shaptahik ghôtbô. Thik achhe.,P,cd
+"Sutôrang jegulir jonno porikolpona kora hoyeche, apni ôgrosor shagot janate udvigno hon.",T,crq
+"Oh, hyan, oboshhoi. Ami bolte chachchi, ami eti shomporke chinta kori, joto tadaritadi ami jani, ami sob somoy jani eti ashche. Tai ami sob somoy chinta kori, apni janen, porbotto meetinge amake uposthapon korte hobe ba kivabe amake obodan rakhte hobe. Ebong tarpor ami shudhu sajanor ami eti shomporke chinta jatokkhon na eti ghôtbe, ebong tarpor eti ekta chôkro.",P,cd
+"Thik achhe. Tai meetingguli shuru hoye, sadharonot officee bichchhinno na hôa ei udvignoke trigger kore. Thik. Kintu onno somoy mone hoy apni jokhon officee bichchhinnô korchhen tokhon amra udvigno noi. Ekhon khudharto udvigno hôbe kivabe?",T,irq
+"Ami jokhon eka thaki tokhon ami shathei bohudin dhôre ami jani je ami ki korte hobe, ami jani je sokal theke rater porjonto ki korbo, ebong ami jani je ami shomoye onno kichhu korte chai na, ei rokom jinis. Tai amar jodi koyekdin'er jonno kaj bondho thake tobe ami mot thekeo udvigno hoi na. Eta shotti bhalo jokhon ami kaj korte jachchi jokhon ami jani je amake onek loker shathe kotha bolte hobe ba uposthapon korte hobe, erokom jinis.",P,id
+"Hyan, amar jodi koyekdin'er jonno kaj bondho thake tobe ami mot thekeo udvigno hoi na. Eta shotti bhalo jokhon ami kaj korte jachchi jokhon ami jani je amake onek loker shathe kotha bolte hobe ba uposthapon korte hobe, erokom jinis.",T,orq
+"Hyan, amar jodi koyekdin'er jonno kaj bondho thake tobe ami mot thekeo udvigno hoi na. Eta shotti bhalo jokhon ami kaj korte jachchi jokhon ami jani je amake onek loker shathe kotha bolte hobe ba uposthapon korte hobe, erokom jinis.",P,od
+"Thik achhe, apni jodi kosto pano tobe eta shotti kostojonok.",T,irq
+"Achha, ami bolte chachchi, aporikolpot meeting, ami, seguli ghôtechhe ta niye bhôbar jonne amar kache shotti beshi shomoy nei. Kintu ami tokhono bolbo jokhon ami ghôtnosthale thaki ebong kichu uposthapon korte hoy ba eto kore ekta dirgho alochona korte hoy jekhane onek lok amar dik theke takie thake ba apni janen, dirgho shomoy dhore amar kotha shunechen, ami bolbo akhono ami je shomporke beshi udvigno pôto.",P,id
+Tai ubhoyi shotti karon bole je apni jodi kosto pao tobe eta shotti kostojonok.,T,yq
+Hyan.,P,ack
+"Thik achhe. Ami ki korte jachchi karon ami apni apni ekhane ese ekjon counselorke dekhar jonno niôd korchi, thik achhe? Pi B, shombhob toiri ekhono obhabhot. Thik achhe, eta thik hobe. Je kaj korbe. Tai ami tomake samne nie jabo. Amra apnake ei shoptaher pore chikitsa kora hobe niôd korbo.",T,ci
+"Thik achhe, durdanto.",P,ack
+Apni ki bolchen ta khuboi shohayok. Ami ashar jonno apnake dhônnôbôd janate chai.,T,gt
+Apnake dhônnôbôd.,P,gt

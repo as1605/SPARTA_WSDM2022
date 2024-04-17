@@ -1,0 +1,36 @@
+Utterance,Type,Dialogue Act
+"Accha, Hi Sandra. Amader sathe half an hour ache sign korar jonno, ar tumi ekhon kemon feel korcho? Tomar awareness ki? Situation ta last time theke alada hoyeche.",T,"gt,irq"
+"Na, ami ekhono same feel korchi. Ektu frustrated feel korchi ekhon. Etai.",P,id
+Tomar frustration ta kemon?,T,irq
+"Eta ekta tight feeling, ami just experience korechi, kothay bolte kothin, kintu eta valo lagche na.",P,id
+"Tahole amra body te shift kori, tomar body r kothay ei type er feeling ta feel korcho?",T,irq
+"Mone hoye, amar chest e.",P,id
+"Tahole eta ekta hot area, heart er kache feeling. Ar tomar heart er oi area te attention dile ki pao? Ki sort er jinish?",T,irq
+"Ha, eta ekta compressing feeling.",P,id
+"Ami notice korechi je tumi eta bolcho feelings niye kotha bolte. Ami suggest korbo je tumi 'it' er bodole 'I' bolo, ar dekho body te ki hoye. Egiye jao.",T,id
+"Tumi actually chaicho ami boli, thik ache, ha. Amar chest e khub tight feel hocche. Ami khub frustrated, angry, angry feel korchi.",P,id
+"Tahole eta frustration, anger asche. Ekhon tumi ki korcho anger niye, ekhon chest e ei moment e?",T,irq
+Just accept korchi.,P,id
+Ekhon anger accept korar por ki korcho anger niye?,T,irq
+"Eta just notice korchi, tumi abar bolcho.",P,id
+"'Hi' word ta use koro. Eta ekta jinish acknowledge korte, jeta strong. Safe way te bolo. Kintu tumi bolo 'I feel angry'.",T,id
+I feel angry.,P,id
+Kintu tumi ke angry feel korcho?,T,irq
+Amar ex husband.,P,id
+Tomar ex husband?,T,crq
+"Hmm, yup.",P,cd
+"Sandra, Tomar feelings explore korechi situation niye, ami suggest korbo je tumi Jeff ke ekta empty chair e kotha bolo. Eta uncomfortable hote pare. Kintu eta amake process facilitate korte sahajyo korbe, ami observer hobo, ar tumi party r sathe dialogue korbe. Ar ami process ta facilitate korbo, ar kichu change korar jonno suggest korbo. Okay. Jeff imagine koro je sekhane ache. Ami ekta chair anbo. Okay. Welcome, Jeff. Ami mean, welcome Jeff. Ar Jeff ache. Imagine koro tar face kemon chilo, ar tar fantasy te anbo. Ar ready hole just bolo je kichu mone asche, ei moment e spontaneous.",T,id
+"Jeff, ami khub frustrated feel korchi je situation e tumi amake ar bacchader felecho. Mone hoye tumi bujhte parcho koto hard hoye sometimes, ar ami bacchader ke ki explain korte hoye situation niye. Amake bother kore je tumi extra time spend korte chao na bacchader sathe, ar ami honestly believe kori je future e tara resent korbe, ar tumi ke baba hishebe dekhbe na. Ami honestly bujhte parchi na je tumi keno bacchader sathe beshi time spend korte chao na. Ar jeta amader modhye hoyeche, ar tumi move on korecho, ami mone kori na je bacchader suffer korte hobe. Amra chai je tara normal life pabe, ar dui parent er sathe thakte parbe. Eta keno eto important na, tara chay na je tumi tader sathe thakbe. Eta khub hard.",P,id
+"Okay. Okay, tahole question ache je tumi bujhte parcho keno eta hoyeche, etc. Right? Tahole next step hobe, tumi oi chair e boshe Jeff hobe, ar dekho Jeff ki bolte pare tumake. Eta difficult hote pare. Kintu dialogue koro je he's not here anyway.",T,id
+Ha.,P,ack
+"Tahole amra dialogue korbo imaginary Jeff ar tumi present e ekhane. Okay. Ar ki bolche se? Ami jani je hurts ar frustration ache, kintu appreciation ache je se bacchader baba hishebe care kore.",T,"id,irq"
+"Ami kono appreciation feel kori na, karon tumi busy thakar reason diyeche, ami busy thaki amar life e, kintu ami bacchader priority dei, tara precedence niye amar life e. Ar ami mone kori na je eta thik.",P,id
+Actually tumi kemon baba hote chao bacchader jonno?,T,irq
+"Tumi proactive hote chao bacchader dekhte. Ar ami mind kori na je tumi bacchader dekhte beshi time chaile, je agreement korechi tar theke. Jokhon tumi spontaneous kichu korte chao, tahole amader contact koro, ar dekho je okay kina.",P,id
+"Sounds like a very good idea. Good offer Jeff, tumi prepared to take that offer bacchader jonno? Its great go your way ki hocche? Contract hocche okay. Mone hoye parties agree hocche kichu important niye. Bacchader suffer hobe na, tara actually benefit pabe agreement theke, jodi tumi duijon mutually agree korte paro je kivabe bacchader dekhte hobe. Karon jetai hok, amar mone hoye, jodi manush jodi couple hishebe thake alada, contract life countries, ami still amar bacchader baba hobo, ar maa hishebe. Jodi anger ar frustration ber korte pari, tahole amra agreement e ashte pari je kivabe ek sathe kaj korbo, ar jodi na thakleo, bacchader jonno thakbo. Eta sense kore tumi?",T,id
+Ha. Eta ekta counseling session. Ar se participate koreni contract inform korte.,P,id
+"Kintu tumi shunecho je eta hoyeche Tomar jonno. Ar tumi korecho. Tahole ekhon tumi negotiation shuru korte paro tar sathe, jemon se ache. Karon ekhon realization ache je bacchader baba ar maa dorkar. Eta kemon lagche tumi?",T,irq
+"Ha, maybe ami just let him know korte pari. Ar invitation extend korte pari beshi time spend korar jonno. Ha. Ha.",P,id
+Tumi khub valo ei kaj e. Tumi khub valo. Ke dekhche tumi ekhane kaj korcho? Tumi khub clear je ki chai. Ar question holo je kivabe dui party agreement e ashte pare. Ki mone hoye?,T,irq
+Ha.,P,ack
+"Great, karon eta rehearsal hobe je ki hobe.",T,ack

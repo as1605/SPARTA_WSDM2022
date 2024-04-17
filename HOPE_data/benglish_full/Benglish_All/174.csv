@@ -1,0 +1,135 @@
+Utterance,Type,Dialogue Act
+"Hey Jill, kemon acho ajke?",T,gt
+"Ami thik achi, ektu stressed out mone hocche ekhon.",P,gt
+"Ektu stressed, ki hocche?",T,irq
+"Jemon tumi jano, ami ekhon graduate program e achi. Ar ami shesh dikhe ashte ashte khub kosto hocche. Shob kichu niye onek stressed lagche.",P,id
+"Okay, amra age kotha boli niye tumi kivabe work ar school balance korchile ar shob. Ekhon specifically ki problem hocche, mone hocche ajke tumi ektu beshi distressed.",T,"gc, irq"
+"Ami jani na, mone hocche ami, jemon ami age bolchi, ami school ta seriously nei ar valo korte chai, valo grades pabar chesta kori. Ar mone hocche ami jemon perform korte chai, temon perform korte parchi na.",P,id
+Shesh koyekta grades ki peli?,T,irq
+Ami A's pelam.,P,id
+Ar kichu?,T,yq
+Na.,P,on
+"Okay. Eta to usually bhalo mone kora hoi, thik?",T,gc
+Ha. Mone hocche A's pawa ta aro kothin hocche.,P,"ack, gc"
+"okay, ekoi grade pabar jonno beshi kosto korchile?",T,yq
+"right, Age ami teachers expect korar moto kaj korte parlam ar valo grades pelam. Ekhn mone hocche struggle korte hoi ar ami jemon perform korte chai, temon perform korte parchi na. Shob shomoy mone hocche ami valo korte parchi na.",P,op
+Professors ba classmates er theke kono feedback peli performance niye?,T,irq
+"Amar teachers mone kore ami valo kori. Actually ami assignments e valo feedback pachi, kintu mone hocche ami nishchoi korte chai ami valo kori. Ami details niye beshi focus kori, nirdesh gulo clear kore bujhte chai, perfectly korte chai jemon instructor chai, karon ami bhoy pai, jodi ami clear na hoi assignment ta ki, tahole hote pare ami thik vabe korte parbo na.",P,id
+"Alright, age je A's peli, tokhon hard work korechile, kintu ekhon je precision level e kaj korchile, assignment er details niye, ekhon ar beshi information chai, ekoi grade pabar jonno jeta age peli, ekhon beshi kosto korchile.",T,gc
+"right, mone hocche ami teacher ke email kori, prai obsessively, assignment clarify korte ar nishchoi korte chai je ami class e valo kori ki na.",P,"ack, gc"
+"Tokhon, tokhon ei anxiety ba stress er anubhuti hocche, ki mone hocche? Ki bhabcho?",T,irq
+"Mone hocche ami ekhane onek hard work korechi, ami mess up korte chai na, jodi ami grades na pai, tahole mone hocche ki labh chilo, ami mess up korle ami shob hard work ta noshto kore dibo, program er shesh dikhe, eto kache eshe.",P,id
+Ki grade pele mone hobe tumi fail korecho?,T,irq
+probably A er niche. A chara onno kichu.,P,id
+"right, A minus holo A er niche?",T,irq
+"Mone hocche ami okay hobo, kintu khub khushi hobo na.",P,id
+A plus niye ki bhabo?,T,irq
+Eta niye ami khub excited hobo na.,P,id
+B grade?,T,irq
+Ami khushi hobo na.,P,id
+"Na, na, eta worse hobe. Okay. A grade tolerate korte paro, A minus niye sure na, kintu mone hocche parbe.",T,gc
+ha.,P,ack
+Kintu B plus ar B grade?,T,irq
+"amar kache, A minus hote pare ami okay hobo, kintu tar niche, amar kache B, B minus, B, B plus sob B, ar eta A na.",P,id
+toh B grade pele ki mane hobe tomake?,T,irq
+"mane hobe ami joto kosto korte pari ni, ar kichu korte partam better korar jonno, ami slack korechi, nirdesh gulo thik vabe porini, enough response dei ni, paper ta enough lomba kori ni. Ami enough kori ni.",P,id
+"Tumi joto kosto korte pari ni, enough kori ni. Eta ki mane hobe jodi sotti hoi?",T,irq
+"Jodi ami joto kosto korte pari ni, mane hobe ami lazy.",P,id
+Tumi lazy?,T,irq
+"Ha, ami aro kosto korte partam, kintu kori ni. Tai keno kori ni? Hote pare ami care kori ni. Ami lazy. Ektu ki mane ache? Jodi best try na koro, tahole keno try koro?",P,id
+"Okay, amra age kotha boli automatic thoughts ar cognitive distortions niye, thik? Ar ekta cognitive distortion holo ei dharonar unuseful thinking, jokhon sob kichu black or white, all or nothing mone koro? Mone hocche tumi A minus tolerate korte paro, kintu generally A type kichu chai, na hole interested na. Tai amra pao tumi joto kosto korte pari ni, ar jodi sotti hoi, tahole tumi lazy. Right? Kintu ami dekhechi, ei koyek session e, tumi lazy na. Kintu eta body.",T,gc
+Ha.,P,ack
+"Ekhon, mone hocche program er shurute, A grade pawa tomake effortless mone hoto, kintu eto hard work korte hoto na.",T,gc
+Ha.,P,ack
+Tumi ki mone koro change hoyeche?,T,orq
+"Ami sure na. Shuru te eto stress lagto na. Ami school ta bhalobashtam. Kintu ekhon mone hocche ami static, karon anxiety hocche, ami shob shomoy worried.",P,od
+"Tumi bolle program er shesh dikhe eshecho, thik? Ar kichu ache?",T,irq
+"Ekhon je mone hocche, amader program e same students chilo. Kintu ei semester e ekjon new student esheche, ar tumi mention korecho, mone hocche she amake onek stress dey. Ar ami program e best grades pabar kotha bhebechilam, ekta award ache program shesh e valo korar jonno. Ami goal set korechilam je ami award ta pabo, karon eta dekhabe ami onek try korechi, program ta amar kache onek mane kore. Mone hocche, lokera dekhte pabe, ami really hard work korechi, valo korechi. Puro program e ami chilam front runner ei award er jonno. Ar ei semester e new student esheche, ar shunechi she tar ager program e 4.0 peyeche.",P,id
+"Mane ami thik bujhte parchi, tumi mone koro competition chilo na ei award er jonno. Thik? Ar ekhon mone hocche competition ta real.",T,crq
+"Ha, mone hocche pressure ta beshi. Mone hocche ami shob shomoy try korechi, ar ekhon new person esheche, she amake harate pare. Tai ami extra kichu korte hobe nishchoi korar jonno ami still track e achi.",P,cd
+"Irony holo, ei competition er jonno tumi beshi anxious ar stressed hoccho, kintu A's pachcho, kintu A's pabar jonno beshi hard work korchile.",T,gc
+"Ha. Ar ei anxiety school ke amar kache enjoyable kore tulteche, jemon age chilo na.",P,"ack, id"
+"Ki hobe jodi award ta na pao, jodi new student Choice award ta pai, ar tumi na pai?",T,"gc , irq"
+"Mone hocche, tahole program ta keno korlam? Mone hocche, jodi best na hoi, tahole keno try koro? Jodi she award ta pai, tahole mone hocche ami eto hard work keno korlam, ami slack korte partam, just pass hote partam. Tai ami eto hard work keno korlam, jodi kichu dekhar thake na?",P,id
+"So all or nothing, jodi award na jito.",T,gc
+"Mone hocche, eta ekmatro jinish na je matter kore, kintu sometimes mone hocche, jodi ami hardest try na kori, valo na kori, award na jiti, tahole baki shomoy keno eto try korlam, eta shob positive jinish ke negate kore dey. Eta final result, jodi shara race e hard try koro, ar shesh e haro.",P,gc
+"Thik, kintu tumi actually race e haro na, karon tumi to graduate hobe.",T,gc
+Ha.,P,ack
+"Tumi shudhu award ta pabe na, je tumi chai, thik? Ar seta great hobe, nishchoi accomplishment. Kintu tumi program e eshechile degree pabar jonno,",T,gc
+"Ha, ar ami award er kotha jante pari ni, probably second year e. Tai entry korar karon chilo na. Kintu,",P,gc
+"kintu ekhon eta tomar kache guruttopurno hoye uthche, award jeta ekta real goal.",T,gc
+Ha.,P,ack
+"New student Choice ashar sathe, competition barlo.",T,gc
+Ha.,P,ack
+"Ar eta anxiety create korche, same grade pabar jonno beshi hard work korte hocche. Thik? Amra age kotha boli, tumi perfectionistic, ami eta compliment hisebe bolchi. Thik? Eta necessarily kharap kichu na, kintu beshi hole, eta helpful na hote pare. Perfect is the enemy of good, shunecho? Na. Eta ki mane korte pare bujhte parcho?",T,"gc, yq"
+Ha.,P,op
+"Ha. Tai perfect hote chai ba award jete chai, eta potentially performance ke kharap korte pare, thik?",T,crq
+Ha.,P,cd
+"tumi A's pachcho, kintu anxiety hocche, beshi hard work korchile,",T,gc
+"Ha, ekhon ami mone kori, ami pore, ami stressed hocchi, right thing porchi kina, shob kichu mone rakhchi kina, ar eta school impact korte shuru koreche.",P,"gc, id"
+"Ki kono upay ache je award na jito, ar tarporo feel koro je worthy goals accomplish korecho? Na award na jito mane ei shob kichu worth na chilo?",T,"gc, irq"
+"Mone hocche, eta shonar por silly, ami award ta na jito, ami mone kori, eta sense kore. Eta amar goal chilo na, entry korar shomoy. Tai eto guruttopurno keno mone hocche, different degrees of success ache. Ami mone kori, tumi age bolecho, shob award niye na, ami happy hobo, degree niye, shikha niye. Ar ami mone kori, jodi award na pai, taholeo journey ta worthwhile chilo. Kintu mohorte, mone kharap lagche, award na pabar kotha. Kintu seta ekta possibility.",P,id
+Award ta validate kore tumi koto hard work korecho.,T,gc
+"Ha, exactly.",P,ack
+"Ar tumi mone koro, award na jito mane hard work invalid hoye jabe, thik? Kintu reality te, probably ekta middle ground ache, gray shade, je tumi ekjon excellent student, graduate hobe, shudhu ekta extra plaque wall e hang korbe na, jei award ta hok, thik? Etai shudhu missing hobe. Thik?",T,"gc, crq"
+Ha.,P,cd
+Ei award er kono impact hobe employment e?,T,irq
+"Mone hoi na, ami mone kori, long term e onek lok janbe na, jodi ami resume te likhi, kintu mone hoi na eto difference korbe.",P,id
+"Ar tumi entry korar shomoy janteo pari ni, ar already hard work korchile.",T,gc
+"Ha, shurute ami janteo pari ni.",P,ack
+"Tai sense e, ami eta korte pari na, award ta bhule jao. Thik? Tumi probably jito.",T,gc
+"Ha, Ha.",P,ack
+"Karon tumi already eto valo korchile. Kintu potential failure er bhoy, award na paoar bhoy, eta tomake atke diche,",T,gc
+"Ha, eta amake paranoid kore tulteche, mistake korar bhoy, risk nite bhoy, valo korte bhoy, karon ami worried, amar teachers ki mone kore, ami valo korchilam kina.",P,gc
+"Ha, kono mistake er tolerance nei?",T,orq
+"Ha, Ha.",P,od
+"Toh, award er kotha chinta kore, tumi mone koro kono mistake korte parbe na, na hole shob kichu catastrophe te giye pahuchbe?",T,irq
+"Ha, mone hocche ami eggshells er upor diye hati, ar ami just expect kori amar grades tank hobe jodi ami sei line theke ektu deviate kori.",P,id
+"Toh, tumi better feel korar ekta upay holo, award er upor eto value na deya.",T,gc
+Eta khub hard.,P,gc
+"Ha, tumi really chai eta. Ar seta great hobe. Ar seta okay. Thik? Amra age adaptive responses niye kotha boli, thik? Tumar automatic thought ki hoi jokhon tumi boshe shob assignment thik kore jachcho, ar vaguely mone hocche award ta na harar kotha, automatic thought ki ashe?",T,"gc, irq"
+"Jokhon ami work kori, ami chai jokhon ami just kaj kori,",P,id
+"ha, jokhon tumi tomar kaj korchile, ar anxiety asha shuru hoi, right? Jokhon vagely award jitbe ba harbe niye chinta korchile, thik? Harle ki really? Sei moment e ki mone hocche?",T,"gc, irq"
+"Ami guess kori, ami just ekta checklist er mato chinta kori. Ami eta korlam ki? Ami eta korlam ki? Nishchoi korechi ami shob kichu je expected chilo.",P,id
+Jate nishchoi koro tumi award ta pabe?,T,crq
+Ha.,P,cd
+"Thik. Toh higher level e, tomar ekta thought holo, ami must win that award.",T,gc
+Ha.,P,ack
+"Eta ki sense kore? Mane, seta probably somewhere. Kono adaptive response ki ache je tumi apply korte paro sei moment e, sei statement er against e, jemon, well, eta ekta absolute statement, right? Ami must win that award. Kono adaptive response ki ache je counteract korte pare sei thought?",T,"gc, cv"
+Je ami must win the award?,P,cr
+Ha.,T,ack
+"Guess kori ami boli, jano, ei award ta local, amar university er, ar baire keu janbe na. Eta amar future employment e impact korbe na ba amar colleagues er kache ki mone hobe. Jodi ami award ta na pai, tara amake kom mone korbe na.",P,"gc, id"
+"Okay, so tumi boli, award ta jitbe valo hobe. Kintu shesh e, amar jibone eto difference korbe na, amar career er terms e.",T,gc
+Ha.,P,ack
+"ar, eta fair adaptive response, thik? Tumi jitte chai, truthfully, ar seta valo hobe jitte, thik? Ke na chai award jitte, thik? Kintu jodi na jito, tumi still valo student. Tumi still valo connection hobe career e. Tumi still valo korbe. Ei adaptive response e tumi believe koro? Ei adaptive response ta true mone koro?",T,"gc, orq"
+"Mone hocche sometimes ami kori. Ar sometimes khub hard hoi, oi heat of the moment e nijer ke calm korte, oi spiral theke berono, je ami assignment ta thik korechi na, ami valo kori ni, ami class e B pabo, ami award ta harabo. So mone hocche start hoi, kintu moment e spiral theke berono kothin.",P,od
+So koto percentage time e tumi believe koro ei adaptive response ta true?,T,irq
+"Maybe like half the time,",P,id
+so 50% of time?,T,crq
+"Ha, depend kore ami ki stress e achi.",P,cd
+"Ar baki half, tumi really kincho na.",T,gc
+Ha,P,ack
+"Okay. Thik ache. So ki advice dibe? Amra Choice niye kotha boli, thik? Choice similar situation e achi, sense e, sheo well, maybe na jene sheo ei award er dike kaj korchilo.",T,"gc, cv"
+Ami jani na she award ta somporke jane ki na.,P,cr
+Dhore nibo. Dhore nibo she jane. Thik? She similar situation e achi. Ki advice dibe tumi tar? She kind of obsessing korchilo ei niye same way te tumi korchile.,T,"gc, cv"
+"Ha. Mone kori ami bolbo, baki class dekheche she valo korchilo. Tar teachers positive feedback diche. So shob signs point kore je she valo korchilo, successful hocche program e, positive feedback pachche. So shob feedback boli je she valo kaj korchilo.",P,cr
+"Tomar advice tar kache positive and uplifting. Mostly, tomar advice tar kache beshi positive, uplifting tumi nijer ke internally bolo.",T,gc
+Definitely eta holo.,P,ack
+"So jodi sei advice adequate hoi, ami mone kori eta adequate and appropriate holo tar jonno. Kenoi eta adequate hobe na tumar jonno?",T,"gc, irq"
+"Ami jani na, sometimes mone hocche ami nijer ke higher standard e rakhi, onno der theke. Jodi kono bondhu amar, like Joyce, same situation niye ashe, ami tar kache bunch of suggestions, positive feedback dite pari, kintu nijer jonno sometimes kothin, karon ami nijer ke higher standard e rakhi.",P,id
+"Kintu tumi agree koro, tomar advice to Choice, jemon tumi frame korecho, useful, thik? Kintu tumi just trouble face korchile nijer ke apply korte?",T,crq
+Ha.,P,cd
+"Smooth. Eta niye tumi ektu work korte hobe. Tumi logic ta dekhte parcho sob, kintu tumar feelings match korchena.",T,gc
+"Correct. Mathay sense kore, ami jani ki bolbo onno ke, kintu ami nijer ke boli na, believe kori na.",P,gc
+"Thik ache, ei niye ami chai tumi koro. Tumi familiar with the thought record je ami introduce korechilam first session e, jekhane tumi situation outline korte paro, feelings explain korte paro, ami chai tumi actually complete koro ekta thought record.",T,"gc, cv"
+Okay,P,cr
+"Ami jani seta kore felar por mone hote pare double work. Kintu ami mone kori kichu change hoi jokhon tumi kichu likhe felo. Okay, paper e face korte hobe. Ar eta valo tool mone rakhbar jonno exactly ki chinta korchile. Tarpor work through koro adaptive response section, thought record er niche questions ache jeta help korte pare tumi form korte adaptive response. Ar maybe write out koro kichu different ones. But plenty of room ache form e. Tumi dekhecho, thik?",T,gc
+Ha.,P,ack
+"Eta actually largest grid cell holo jei adaptive responses, responses short hote hobe na. Tumar moto chilo na short. Eta valo hote pare, long hote pare, realistic hote pare, like, ami jitte chai. Jitte valo hobe. Kintu jitte hobe na success er jonno.",T,"gc, cv"
+Okay,P,cr
+"Ami mone kori adaptive response ta kick out korte pare downside of not having success, okay? Eta hote hobe completely positive na. Okay, realistic hote hobe ar useful. Ar importantly, tumi believe korte hobe. Okay, oikhane place ache note korte percentage believe koro, tumi likhte paro. Okay, ami dekhte chai week to week, ar hopefully eta relief anbe tumar anxiety te.",T,gc
+Okay,P,ack
+Eta sounds like a good plan?,T,yq
+Hmm,P,op
+Dhonnobad.,T,gc
+Dhonnobad.,P,gc

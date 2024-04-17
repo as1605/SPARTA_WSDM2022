@@ -1,0 +1,47 @@
+Utterance,Type,Dialogue Act
+"Tom, abar dekha hoyeche bhalo lagche. Tumi ajke kemon acho?",T,gt
+Ami thik achi.,P,gt
+Ami bujhte parchi je ami tomay dekhar por theke tumi abar hospital e giyecho.,T,gc
+Ha.,P,gc
+Tumi ki ektu bolo parbe ki hoyechilo tar age?,T,irq
+"Eta koyek mash ager kotha. Ha, ami onek bochor dhore bhalo chilam. Control e rakhte parsi, kintu uh...",P,id
+"ha, I mean, ami tomake dekhi ni tomar gap year er por theke, tai na?",T,crq
+"ha, so seta chilo char bochor age. So ha, abar shob kichu jure jete holo, eta disappointing chilo. Kintu shuru holo university shesh hote, low thakte ar course e focus korte. Pratham ami jani final exams asche, ar onek exam chilo. Tai ami shuru korlam onek hard work korte. Mone holo ekhon e real time effort dewar ar work korte. Tai ami deri porjonto jagna thaklam ar beshi work nite shuru korlam. Amar stress level barate thaklo. Ami onek beshi coffee khelam, caffeine tablets ar energy drinks niyechi. Kichu manush o chilo, environment e, je nijeder push korchilo je normally kore na, kichu manush Ritalin o nichchilo.",P,"cd, id"
+Okay.,T,gc
+Ha.,P,gc
+tumi ki Ritalin niyecho?,T,irq
+Ha. Karon mone holo seta tokhon dorkar chilo. Ar...,P,id
+eta ki rokom effect korechilo tomake?,T,irq
+"Well, ami mone kori seta amar confidence barie dilo. Jeta hocche, ami onek productive hocchi, competent hocchi, onek hard work korchi, brain o fast kaj korche. Ar momentum build up hocche. Ha, ar ami upobhog korchi, onek work korchi.",P,id
+"so seta ki mane korechilo tomake tokhon? Mone hocche onek pressure nijer upor niyecho, uni te bhalo korcho, ar eta chilo. Ki mone hocche, beshi awake ar energized hote?",T,"gc, irq"
+"Ha, amar kache eta chilo. Ami tin bochor dhore bhalo korchi, control e chilam. Ami kintu amar illness niye kauke bolini. Kintu ami shuru korlam grow korte. Ar ami opportunity niyechi upobhog korte, ar peak e pounochi exam shesh hote. Ami still function korchi exam er somoy, ar ami jenechi je ami amar chai result pani ni.",P,"gc, id"
+ar tumi ki mone koro eta keno holo?,T,orq
+"Well, ami mone kori ami onek hard work korechi, kintu misjudged hoyeche. Tai ami amar best ability diye perform korte parini exam e, ar tai ami first na peye 2:1 peyechi.",P,"od, id"
+"ar ki hocchechilo tomake er somoy? I mean, tumi kotha bollcho exam er pressure niye, deri porjonto jagar kotha, ar ki hocchechilo? Eki somoy e?",T,irq
+"well, so university shesh hote, ar seta chilo somoy je sob work er period shesh hote, ami sort of free hotechi. Ar ha, ami grow korte shuru korlam. Ami mention korechi ami Ritalin niyechi, block coffee, ar exam shesh hote, substance abuse niyeche hold. Ar ha, ami grow korechi ei person e je ami mone kori chilo, se je lokjon ke sobai chay dekhte, ar ami nishchoi chilam je ami sob jaigay thakbo je dekha jay.",P,id
+"Eta mone hocche je exam shesh hote, kintu result berote,",T,gc
+"ha. So amra onek beriye chilam, prai proti raat.",P,gc
+tumi bollcho je tumi Ritalin niyecho ar onek coffee khawar kotha.,T,gc
+Ha,P,gc
+ar onno drug o use korecho.,T,gc
+Ha. So cocaine te develop koreche. Onek. Okay. Ar Ameri ar car.,P,"gc, id"
+Eta ki rokom effect korechilo?,T,irq
+"Honestly, ami cloud nine e chilam. Ar ha, ami chilam se lok je sobai chinte chay. Amar mathay, ami nijer ke universe er center e rekhechilam ar ami convinced korechilam je ami ekta app develop korbo, je alcohol shop e giye, ki bhabe most cost effective way te wasted hote pare.",P,id
+Right.,T,gc
+"So ha, ami mone kori ami onek taka kharcha korechi, amar parents er savings, ami ekta credit card niyechi, je ami orader bolini. Ar ami ei role e, man about town hishebe, ami onek kharcha korechi, yeah, alcohol, drugs, clothes, ei technology te invest korechi ar ami...",P,id
+"so mone hocche shuru holo exam er pressure niye, nijer upor pressure diye, stimulants use kore jagte. Ar tarpor mone kori tumi feel korecho je tumi more ar more man, popular, successful. Tumi ki korecho ar cope korecho oi symptoms niye? Tumi ki korecho jokhon oi symptoms shuru holo?",T,"gc, id, irq"
+"Well, having not had to deal with amar illness throughout University ar oi world e, ami confront kori ni oi symptoms ke, jevabe long term stability hobe. Ar shuru holo je work ta ami korte holo. Eta just, eta just dorkar chilo amar goals achieve korar jonno, je ami chai. Ar ami just let it take hold. Eta part chilo, eta illness chilo na, eta ami chilam, ami master chilam ei whole situation er, ar sob kichu hocchechilo amar nijer kaj theke.",P,id
+"So mone hocche ek dike tumi confront koro ni, just let it roll. Ar onno dike bollcho je tumi eta niyecho je tumi energetic, powerful. Eta sob explain koreche je tumi ke. Ar ami guess korchi, eta ki rokom effect koreche tumake ei bhabe dekhte?",T,"gc, irq"
+"Eta just, amar time chilo. Sob lead korechilo, eta chilo moment je ami hote chai. All the hard work, ami parents er jonno, ami nijer jonno korechi. Eta ekhon crystallizing hocche.",P,id
+"Tumi brink e chile, ha, mess theke. Ar abar, shuru te fire giye, je tumi late porjonto thakte, stimulants use korte. I mean, koto ghonta ghum peyetechile shuru te?",T,"gc, irq"
+"Dekho, gradually komte thaklo. Shuru holo choy, panch. Ar shesh holo tin, dui te.",P,id
+"ar tumi ki notice korecho? Ki changes notice korecho kom ghum peye, body te maybe bhabe gulo te?",T,irq
+"Mone kori je harder ami work kori, faster amar brain work kore, ar harder ami work kori, beshi ami kori. Eta just, eta just chilo. Momentum build up hocche. Amar thoughts firing hocche, amar goals strong hocche, amar determination hocche.",P,id
+ar tumi ki feel korecho body te? Ki changes notice korecho physically?,T,irq
+"Na, mone kori na ami notice korechi, maybe ami try korechi avoid korechi, negative effects confront korte, kintu kichu powerful aseni.",P,id
+"Okay. Jokhon things ektu further along hoyeche, exams shesh hote, tumi bollcho je tumi onek beriye chile, app er kotha bollcho. Ar ki korecho je normally koro na, je mone koro sign chilo je tomar mood beshi high chilo?",T,"gc, irq"
+"Chilo, ami hide korechi onek savings. Ami parents er jonno, je ami mone kori ar nai, money invested, drugs, clothes e. Ami ekta girlfriend chilo, kintu karon ami chilam main character, ami chilam important, ar tai around me, especially, she, tader importance chilo na. Tai nights out e, she amar mathay ashto na, ar chilo onno women.",P,id
+"Okay,",T,gc
+so,P,gc
+"tumi ki mone koro ei niye ekhon, looking back on it?",T,irq
+"Mone kori, eta moments chilo, je shudhu ami noi, closest to you ar around you je suffer koreche, tader theke beshi, eta niye anek shame ane.",P,id

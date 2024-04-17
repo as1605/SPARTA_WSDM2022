@@ -1,0 +1,55 @@
+Utterance,Type,Dialogue Act
+"Hi Kylie, Kemon achho ajke?",T,gt
+"Ami to thik achi, kichhu bhalo na. Dr. Grande, tumi kemon achho?",P,gt
+"Bhalo, dhonnobad jante. Tui ki bhabe eshechis?",T,"gt, irq"
+"Um, amar girlfriend dekhechilo tomake'r ad ta kagaj e. O dekhechilo je tomake'r kajgulo theke ekta holo smoking cessation, ar amar dutokei onno kichu ta bhalo lagchilo na. Amar jonno toke kotha bolte, o amake kintu duto mash dhore jatay korlo. Tai mone holo, amake toke kachhe ashar jonno eshe debo, tatei hobe.",P,id
+Tai tumi ajke therapy te eshechile? Tomar girlfriend er dabab e?,T,crq
+"Ha, ami mone hoi, eita amar jonno sukhkori. Tumi'r sathe kotha bolte, ektu 45 minut kete jai, opekkhay thakar cheye bhalo.",P,cd
+Tai tumi cost-benefit analyze kore ashcho?,T,crq
+"Ha, insurance theke cover hoye ase. Amar 45 minut er beshi time hoy na, kintu...",P,cd
+"Ar o ki chao, ota holo tar goal, tomar to na. Tui amake bolo, tomar goal ki?",T,"gc, irq"
+"Amar to kono goal nai. Bujhi na, smoking ta bhalo ki na, ami mone hoi smoking ta kharap hoite pare, kintu amar jonno to kabhu-o moshla hoyni. Amar goal holo sudhu tumi'r kache ashar.",P,id
+Tui smoking chhodar kono goal rakhechish?,T,yq
+"Na, kichhu-i noy. Ei ki, smoking er beshi kichhu bhalo lage, ekhon dekh, amar kaj e bhabe ektu one on one time peye jai boss er sathe. Tai ami mone hoi, ei time ta peye jaoar jonno amar jonno valo.",P,on
+Ki kharap gulo smoking er bapare bolte paro?,T,irq
+"Um, ei to, ekta, eta kivabe ami lok dekhi. Mane, amar kache cigarette thakbe, kintu lighter thakbe na, tai ami pack tate kichhu-i mukhe nei. Kintu ami jodi dekhi aar kichhu lok smoking kortese, tahole ami jaoar jonno tader kachhe jete pari ar lighter khub ekta bhabe paoya jai, eta mone hoi kono ek ghotona, ar ami etai dhore ekhane ei group gulo te participate korte jai ar ami smoking er moddhe theke besh kichhu lok milechi.",P,id
+"Tui smoking er sathe sei bhabe dhorte acho, etai toke bhalo lage?",T,yq
+"Ha, ami mane, ami tobe shudhu social kore. Tai.",P,op
+Smoking er kono negative aspect ache to?,T,irq
+"Ha, to to, sobai jane smoking unhealthy, kintu ami to beshi kori na. Shudhu shomoye shomoye kori, mostly shudhu weekend e. Tai, bujhte pari na, occasional smoker hishebe ami thakle, shaytane cough hoy, monday theke Tuesday porjonto, tarpor ekhono Wednesday tei chesta kore thik hoye jai. Tai besh kichhu hoi na.",P,id
+"Tai to, tui eto chinta korte mone hoi na, negative aspect gulo niye?",T,irq
+"Eita. Ami mone kori, clearly eto bhalo noy. Kintu amar jiboner ekta kaj holo, abar bhalo bondhu korar jonno baire berote, ar ete korar jonno smoking valo hoye jay, health er jonno chere dite theke bhalo. Mone hoy.",P,id
+"Tai ami tomake ekta question korbo. Tor jonno ekta uttar dao, ek theke dash porjonto scaling kore. Ei smoking bondho kora koto gurutto tomake mone hoy? Ek hobe, eto guruttopurno na, ar dash hobe, eto guruttopurno je tomake jonno. Tor mone hoy, tomake koto number-e rakhte hoy?",T,"gc, irq"
+"Ami jani na. Shayad duto mone hoy, jeno duto. Ei hok, Monday te khashar theke mukh mukh kore uttei bhalo hoto, kintu khashar theke ar kichu pete vare, seta smoking theke pawa roilo na.",P,id
+Tobe kono khasoi guruttopurno noy?,T,crq
+Haan,P,cd
+"Ekhaneo eki question tao korbo, kintu guruttopurnota er theke bhulbe, confidence er upor mone hoy. Ei smoking bondho korte tomar koto confidence ache, ek theke dash porjonto scaling kore. Ek hobe, confidence shorbonasha, ar dash hobe, eto confidence je tomake mone hoy. Tor mone hoy, tomake koto number-e rakhte hoy?",T,"gc, irq"
+"Ami mone kori, ekshotheo nobo, nau hobe, jemon je ami toiri korechi. Ami haate tokei chhordte partam, ek mash er jonno chhordiye diyechilam, ar amar mone hoyechilo ar khujei na. Kintu eventually, amar sob bondhu-gulo smoking korte dekhe, tokhon ami miss kore felam. Tai ami phirei shuru korlam, kintu jodi ami bhalo mone kori je bondho korte chai, tobe korte parbo bole mone hoy.",P,id
+"Tai smoking bondho kora tomake jonno guruttopurno noy, kintu tomake mone hoy tomake tai korar confidence ache. Tui kothay thakish tomake mone hoy, smoking bondho korte interested noi, tahole amader ektu beshi bepare kivabe samay kate hobe?",T,"gc, irq"
+"Ami janina. Mone hoy, amar girlfriend ke bojhate parar jonno, amar kach theke smoking er theke paijota bujhar jonno, ar tomake mone hoy tomake e bujhate korar jonno. Tomar moto vabei, tomake mone hoy tui bujhte perechish, tai ami janina, shayad tar kach theke bujhate parar kono upay hote pare je ami smoking er theke ki pai. Mone hoy, shei khetre orke bujhate amader samayti kaje lage, ami janina, shayad shei jonno ki upay korar jonno bujhate hobe.",P,id
+"Tai tomake tar jonno vabe mone korte, smoking tomake kivabe kaj kore, seta bujhar jonno.",T,crq
+Haan.,P,cd
+"Are any other goals you can think of? Tui to amar kache eshechish, mukhe dekhe lagchilo je tomake prothomei ashar somoye, tomake girlfriend er pressure-e.",T,crq
+Haan.,P,cd
+Kichu anyo sangbadik lakshyo aache jeta tumi kaj korte chao?,T,irq
+"Ei, na, amader kono kichu porichoy korar moto hoye ni, karon amra akhon-khane proti somoy dhuksi. Tai mone hoy, bhalo moto communicate korte, athoba bhalo ladaite ektu improvement korte hobe, jeno eto somoy dhore na jay, amra keu odbhut rokom bhabe pare na, ya kono ekjon ghar chhade na. Tobe, ami mone kori, ladaite kichu tuku improvement kore mukti pete hobe, jeno eto din dhore na thake.",P,id
+Tai productive communication ebong productive arguments.,T,crq
+"Ha, ha, theek achhe.",P,cd
+"Tai, ekta lakshyo hote pare je tumi tomar meyeke smoking er labh ta bhalo moto bodhan korte pao.",T,orq
+Theek.,P,od
+Takhon she bujhe je eta tomar jonno koto important.,T,crq
+Ha.,P,cd
+"Karon eto important mone hoy tomake. Kintu arekta lakshyo hote pare tomar relation er style e kaj korte, tai je, tumi argument shesh korte paro, ebong mukti pao, eto je tomake mone hoy tomra kichu banchit thakcho na.",T,crq
+"Ha, ha, theek achhe, mone hoy ei shob kaj gulo valo hoto.",P,cd
+"Theek achhe. Bhalo, tumi ekbar eki dole dutoi lakshyo niye kaj korbe. Amra ei somoy keo baranor jonno baro kore jabe na.",T,gc
+"Ha, theek ache, ami korte parbo, eto bole dutoi kaj ek sathe.",P,gc
+Eta ki amar sense korar jonno mone hoy. Amader next meeting hobe ek haftor modhye.,T,gc
+"Ha, ha, theek achhe.",P,gc
+"Tai, tumi mone koro kichu parivartaner upor chintan korte paro ki, ebong agami bar ami tomar sathe kotha bolbo, jei alada lakshyo gulo niye kichu chhoto parivartan gulo korte paro.",T,gc
+Ha.,P,gc
+"Smoking er labh ta bodhan korte, kintu argument korar somoy oigulo bhalo bhabe communicate korte, tai je tumi shesh korte paro ebong shesh hote paro ei arguments gulo, theek. Tai er ekhono beshi tomar dhara theke, arguments theke bahir hote, je positive result hobe.",T,gc
+"Ha, ha, eta bhalo hoto. Amra korte parbo.",P,gc
+"Bhalo, tai tumi eto kichu mone koro, ebong porer bar amra kotha hobe, jei alada lakshyo gulo ebong kivabe oi relation e kichu chhoto parivartan gulo korte paro, tai amra kotha bolbo.",T,gc
+Theek achhe. Theek achhe. Shuniye dile dhonnobad.,P,gc
+Dhonnobad tomake ashte.,T,gc
+Dhonnobad.,P,gc

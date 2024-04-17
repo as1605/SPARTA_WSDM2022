@@ -1,0 +1,61 @@
+Utterance,Type,Dialogue Act
+Hello. Sam kemon cholchhe sob?,T,gt
+Ami bhalo achi. Aapni kemon achhen?,P,gt
+Ami bhalo korchhi. Thanks for asking. Tahole apni aaj agency te counseling services nite esechhen?,T,"ack,yq"
+Haan. Amar boss amake pathiyechhen.,P,ack
+"Apnar boss bolechhen, sure?",T,crq
+"Kichu loker sathe ei somossati chhilo jeguli amar dharanagulir sathe sambhortito hote pare na ebong amar boss solid dhôrne hoyeche, apni janen, khub bhalo kaj korchen na. Tai se cheye chhilo je ami eshe kotha boli.",P,"cd,id"
+Se chay apni eshe apnar coworkers der sathe apnader relationship er  kotha bolun?,T,irq
+"Um, ami aro bhabo tai, apni janen, amar ideas gulo tara asle ja bujhte pare tara chhilo, tai hoyto shikhun kibhabe onno lokeder sathe kotha bolte hoy jate tara amake bujhte pare.",P,id
+"Thik achhe, apni higher, like, apnar ideas er bapare ki bojhate chan?",T,crq
+"are higher, apni janen, ek tu beshi intelligent, apni janen, ami emon ekta level e achi jekhane onno lokera sobsomoy pounchate pare na, apni thik, apni janen, jemon ek tu higher, kono kono ekta onno kore, kintu sudhu ei dol-e, tara sudhu bujhte pareni, apni janen, amar bhasha ba ami ki bolchi, ebong eti amar jete hoto ta dekhte pareni.",P,cd
+"Thik achhe, tai tara apnar expression er level e pounchate aksham chhilo karon eti ekta project er moto chhilo ja apni kaj korchen? Ebong apnar boss ei difference ta recognize korechhen, ebong bhebechhilen je, counselor er sahayak hote pare. Haan?",T,irq
+"Haan. Haan. Um, ami mone kori eta bhalo, apni janen, jate amar boss khusi hoy je ami giye chhilam, kintu ami mone kori eti ei ongoteo karkhala hote pare, apni janen, jara amake onek irsha kore, ebong tara thik korte pare 'sotti ami amar sathay somporko nei. Sutroghoto eto hote pare, apni janen, kibhabe lokera somporko korte hoy ta shikhte pare apni janen, jemon tara tader shtore kiser moddhe jachhe ta bujhte paren.",P,id
+"Abar, apni tader level e thakun. Tahole apni ki abar bolte chachhen je, tara skills er dike apnar cheye niche?",T,crq
+"Haan, tara shudhu tara na tara jeta otorjone korte pareni, apni janen, tara onek lokke chenen na, tara sei môritoppurno podmôritoppur sathay adda dichhen na, apni janen, tara ashroy niteche ami je mone kori tader shtore kiser moddhe shikshit chhilam serokom shikshit hoini. Tai ami kotha theke aschi, ba apni ki dekhte chachhen, ami kothay theke aschi, ba ki dekhte chachhen, ami ki kore dekhte chachhi tara etakeo bujhate pare na.",P,cd
+"Thik achhe, tai counseling apnake arô kôrjobôbê jôgayôg kôrte sei bhabna purno kôrte shôhôjyo kôrte pare.",T,gc
+"Haan, tai ami mone kori apni janen, tai ami arô bhalo bhabe janto pari, ami ekhane achi kintu ami ekhane moto thakte chai.",P,gc
+"Apni jokhon bolen apni ekhane prothom shtore achen,",T,gc
+"Hoyto shat-er moto kintu ami etake uṛiye dite chai. Park, apni janen, jodi 10 ekhane thake, ami tara cheye beshi hote chai.",P,gc
+Apni kivabe eti shômpônn kôrôr pôrikolpona kôrben?,T,irq
+"Thik achhe, apni janen, ami sobshomoy ei satyo-moy marjadar class-er jonno ebong jago-gulite kotha bolar jonno nioj pae ebong lokera sobda kore ami sotti-moy ekta boro social media uposthiti jokhon lokera amake kromogoto poramorsh-er jonno jiggasha kore, apni janen, proyojon hoyeche, kichu, karon, apni janen, ami ato kichu korte parechi je ami sotti-moy manushke shahayto korte pari karon ami shudhu, apni janen, ami onek kichu te bhalo hote pare sotti-moy bhalo.",P,id
+"Thik achhe, tai mone hochhe apni onek chape achen.",T,yq
+"Haan, haan.",P,ack
+"Ebong hote pare, apnar upolobdhi theke je lokera kebal irshanbit hoyeche karon apni onek kichhute saphol hoyechen bole mone hochhe.",T,orq
+"Haan. Apni janen, kokhono kokhono manush shudhu, eta shikar kora kathin je apni thik totota bhalo non ba apni eti korte paren na. Hoyto apni shikar korte chan na je ami mone kori ami tader ashostikor karon ami pari.",P,od
+"Tai kalsiyam apnake tader sathe emon vabe sambhob korte sahayata kore jate tara kivabe aro utpadonshil upay pabe? Tara apnake kivabe barnona korbe? Apni janen, ei shtore parthokyo, apni kotha bolchen kivabe tara apnake barnona korbe, jodi ami tader jiggasha kori, jodi ami tader jiggasha korte pari. Apni namuna barnona korte paren?",T,irq
+"Tara ki bolbe? Ami mone kori tara bolbe je amar kache emon onek lok ache jara amar dik theke takie ache je ami amar kajey durdanto je, apni janen, amar satyoi bhaish president hote hobe, jodi rashtrapati na hoy tobe ami bolte chachchi, ami Don Company-r malik na. Kintu amar satyoi aro guruttopurno obosthan thakar uchit. Je onek uposthapona ghotoche jara ami sombhob korte partam, kintu tara chay na, apni janen, onno loke-der suyojer proyozon, kintu ami jodi seguli kori, tate sobar jonno poritranno hobe.",P,id
+Eta ki sohoj hobe?,T,yq
+"Haan, apni janen, sohoj, bhalo, aro manush. Ami jodi eti kori tobe eti ekta durdanto uposthapona hobe. Tai amra shudhu onno sob jinis kata korbo.",P,ack
+Oi sob jinis. Je apnar sahokarmider ontorbhukto hobe ki?,T,yq
+"Haan,",P,ack
+Haan. Je jinisguli tader theke bichchhinn hote pare.,T,gc
+"Thik. Apni jodi janen je, ami jodi bikroy pichguli korchi, amra park theke eti urrete pari. Ami bolte chachchi, amra etodine bohu koti-poti hobo. Tai apni janen, eto sob theke paritran pete hobe, apni janen, jhanjhalo kajer dhorne jinis, jodi ami nije eti kori,",P,id
+Eta ki apnake hatash kore je apni protiti kajer jonno dakchen na?,T,irq
+"Apni kokhono kokhono sweekrito hon na, kintu ami lokeder mone kore diye sotyo-i bhalo peyeche je tader protiti kajer jonno amake kotha kora utohito noy. Karon ami, apni janen, kokhono kokhono apnake kebal tader dekate hobe, apni janen, ami sei bichitra jinis-er cheye bhalo, ba ami eti bhalo korte pari. Aar ami sotyo-i bhalo jogajog je dharoner.",P,id
+Tai tara apnake beshirbhaag somoy chinte pare.,T,crq
+Na ami beshirbhaag somoy bolte chai. Haan,P,cd
+Apni kotdin dhore ei nirdisht niyogkartar sathe achen?,T,irq
+"Umm, hote pare chhoy mash, chhoy mash, hote pare? Aat mash. Thik achhe.",P,id
+Apni ki amake bolte paren apnar age je chakoriti hoyechhilo jemon shekhane ki hoyechhilo?,T,irq
+"Ekti AI algorithm. Tara, tai ami eti peyechi, ami eti sotyo-i ekti boro netritto er obosthane pouchhechi, apni janen. Aar tarpor, apni janen, onno V.P. sotyo-i dekhte pareni, dekho ami kiser jonno jachchhilam. Tini amar sathe sambhok korte pareni aar tini, apni janen, tini, tini ekti dhara college-er background theke chilen na jekhane ekti somossa chhilo. Tai ami shudhu tader offer chhilo ki outgrow. Aar tarpor ei company ashechhilo aar apni jani tar sathe ei durdanto offer ti toiri koreche, eti thik chhilo, eti chhilo durdanto. Tai amake eto-ta ekti padeshop nite holo je amar jonno aro kausalgot chhilo. Aar apni janen, je ami parotam je ami aro beshi pounchhte pari. Apni janen, ami sekhane santusto hote chai na.",P,id
+Apni chan apni ucchonkor korte chan. Apni ki aro boro kichu korte chan?,T,yq
+Hyā.,P,ack
+Aro tai aro jinis. Apni itimôdhye jônpriyôtar kichu sṭôr ôrjôn kôrêchhên.,T,yq
+Hyā.,P,ack
+"Thik achhe, tai apnar shesh chalna ba apni je jaygaye ekhon kaj kôrchhen tar age, apni etike chhadiye gechhen. Apni amake bolte paren je mithsôkriya kibhabe hôyechhe? Like? Apni ki chhede diyechhen? Naki tara apnake chale jete utshahito kôrechhilo? Bhalo legechhe, sei chakrir shesh muhurtagulo ki hoyechhilo?",T,irq
+"Um, achha, mane,",P,gc
+Sutôrang apni eti shuru kôren ebong apni prôsthan kôren. Eki samay. Taip shômôshya nie tader kichu shômôshya chhilo.,T,
+"Tara shudhu bolechhe ami jani, ami khub kotha bolechhi ba erokom kichu bolechhi, ôthoba amar mône hoy karo sathe ami kaj korchhilam ba kichu ekta shômôshya chhilo. Kintu eta sotti i chhilo eta onno paristhiti ja thik hôini. Amra shudhu amra chhilam na, amra bhalo jogajog korchhilam na, kintu shesh porjônto amar jonno ja sera ta amake kôrte hôyechhilo. Tai karon pore tara amake dakchhilo ebong amake phiriye anar chesta korechhilo, kintu ami itimôdhyeikhane chhilam jaate ami sekhane phire jete pari na.",P,id
+Tai amake tomar ashar sôdhôna chhede dite hobe,T,
+Tobuo tader jonno abar. Hyā. Ami tader bolechhilam je ghôṭbe.,P,
+Apni jokhon chhôle gesen tokhon apni bhôbishyôdṿani kôrechhilen,T,irq
+"Hyā, eta eto chhilo je apni amake miss korben karon ami ei kômpanir unnati-r karon.",P,id
+Sutôrang jokhon tara apnake prôstôb kôrechhilo tokhon apni tader ki bolechhilen?,T,irq
+Chôrzbyāk je ami ekṭi ôshadhôrn kaj peyechhi ebong eti aro bhalo chhilo ebong tara eti hariyechhe ebong tara kebôl eti môkabela kôrte pâre.,P,id
+"Tai apni sei shôye tader prôtyākhyan kôrechhilen, thik achhe.",T,crq
+"Hyā. Ebong ami, apni janen, ami amar bôshe khushi kôrte chai, kintu ami mône kori eti bhalo hôbe. Apni janen, ami lôkedêr kharaap bhôbte chai na karon tara amar cheye niksṭ. Ebong karon tara tôṭota shôfôl nôi. Tai jodi ami tader sathe kotha bolte shikhte pari jate ami nôi, apni janen, jate tara nijeder shompôrke kharaap mône na kôre.",P,"cd,id"
+"Eta apnar bôsh bôsiyechhen, mane, tini apnake aj ekhane ashte utshahit kôrechen. Se ki apnake upor kon chhôp dichhe? Bhalo legechhe, eta ki emon kichhu ja bôdhyôtamulôkbhabe utshahito?",T,"id,orq"
+Ami mone kori eti drôḍbhave utshahito. Ami mone kori tar mone amar jonno ekṭi prôchôr achhe. Tai eta sambhôbôtho shudhu je jonno ami set up.,P,od
+"Tai se bhôbishyoter jonno apnake sahayyo kôrar chesta kôrchhe. Ôrôkti ôgrôgôti. Tai syâm, ami kalendare apnake pete jachchi ei shôbhôr sheshê ekjon kaunsilôrke dekhte hobe. Je apnar jonno kaj? Thik achhe? Eta kôre. Tai ami apnake je jonno set up korbo. Amar sathe samay deowar jonno ami sotti jeno prashônsa kori eti ekjon porashônsṭhadâtâke dekhte sahayyo hôilo ebong amra sekhane theke jabo.",T,yq
+Hyā. Nishchit. Dhônyôbâd.,P,ack

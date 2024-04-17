@@ -1,0 +1,53 @@
+Utterance,Type,Dialogue Act
+Hi apni aaj eta kibhabe korben.,T,gt
+Durdanto. Apni kemon achen?,P,gt
+Ami bhalo korchi. Jijnyasa korar jonno dhonobad. Tai darun korchen. Ami aaj lokkho korchi je apnar bhai tharahudo kore bhitore dhukechen. Ebong apni kibhabe ekta ghoron shoran ta niye tar kichu udveg royeche.,T,"gt,irq"
+"Ami bolte chachchi, ami jani na keno karon ami bolte chachchi je ek shaptah dhore ami onek kichu korchi. Apni karmokshetre janen, ami je duto prothibedone kaj korchi ta shesh korechi. Emonki bari teo, jemon amar bari porishkar korar jonno amar prochur somoy chhilo ebong ami amar ghortake je chai ta toiri korte ebong kebal shadharanbhave kaj korchi ebong eti porishkar. Ebong ami bolte chachchi, ami kono somossha chhilo na.",P,id
+Thik. Tai apni besh bhalo boshchen. Ar apni proyo ek shaptah dhore achen? Hyan. Tomar ache? Apni ki mone koren apnar ghumer obhyash poribortito hoyeche?,T,irq
+"Mane, tara ache. Ami temon ghum hoini. Ami sotti ei ta proyo nei. Ami matro koyek ghontar proyojone, mone hochhe kintu ei ta thik ache karon ami klanth hoyni. Ami chhilam na, apni janen, din ebong rate khitkhite ba kichu, ami deri kichu shilpi pete, kintu baki somoy ami mato, apni janen, hoi kaj or ghar eba jai hok na keno. Tai ami bolte chachchi, ami kom ghumiye chhilam kintu ei ta kono somossha noy.",P,id
+"Na, apni kom ghumachchen kintu apni motoi klanth bodh koren na.",T,gc
+"Thik achhe, hyan.",P,ack
+Apni ki nijerke aro sobje kono kichur dwara bibhranto hben? Apnar charpasher jinish.,T,yq
+Na asle serokom na.,P,on
+Apni ullekh korechen je apni karmokshetre onek kichu shompanno korchen. Bari te kibhabe?,T,"crq,irq"
+"Hyan, ami bolte chachchi, tai amar baba-r room, ami notun china ebaro beshi mone kori ebong er moto jinispatra. Tai ami sobkichu set up korechi. Apni janen, jokhon ami bhitore chole ashechi tokhon theke ami amar somosto box-gulo pack kore niyechi. Apni janen, etoi plasmate ebong kichu jinis-er moto, eta ekhono bari-r moto dekhacche ebong ami jokhon bhitore chole ashechi tokhon theke ami amar sob box-gulo pack kore niyechi. Apni janen, emonki ami ekti diner proyojone proti-ti box-gulo kinte giyechi, kintu baki somoy ami mato, apni janen, hoye kaj ba amar bari te jai hok na keno. Tai ami bolte chachchi, ami kom ghumiye chhilam kintu ei ta kono somossha noy.",P,"cd,id"
+"Apni jodi orjon koren tobe apni onek kichu orjon koren. Janun, jokhon apnar bhai brush korte pare, tokhon she kichu kenakatar kotha bolechilo ebong eta tar jinish-guloer moddhe ekta jinish jeta or clear chhilo.",T,gc
+"Hyan, thik achhe, tai ami saptahante, ami agie gechilam ebong kenakata korte giyechilam ebong ami ek dhoroner kenakata korte giyechilam. Ebong ami jevabe bolechilam, amar notun china ebong ami kichu rannaghor-er patra ebong bari-r charpash e ghore sajano er moto kichu jinis kinechilam. Ebong ami tare dekhechilam je or bhitore ashte pare kina, tai ami tare kichu kine ni.",P,"ack,id"
+Apni koto korechen mone rakhben,T,irq
+"Ami thik jane na, karon ete onekguli bivinno dokan aache. Kintu, apni janen, amar koyek ta alada credit card ache. Tai ami jeta ekta credit card use korechilam ta last porjonto lecture kora hoyechilo. Tai shomvobhob, apni janen, amar dining room set kora dorkar chhilo na. Ami ekta alada credit card use korte partam, kintu spashthotai eti holo.",P,id
+"Dost, ami mone kori apni somoshsho mule bivromon er theke beshi khoroch korechen.",T,crq
+"Ami kokhoni kenakata kortey jai na. Ebong ami satyoi nijekhe je moto acharon. Tai ami bolte chachchi, hyan. Kintu ami abar pchondo kori je ami paini, apni janen, amar apartment theke je shomosto jinish peyechi ta amar dorkar chhilo.",P,cd
+Tahole apni ki atite emon ektoi somoy peyechen jokhon apni eivabe anubhob korechen jekhane apni satyoi bhalo anubhob korechen?,T,irq
+"Erokom na. Ekhon protombarer moto ami anubhob korchi, apni janen, jibon ekhon thik jaygay porey jachhe.",P,"on,id"
+Jiboner poton jaygay. Tai apni besh bhalo bodh korchen. Apni mone koren jinish apnar pothe ache.,T,gc
+Ami kori.,P,ack
+Apni onek kichu shomponno koren.,T,gc
+Kono dukkho ba erokom kichu?,T,yq
+"Na, na.",P,on
+Khuda poriborton.,T,yq
+Mone hochhe apnar jatheisht shakti ache. Mulyohinotar kono anubhuti?,T,yq
+Na.,P,on
+Mrityu ba mrityur kono chinta?,T,yq
+Na.,P,on
+Drag ebong alcohol boshor?,T,yq
+Na.,P,on
+Kono chikitsa shart nei.,T,yq
+Na.,P,on
+Apni ki atite kokhono emon somoy peyechen jokhon apni bishonno bodh korechen?,T,yq
+"Mane, ami atite bishonno chhilam. Hyan. Hyan. Kintu ami bolte chachchi, ami eta'r moto anubhob korchi, amar mone hochhe eta chhilo onno ekjon manush. Ebong ami mone kori, apni janen, amar ei uposorgulir konoiti chhilo na. Apni janen, ami eta ekoti notun amar moto mone hoy.",P,"ack,cd"
+"Notun tomay. Hyan tahole ki hoyeche janen? Bishonnotar sathe atit? Jemon, apni ki hospital-e shesh korechen ba onno kono upay-e chikitsa kora hochhe?",T,"irq,yq"
+"Na, na.",P,on
+Shudhu kono chikitsa nei?,T,crq
+"Na. Mane, ami aageo manusher sathe bishonnotar kotha bolechi. Kintu ami etar jonno hospital-e bhorti hoeni.",P,"on,cd"
+Kintu apni ki mone koren apni bishonno chhilen?,T,orq
+Hyan.,P,"od,ack"
+Ekhon amra fire eshechi. Apni ki emon jinish dekhechen ba shunechen ja onno lokera dekhte ba shunte pare na?,T,yq
+"Na,",P,on
+Ekhon na. Amra tokhon fire eshechi.,T,yq
+Na,P,on
+Thik achhe.,T,ack
+"Thik achhe, sherri. Ei prosner uttor amar jonno shahayok hoyeche. Ami eti ke samarthon kori. Ami apnake ekjon counselor-er sathe dekha korte jachchi. Matro koyek muhurto.",T,gt
+Thik achhe. Thik achhe.,P,gt
+"Ami jani apni besh bhalo bodh korchen, kintu ami chai tara apnar sathe ekto kotha boluk.",T,gt
+Thik achhe.,P,gt
+"Thik achhe, jonno dhonnobad.",T,gt

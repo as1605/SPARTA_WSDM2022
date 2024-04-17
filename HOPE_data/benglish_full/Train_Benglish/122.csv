@@ -1,0 +1,52 @@
+Utterance,Type,Dialogue Act
+"Hello, Mr. Taylor. Amar naam Dr. Vinita. Ami ekhon ei psychiatry te kaj kori. Theek ase. Apni ki amay bolte paren, ajke apni ki nie eshechen?",T,gt
+"Haan, bhalo, ami amar GP theke refer hoechi, theek ase. Tader mukhe theke amay nie eshechen karon, ami mone kori amar beshi bhat kheye jai.",P,id
+"Samajhlam, apni mone koren apni beshi bhat khacchen?",T,irq
+Bhalo toh,P,gc
+"Theek ache. Shomoy korle ekta alur kochuri korte parbo. Haan. Apni ki bolte paren, apni ekdin e ki koto bhat khacchen? Abar, koto taka?",T,gt
+"Haan. Oh, eto barche barche bare geche. Bujhtesi, khola mone kore, ami ekdin e ek bottle vodka khai.",P,id
+Bottle vodka. Ar koto din dhore ei rokom khachchen?,T,irq
+"Bujhbo, eto barche barche. Jodi honestly boli, toh keu kheye jai na. Kichu bochor dhore toh cholchilo.",P,id
+Koto bochor? Ektu specific korte paren? Dui bochor? Tin bochor? Panch bochor?,T,irq
+"Theek ase, eto barche barche. Shuru te toh, shomoy office theke phire ek cup chaa kheye chilam, karon amar kaaj e beshi responsibility. Tarpor bujhtesi, ek cup er pore aro ekta bhalo, tai thik korlam, thik ase. Tarpor orokom responsibility barte laglo, ekta extra peg er por bhalo lagte laglo, tai hoyto aro ekta. Eto-i cholchilo.",P,id
+"Ok, bolechen apni last dui bochor theke ek bottle vodka khachchen. Ok. Ar onno kichu peen na?",T,crq
+"Haan, shomoy office shesh hoye porar por ami usually pub e jai, dui char ta pint bitter or lager kheye neyi.",P,id
+Theek ase. Rokom? Eto din-e?,T,irq
+"Haan. Bhalo kore, especially, Monday theke Friday, kaj korar din. Kintu weekend-e amader local pub-e giye lunchtime-e cholto.",P,id
+"Theek ase, ar koto ghonta?",T,irq
+"Ok, dui char ghonta. Theek ase.",P,id
+"Ok. Ar rojka weekdays-e, shesh hoye porar por dui char ta pint niye ashben, ar bari ashar por ek bottle vodka kheye neben. Haan, bhalo.",T,crq
+"Na, na, bari ashar por ami ek bottle vodka kheye neyi. Ami din-er shesh e kheye neyi. Baire kheye nei, kintu kaj korar somoy, bujhtesi, kaj korar somoy lunchtime-e, ok, kaj korar somoy.",P,crq
+"Din-er kothay apni shuru koren kobe shara din, ek average din-e?",T,irq
+Erpor ami dress pore breakfast korechi.,P,id
+"Thik ache. Tai, tor poribarer kotha bol, ar ki shuru hoyeche?",T,irq
+"Kichhu bochor age, kichhu bochor age.",P,id
+"Ok. Ar weekend-e ki same, weekend-e pub-e giye ki tor lunchtime-e ek bottle vodka theke beshi peye tor kotha mone hoy? Na. More or less ekdom same. Ok, ar baki regular somoy-e tor kotha theke beshi kheye ki?",T,yq
+No.,P,on
+"Ok, tai, ar ki sirf beer ar vodka? Naki tor kheye wine-o kore?",T,irq
+"No, no. Amra ekhane wine-o khatam korte thaktam, amar bou amader ekshathe evening meal kore. Kichhukhon laal r ekchhukhon shada wine. Kintu tar por theke shei bole or mone hoye gelo je ami khub barir moddhei shorbonash korchi. Tar jonno ami ekhono sei rokom kichu kori na.",P,id
+"Tai to, tor mone hoy, tor alcohol theke shomoshsha pawar jonno tor kachhe beshi peye jete hoi?",T,irq
+Same common.,P,id
+Some common effect? Tor kache ki ase jokhon tor ashol theke kichhu din porishranto hoye thakish?,T,crq
+"Kichhu mas age hoyeche. Amar bou kichhu din amay khub bhebe amay chheda dilo. Ami mone mone bolechilam, ki mone hoi, eibar dekhi. Ektu ageo hoyeche, kintu",P,id
+Setar jonno koto din thaklo?,T,irq
+Tin din kichhu por.,P,id
+Ar oi samay-e tor kachhe kono deho-bhawon hoyeche ki? Kichhu physical feelings?,T,irq
+"Hoyeche, bhai, ami mone hoyeche, ami bhebechilam, ami kampchilam. Khub shaky chhilo ami. Ami arokom ektu porei dhore fellam. Ami kaj o kichhu porjonto korechilam na, ar ami ghumiachilam na. Ami khub kharap lagchhilo. Ha, kaj theke ekdin off neyi. Na, ami off ni. Ami off nite parlam na, amar ichhe hoi ni. Ami mone korlam, ami thanda ache tai ami bolechilam orokom ekdom. Kichhu purono manusher sathe ek chhoto peg kheye shorirer bhalo lagche.",P,id
+Tui kabhu mone koro? Tui uthte gele ki eto ektu shaky feel koro?,T,yq
+"Ha,",P,op
+"Haan, ar ki hoye, tui uthte samay-e ki pine, seta tor khub bhalo lagche? Hoi, na? Jodi tui uthte samay-e seta na kheye, tahole ki hoy?",T,crq
+"Kichhu somoy por amar kaj-e phire ashar por ami khub shaky feel kori, khub on edge feel kori. Ar ami bolte parchi na. Ami kaj korte parchi na. Ami mone korlam, ki ami ei rokom jinish korte parbo na. Ar tai, ami kajer somoy touch korina. Amar kaj toiri holo khub boro. Ar ami, jokhon ami kaj kori, ami setake touch kori na,",P,id
+Ar tui bank manager hisebe kaj koro.,T,crq
+Ha.,P,op
+"Okay. Kono bondhu-bari tomar biyer baire tomar drinking niye kichu bolchhe ki? Tomar drinking theke kono seriously health problem holo toh? Tomar drinking er jonno tomake kono doktarr dekha holo ki, karon kichu lok mone kore memory harano, Fitz Shams hoy. Khub gorom ashol, tara hospital-e jete hoy.",T,irq
+Tar ekta blood test korlo.,P,id
+Oitar kichu dekha jachchhe?,T,irq
+Khub bhalo chhilo na.,P,id
+Thik?,T,crq
+"Ar tarpor ami, tumi jane, amar bou er bondhu bolte holo amake basically chhadao. Tai amake GP dekhte niye elo. Oh, ekta blood test kore bollo je amar liver ektu komano dorkar. Room er bapare ki bollen, o bollo je amake taike kichu bolte jabe.",P,id
+Thik. Okay. Ar tumi eibhabei kemon mone korcho?,T,irq
+"Well, ami exactly over the moon chhilam na tokhon o bollo. Kintu um Well, ami mone kori, jodi ei hok je tomar sathe ashte, ar tarpor naki amar bou amake chhadao. Ami ashte gelam, ami tara ke harate chai na.",P,id
+"Tai dekhte pacchi je ei ghar-e eto prabhav holo. Ha, thik ase, kintu ghar-baire, tomar drinking ki rokom impact korechhe kaj-ghor baire, tomar wife-er baire onno keu? Kono serious consequence aro ache?",T,ack
+"Ami to family dues-e jete hoi, tader shatheo tule dhorbo. Kintu ami mane na, ami asholei amar kajer colleagues-der sathe socialize korte ichhe kori na. Ami mone kori tader sathe pub-e gele, amar ekta drink dorkar hoye jachhe, ar ami mone kori, ami ki korbo, etai bhalo hobe na. Ami taratari chhute gelam, ar ami sudhu kichu bahan korlam. Ami tader sathe abar socialize kori na.",P,id
+"Thik ache, ajke amar sathe kotha bolte ashcho, dhonnobad.",T,gt

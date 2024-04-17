@@ -1,0 +1,105 @@
+Utterance,Type,Dialogue Act
+"Hi Ann, Kemon acho ajke?",T,gt
+"Bhalo achi to, tumi kemon acho?",P,gt
+"Ami bhalo achi, Thanks. Tui bolchis to bhalo acho, ki korche?",T,"gt, irq"
+"Ami definitely last week er theke bhalo nei. Jokhon amra kotha holo. Mone hocche, ei week e amar kichu boro binge eating hoyeche. Ar honestly bolte pari na ki karon amra keno ei bishoye kotha bolar chesta korchi. Karon ami eirokom road e giye gechi ageo.",P,id
+Umm hmm,T,gc
+"Ami shudhu, ami shudhu maa-maati kine anbo, ar janbo, ami nijeike bujhe nilam, ami mota hobo ar kharap thekei thakbo.",P,gc
+"Amake bol to, kichu khadyo gulo kon kon khayechis, jeta eitar jonno problem create koreche?",T,irq
+"Brownies, brownies, brownies, brownies. Ar well, ei problem ta amar jonno koreche tai. Jani na, week er first half e bhalo chhilam, cheeni theke bhalo dur chhilam. Ami school theke stay-at-home kore nilam, jani na, amar chheleke bhalo lagchhe na. Tai boli, thik ache, brownies banabo. Tai amra ekta panch dhore kheye felbo, ar dui ta panch dhore banabo. Ar baki roilo na sudhu brownies, jane? Beriye gelam hamburger, french fries, misti, janen, Wah Wah theke rastay theke gechhilam. Etar to bhabteo parbo na, amar kemon lagchhe eta bolte. Khokar jonnoo size gulo fit hoini, eta khub kharap.",P,id
+Tui ekta tough week katle?,T,yq
+Haan.,P,op
+"Thik ache. Tahole, ekhane thakuk kichu minute er jonno. Ami janate chai tomake ei problem er sathe tor relationship kemon. Tui eta kivabe dekhte chao?",T,"gc, irq"
+Eto disgusting. Eto jeno ekta bandhutwa. Khadyo amake niyei raja.,P,id
+Tai khadyo ei situation er moddhe control e?,T,crq
+"Tui eta ekdom ridiculous bolechis, kintu eita je holo.",P,cd
+Eta control e?,T,crq
+Haan.,P,cd
+"Thik ache. Tahole, ami tor jonno kichu prashna korbo ei vishay e, clearly, tomake change korte ichhe korche na korche, aro jante chai.",T,gc
+"Oh my god, ami kichu korte ichhe korchi. Haan.",P,gc
+"Tahole, ekta scale e dekha jak, ek chhilo, change korte ichhe korche na, ar 10 chhilo, change korte ekdom ichhe korche. Eto important change korte tor jonno, koto ta?",T,irq
+"Haan, eto important.",P,id
+"khub important. Okay. Tai, ami ki mone korlam jodi ami eita vabei, tobe tomake confidence. Tai, ekta holo tomake confidence nei, tai tomake protteke change kora jay, kintu 10 te tomake khub confidence thakle tomake change kora possible.",T,"gc, irq"
+"Ami mone kori, ami ekdin er jonno shayad change korte pari. Ami eto korechi. Aar kichu kichu somoy amar luck thakle, ek haftor moddheo korte pari. Kintu overall?",P,"id, crq"
+overall toh haa.,T,cd
+Impossible. Jemon zero te number chai.,P,id
+"Tai one theke ten er scale er niche jei number, etai toh",T,crq
+Haa,P,cd
+Tumi ekdom confidence neite paro na.,T,crq
+"Ami chesta korechi. Ami janina. Mone hoy, ei ekta matha te mukh marte marte.",P,cd
+"Tai, ek dike tomake eto khabar bhalo lagche, tomake khabar bondho kora important, kintu arek dike tumi mone koro toh tumi eto korte parbe na.",T,"gc, crq"
+Ami korte parina.,P,cd
+Tumi korte paro na?,T,crq
+Parbo na.,P,cd
+"Ei toh hoy na. Aar kono changes hoyeche tomake kichu, bol ekhane last koyek bochor e.",T,"gc, irq"
+Ami kach theke amar nokh chabano bondho korechi.,P,id
+Tai tomake chhoto chhoto success hoyeche changes korar shomoy.,T,crq
+Haa. Haa.,P,cd
+"Tui mone koro ei bhabna, ami etake khai khub shokhoni. Eto tough keno lagche?",T,orq
+"Ami wish kori jani. Ami mone kori, eto kichu ase, eta sobai kach theke paiche.",P,od
+Khabar sobai kach theke?,T,crq
+Haa. Kach theke. Mone kori,P,cd
+Tumi bollechhish jeno last week e brownies chhilo shontrasher karon.,T,crq
+"Brownies, Hershey bars, Hershey Kisses, Haa, chocolate.",P,cd
+Tui chocolate enjoy koro?,T,yq
+Haa.,P,ack
+Okay. Aar aro kon kon khadya tomake problem e contribute korte pare? Jeta tomake chocolate er moto bhalo lage na.,T,irq
+"Oh, aloo chips, French fries, Mexican food. Aar ar ki? Cheese?",P,id
+Kono sondhyar sondhyar sondhyar mishti ?,T,irq
+"Shuru korechi Skittles, cherry Starburst, basically kono sondhyar mishti.",P,id
+Pray shob sondhyar mishti?,T,crq
+Haa.,P,cd
+"So oi candy-gulo-r modhye, amar icche hocche sudhu candy-gulo-r upor dhyan dite. Thik ache, ar aro for now, khadya-gulo-r upor mone rakhte hobe na. Mone hocche ami chokolait khete ban korechi. Tumi sei kothar proti kivabe react korbe?",T,"gc, irq"
+Hoye jabe na.,P,id
+Hoye jabe na? Thik ache.,T,crq
+Hote to chai.,P,cd
+"Thik, kintu hoye jabe na?",T,crq
+"Ami just bolte pari, ami to mone o korte chai na.",P,cd
+"Tui to tai jane. Cholo, cholo shuru kori, for example Skittles-er sathe. Ki hobe, jodi ami Skittles khete bondho korar kotha bolte di.",T,"gc, irq"
+Candy Skittles bondho korar jonno?,P,crq
+Shudhu tai ekta candy. Hm.,T,cd
+Keno mone korbo? Skittles khate parchi na ki? Tumi ki bolecho?,P,"id, crq"
+"Tui khate paro. Tui nijei decide korbe, bondho korbe naki, kintu ami jodi ei kotha bolte proposal kori, tahole tui ki bhabe react korbe?",T,"gc, cd"
+Ami ektu bujhte parchi na keno.,P,id
+"Thik ache, ei to ekta paribartan darshaye je tumi kon dike jete chao.",T,gc
+"Kintu jodi ami Skittles bondho kori, to ami brownies khabe, are khabe.",P,gc
+"Amra bujhte parchi je, tui ebar theke kichu bodle dile mone hoy na, tor kotha theke bujha jachhe.",T,gc
+"Na, hoye jabe na.",P,gc
+Ar thik ache. Kintu Skittles bondho kora mone hobe?,T,orq
+Thik ache.,P,od
+Eta to eto bhoyonkor lage na?,T,yq
+No.,P,on
+Tui shomoye mone rakbi na 110 scale-e je Skittles bondho kora important?,T,yq
+Ha.,P,op
+Thik ache.,T,gc
+Ha.,P,gc
+Tui kotota confident acho je tumikhabe na?,T,irq
+"Ektu hashi hoye bolchi, tor mukhe kotha holo, amar to Skittles khete iccha hoyeche beshi. Kintu, tor mone hoy, ete abar porer haftay pore, ami bolbo je ami 99% confident je ami Skittles khabo na, ebong ete ekta boro problem hobe na.",P,id
+Tai tobe tumi mone koro je ei paripurno korete parbe.,T,crq
+Hmm,P,cd
+"Tobe, tui jeno bhalo mone koro na je eti asliyate boro problem solve korte sahayak hobe. Amra jani je eti ekta kshetra jekhane tor mone hoy, paripurno parivartan dekha jachhe na.",T,gc
+"Jodi ami Skittles na kheye thaki, ei saptah naki ba jiboner shesh porjonto, tahole ki amar problem solve hobe? No, kintu ami tai korbo? Jodi etai tor iccha hoy? Ha, seta thik.",P,gc
+"Ami ume aschi je eto kichu tumi korte iccha korte hobe. Ami jeta chai, seta ekta kotha, kintu tomar ichhe etai bishesh mahatwo pabe. Ei kono karon aar tumi Skittles kheyeo toh toder problem er ekta bhag?",T,orq
+"Ha,",P,od
+Small?,T,crq
+Ha,P,cd
+"Thik ache. Pun er kono abhipray nei, toh? Kintu eto small part er ekta kichu. Tobe, tor mone hoy, eto tai problem er ekta hissa.",T,gc
+"Ha, sure.",P,gc
+"Boro parivartan noi. Kintu eto tai, amra ete kaj korte parbo.",T,gc
+Thik ache,P,gc
+"Aar amader ichhe je tumi, janbe toh, paripurno goal e kivabe vashay jaocho. Ami mone kori na, eti important na hote pare, amra aar kichu parivartan er kotha barta parbo.",T,gc
+"Na, ami bujhte parchi. Mone hocche, ami tomake poshondo korechi. Theek toh? Tai ami mone kori, eti kaj korbe na. Eto ta tomakei bole dibo.",P,gc
+"Theek. Tui mone koro Skittles khete bondho korte parbi, kintu tobuo mone hoy, eti boro problem solve korte asbei na naki?",T,crq
+Exactly.,P,cd
+"Kintu ei jonnoi amader kaj korte hobe ebong ei moment e amra kaj korte hobe. Karon eti boro problem ta tomake, tor mukhe jekhane bolecho, shey control e aache na.",T,gc
+Haan. Haan.,P,gc
+"Tai, ami jodi brownies bandhate bolte chai,",T,gc
+"no, no, no, sorry.",P,gc
+"Tai chole jai, eikhane achieve korte parbo tai amra jete chai. Perfect hobe na, ideal hobe na, kintu etai tomake possible. Tomar plan ta dekhecho, tai etai korle ei week-e continue koro Skittles khete.",T,gc
+"Achha, Skittles thik ache.",P,gc
+"Aar dekhi, dekhi ei change kore ki rokom feel koro.",T,gc
+Tai toh bhalo lagche.,P,gc
+Haan.,T,gc
+"Tai ei diye kaj koro, aar aami tomar kachhe ekhono dekhte pabo next week.",P,gc
+Thanks.,T,gc
+Thanks.,P,gc

@@ -1,0 +1,143 @@
+Utterance,Type,Dialogue Act
+"Thik ache, ami tomay kichu prashna korbo tomay social situation niye ar tumi tomay leisure time e ki koro tar niye.",T,id
+Thik ache.,P,ack
+Tumi ekhon tomay din kivabe katano?,T,irq
+"Um, well, ekhon, ar ami ekhane ashar age ami guess kori, ami shokale kaaj e jai ar bikel bela 4:30 namer moto bari firi ar bacchader niye take care kori. Aftercare theke tader niye ashi ar tarpor dinner kori, ami dinner banai ar tader homework er sathe help kori. Amar husband ar ami ekta TV show dekhi ba kichu ar tarpor ghumate jai.",P,id
+Eta tomay typical din er moto?,T,crq
+Haan.,P,cd
+Tumi moja korar jonno ki koro?,T,irq
+"Well, shesh koyekdin e onek kichu kori ni. Mane, ami age porte pochondo kortam, cinema dekhte, jewelry banate pochondo kortam kintu onek din holo na.",P,id
+Tumi ki mone koro tumi ekhon oi jinish gulo enjoy koro na joto age korto?,T,irq
+"Ah, ami ekhon ar age er moto energy pai na. Kaaj theke bari firi ami drained hoye jai, oi situation niye deal korte. Ar bacchader niye asha ar homework, eta sometimes nightmare hoye jete pare. Mane, tader grades valo thake, ar tara generally ektu interest niye kaj kore, kintu sometimes struggle hoye jai. Ar frankly, ami nijer upor ektu down feel kori karon ami shudhu kaaj theke bari firiye ghumate jete chai. Ranna korte chai na, bacchader sathe homework korte chai na. Ar jokhon amar husband TV dekhte chai, ami onek somoy already ghumate jai. Ar ami feel kori eta niye kharap, mone hoy ami age er moto valo maa noi ba valo wife noi.",P,id
+Tumi ki mone koro ei mood change ta related ache jeta tumi age bolcho kaaj er somossa niye ar relationship niye. Tumi mone koro eta shob jukto?,T,irq
+Hote pare. Haan. Ami jani na.,P,id
+Tumi ki mone koro kon gulo age ashe? Jemon tumi bolcho energy kom thaka ba kaaj e difficulty?,T,irq
+"Ami vabini. Ami mone kori, well, ami ageo ei rokom chilam. Kintu haan, jokhon kaaj e jinish gulo really kharap hoye jai. Ami just, ami drained hoye jai bari firiye. Tumi jano, ami vabte chai na. Jodi ami ghumate jai, ami vabte hobo na. Deal korte hobo na.",P,id
+"Tumar jiboner shobcheye important manush gulo ke? Ar tumi uttar dite age, ami guess korbo tumar husband ar bacchader inclusion hobe, so tader chara, karon amra tader niye kotha bolchi. Tumar jiboner shobcheye important manush gulo ke?",T,irq
+"Amar bonera, amar baba, amar maa, amar best friend, jodi ami onek din dhore kotha na bole thaki.",P,id
+Koto din?,T,irq
+"Well, se amay text kore, kintu amra dekha kori ni motamuti choy mash ba erokom.",P,id
+"Tai shob manush gulo tumi list korle, jokhon tumi difficulty te thako, jokhon jinish gulo valo na jai, tumi mone koro tumi ei manush gulo ke kotha bolte paro?",T,yq
+Haan,P,op
+"Thik ache, ami abar gear change korbo. Ami spirituality niye kotha bolte chai. Tumi ki describe korte paro tomay spiritual beliefs gulo ki, ar tara tomay jibone kivabe affect kore?",T,"id, irq"
+"Well, ami God e bishwas kori, ami pray kori. Actually, eta funny, ami pray kortam shokale age ami agency te call korar decision nite. Karon ami mone kori ami khub kharap maa. Tumi jano, beshi somoy bed e thakar jonno. Amar husband ar ami kotha boli. Tai, ami God e bishwas kori, ami mone kori God amake care kore.",P,id
+"Thik ache, tumi ki kono religious institution er sathe affiliated?",T,yq
+Ami Roman Catholic hishebe maniye gori. Kintu ami koyek bochor church e jai ni.,P,op
+"Tumi ki describe korte paro kivabe socio ba social cultural influences, jemon tomay values, beliefs, ar culture, tomay jibone kivabe affect koreche?",T,irq
+"Well, Sunday school e je shikhechi, seta amake valo manush hote shikheche, manush ke valo vabe treat korte. Amar baba maa kotha bolto community ke kichu dite growing up, jokhon ami Carl scouts e chilam, community ke kichu dite, ami try kori eta amar bacchader keo shikhabo.",P,id
+Tumi ki kono particular ethnicity identify koro?,T,irq
+Italian American,P,id
+Italian American?,T,crq
+Haan.,P,cd
+Eta ki tomay jibone kono influence koreche?,T,yq
+"Haan, ami guess kori, ami amar culture e pride ni. Maybe age na, kintu ekhon. Haan.",P,op
+"Thik ache, ami abar gear change korbo. Ami tomay educational history niye kotha bolte chai. Tumi ki bolte paro tomay highest level of education ki?",T,"id, irq"
+"Haan, graduate school er ek bochor.",P,id
+Graduate school er ek bochor?,T,crq
+Haan.,P,cd
+Ar tumi shesh kobe school e giye chile?,T,irq
+16 bochor age. Ami drop out korechi jokhon amra engage hoyechilam.,P,id
+"Thik ache. Tai jodi tumi graduate school e giye thako, ami assume korbo tumar kono bachelor's degree ache. Haan. Tumar degree ki subject e?",T,"gc, irq"
+History te.,P,id
+Ar kono special training ba education ache tomay kache?,T,yq
+Na.,P,on
+Tumi school enjoy korecho?,T,yq
+"Haan, onek.",P,op
+Tumi ki kono din school e phire jete bhabcho?,T,yq
+"Haan, ami mone kori bacchader ektu boro hole. Ami sad feel kori ami degree ta shesh korte pari ni.",P,op
+Graduate degree?,T,crq
+Haan.,P,cd
+Thik ache. Tumi ki kono military history ache?,T,yq
+Na.,P,on
+"Ekhon ami tomar kajer itihas niye kotha bolte chai. Thik ache? Thik ache. Toh, tumi mention korechile je kivabe tumi tomar din katao je tumi full time kaj koro?",T,"gc, irq"
+"Ha, ami kori.",P,id
+Kon type-er company te kaj koro?,T,irq
+Ami ekta bank-er jonno kaj kori.,P,id
+Ar tumi orader jonno ki koro?,T,irq
+Ami teller.,P,id
+Thik ache. Koto bochor dhore kaj korchho?,T,irq
+Ekhon 10 bochor.,P,id
+Tumi kaj ta enjoy koro?,T,yq
+Eta temon challenging na.,P,on
+"Mane, eto kothin na?",T,crq
+Ha.,P,cd
+Tumi ki tomar kaj haranor bhoye ache? Ekhon je obostha cholche tar jonno?,T,yq
+"Ekhon? Na, ami kaj haranor bhoye nei, kintu ami khushi noi. Ami khushi nei okhane.",P,on
+"Toh tara tomar employer chilo gat 10 bochor dhore. Tumi ekhon sudhu ekta kaj koro, thik toh?",T,"gc, yq"
+Ha.,P,op
+Thik ache. Tar age tumi kothay kaj korto?,T,irq
+Ami arekta bank-er jonno kaj kortam.,P,id
+Koto bochor dhore chilo?,T,irq
+Choy bochor.,P,id
+Ar tumi orader jonno ki korto?,T,irq
+Eki kaj.,P,id
+Ar tumi sei bank ta keno cherechile?,T,irq
+Amra relocate korechilam.,P,id
+Sei kaj ta o ki easy chilo jevabe tumi describe korecho?,T,yq
+Oh ha.,P,id
+Tar age kono kaj history ache?,T,yq
+Ami graduate school ar college e waitress chilam.,P,op
+Kichu different jagay?,T,yq
+"Ha, ha. College e ekta jagay ar graduate school e onno ekta.",P,op
+Thik ache. Tomar kora sob kaj er moddhe kon type-er kaj tumi best enjoy korecho?,T,irq
+Eta valo proshno. Asol e kono kaj-i ami bhalo moto enjoy kori ni. Ami school e thakar somoy ta bhalo lagto. Ami kaj korte bhalobashi na.,P,id
+"Dekho, tumi satisfied feel koro na. Ami shunte chai je tumi ki prefer koro, tomar education er sathe ki kichu korte chai kina.",T,irq
+"Kintu ekhono baire giye onno kono kaj khujte ba field change korte giye ami ki offer korte pari, ami jani na. Resume korte hobe, ami jani na kotha theke shuru kori.",P,id
+"Mane, eta daunting mone hoi.",T,crq
+"Ha. Jemon, ekhon ami feel kori je ami sudhu kaj e giye ar bari fire eshe bachchader dekhashi.",P,cd
+"Toh tumi ekhon tomar bachcha der sathe time katacho. Tai nijer jonno kichu notun kichu khujte giye effort kora intimidating mone hoi. Amra age ei area niye kotha bolechilam. Ami abar gear shift korte chai legal involvement er dike. Tumi kichu legal history mention korechile symptom checklist er somoy. Ar ami thik mone kori, seta marijuana ar college e payment er somoy involve chilo.",T,gc
+Ha.,P,ack
+"Police ke dakha holo, sei raat ta ki holo?",T,irq
+"Dekho, amar bondhura ar ami, mone hoi amra ekta party korchi common area te dorm er, ar mone hoi amra onek jore awaz korechi. Kichu professor thake dorm e. Tader Campus Security dakhe, Campus Security eshe amake bag er sathe dekhe fello ar ami police station e giye porsi, amar ek bondhu o chilo, duijon-i chilam okhane kintu jani na, beshi kichu holo na. Sara raat ta mone korte parbo na karon ami beshi wasted chilam kintu asolei etake brush kore diye gecho ami.",P,id
+"Mane, offense er moto, tumi ki criminal record ache?",T,yq
+"Na, na, na, ota expunge kora hoyeche. Ota amar record e nei. Ami kono record rakhi ni.",P,on
+Eta kokhono tumake problem e felche?,T,yq
+"Na. Na, eta embarrassing, kintu setai.",P,on
+"Toh amra intake er shesh dike eshechi, ar regular session er dike jachchi, jani na, 53 minute session hobe ba koto somoy hobe, tumi jevabe therapy er kotha vabcho. Thik? Amra oi session gulo te goals niye kotha bolbo, bhalo kore. Thik ache, oi meeting gulo te detail e treatment plan complete korbo je include kore tumar goals ar objectives goals meet korar jonno. Kintu amra oi detailed plan e jawa aage, amra ek session nebo review korte ar treatment plan build korte. Ami ekta general idea pete chai tumar goals niye. Ekhon ami jani tumi ki describe korte chao. Ami tumar presenting problems er idea peye gechi. Tumar general goals ki therapy te?",T,"id, irq"
+"Ami boli, ami chaichi onno mohilader sathe bhalo moto chalate. Ami overall bhalo feel korte chai, jani na? Honestly ami vabtam ora-i problem. Tarpor ami vablam, mone hoi ami-i problem karon office e o ekoi holo, ar mohila der sathe amar neighborhood e o. Ami o chaichi ekta bhalo ma hote. Jemon ami boli, ami onek somoy bed e katayi. Ami temon bhalo ma ba wife noi. Ami besh boring. Ami onek ghumayi.",P,id
+Tumi ki mone korte paro je ekta somoy chilo je tumi ei bhabe feel koro ni?,T,yq
+"Ha. Jemon, gato bochor o.",P,op
+gato bochor o?,T,crq
+Ha.,P,cd
+thik ache.,T,ack
+"Ha, mane, office e o bhalo chilo na. Kintu jani na, uncomfortable chilo. Ami boli, amar coworkers er sathe onek escalated hoyeche. Kintu jani na, bari te ota chilo na. Ota temon kothin chilo na. Ami beshi energy niye thaktam.",P,id
+"Thik ache, amake tumar strengths niye bolo. Tumi ki koro?",T,irq
+"Umm, normally ami ekta bhalo ma. Ami amar bachchader bhalobashi. Ami ekta khub bhalo parent terms e disciplining er, amar ma er moto noi, jani na, ami chaichi ora jene thake ora bhalobasha pay, eta khub important je ora jene thake ora bhalobasha pay. Amar bachcha ra jene thake ora bhalobasha pay. Ar amar strikes, ami smart, creative jokhon energy thake, amar sisters mone kore ami funny. Amar bondhura mone kore ami ranna korte pari.",P,id
+"bhalo cook, tumi ki mone koro tumi funny?",T,yq
+"Um, ami kokhono mone kori ni kintu gato bochor onek lok amake bollen ami funny, kintu ekhon na.",P,on
+Jinish gulo onek change hoyeche oi department e?,T,yq
+Ha.,P,op
+"Wow, eta onek strength. Toh amra intake ajke shesh korechi. Thik? Regular session gulo shuru hobe pore, next week theke.",T,gc
+"Thik ache, bhalo.",P,ack
+"Tumi appointment ta front e set korte paro. Thik. Amra kichu khujbo je tumar schedule er sathe ar amar schedule er sathe match kore. Intake e wrap up kora aage, tumi mone koro, intake er shuru te tumi mention korechile je tumi gato 30 din e kichu suicidal thoughts niye chintito, eta indicate korechile ar ami bollen je amra ei topic e firbo. Tai, ami ei topic ta niye briefly touch korte chai break er aage. Tumi amake bolte paro je suicidal ideations gulo ki chilo tumar?",T,"id, irq"
+"Dekho, eta temon na je ami chinta kori Ami ki gun niye amar brain gulo blow kore dibo kichu erokom. Eta beshi mone hoi je ami bari theke kaj theke fire eshe shuye thaki ar ami chaichi niche jete, amar bachchader sathe hearts khelte kichu erokom ar ami parbo na. Ami chaichi light off kore ghumate jabo ar ami jai ar ghumate thaki. Ami vabi je jodi ami ekhon ghumate jai ar kalke na jage, jani na, kemon hobe?",P,id
+"Mane, ekta passive suicidal thinking process. Tumi ki kono intent ache nijer khoti korte? Ba kono plan ache nijer khoti korte.",T,yq
+Na Na.,P,on
+Tumi sure?,T,crq
+ha.,P,cd
+"Thik ache. Counseling e ekta term use kori called contracting for safety. Thik? Mane eta je tumi essentially amake promise koro je tumi safe thakbe. Jani na, at least amader next session porjonto, kintu asolei eta foreseeable future er jonno. Thik. Tumi ki safety er jonno contract korte paro?",T,"id, yq"
+Ha.,P,op
+"Jodi ei suicidal thoughts gulo aro prominent hoye jay, tahole ki korbe? Cholo ekta plan kori ei niye. Ami predict kori na ba asha kori na je eta hobe, ar ami kono karon e mone kori na je hobe, kintu ami prepared thakte chai. Ami chaichi tumi o prepared thako just in case, mone hoi sometimes ei thoughts gulo ashe, mone hoi sometimes tumi ekdom vabcho na, ar sometimes ektu strong hoye jay. So jodi ora strong hoye jay, jodi market change hoye jay, thik ache, so eta less passive hoye jay ar beshi. Tumi plan niye vabte shuru koro ba erokom kichu. Amake bolo tumi ki korbe?",T,"id, irq"
+"Mone hoi ami amar sisters ke call korte pari, thik ache.",P,id
+"Tumi bollcho tumi tomar sister ba tomar husband ke call korte paro, ar jodi tara available na hoy, ami plan ta ektu upore niye jete pari.",T,gc
+"Ami amar best friend ke call korte pari. Ha, jodi amra onek din kotha na hoi, ami jekono somoy call korte pari. Mone hoi, kono somoyi jay ni.",P,gc
+"Thik ache. Eta sob bhalo bhalo ideas. Dhore nebo tumi oi level e successful hote parcho na karon tader kauke paoa jachche na. Ar thoughts gulo persist korchhe. Ar ki korte paro, ki onno remedies ache tumar kache?",T,"gc, irq"
+Jani na.,P,id
+"Ami mone kori family supports diye shuru kora bhalo. Ar usually eta beshi bhalo hoy, karon tumi typically ekjon ke toh pabei. Jodi ami eta boli, jodi suicidal thoughts dramatic change hoye, jekhane tumi feel koro tumar life er jonno danger ache, tumi seriously contemplate korchho. Ha, tahole 911 call koro.",T,"gc, cv"
+"Thik ache, thik ache.",P,crq
+"Less than that though, mane jodi just ektu worse hoye jay. Use your supports. Tumi try korte paro amake contact korte, jodi ami available thaki, ami tomake phire call korbo. Ar jodi ami available na thaki, hote pare ekhane kono counselor ache je available. Kintu abar, jodi kono karon e, prottek remedy attempt unsuccessful hoye jay. Tumi through paoa jachcho na, tumi sobsomoy directly ekta inpatient facility te jete paro. Thik? Ba 911 call korte paro. Eta relatively extreme measures mone hote pare, kintu tomar life harano ta aro beshi extreme hobe.",T,"gc, cv"
+Sotti.,P,cr
+"Kintu ami emphasize korte chai, beshirbhag somoy family touch kore ar support niye asha beshi help kore. Thik? So prothom 911 call kora hobe sudhu jodi eta dramatically worse hoye jay jekhane ekhon ache theke. Thik ache, eta sense kore?",T,"id, yq"
+"Ha, sure.",P,op
+"Shesh kotha ami tomar sathe bolte chai intake session er aage, ami chaichi dhonnobad janate je tumi eshecho. Thik. Ar ami jani intake gulo relatively dry hoye thake. Mane, tumi kotha bolcho ami likhchi, ami information neyechi. Eta amar jonno khub helpful hobe, poroborti treatment er jonno. Kintu ami realize kori eta traditional understanding na je client der kache counseling er.",T,id
+"Ha, thik ache.",P,ack
+"Shudhu data supply kora counselor ke sobsomoy, thik? Amra asole ""real sessions"" e jabo next time shuru korle. Kintu ami chaichi dhonnobad janate je tumi patient thakar jonno ei process er moddhe. Eta sotti amader help korbe beshi valuable hote, tumi beshi value pabe oi sessions theke.",T,id
+Thik ache.,P,ack
+"Ar ami encourage korte chai, ami jani intake e tumi je kichu bollcho, tumi down feel korcho, tumi coworkers er sathe bhalo relate korte parcho na, mone hoi tumi nijer kache disappointed feel korcho kivabe tumi tomar bachcha der ar husband er sathe relate korcho. Jemon, not a good mom, not a good spouse. Ei sob thoughts understandable context e down hote ba maybe depressed hote, thik? Jodi eta chole, mone hoi eta hote pare.",T,id
+Ok.,P,ack
+"Amra figure out korbo jokhon amra move korbo ar work toward a diagnosis. Kintu jokhon tumi therapy te commit korbe, ar counseling e regularly asbe, ami asha kori ei symptoms improve hobe. Ar onek somoy hoi, obviously ami guarantee korte pari na, kintu onek somoy hoi. Tai ami chaichi tumi bujho je asha rakha valuable, ar bhalo jinisher dike takano. Ar bujho je tumi ekta boro step niye eshecho ekhane ajke. Ar eta kothin chilo, sob question er answer dite, sob kichu rehash korte. Ar counseling er kaj nijei challenging hote pare. Kintu ami mone kori eta worth it. Jodi eta bhalo chance thake, ami mone kori thake, tomader feel improve korar. Tai ami tomader commitment er jonno applause kori, encourage kori je tumi first session e asho ar prottek session e asho ar ei process ta diye really work koro. Tumi amar kache kono question ache ki ajke shesh korte aage?",T,"id, yq"
+"Umm Na, mone hoi na.",P,on
+"Jodi kono question arise hoi, ami jani amar kache, ami sobsomoy best question gulo mone kori ami chole jawa por. Jodi ami ekta environment e thaki jekhane ami supposed to question korar, ar keu bolen, sobsomoy ami amar gaari te uthe mone kori. Ha. Tai jodi eta tomader sathe hoi, feel free amake call koro ar ekta message rekho. Ar ami khushi hobe tomake answer diye phire asar jonno as soon as I can. Tai ami look forward kori tomader dekhar jonno next week.",T,id
+"Okay, bhalo.",P,ack
+Abaro dhonnobad.,T,gc
+Dhonnobad.,P,gc

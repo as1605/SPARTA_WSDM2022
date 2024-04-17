@@ -1,0 +1,71 @@
+Utterance,Type,Dialogue Act
+Ami ki aj korchi?,T,gt
+"Ami bhalo korchhi, thank you. Apni kemon achen?",P,gt
+Ami bhalo korchhi. Jigasa korar jonno dhonnobad. Ami bujhte parchhi apnar emon kichhu symptoms royeche ja apnake idaning birkto korche.,T,gt
+Parbe tumi? Apni je somporke amake bolte paren?,T,irq
+"Okay, ami eimatra ekta apartment-e chole esechhi.",P,id
+Ei prothom je,P,id
+Ami amar nijer upor achi. Ebong ami dhorener shunechi je keu dacoity hoyeche ebong tarpor theke. Ami amar apartment-er bhul hobar bishoye ekdhoroner nervous.,P,id
+Keu mugging hoyeche. Apni jekhane bas koren tar kachakachi.,T,crq
+"Ha. Eki complex-er keu. Okay. Tai majhe majhe jokhon ami ghumacchi, ami majhrate jege utbo, ebong ami vabbo je",P,cd
+Ami door lock kore dilam. Door ki locked? Ar ami ar ghumate pari na.,P,cd
+Abar ghumate koto kkhon lage?,T,irq
+Kokhono kokhono eti ek ghonta dui somoy lage.,P,id
+Ebong sei somoy apni ki chinta korchhen?,T,irq
+"Ami shudhu chintito je ami door khule rekhechi. Ebong majhe majhe ami shobdo shunte pabo. Ebong ami mone kori hoyto keu apartment-e aache ba ami shudhu, ami ghabre jai. Ami shudhu bhoy pete.",P,id
+Je bhoyankar shonacche.,T,ack
+Ebong apni koyek ghonta dure thakte bolechen.,T,gc
+Ha. Tai,T,gc
+Ha tai ei ei apnar jonno somossa hoy. Apni ki kokhono uthe door check korechen?,T,irq
+"Ekhon ami bichanay bose achi, ebong ami shudhu eti somporke chinta korar chesta kori.",P,id
+Tai apni shudhu eta somporke chinta korte thakun. Somoyer sathe sathe eti ki aro kharap hoy? Naki eta bhalo hoy? Ki ghotechhe?,T,irq
+"Eta pay, eta kharap pay.",P,id
+"Mane, ami abar ghumie porar chesta kori, ebong ami bichanay shuye thaki ebong ami shudhu vabi, apni janen, hoyto ami door khule rekhechi. Ebong tarpor ami vabte thaki je hoyto eti lock kora hoy ni.",P,id
+Tai eki vabe cycle chalate thakun,T,yq
+Ha.,P,ack
+Apni ki kokhono onno kichhute focus korar moto ei chintaguli dure jawar chesta korar jonno kichhu koren?,T,irq
+"Um, accha, amar upore ekta ceiling fan-er moto ache. Tai majhe majhe, ami shudhu pachhondo korbo, gonona korbo kotobar eti ghure jay ebong eti somporke chinta kora theke nijek ke distract korte. Kintu ami ekhono door khola hocche somporke chinta. Kokhono kokhono eti sahajjo kore.",P,id
+"Thik? Sutara apnar ekta bhoy ache je keu apni jekhane thaken sekhane break-in kore prabesh korte choleche, ebong apni rater bela dorjaguli secured kora hoyeche kina ta niye chinta korchhen. Je hoyeche je somossa hoyeche. Ar kichu?",T,irq
+"Um, majhe majhe jodi ami kajer jonno rawna hocchi, ami amar garite utbo ebong ami vabbo ami chul straightener korte deb. Ar ami mone mone vabbo, amar ki phire jawar uchit? Ami ki korte hobe ta jani na. Ebong ami thik korbo, mot, bitorker dharoner ki na amar thik double check kora uchit. Ami shudhu chintito je ami jodi straightener-ke kichhute chere dei, apni janen, eti ghote,",P,id
+Apnar ki mone hoy?,T,orq
+"Okay, mane, ami jodi strainer-ta kono kichur upor chere dei, apni janen, eta jodi amar kache clothes ba onyo kichu thake ebong eta sei porar moto chaturdike thake, athoba jodi ami kichu chai na. Ami burn down setup korte chai na somporke nervous chilam.",P,od
+"Tai jokhon apni chole jan, apni bhabchen eti ekta hairspray chilo apni ki eti unplug korechen kina ta niye bhabchen? Naki off korben naki?",T,yq
+Ha.,P,ack
+Ar kotodin esob bhabna chalte thake?,T,irq
+"Shadharanot ami amar garite utar age eti somporke chinta kori, ebong ami prefer kori, well, maybe ami just etike unplug korechi ebong ami eti off korechi ta nishchit korte jete habe. Ebong tarpor maje maje diner belay, ami kaje thakbo ebong ami focus korte pari na karon ami chinta kori, ami fire asbo ebong ami apnake dekhte pabo, amar apartment-ti purre geche tai ami strainer-ti plug kora rekhechi bhitor.",P,id
+"Thik ache, tai mone rakhaben je dorja diye apni bolchen je apni sei chintagulor sathe lorai korchhen, kintu apni uthle dorjati check korben na. Apni ki kokhono fire eshe dekhechen je kichu baki chhilo kina?",T,crq
+"Na, ami korini. Kintu eta shudhu ami eta somporke chinta. Ami jodi eta chere ditaam. Jodi ami eti chalu kore thaki ba plug in kori.",P,cd
+Tai apni udvigno chintito,T,yq
+Ha.,P,ack
+"Ha, bhoy?",T,yq
+Ha oboshsho. Sob tinoti.,P,ack
+"Ebong kivabe, kotoghan ghono eti ghote? Chinta chokrer moto?",T,irq
+Shombhoboto sara din.,P,id
+Tai protidin?,T,yq
+"Protidin, ha.",P,ack
+Ar kotodin dhore ei cholche?,T,irq
+"Jokhon theke ami chole esechi, ami anuman kori apartment-e. Tai ami ek bochor anuman somporke",P,id
+Ei nirdishto ek bochor,T,crq
+Ha,P,cd
+Ebong sei bochorer somoyshimo ar kharap hoy ni.,T,yq
+Ha.,P,ack
+Ha. Eta kivabe shuru hoyechil?,T,irq
+"Um, eta shuru hoyechil thik, apni janen, ami ghumate jabo ebong ami alo te jege uthbo ebong aj rate nijek e bhabbo, dorjati ami nischit je ami dorjati lock korechi. Ebong tarpor ami thik hobo. Ami abar ghumate jete pari ebong ete pari, na, amar mone ache ami eti lock korechi. Kintu tarpor eti agroshor hower sathe sathe, ami sotyi, ami sara rat ekadhikbar jege uthtam. Ebong ami korbo",P,id
+Eta shudhu amake up rakha hobe.,P,id
+Apni eta somporke chinta hisebe ami uchit.,T,yq
+Ha,P,ack
+"Thik ache, ami aro kichu proshno korte chai, ki ghotche ta ber korte amake sahajjo korar chesta korun. Apni ki kokhono mental health-er obosthar moto kono obosthar sathe nirnoy korechen?",T,yq
+Na,P,on
+Ekta medical obostha ache?,T,yq
+Kokhono na.,P,on
+Apni ki kokhono alcohol ba onno kono podarth byabohar korechen?,T,yq
+Na,P,on
+Ebong apnar jibone ki ei prothom apni ei lokkhonguli anubhob korechen? Ek bochor age theke shuru kore ekhon porjonto?,T,yq
+"Ha,",T,ack
+Age kokhono erokom kichu na.,T,yq
+Na,P,ack
+Ami ekhane amader poramorshodatader ekjon er sathe dekha korte apnake pete jachhi.,T,ci
+Thik ache,P,ack
+Ami amar sathe ei somoy kata te apnar prashongsha kori. Ki ghotche ta bojhar chesta kora amar pokkhe sahayok hoyeche.,T,gt
+Dhonnobad.,P,gt
+Dhonnobad,T,gt

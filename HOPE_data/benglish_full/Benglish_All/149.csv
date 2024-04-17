@@ -1,0 +1,94 @@
+Utterance,Type,Dialogue Act
+"Hi Ann, kemon acho aaj?",T,gt
+"Ami thik achi, Dr. Grande, tumi kemon acho?",P,gt
+"Ami bhalo, thanks for asking, ki kotha cholche?",T,"gt, irq"
+Kono beshi paribartan nei dawai-front e.,P,id
+Mm hmm,T,gc
+"Tui jano, Adderall e ami khub jhamela korchhi.",P,id
+Adderall-e akhono jhamela hochhe?,T,crq
+"Haan. Ami jani na ki korbo karon ami bujhte parchhi na. Kintu ami jokhon nei, tokhon ami... kichhu korte pari na.",P,"cd, id"
+"Thik ache, bolo to",T,gc
+Eto kichhu je tokhon oikhane thakche.,P,gc
+Always available?,T,crq
+"Always available, haan. Ba kichhu somoy.",P,cd
+Tui kichhu mishti mone korchhis na. Ei bujhte parchhi.,T,gc
+"Haan. Haan. Jeno ami janina, ami banchte chai",P,gc
+"Mone koro to, tui mone koro to banchte chai?",T,yq
+"Haan. Na, chai.",P,op
+Chao?,T,crq
+"Arey bhagwan, dekho, ami mone kori pagol. Kintu ami janina keno, bhalo hoto jodi amar jibon e thakto na.",P,cd
+Kintu obosheshe toh eto-i toh thakche?,T,crq
+"Aar ami ki korbo janina. Ami mone kori, jodi amar roommate na thakto, tahole kichhu hoto na. Bhalo lagto.",P,cd
+Tui toh Adderall-e amar ghore thakte somoy bhalo pabe na?,T,crq
+Haan.,P,cd
+"So jodi tomar shoririk roop e na thakto, jemon tomaar roommate er shathe oi apartment e?",T,crq
+"Haan, jemon jodi ami oh my god amar ma-baba'r shathe firbona, athoba ar keo shathe thakbona, I guess. Oh my god, move? Ki ekta bostami, kintu ei shomossha roilo, eto accessible.",P,"cd,id"
+"Tai to tomar moto shune dichche je, shayad tumi ichhe korona dawar pawa shesh korar jonne jabar?",T,gc
+"Shomossha thik to, tomar moto. Haan, eto bhalo. Karon ager moto ami khub ichhe kori nai kintu, obosshoi kichudin iccha kori, ami shuntei jai. You know, kintu beshirbhag samoy ami ei shathe thakte chai na. Tumi bujhte parchho na?",P,"gc, id"
+Tai beshirbhag samoy to tobuo tomar jonne kichu anubhuti ase. Tumi iccha koro to use koro kintu beshirbhag samoy tomar jonne bina etei thakte chai?,T,"gc, yq"
+"Eta amader jonne kaaj korte kheye khub sohoj. Ami kichu tablet nio ar boom boom boom, ami mane,",P,on
+Tai tomar jonno kichu labh ache?,T,yq
+"Haan, nishchit. Nishchit. Ar ami etei besh habit hoye gechi. Tai eto comfortable ar",P,op
+Eto comfortable ar tobe tobe productive thakar upay. Kichu dosh ache?,T,"gc, yq"
+"Haan, ache. Jokhon na thakbe tokhon, crash ta, eta ekta besh kharap crash ar amar kichu kora hoy na. Jano, eta, eta, ar ei je bhalo hoi nai. Ami ei jibon chhari na.",P,op
+Tai eto dukkher?,T,yq
+Eto dukkher. Nishchit. Nishchit. Eta ekta jaal er moto lagchhe. Ami ber hoyar ichha kori.,P,op
+"Ar ekta chinta tomake mone hochhe je shune potential e chilo, shune potential e apartment theke ber hoar chinta chilo, karon tahole tomaar aage jodi Adderall er access na thake, athoba access pawa kotha na.",T,crq
+"Oh my god, sometimes besh odd lagchhe. Sometimes mone hoy je eto bhalo ideata. Ar sometimes mone hoy, No, no, ami bujhte chai na. You know kinda cut off hobona kintu ami mone kori ami tai tai amar ready.",P,cd
+Tumi mone koro tomar jonno ei somoy tule neoa uchit?,T,orq
+Haan,P,od
+Ar ei bahir hoye jete dekha jay kintu tomar jonne tai korte hobe. Karon sei jaigai thamle bari theke jibon bitano hoy.,T,crq
+"Haan, haan, mone hoy tumi right.",P,cd
+"Mone aache, ageo toke ei rokom korar chesta korecho na? Aar, aar last kichu mas dhore, tor roommate-er sathe, jara toke seta deben. Ei obosthay toke oi atyantobad dekha jachche.",T,gc
+"Haan, o khub bujhche na. O bujhche na je eta amar jonne koto problem.",P,"gc, id"
+"Ei, tor mayer shathe thakar kono dosh achhe ki?",T,irq
+"Maa-baaper shathe thakar moto, amar e boro hoye geche, etao ekta ektu shorsho kore lage.",P,id
+"Thik ache, shorsho hote pare.",T,gc
+"Haan, eta haranor abostha, lokkho-lobon, ebong amar ma o amar kajer moddhe ondhokar kore ache.",P,gc
+Tai Paris-e chole jawaar jonno kono asubidha ache ki? Ar obossoi baire chole jawaar alawa anya kichu sukhsojjo ase je jeta Adderall thike torke alada kore debe?,T,crq
+Ami ki tomake laundry korte parbo? Full stock fridge?,P,cd
+Haan.,T,gc
+"Haan, amar baba amar gas tank bhore felbe.",P,gc
+Age ki hoyeche?,T,gc
+Hm.,P,gc
+"Tai ei plan-er kichu asubidha aache, kintu kichu sukhsojjo o aache. Aar ekta boro sukhsojjo holo etao je tor Adderall theke alada kore rakha.",T,crq
+"Haan. Aar etao obossoi amar puron jiboner jonno hote hobe na. Ekhon sudhu, drug er shathe sei apartment theke ber hoye jete.",P,cd
+"Sei drabya theke torke alada kore felbe, aar poroborti tor bari chole jete paro.",T,gc
+"Oh bhagwan, korte chai ki? Mone hoy khub bhalo, kintu mone kore dekhar por, khub bhoyonkor hoye jay.",P,gc
+"Tui kemon mone koro, mone kore dekhar por ki asche?",T,irq
+"Oh, amar matha ghuraye uthche, sei anubhuti. Tui jodi kichu khub ichhe koro, kintu seta pele mone hoye na. Se desh, je ami ete thakbo, seta amar nijer choice hobe.",P,id
+Sei to. Hobe.,T,gc
+Mone hoy na.,P,gc
+Kothay?,T,yq
+Haan.,P,op
+"Agey toh lagchilo tomar ekdom ei paribartan ta chai, na? Tai toh, kichhu jinish mone korte ache tomake.",T,"gc, crq"
+"No, janis to. Tumi beshi right, ami berote chai, ar ei ekta choice noy amar jonno. Jei bolechhi, amar kachhe hamesha choice ache, yes or no, kintu choice ta hamesha Yes.",P,cd
+Tumi Adderall ta hamesha use koro?,T,yq
+Haan.,P,op
+"Tai overall situation ta bujhte chai. Tomar roommate er shathe thakbe, sei role ta ache or shei Adderall ta tomake available kore, ar tomake use korar jonno.",T,crq
+Haan.,P,cd
+"Tumi oshombhob korar chesta korechho, kintu sei kaj ta tomake kaj kore na.",T,crq
+"Haan, haan, eto sohoje. Ar ami tomake use korte chai na.",P,cd
+"Tumi tomake use korte chai na. Kintu tomake use korchho. Specially karon, dekho, toke right there e dekhe, shei Adderall ta ache, ar sei behavior ta stop korte beshi kathin. Aar ekta possible decision ache, back home move kora, jeitar kichhu dosh o labh ache.",T,id
+"Haan, toh toh. Fully stocked fridge thakle bhalo hoto.",P,gc
+Tai ekta positive aspect ache.,T,crq
+Haan.,P,cd
+"Eita hobe na sudhu drug use korar theke beshi, eita tomake fit korbe, boro jeet hobe tomake jonno.",T,gc
+"Haan. Aar amar ma thakbe kotha bole toh. Haan, haan.",P,gc
+Tai cholo kore dekhi. Ektu mone hoy tomar ei dikei shoho. Thik toh?,T,crq
+Okay.,P,cd
+"Pun intended na, kichhu mone hoini. Kintu toke mone hoi ei dikei valo hote pare?",T,crq
+Haan.,P,cd
+"Toh, agle session er jonne, cholo ekta plan kori, eta mane kichu korar dorkar nei. Ekhon sudhu eta hobe je tora ki kore ghar theke bahir hobe, maa-baba ke kotha bole, kichu financial arrangement, roommate er sathe, tora sob kichu bahir niye elo, moving er logistics, cholo shob kichu step gulo niye chakri kori.",T,gc
+Okay.,P,gc
+"Ar firm plan ta ek sathe tola jaak. Ar bhalo, tobe toh tora jokhon ichhe korbi, mone mone pore dekha korte parbi.",T,gc
+"Okay, thik ache.",P,gc
+"Tobe ekhon ami bolchi, ei point e amra sudhu sudhu plan kori, dekhi kibhabe dekha jai.",T,gc
+Eta toh kichu utsahjanak.,P,gc
+Utsahjanak ?,T,crq
+"Haan, oboshhoi. Ami parbo.",P,cd
+Tai toh amra dekha hobe next week e ?,T,gc
+okay,P,gc
+"Ar amra jekhane chhodiyechhilam, seikhane thekei shuru kore, ekta plan korbo ar dekha jabe eta kibhabe kaj kore.",T,gc
+Cool. Thik ache.,P,gc
+Dhonnobad.,T,gc

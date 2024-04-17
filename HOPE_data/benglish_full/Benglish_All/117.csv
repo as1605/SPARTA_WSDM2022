@@ -1,0 +1,26 @@
+Utterance,Type,Dialogue Act
+"Jasmine Hi, ami Heidi. Ami tomar counselor ajke. Amra ekta room-e dekha hobe, seta aro private ekta jaygay, ei area-te.",T,gt
+"Haan, cholo.",P,ack
+"Tai, amra just hole-e uthe right-e jabo, tarpor left-e ekta room ase. Ami giye jai?",T,yq
+Thik ache.,P,op
+"Aasho Jasmine. Ei holo room. Ei jaiga-te ajke meeting hobe, ar tumi firbe gele, firte hobe ei room-e. Pehle tumi ebar shorirghuri koro, dekho kothay boshte chao. Kothay boshte chao. Ota ache sei boro chair-e. Haan, tai, tumi ready hote parle, chair-er dike jao. Ar ami dhor baniye dibo. Ar tumi kothay boshte chao, ei room-e boshte chao, seta bolbe?",T,id
+"Tumi chaile ami kothay boshte chai? Sei, sei thik ache.",P,gc
+"Thik ache. Tai, tomake nio aami vule yaar dekhte, room dekhte. Ei notun jaiga-te amader ashar age tomake ei jaiga-te kono kichu vorti holo na. Dekho, tumi chao tomake kothay boshte chai. Kono kichu tomake chokher shamne vorti hote dekhte, kono kichu jeta tomar chokh-e bhalo lagbe, room-e vorti hote dekhte. Bahutei lok, bahutei somoy notun jaiga-te ashe, tader bhalo lagbe. Amra bhi kore bahutei chao vorti hote. Tumi eikhane ashar jonno kivabe bhalo lagte pare, tai? Haan. Haan. Eikhane tomar jonno kivabe bhalo lagte pare, seta bolte chai?",T,yq
+Haan.,P,op
+Ota-ta tomar pet-e pillow-ta thakle kemon lagche?,T,irq
+Bhalo lagche.,P,id
+Haan. Tomar hat-e tight kore dhora thakle kemon lagche?,T,irq
+Haan.,P,op
+Tumi ekhane kivabe eshechho?,T,irq
+Amar maa amake eshe niye aslo.,P,id
+Kintu tini ekhane ache?,T,crq
+"Na, tini ekhane nei.",P,cd
+Tumi keu tomar jonno pick-up arrange korechho?,T,yq
+"Haan, haan.",P,op
+"Man, tumi somoy dekhte jaccho. Tumi maa-k-e ki somoy pick-up korar jonno bollechho?",T,irq
+"Ami ekhane theke hote eshe, half an hour.",P,id
+"Half an hour-e. Ei shomoye tomar chokh-e vorti hote ekdom ekta valo idea chhilo na? Ota-ta tomar jonno valo chhilo, seta ki? Eikhane thakar jonno tumi koto somoy thakte chao? Jodi tomar jonno ekta choice thake tomake eikhane amar sathe koto somoy thakte chao, seta koto hobe?",T,irq
+"15 minutes, shayad aro 15 minutes.",P,id
+"Thik ache, shayad, shayad.",T,ack
+"Haan, bhalo lagche.",P,id
+"Bhalo lagche, haan. Tumi maa-k call kore bolte paro je prothom session chhoto hoyeche. Haan. Karon ei jaiga-te thakte amon kichu jinish gulo dekha-ta besh kathin hoye jay. Agency-er naam-ta dekhe lokera bhoy peye ashe. Bhobishyate amra kon kotha korte parbo, seta o dekha-ta besh kathin hoye jay. Tai, eikhane thakte oboshhoi katha barta kotha tai besh boro. Ar tumi khub bhalo kore ei kaj-ta korcho. Tumi khub bhalo korcho. Haan. Ar ami tomake eikhane achi.",T,id

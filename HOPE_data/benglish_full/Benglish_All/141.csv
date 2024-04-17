@@ -1,0 +1,221 @@
+Utterance,Type,Dialogue Act
+"Hey Lewis, kemon acho aajkal?",T,gt
+"Ami thik achi, tumi kemon acho?",P,gt
+Ami oshadharon. Tomar kotha ki kemon cholchhe?,T,gt
+Cholche to.,P,gt
+"Abar amader prothombar kotha hochhilo, shunechi tomar quizz-e kichhu mushkil aachhe. Mm hmm. Ei obostha to akhon o thik ache?",T,"gc, od, yq"
+"Ha, akhono to. Quizz-e dhukar shomoy o kotha.",P,id
+"Quizz-ta neyar process er kotha bolo to, amra ekhon aroto pechhona korlam.",T,irq
+"Okay. Tai class-e giye boshe thakchi, shuru tei thik achi. Quizz-ta amar samne ache, question one. Ami bojhte parchina tai.",P,id
+Tai tumi erokom class-er modhye quizz gulo necho?,T,yq
+Ha.,P,op
+paper er opor pencil diye?,T,crq
+Hmm hmm,P,cd
+"Okay, ar onno shikkhok gulo tomar pashe?",T,yq
+Ha.,P,op
+"Thik achha, onno shikkhok gulo tumi kebolotar sathe kono obostha dekho?",T,yq
+"No, online class-eo ei shomoy jenoi eki holo.",P,on
+"Tai toh, tomar moto bhabte ekhono to quizz gulo nei.",T,crq
+Hmm ha.,P,cd
+"Okay. Tai paper and pencil diye class-e boshe, room relatively distraction free.",T,crq
+"Ha, ha, sobai shant.",P,cd
+"Ar tomar bujhte giye prothom item-er upor takao, ki hochhe? Bujhte giye tumi ki bhabcho?",T,"crq, irq"
+"Ami mone mone bhabchilam, oh amar bhagwan, chhere chilo char. Okay? Tai toh ekta ota hote hobe. Ami toh ektai bujhte parchina. Ami mone korchhi ami ektai bujhte parchhi ar ami amar ei bhagya nebo na. Ami mone korchhi ami ekta bujhte parchhi ar ami amar ei bhagya nebo na.",P,"cd, id"
+"Okay, toh tomar bhabna hochhe je tumi galti kore, ar tai toh quizz item ta galti habe.",T,crq
+Ha.,P,cd
+"Kemon hocche jonno? Like, tomake kichu sharirik kichu ektu observe kora jay? Jokhon tomake mone hochhe o quiz item ta nie mone mone mone and tomake call kora hobe, takhan ki physically kono paristhiti mone hochhe?",T,irq
+"Amar hatgulo bhoye jay, mone hochhe, amar chokh mone mone tight hote pare, ekdom tense mone hochhe.",P,id
+Ektu tense ?,T,yq
+Haan. Eta ekdomi ase.,P,op
+"Tai mone hochhe je, eto tension mone hocche, eta mone hochhe, ""Ami eita bhul kore dichhi"" mone mone, eta o discomfort er jonyo jeno karon. Thik ache. Tai item one er uttar diteo ki hoy, ki tumi bujhecho je tomar uttar thik na thakle tobe. Karon eta paper-and-pencil, tate tomake tobe immediate bujhano jay na, ekhane tai uttar diteo, ekhane uttar diteo, tahole ki hoy?",T,"crq, irq"
+"Shuru hoye jay abar. Ami jantei pari jeno, pehla ta ami to khule felechi, ar ekhane mone hochhe je, pehla ta jodi ghalt thakto, tahole ekhane o galt thakar obhab e beshi hoye jabe.",P,"cd, id"
+"Tai jodi tobe, karon tomake lagche je pehla ta ghalt hoye geche, tahole tomar obhab e ekhane uttar diteo, tai tomar ekhane uttar diteo, tahole ki hoy?",T,"crq, irq"
+"Abar shuru hoye jay. Karon ami mone hochhe, pehla ta jodi ghalt hoye geche, tahole ekhane amar obhab e ekhane ekta cycle shuru hoye jay jeno, pehla ta ekta ghalt obhab er sathe.",P,cd
+Thik ache.,T,gc
+"Jodi ami pehla ta ghalt uttar diteo, toh porer test ta toh hoye jabe ghalt.",P,id
+Tomar jibone toh kono quiz holo jekhane tomar mone hochhe je tomake pehla ta thik hocche?,T,irq
+"Achi toh, mone hocche, kintu ami kono kichu mone kori na.",P,id
+"Kintu eventually toh tomar joto ta quiz thakbe, tomake obhab hobe jodi ektu doubt thakbe?",T,crq
+"Haan,",P,cd
+Thik ache.,T,gc
+Inevitably ei hote thake.,P,gc
+"Thakbe ekta jeta moha kom difficult hote pare, ar tomar jonno moha difficult. Tai toh tomar katha hocche je jokhon tomake sei item ta pochhondo mone hocche, sei theke porer item ta, seta moha difficult karon tomake sei obhab ta mone hocche. Ei pattern ta jeno jari thake?",T,gc
+Pothei test? Haan.,P,"crq, gc"
+"Tai bolo toh amay, cholo, example hishebe chaliye neya jete pare, pehla ta. Ar pehla ta toh kemon holo, karon ei mone rakha jay je ami sei item ta ghalt dichhi, na?",T,"gc, crq, irq"
+"Sei item ta baar kore barte thake, ami beshi beshi bhalo mone hoi na, jokhon quiz ta cholche.",P,id
+Ei toh kharap. Ami toh ektu kharap anubhuti korchi.,T,gc
+"Haan, thik bolecho.",P,gc
+"Tai, tomay porjonto panch ya saat tolar por?",T,crq
+"Ami biswas korechi je, ei shesh. Ami mone kori, ekhon toh shesh hoye geche. Ami zero-e pore gechi, jodi pahela na hoy tobe ami zero-e pore gechi, karon kharap marks peyechi.",P,cd
+Thik. Tai tomar mone ki achhe.,T,yq
+Uhh hmmm mm,P,on
+"Ar tomar sharirik ojon ki? Same, alada naki notun ojon?",T,irq
+"Jodi ta shuru hoye jay, exam er shurutei? Amar mon ta kintu ebar ebar dhorche, kintu ami akhono paay diye achi. Aamar haath chhilo sweaty, ami akhono chhilo, abar tension achi.",P,id
+"Tai toh ei tumi mone korecho, manush korte gele manoshik o tarpor sharirik toh ovhinoy hoye jay.",T,crq
+Mm hmm. Haan.,P,cd
+"Tai, tor bolte gele, panicti mone hoi, panicti toh khub shomoy hoi, tobe shuru hoye jay kichhu item miss kore toh jay.",T,crq
+Mm hmm.,P,cd
+"Eto somoy theke toh hocche, jemon toh toke chhobi korechi.",T,crq
+Haan.,P,cd
+Tobe tomar grades kemon hocche? Tomar quiz-e kemon kore toh darun ki na?,T,irq
+Ami ekta bhalo B student.,P,id
+Umm hmm.,T,gc
+"Tai ami mone kori ami bhalo korechi. Ami wish kori ami A peye thaktam, kintu ei B gulo oto bhalo.",P,"gc, id"
+Tui ki mone kori tor porashona shokolke dekhe thik mone hoy? Tui nijei ki bhalo bolte pare?,T,irq
+"Ami chesta korechi, ami workshop niechi, ami mone kori ami bhalo pori. Ami bujhechi ki ki kaj kore na. Tobe ami pora shuru kori chapter gulo, outline niechi, flashcards review kori, jeta amar jonno bhalo result dei.",P,id
+"Thik ache, tai tomake mone hoy tui bhalo student. Ar quiz-e tomar score toh bhalo. Kintu quiz neite tomar ei asuvidha jantrona r mone hocche tomar kichu mone hoyeche, aro byatha utheche?",T,crq
+Haan.,P,cd
+Etoi thik mone hochhe?,T,crq
+"Haan, eto-i thik.",P,cd
+"Tai bodhoy tomake performance ta tei obostha tei rakhte hobe na. Tumi mone rakhbe, tomar vichar, bhavna, ebong kriyagulo tei obostha tei rakhte hobe. Haan. Tobe tomake ki bhabe ei quizzes gulo niye react koro, ta hote pare.",T,id
+"Haan, karon ami B paoa jai, jeta ami bolechhi. Haan.",P,id
+Ar B paoa bhalo.,T,crq
+Haan.,P,cd
+"Tai bhalo, tahole ami tomake nie jete chai otekte, jokhon tomake prothom slide dekha hochhe. Cholo, oi moment e fire jete chai. Thik ache. Tui ekta quiz nie acho. Ebong prothom item ta dekhte tumi ki vabe mone korcho, ja keu bhule gechhe na, ota ta toh amra mone korechhilam, cognitive behavioral therapy er moddhe. Ja ache Mac thought, seta holo, ami ei ta bujhbo na.",T,"gc, crq, irq"
+Haan,P,gc
+Athoba something to that effect?,T,crq
+Haan.,P,id
+Tui oi vabe ki bujhchhe?,T,irq
+"Eta mane jokhon ami eti thik mone korina, ami anyo kichu mone korina, thik ache.",P,id
+"Tai dekhte gele, etai bolbo ekta intermediate belief, thik ache? Etoiy ekta niyom, athoba ekta apeksha, thik ache? Tui oi vabe ki bujhchhe?",T,"gc, crq"
+"Eta bhalo hoye jayna. Jodi quiz ta na hoy, tahole amar mone hochhe, oi porer sob kichu hobe na. Tai, porer gulo oto-i hobe na.",P,cd
+"Tai tui oto-i bhalo bujhecho, almost, ekta intermediate belief hishabe bolbo, thik ache? Etoiy ekta niyom, athoba ekta apeksha. Tui oi vabe ki bujhchhe?",T,"gc, crq"
+"Eto-i bujhlo, jodi ami quiz ta na pau, tahole ami bujhe jabo, oi porer din porer exam ta hobe na, oikhaneo ami fail hobo, ebong oitar jonno amar GPA te effect hobe.",P,cd
+"Tai aro kichu belief gulo stack kore rakho. Tui fail hobe, tai tui course ta fail korte parbe. Ar course ta fail kore gele, tui oi course ta graduate korte parbe na. Oikhaneo bujhle, oi course ta fail korle, tui oi porer final exam ta o fail korte parbe. Tai, ekhane, tui oi course ta fail kore gele, tui ke ki bujhbe?",T,"gc, crq, irq"
+Graduation hobe na.,P,yq
+Tui graduation korbe na?,T,crq
+Haan.,P,cd
+"Tai amra dekhechilam je arthik shonge porikkha dileo amra porikkha te fail hoye jai, thik? Ekhon porikkha te fail hoye graduation e fail hoye gieche, ar ekhon graduation hoteo hoye na. Tai, jodi tumi graduation na korteo, seta tumi jonno ki mane asbe?",T,irq
+"Ami ami ekjon shikkhok hote parbo na. Ami je kichu korte chai, seta korte parbo na.",P,cd
+Tai tomake shikkhok hote chay er jonno sthan neya sambhav hobe na.,T,crq
+"Hm, thik.",P,cd
+"Thik. Tai amra ekta kadam agei jai, ar bolbo, Jodi tumi shikkhok hote na pao, seta tumi jonno ki mane asbe?",T,irq
+Ami jani na ami tokhono ki hobo. Eto somoy ami amar kormo hisebe dekhechi. Tai tokhono ami jani na ami tokhono ki rokom bhabe dekhte porbo. Bina shikkhok hote.,P,id
+"Tai, jodi tumi eto bole de, ar CBT techniques ar conceptualization gulo mone mone porle. Jodi tumi setake ekta if statement hisebe bhasha korte, tahole ki hote pare? Tumi ki hobo?",T,"id, irq"
+"Ami ekjon manus jeta hoye giyechi na. Ami ekjon porajoyi manus na. Ami ekjon jeta asafalta hoye giyechi, eta amra agei bolchilam.",P,id
+"Ami ekjon jeta hoye giyechi. Ami ekjon porajoyi manus na. Tai ek rokom, tomaar kotha moto, tumi bolchho, Ami ekjon asafalta.",T,id
+Hmm.,P,gc
+Thik ache.,T,gc
+Hm.,P,gc
+Ei kacheo thik ache?,T,irq
+"Hm, Thik ache.",P,id
+"Tumi mone rekho, amra ager kotha bolechilam core beliefs er bishoye, ar kivabe ei core beliefs gulo, tomar moto, intermediate beliefs gulo ke niye jay, ebong tomar moto quiz neoya, ei rokom situation gulo ke niye automatic thoughts gulo banay.",T,crq
+Hm.,P,cd
+"Tai tomar ekta core belief hote pare je, tumi ekjon asafalta. Tumi seta vabe manteo pare.",T,crq
+Thik ache.,P,cd
+Eta ki tumi agei nijei bolecho naki mone korecho?,T,yq
+"Ei rokom mone korechi, eta amar sathe relate kora jai.",P,op
+Mmm hmm.,T,gc
+"Ekhaneyo aksomoy ami feel korina, Oh, ami ei korte parbo na. Karon, ami, ami korbo na.",P,gc
+"Challenging na difficult na, kintu kichu tomar shathe kore.",T,"gc, crq"
+Hmm yeeah.,P,gc
+Thik. Tai ami bolchi tomake personalizing korecho?,T,crq
+Thik,P,cd
+"Tui nijei ke bolecho, ekti varied level-e. Ami unsuccessful hoboi? Ami korbo... eta ki bujhte perecho.",T,"irq, crq"
+Hmm.,P,cd
+Tui mone korchish eta ki hoche?,T,irq
+"Eta hoye thakte hobe karon, je ami bolchi, ami pori, ami valo grade paichi. Years ago test kora hoyeche, ami kono ADHD na peyechi, kichu antrik je jinish jeta bondho korbe.",P,id
+"Tai tomake focus korte pare, shantite pare.",T,crq
+"Hmm,",P,cd
+"Accha,",T,gc
+"Haan, ami sob kichu korte pari. Kintu eta eshe jaye, amar mone hoy, ami korte parbo na.",P,gc
+"Tai kothay, kothay eta eta dis core belief? Oi mone hoar chhilo je tomake mone hote pare je tumi ekta harapi?",T,"crq, irq"
+"Ami mone kori je tader shonge kono porichito hobe na. Amar mone hoy, tader mone hobe, ami bhalo korei pori, ami bujhte parbo na.",P,cd
+Tai tader mone hobe na je tomake harapi?,T,yq
+Na,P,on
+Tumi mone koro?,T,yq
+"Hmm. Bujhechi, Hmm.",P,op
+"Ar ekta example dhorle, jodi ekta classmate thake je sheta eki situation-e, othoba jaanina, je quiz er samay e chintar bhabna ebong bhavna ebong charitrer shonge ladas korche, tobe tumi tader ke kivabe evaluate korte chao?",T,orq
+"Ami bhabte parina, ami shobdhane dekha bolechi, tomi harapi na.",P,od
+Ar tumi evaluate korecho je tader harapi na.,T,yq
+Thik.,P,op
+Kintu jodi eta tomake niye thake. Tui kichu kore harsh.,T,crq
+Hmm.,P,cd
+Which isn't uncommon.,T,irq
+Thik ache,P,gc
+"Toh, ektu deeper level-e jawa uchit mone hoy. Ami eta ekta problem bole debo, kintu se basically ekta series of thoughts and beliefs. Thik ache. Pehla ta holo ground level-er comic, quiz neya shomoy. Oi shomoy tomake mone hoy, ei item ta miss korbo.",T,"gc, id"
+Ei ta amar thik moto hobe na.,P,gc
+"Hoy, ami ronge pelbo na. Ei holo tomake mone hoy, ami ronge pelbo na.",T,gc
+Ahmm hmm,P,gc
+"Ebong ei situation-gulor moddhe, ami encourage kori clients-ke ei apply korte, je bole adaptive response naki self talk. Tai ekta noun. Jodi tomake quiz nei, ekta shant classroom-e thako, tahole eto literally self taught hobe na.",T,"gc, id"
+"Thik, thik.",P,gc
+"Kintu ei holo ekta thought, je tomake conscious kore apply koro. Ei onno ekta thought tomake automatic mone hoy,",T,gc
+Thik,P,gc
+"je matha-te uthe ashe, thik.",T,crq
+Thik ache.,P,gc
+"Eta hobe ekta jinish, je tomake consciously mone hoye uthte hobe.",T,gc
+Aar ami nijei banabo.,P,gc
+"Toh tomake mone hoy, tomake nijer oi automatic thought-er tegeni ki hoite pare, je tomake mone hoy, tomake ei item ta ghulti hobe?",T,irq
+"Mone hoy, amar age quizzes-e, amar kache ei ghurte ektu beshi chance chhilo je, ami eita ghuchhiye nebo.",P,id
+"Thik ache, tai shudhu tomake mone hoy, ami ghuchhiye nebo, matha kharap mone hoye o.",T,id
+Thik.,P,gc
+"Chance ache, ami ghuchhiye nebo,",T,gc
+"Thik ache. Somehow, amar B ache tai.",P,gc
+Tai tomake beshi gulo ghuchhiye nebo. Thik.,T,crq
+Thik ache. Tai amar khub chance ache.,P,cd
+"Tai, eta amar adaptive response bhabe lagche. Thik ache tomake?",T,"ack, yq"
+Haan,P,op
+"Bhalo korecho, tai. Abar quiz neya shomoy, ami chai tomake ei adaptive response ta apply koro.",T,cv
+Thik ache,P,cr
+"Eta kaje lagche. Thik ache. Ei automatic thought ta tomake mone hoye ashbe. Ar tar age tomake bujhte parbe na, tomake oi feeling ta hobe.",T,id
+"Haan, thik.",P,gc
+Physical symptoms.,T,crq
+Haan.,P,cd
+"Toh sweaty palms-er kotha mone hoyeche, thik. Ebong oi feeling ta ami mone rekhechi,",T,gc
+"Haan, haan.",P,gc
+"Tai, ei symptom-gulo tomake discourage kore na.",T,gc
+Thik ache.,P,gc
+"Thik ache. Ei ekta antorjor thought ache, ar tomake bujhte hobe. Thik ache, first few times toh kichu rough hote pare.",T,gc
+"Haan, testing QA.",P,gc
+"Quiz'er ekta sundor bishay holo, ami mone korchi, I mean, ei quiz gulo te koyta item thake?",T,irq
+15,P,id
+"Tai to tumi ekadhik chance peye adaptive responses apply korte paro. Thik ache, to?",T,crq
+"Haan, ekadhik.",P,cd
+"Haan. Tui jani, tomake prathomei seta shikhano uchit, jekhane toke mone holo seta ami mone korchi, kintu jodi na hoy taholeo kono boro somossha noi. Thik ache? Tai, tomake mone hote pare, dui ya tin bar por. Ar tarpor mone hote pare, hey, amar eto kichu ache to.",T,cv
+"Haan. Oh, wait, seta mone korte hobe ki.",P,crq
+"Haan. Amar asha holo, jokhon tomake ei adaptive response ta bar bar apply korbe, tabe seta beshi bhoyonkor automatic thought ta ashbe na.",T,cd
+Haan,P,gc
+"Tai ekta level ami chai tomake or dike jete. Tai tomake eta bojha jeteche, seta ki theek ache?",T,yq
+"Haan. Mone hoy, ami korte parbo.",P,op
+"Eto kichu beshi bhabo, tomake mone hoy, tomake onno level e jete paro, ami mone kori eta beshi gahon, kintu sob ekdom mone koro, toke mone hochhe eto kichu.",T,"gc, irq, crq"
+thik ache.,P,cd
+"Okay. Ar deeper shabdtaa use korlam karon amra core beliefs ke shobcheye kathin mone kori, kintu tara atyanto sohoj bhabe shomvabe na.",T,gc
+thik ache,P,gc
+"automatic thoughts-er moto. Tomake chhayachhi ei idea-ta ke nijeke bishesh kore dekhte, jodio eto easy chunnoto-ta.",T,gc
+Okay,P,gc
+"Thik ache. Mone mone, tumi jantey paro je tumi na. Thik ache. Kintu aro ek bhabe, mone mone, tumi abar bodle jachho. Thik ache.",T,gc
+thik ache,P,gc
+Tai kichhu bhabe mone korcho tumi,T,crq
+ekta bishuddhi ache.,P,cd
+Thik ache. Thik ache. Ei ta ek shomoy porjonto.,T,gc
+"Mm hmm. Hm,",P,gc
+"Tumi mone korbe, tomar family bolbe tao na. Kintu tomar",T,gc
+"thik ache, lekha paoa, Technical bhabhe, ami. Ami na. Kintu ami eto-i mone kori.",P,gc
+Ei ekta bhag aachhe je tumi eto-i mone koro. Ei ekta bhag aachhe je mone koro janno. Ei ekta bhag aachhe je bhabcho janno je eto-i na.,T,crq
+thik ache.,P,cd
+Tai ami chai tumi eta ki vabe mone koro.,T,cv
+Okay,P,cr
+"Thik ache. Ebong ami mone kori je eta onno kothay lekhata valo. Thik ache. Eta note kortei hobe. Kintu aar, ebong ei onno beshi important, eta jeno eta ke utshorgo kore na. Etar khola note koro,",T,gc
+"thik ache,",P,gc
+"kintu duita, amader next meeting-e dekha hobe eta keno evaluate kora holo.",T,cv
+"Haan, amra to korte pari.",P,cr
+"Tai, oikhane, oikhane tomake bhalo lagche, ar tumi mone koro tader sathe somporko korte paro.",T,cv
+"Haan, korte parbo. Haan, ami nishchit vabe mone kori ami tader korte parbo.",P,cr
+Porer barer quiz ta kobe hobe?,T,irq
+"Mone hoy, porer shoptah.",P,id
+Porer shoptah?,T,crq
+Haan.,P,cd
+"Ok, ami jani ei quiz gulo kemon hoy?",T,irq
+Haan.,P,gc
+Thik ache. Tai amra ekta session set korbo porer shopta. Cholo dekhi porer quiz porer por.,T,gc
+Ok.,P,gc
+"Tai, amra sei somoye kotha bolar jonno thakbo. Mone hoy, ei holo porer kshetra te pragati korar jonno sundor. Ektu porer shopta pare.",T,gc
+Haan.,P,gc
+"Mone hoy, eta tomake kaj korte ichhe kore.",T,crq
+Haan.,P,cd
+"Tai, amra sei dike jabo. Tai ami ekta appointment set korbo, ei quiz er jonno. Jhorley uttar anuprerona kore dekha jabe. Taka.",T,gc
+Haan.,P,gc
+Eta shunle bhalo lagche?,T,yq
+"Haan, ami korte pari.",P,op
+"Thik ache. Ami appointment ta set korbo ar ami apnar ete aro kichu kaj korte astechi, ei kaj e bojhano jonne dhonnobad.",T,gc
+Haan. Dhonnobad.,P,gc

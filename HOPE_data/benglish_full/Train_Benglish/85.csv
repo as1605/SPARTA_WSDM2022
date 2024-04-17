@@ -1,0 +1,79 @@
+Utterance,Type,Dialogue Act
+"Hello, Pagi, tumi aaj kemon achho?",T,gt
+Ami thik achhi.,P,gt
+"Tumi thik achho. Eta shune anondito holam. Gatkal, apni jokhon agency-te chilen, apni koyekti bhinno poriksha diyechen. Mone rakhben, je?",T,yq
+Ami korechi.,P,op
+"Apni je porikshaguli niye chhilen tar modhye ektake SCL 90 bola hoy, uposorgo checklist 90. Apni ki sei porikshati neowar kotha mone koren?",T,yq
+Ami tai mone kori.,P,gc
+Eta 90 ti item. Ebong tara rank kora hoyeche.,T,id
+Amake satyo-mithya prashna jijnasha koren?,P,crq
+Satyo ebong mithya noy emon shongkha ja apni somadhon koren.,T,cd
+"Oh, thik achhe. Ami eta mone achhe. Thik achhe.",P,id
+Tai amar kache sei porikshar pholaphol ache. Ami apnar sathe ei pholapholguliro kichu porjalochona korte chai.,T,id
+Thik achhe. Thik achhe. Nishchit.,P,ack
+"Tai ei bishesh jontratite onekguli royeche ja amra sub scale hisabe ullekh kori. Tai ei elaka je jontratidwara porimapor kora hoy, dan? Uddharonsorupo, hotasha ba udveg. Tai ami ei sub scalegulir koyekti porjalochona korte jachhi, jekhane apni amader protyashar cheye ekto beshi score korechen. Ebong shudhu apnar sathe jarra porjalochona ebong dekho. Dekho apni ki bhobchhen amra kotha bolte pari.",T,id
+"Thik achhe, apni ki eti record korchhen?",P,yq
+Na.,T,on
+Eta niye khub chintit?,P,gc
+Apni ki mone koren je ami record korchhi?,T,yq
+Karon eti amar sathe onek ghote.,P,id
+Eta apnar onek ghote je apni record kora hoy.,T,cd
+Ami tai mone kori. Haan. Haan.,P,ack
+Shesh kobe hoyechhilo mone achhe?,T,yq
+Apni sambhabt gatkalo.,P,id
+Ebong apni mone koren je apni eti grhito korar somoy record kora hoyechhilo?,T,orq
+Sambhabt. Haan.,P,od
+Eta udvegjonok shonachchhe. Eta emon ekta anubhuti ja apni onek kichu pano je apni record kora hochhe.,T,crq
+Ami eti niye khub chintit.,P,cd
+Apni eti niye onek chintito.,T,cd
+"Kintu apni janen, eti ghoto. Sejonne ami eti niye chintito.",P,id
+Apni nishchit je eti ghoto?,T,yq
+Haan.,P,op
+"Jekhane apni ekhon record kora hoini. Ami jani. Eta sambhabt apnar moto mone hoy, kintu apni non. Thik achhe.",T,id
+Thik achhe. Kintu apni amar sathe ei udveg niye asar jonno ami prashansa kori. Ami school-e tai mone kori.,P,ack
+"School-e, tai na? Ami je bodhgommo hobe. Sutrarupo bolun, apnar percentile rank chhilo 65% sotti percentile, er mane hol je apnar score sei porikshati dewa 65% lok-er shoman ba tar besi. Thik achhe, bujhlen? Je janar jonno? Ami tai mone kori. Thik achhe. Apni jodi chan je ami pore phire ashi, tahole amake janaben je ami ei mohor diye jachhi je eti-r kono mane na hoy, thik achhe. Tai ekhane SCL pholapholer upor elaka, athoba apni amra shadharonot dekhte chai ekto beshi chhilo. Ekta holo phobik udveg scale. Je ek, apni prae 64% chhilen. Sutrarupo apnar score uchchho ba uchch hisabe chhilo. 64% lok jara eti grhito korechilo.",T,id
+"Jonosongsharer ardhek-e-o beshi lok-er kachhe,",P,crq
+Ardhekero beshi somkha ebong ardhek manush apanar moto bohirbibhage monoshik shasthyer chikitsay ekoi obosthaye royeche.,T,cd
+Tai beshirbhaag lokrer cheye amar beshi phobik udveg royeche.,P,crq
+Eta emon mone hoy. Hyan. Sutôrang ei nirman jinisguli porimôp korbe jemon bhid hoyar bhoye baire jete bhoy paoya. Je apanar sathe songgo kore? Je apanar ache je ek-ti bhoy moto mone hochhe?,T,cd
+Hyan. Thik ache.,P,ack
+Eta sompôrke amake bolun.,T,irq
+"Ami public transporte thaka pochondo kori na. Hum. Ebong bhid amake nervous kore tole. Jodi amake kono somoy jonoshomokshe kotha bolte hoy, amar mone hoy ami shudhu pass out kortey jachchi.",P,id
+Tai dekha jachhe apanar ek-dhoroner phobik udveger lakshon royeche. Tai aj sei score 64 shôtangsho. Je dhoroner arthe tole.,T,cd
+Ami eta bujhte pari.,P,ack
+"Ami porertite jetey chai, ja paranoya. Ei ek, aponi 84 tomo e chhilo. Shôtangsho tai besh kichuta unchute.",T,id
+Tai ki tumi amake record korchhile?,P,yq
+"Kintu eti, eti record kora hoy ni, ekhane kichui record kora hoy ni. Bujhun eti ek-ti udveg je apanar ache.",T,id
+Apani ki sei pholapholguli karor sathe bhag kortey jachchen?,P,yq
+"Apanar bishesh khetre, shudhumatro ei lokeder sathe baki chikitsa teamer sathe share korbe ebong apani jader jonno release korben,",T,id
+Kintu sorkar jodi apanake jiggasha kore tobe apanake tader sei pholapholguli dite hobe.,P,crq
+"Ami je goponiyo-tar nirddishto shimabaddhota ache tar ekhoni kono karon nei. Kintu ekhane ei clinic-e apanar poristhiti te, sorkar ba nirdeshto bôkti chhada onno karor sathe ei totho share korar kono karon nei. Tai ekhane baki manush apanar chikitsa. Ebong apani jodi kauke pholaphol porataye chan tobe apani ek-ti prokasher sathe shôkshôr kortey paren ami tader pholaphol pete debo.",T,id
+"Accha, ami chintit je ami jani je lokera amake record korchhe. Ebong ami mone kori je pholapholguli dekhay je ami jani je eti ghôtoche. Ebong ekhon, apani eti dekhte chan je ami ek-ti somossa ache mane. Jokhon ami shudhu report korchhi jeta ami jani shôthyo.",P,id
+"Accha, ami dhore nichi je apani chintit.",T,od
+"Na, ami mone kori je ami jani je ei jinisguli ghôtoche. Kintu ei porikshati bole je ami bhul bhabchi je eti amake paranoyed kore tole.",P,od
+"Oh, ami bujhte pechhi. Thik ache. Tai ei jinis sotti ghôtoche. Hyan. Thik. Kintu porikshati emonbhabe sajano hoyeche jate apani jokhon thik non tobe etike paranoyed dekhaye",T,id
+Thik. Thik ache.,P,ack
+Tai eti bôkhya korbe keno apanar score scale unnot hoecche. Thik ache. Tai ki? Apani ki etake bhabchhen?,T,yq
+Ami kori. Hyan.,P,op
+Ebong ami cheyechilam je aponi eti janate. Ami apanake je amake balar proshansa. Aponi ki mone koren eta sambhobho je eti onyo upaye kaj korche je parikshati eto kichu porimape korche ja asle sekhan ache?,T,yq
+"Na, ami ta mone kori na.",P,on
+Aponi ta mone koren na. Thik ache.,T,crq
+Ami eti bujhi. Ami odhikangsho manusher cheye uchchhotar.,P,cd
+"Aponi bishwasi koren je tader poristhiti apanar theke bhinno. Thik ache ami bujhechi. Tai shesh elaka, shesh sabskela ami ei ek bishwabyapi skela nie alochona korte chai. Glass sabskela emon eti ja psychosis hisabe ullekho kora hoy. Aponi 93 tom percentile ache. Aar tokhonoi hoyto aponi eti kichu shunte paren ja onyo lokera shunte paye ba eti kichu jinish dekhte paye ja lokera dekhe na, ba eti kichu bisshash ba chintabhabna royeche ja adorsher bahire ebong proman dwara samarthon kora jay na. Tara mone kore je apanar sathe eti ghotche.",T,id
+Tumi ki amake dure sorie debe?,P,yq
+"Ekhane emon kichu nei ja ingito korbe je ami apanake dure rakhabo ba kothao kendribhut korbo. Haan, ami sotti ei-tir udeshyo hol falafolguli nie alochona kora jate aponi bujhte paren je ei-guli kivabe apanar proti amader chikitsa sambandhe ovhito kore. Tai amra ei falafoler upor bhitore kore chikitsa pradan korte jachhi.",T,id
+Kokhono kokhono ami emon kichu shuni ja onyo lokera shunte pay na.,P,id
+"Thik ache, tai eti hol eti ek ti skor ja parikshati punoray nawar jonno sotti hote pare.",T,id
+"Hoyto eti sotti. Hoyto eti sotti. Thik ache, kintu ami kore rekord kora hoyeche,",P,com
+"Kintu aponi bishwasi koren je aponake rekord kora hoyeche, aponi eti shuru korchen.",T,crq
+Swabhaviker kachakachi.,P,gc
+"Acha, amra dekhte chai tar cheye ekta beshi.",T,id
+Ami baire jete pachhi na.,P,id
+"Tai Paranoyede jodi sei skelta sotti hoi, apanar onumane, apanar bishwabyapi tivrata kom hote pare, ami mone kori, haan. 50 shotangsher kachakachi, ami mone kori. Sutara, aponi 50 shotangsher kachakachi holeo, aponi bujhte paren je amra kivabe udvigno je aponar lakshanguli kichhuta guruttor, ebong amra nishchit korte chai je amra eti mukhobele chikitsa pradan kori. Nishchit. Eta ki thik ache?",T,yq
+Eta. Thik ache.,P,op
+"Tai ami paramarshodatar sathe dekha korbo je chikitsa kora hobe, aponi ekhane aschen, aar ami ei skorguli atikrom korte jachhi ekhon aponi amake ki bakhya korechen ta take bakhya korun. Thik ache, keno aponi mone koren je aponi skor pechen. Thik ache, ami tar sathe eti nebo. Aar oboshoi, aponi tar satheo eti nebo aar tini apanar charte ei parikshar falafol paben.",T,id
+Thik ache. Thik ache. Tini amader session rekord korte jacche na.,P,cd
+"Se, se recording korte jacche na. Thik ache.",T,cd
+Eta kore.,P,ack
+Thik ache. Ami krutojno je aponi amake apanar sathe falafoler ei seti atikrom kora r  ejheye jacchen. Aar ami aponake sei counselor er kache niyukt dekhati aar ami ei skorguli othik korte jachi ekhon aponi amake ki bakhya korechen ta take bakhya korun.,T,gt
+"Thik ache. Dhonnobad, dhonnobad, pegi.",P,gt

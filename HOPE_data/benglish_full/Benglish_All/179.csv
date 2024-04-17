@@ -1,0 +1,59 @@
+Utterance,Type,Dialogue Act
+"Hi, Julie, kemon achen?",T,gt 
+Ami bhalo achi.,P,gt 
+Ami Natasha. Apnake swagatam janai amader service e.,T,gt 
+"Apnar sathe dekha kore bhalo laglo, Natasha.",P,gt 
+Apnar satheo dekha kore bhalo laglo. Ajke ashar jonno dhanyabad. Apni kivabe esechhen? Gari niye naki train e? Traffic kemon chhilo?,T,"gt, irq"
+"Haan, ami gari niye esechhi ar traffic besh bhalo chhilo. Pray 15 ba 20 minute laglo pounchote.",P,id
+"Oh, bhalo. Ami atke gelam, road e ekta big smash chhilo, tai amar ektu beshi somoy laglo. Apni pounchote parlen, seta bhalo.",T,gc
+Dhanyabad.,P,gc
+"Julie, apni ajke ekhane ashar chesta korechen, seta khub bhalo. Apni amader service sombondhe kivabe jante parlen?",T,"gc, irq"
+"Well, ami ek bondhu er sathe kotha bolchhilam je ami mone kori karo sathe kotha bolle upokar hobe. Ar se bollo tar ek bondhu agey ekhane esechhilo ar bhalo service peyechhilo.",P,id
+"Excellent. Apni ashar jonno dhanyabad. Apni eshe form gulo puron korechen, meyeder diye amake diche, seta khub bhalo. Eta amake apnar sombondhe ektu background dey. Ami shudhu bolte chai amader service holo mahila counseling service, ar apni seta fit koren, seta khub bhalo. Ami apnake janate chai je ajke amader prothom initial interview. Tai ajke amra kichhu process set kore nibo, apnar golpo shunbo, ar ami nishchoi asha kori amra abar dekha korbo. Eta thik aache?",T,"id, yq"
+Eta bhalo lage. Dhanyabad.,P,op
+"Excellent. Ar pack e, je apnake meyeder diyeche, Julie, seta te kichhu information aache amra kivabe apnar privacy ar confidentiality maintain kori. Tai ami session shuru korar aage seta clarify korte chai. Ekhane community center e, apni amake je kichhu bolben, seta confidential environment e thakbe. Kintu ami mandatory reporter, mane jodi apni amake kichhu bolben je ami mone kori apni risk e achen, nijer khoti korte paren ba onno ke khoti korte paren. Jodi apnar shishu thake, tara risk e thake, ba apni illegal activity te jorito thaken. Ami mandatory reporter hishebe janate hobe, jate apnake sahajjo korte pari o sei situation niye deal korte pari. Eta thik aache?",T,"id, yq"
+"Haan, eta thik aache. Ami bujhte pari. Dhanyabad.",P,op
+"Excellent. Tai Julie, shuru kori apni keno ekhane esechhen, seta niye?",T,"gc, irq"
+"Well, amar husband ar ami gat koyek mash dhore on off vabe jhogra korchhi, ar ami mone kori amra kono agreement e pounchote parchhi na. Ghum hocche na, klanto lagche, ar ami mone kori ami hoi to biye theke beriye jete chai.",P,id
+"Thik aache, apni koto bochor dhore biye korechen?",T,irq
+Amra aath bochor dhore ek sathe achi.,P,id
+Wow. Okay. Besh bhalo somoy. Apnar ki shishu aache?,T,"gc, yq"
+"Haan, amader tin shishu aache. Dui jon paanch bochorer kom boyose, ar ekjon school e jay, se sat bochorer.",P,op
+"Okay, tai apni nishchoi busy thaken?",T,yq
+"Ami sobsomoy khub busy. Eto kichhu korte hoi, ami khub klanto lagche.",P,op
+"Thik aache. Shishura ajke kothay achen, ke dekhche tader?",T,irq
+"Ami dui chhoto shishu ke amar maa er kache rekhechi, ar boro ta school e aache.",P,id
+Excellent. Ar apnar husband ajke kothay?,T,"gc, irq"
+"Um, se kaaj e geche.",P,id
+"Thik aache. Tai mone hocche apni biyer ekta point e achen je mone hocche biyer focus ta change hoyeche, ar apni chinta te achen bhobishyot niye, apnar ar apnar husband er jonno?",T,"gc, irq"
+"Ami ekhon feel korchi je ami kono solution e pouchate parchi na, problems gulo niye. O onek beshi drink korchhe, biye korar shomoy social drink korte enjoy korto, kintu ekhon dekha jachhe je o beshi beshi korchhe, week er onek din gulo tei drink korchhe. Ar drink korle o khub difficult hoye jay kotha bolte.",P,id
+Toh mone hocche alcohol ta problem hoye darche. Tumi ki mone koro je eta o-r behavior change er sathe related?,T,"gc, orq"
+"Ha, ami mone kori. Ami mone kori je drinking ta definitely o-r behavior change koreche significantly. O khub unreasonable hoye jachhe, ar khub choto choto jinish e rag hoye jachhe.",P,od
+Okay. Toh eta toh tomar ar bachchader jonno khub difficult hote pare. Tumi ki dekhecho je bachchader moddhe o-r behavior change ta keu notice koreche?,T,"gc, yq"
+"Well, o bachchader sathe khub bhalo relationship maintain kore, ar actively participate kore tader daily life e. Bachchader kache kichu mention koreni, ar mone hoy na je tader behavior e kono change esheche, arguments o bachchader samne hoy na.",P,op
+Okay. Arguments gulo ki trivial jinish gulo niye? Naki onno boro boro key issues niye tumi o-r sathe argue korchho?,T,"gc, irq"
+"Well, arguments gulo start hote pare choto choto jinish theke, bari te kono task niye simple argument hote pare, tarpor escalate hoye jete pare o-r family niye, amar ma niye, artha niye, ar control er baire chole jay.",P,id
+"Okay. So Julie, o-r drinking niye, ami just try korchi bujhte je ki develop holo tomar marriage e je tomar ekhon amake dekhte eshecho. Mone hocche je drinking ta holo focus, maybe tomar feeling e disconnect hoye jawa theke, marriage er moddhe isolated feel kora. Eta ki bhul hobe?",T,"gc, irq"
+"Ha, eta sotti, thik ache. Ami mone kori je drinking ta amar main issue o-r behavior niye. Ar ami mone kori drinking ta greatly contribute korchhe jevabe o amar sathe behave korchhe.",P,id
+Tumi ki o-r sathe ei bisoye kotha bolecho?,T,yq
+"Ha, ami chesta korechi. Ami koyekbar o-r sathe drinking niye kotha bolte giye dekhechi je o khub defensive hoye jay amar sathe.",P,op
+"Potentially, o mone korchhe na je o-r drinking problem ache.",T,gc
+"Ha, eta sotti. Thik ache. Ha.",P,gc
+"Okay. Ami bujhte parchi je eta tomar jonno khub kothin hobe, Julie. Ar ami khushi je tumi ajke ekhane eshecho, kichu issues gulo niye kaj korte. Ekhon, Julie, tomar marriage commitment niye, tumi je marriage ta ke kothay niye jete chao, tumi ki mone koro je tumi ekta strong base ache je potentially, jodi amra tomar husband ke drinking side e help korte pari, tahole tumi ki mone koro je tomar marriage ta strong enough hobe overcome korte ar relationship e forward move korte? Naki, tumi ki bhabcho eta niye?",T,"gc, irq"
+"Well, ami hopeful je amra amader issues gulo resolve korte parbo, ar ekhon mone hocche ami take ekta break er proyojon. Jodi o support pate pare, ar amra ekshathe support pabo, ami mone kori ami marriage ta ke ekta chance dite raji hobo amader issues gulo resolve korte.",P,id
+"Okay. Julie, tomar nijer support niye, tumi bollcho tomar ma ajke bachchader dekhaschhe, tumi ki mone koro je tomar bondhu ar family ache je, tumi ki karo sathe ei issue niye kotha bolecho?",T,"gc, irq"
+"Well, ami kotha bolechi, amar ek bondhu ache je tomar service recommend koreche, ar se amake ar bachchader khub support kore. Ar ami ekta supportive family network o ache. Amar bonera Sydney te thake, ar amar ma o ache. Tader sobai amar charpashe ache, ar tara amar proti khub caring.",P,id
+Tumar family ba bondhura ki kono change notice koreche tomar husband er behavior e?,T,yq
+"Ha, actually recently amra ekta social function e chilam, ar amar bhai amake comment koreche je kemon kore amar husband onek alcohol consume korechilo oi social event e.",P,op
+"Okay, so eta tomar upor impact korche, ar mone hocche extended family upor o. Bhalo kotha je tumar baire ekta support network ache, eta khub bhalo, ar ami encourage korbo je tumi tomar ma, family, bondhuder use koro, tader kache kotha bolo, nijer ar bachchader support koro ei phase ba stage e tomar relationship e tomar husband er sathe. Julie, ami just recap korte chai, tumi bollcho je tomar relationship tomar husband er sathe change hoyeche je rokom chilo. Tumi o-r sathe acho prai aat bochor, ar tomar tin bachcha ache. Tumi mention korecho je primary change holo o-r behavior, ar tumi believe koro je eta probably linked o-r changing drinking habits er sathe. Ar ami bujhte parchi je tumi happy hobe potentially o-r sathe kaj korte, o-r drinking habits niye help korte ba resolve korte. Eta ki thik ami je bollam?",T,"id, yq"
+"Ha, eta thik. Correct. Ami happy hobo kaj korte jodi o o-r sathe willing hoto.",P,op
+"Tomar husband ke na chini, ami guess korte pari je ami tomar kachhe jante chai je tumi ki mone koro je tomar husband receptive hobe maybe kichu marriage counseling ba karo kachhe jete o-r drinking niye. O ki emon type er manush je receptive hote pare?",T,"gc, orq"
+"Ami mone kori hobe, ami jodi o-ke calm ar relaxed obosthay approach korte pari, tahole ha, o probably receptive hobe.",P,od
+"Okay. Eta positive. Eta khub bhalo. Karon kichu manush ami dekhi, tader answer eta quite different hoto. Tai ami mone kori eta tomar jonno khub positive, Julie. Ami mone kori ekhon amader dekha uchit holo maybe continue kora amader relationship. Ami tomay abar dekhte chai, meet up korte chai, ar ami mone kori amader explore kora uchit holo tomar jonno kichu marriage counseling ba onno kichu line e, ar dekhte hobe je tomar husband ki interested hobe kichu services dekhte o-r drinking issues niye. Jodi thik hoy tumar kachhe, tahole amra organize korte pari abar dekha korte. Tumar jonno ki time bhalo hobe?",T,"id, irq"
+"Ei time ta amar jonno bhalo, ar je kono Thursday ba Friday din er moddhe bhalo.",P,id
+"Okay, toh amra plan korbo maybe ei same time e next week abar dekha korte. Kintu meantime e, ami mone kori amader uchit tomay ekjon relationships counselor er sathe contact korte. Ar amra chesta korbo oi dike jinish gulo egote. Ar tar fole, amra bujhte parbo je tomar husband koto receptive hobe, potentially o-r jonno kichu help khuje. Ami just bolte chai je tumi mention korecho je tumi ekhon ektu escape chai. So hoito ami parbo tomay kichu advice ba information dite, jate tumi nijer theke oi situation theke dure thakte paro, jodi mone koro je eta ekhon ektu beshi hoye jachhe, maybe tumi tomar ma ba family ar bondhuder dikeo jete paro, jodi comfortable na mone koro area te onno services use korte. Tumi ki mone koro eta niye?",T,"gc, irq"
+"Hobe, ami appreciate korbo. Dhonnobad.",P,id
+"Okay. Well, dhonnobad, Julie, samay ber kore ashar jonno. Ami khushi je tumi ajke ekhane eshecho. Ar ami, ei journey te tomar sathe jete eager. Eta solution noy. Amra, jani na, sob kichu ekhane ajke fix korte parbo na. Eta ekta process hobe, kintu hopefully amra ekshathe, dekhte parbo ekta khub positive outcome tomar ar tomar family er jonno.",T,gc
+"Dhonnobad onek, ajke amar sathe kotha bolbar jonno, khub bhalo laglo. Dhonnobad.",P,gc
+Ami o next week tomar sathe dekha korar jonno eager.,T,gc
+Dhonnobad onek.,P,gc

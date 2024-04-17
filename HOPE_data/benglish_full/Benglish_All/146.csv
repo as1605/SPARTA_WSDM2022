@@ -1,0 +1,69 @@
+Utterance,Type,Dialogue Act
+Hi Sandra. Kemon acho aj?,T,gt
+"Ami thik achi, bhalo mone hoy.",P,gt
+Sudhu thik?,T,crq
+Haan.,P,cd
+Ami tomake kichu prashna korbo ebong kichu somossa dite chai. Kripaya tader uttor dao joto best hote pare. Ei kon bachor?,T,"gc, irq"
+2014,P,id
+2014?,T,crq
+Haan.,P,cd
+Ei kon season?,T,irq
+Grishakal,P,id
+Grishakal?,T,crq
+Haan.,P,cd
+Aaj kota?,T,irq
+10th May,P,cd
+May 10th?,T,crq
+Haan.,P,cd
+Aaj kon barcha?,T,irq
+Thursday,P,id
+Ei kon mash?,T,irq
+May,P,id
+Amader kon deshe achi?,T,irq
+Delaware.,P,id
+Amader kon jela te achi?,T,irq
+Delaware.,P,id
+Ei building er nam ki? Naki address ta?,T,irq
+Umm mone hoy,P,id
+Building er kon floor achi?,T,irq
+Bottom floor,P,id
+Bottom floor?,T,crq
+Haan.,P,cd
+"Ami theke tinta object bolbo. Ami tader bole gele, tumi tader bhalo mone rakhte hobe. Apple, Table, Penny. Tumi tader amar kache fire ashte paro?",T,cv
+Penny,P,cr
+"Ei bar phire jai. Apple, Table, Penny",T,cv
+Apple. Table. Apple.,P,cr
+Abar try korchi. Apple Table Penny,T,cv
+Apple Table Penny.,P,cr
+"Thik ache, bhalo. Mone rakho tara ke? Karon ami tomarke aar kichu minute pore tader naam janar jonno vabchi. Aajke tomarke ekta shabd dibo, ota forward aar backward korte bolbo. Shabdta holo ""world."" Pehle, tomake forward e spelling korte paro?",T,cv
+Tui ki bolte chhish?,P,crq
+"Shabdta holo ""the world.""",T,cd
+W U R A D,P,cr
+"Abar, tomake backward e spelling korte paro?",T,cv
+Kono shabd in?,P,crq
+"Shabdta ""world"" e.",T,cd
+D R W,P,cr
+"Thik ache. Ami tomake koto ta vastu mne korte bolchilam, taa mne aache?",T,irq
+Table World World,P,id
+Thik ache. Eta ke ki bole?,T,ci
+bracelet,P,cr
+bracelet?,T,crq
+Haan,P,cd
+Eta ke ki bole?,T,ci
+marker.,P,cr
+"Ami tomake ekta vakya dubara bolte chai. Oi vakya holo, no ifs, ands or buts",T,cv
+"No if, ands, or buts.",P,cr
+"Ami chai je tomake ekti lekha pore ekti page er upore, ebhabe.",T,ci
+....,P,cr
+"Dhonnyobad. Tui dain haath e lekha koro na kina, ba baganer?",T,irq
+Bain haath e.,P,id
+Tui bain haath e.,T,crq
+Haan,P,cd
+Ei kagoj ta tui bain haath e niye nao. Ektu kachhe dui haath diye ektu feliye rakh kagoj ta tomar kolponar upore. Thik ache. Tome baire theke ekta notebook nebe. Tui ki amar jonno ekta complete sentence likhte paro?,T,ci
+.....,P,cr
+Thik ache. Kalam ta dhorate thako. Eikhane ekta chobi aache. Ei chobita oi kagoj er upore nak. Ektu oi kagoj er upore ei chobi tui copy korte paro?,T,ci
+....,P,cr
+"Ei chobi oi kagoj er upore copy korechi. Haan, bishesh kichhu nai.",T,gc
+dekho,P,gc
+assessment shesh holo. Sandra. Ami tomake thank you bolte chai participation we jonno.,T,gc
+Thank you,P,gc

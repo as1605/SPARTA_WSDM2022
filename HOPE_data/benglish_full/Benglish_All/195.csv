@@ -1,0 +1,76 @@
+Utterance,Type,Dialogue Act
+"Oh Hello there, ki Ms Dorsey ache?",T,yq
+Haan.,P,op
+Aaj aapke kaise madad kar sakta hoon?,T,irq
+"Maaf kijiye, main shayad thoda aapka samay barbaad kar raha hoon, lekin main achchhi tarah se nahin so raha hoon. Main bas thak gaya hoon. Aur bas soch raha tha ki kya aap mujhe kuch dawa de sakte hain, kuch sleeping tablets ya kuch bhi.",P,id
+"Okay. Mujhe sach mein madad hogi agar main kuch aur sawal pooch sakta hoon aapke bimari ke baare mein. Haan, shayad lakshan, aur phir dekhte hain ki kaise aapki madad ki ja sakti hai.",T,id
+"Haan, main soch raha hoon haan.",P,ack
+Toh phir kyun nahin aap mujhe thoda aur bataate hain ki aaj aap yahan kyun aaye hain?,T,irq
+"Umm lekin ek saal pehle mere pati alag ho gaye the aur tab se main bahut jyada cope nahin kar pa raha hoon. Main bas hamesha thak gaya hoon. Aur bachche, naukri bas sab mujhe bohot zyada takleef de rahe hain. Main so nahin pa raha hoon.",P,id
+"Okay, phir chalo ek cheez ko dekhte hain ek baar mein. Mujhe thoda aur batao aap kaise pareshaan hain neend ki samasya se.",T,irq
+"Main raat ko bas jaaga raha hoon. Mujhe nahin pata kya hai lekin bas raat lambi hoti jaati hai. Nahin, subah ko mujhe neend aati hai. Main bas bahut hi dukhi mehsoos karta hoon.",P,id
+"Okay, aur aapko bhookh ki samasya hai.",T,yq
+"Haan, main bachchon ke liye khana banata hoon lekin main nahin kha sakta.",P,id
+"Aur jeevan ke baare mein kya hai, kya aap thoda adhura mehsoos karte hain ya aapka urja ke star kam hai?",T,irq
+"Maaf kijiye, mujhe samajh nahin aaya.",P,crq
+Tumhare urja ke star kam hai.,T,cd
+"Haan, main bachchon ke saath tairna aadi ka aanand lete the lekin main bas akela rehna chahta hoon aur bahut hi thak gaya hoon abhi.",P,id
+Kya aap bas neend par laut sakte hain? Kya aap mujhe uske baare mein thoda aur bata sakte hain? Har raat kitni neend lete hain aap?,T,irq
+Toh main bas jaagta rehta hoon aur un dono ko saath mein sochte rehta hoon aur main bas thak jaata hoon uthne mein.,P,id
+Ei jonno mone hocche tomar energy ar sleep ar appetite er absence. Mone hocche je oi kichu tomar khub kharap lagchilo.,T,id
+"Ami to just ekta kharap. Just cope korchi na, ami shudhu thaklam.",P,id
+Tomake mone hocche tomi ekta kharap.,T,crq
+"Ami shudhu, to bujhte parcho, ami shudhu kichu shuye dorkar.",P,cd
+Ok. Amar jonno onek helpful hoto jeno ami ekta kichu janate pari ghorer jiboner obosthayon kajer jiboner bapare kichu prashno korar. Eta thik thakbe to?,T,yq
+"Ha, eta thik ache, sorry.",P,op
+Tui kaj koro?,T,yq
+"Ami ekta Job Center e kaj kori, kichu samay shomoye onek stressful hoye jai. Amar kacher mane eto lok, tobu shudhu season hole shobai tokhon dukkhoi hoy, etai keno ami stressed hoye jai.",P,id
+"Amar kichu rogir jonno ache je oi same environment e kaj kore, khub pressure byapar.",T,id
+"Ha. Kichu sutre sob somoy bed theke uthar ichhe hoy na, kichu roj ektu bhoy paowa, ekhon amar jonno abnormal erokom kichu.",P,id
+Aar ghar e ke ache tomar shathe?,T,irq
+"Amar dui chele meye ache, ekti meye ekti chhele, how Rich tar chhoto boyoshe Steven, amar Marie, tarkeo kind.",P,id
+Tarader Baba tader shathe onek somoy katay?,T,irq
+"Na, amra bother kori na. Na, tader naya paribarer shathe tini taderke dekhe na. Tader onek bhalo chele meye.",P,id
+Ei tomakeo tader jonno kichu kathin hote pare.,T,crq
+"Ei to besh kathin kintu kichhu sahajata nei ar kono sahajatao paini. Amar ma, she's, she's wonderful, kintu tini arthritis ache. Tai tini, toratari bole, tini je korte pare.",P,cd
+Kintu tini lokal e thake?,T,yq
+"Ha. Ekhanei thake, shudhu corner e, ar tini shishuder school theke nia ane. Ar haan, tini tini ekjon angel.",P,"op,id"
+Tumi ki? Tumi ki gulo shokh shoba koro ar tomar kichu upobhog korar ki ase?,T,irq
+"Ami ekhon byasto chilam cinema te jawa, amar bondhura, line dance ar amra chhoto line dancing e jeto. Kintu ekhon kichu diner kotha. Kaukei oshubidha chaye na, tai ami ekhon ekla theke valobashi.",P,id
+"Bhala, ami jani tumi doctor na kintu tomar mone to mone hobe j tumi shob gulo bhabe ki vabe eta shob manush shob manush ki mone koro",T,irq
+"Mone hoy ami automatic pilot e chhila jabar samoy te tini first left kore. Ar mone hoy eta mane eta amar e sthiti ami akhon ami jani na Arizona shishuder moto kotha ami jani na kintu mone hoy tai ami jokhon nei ami shob kichu bekar mone hoy ami nijeke nijer besi bekar mone hoy ami ghum pata. Toratari bole,",P,id
+ki tend korar tend korche Tumi ki tor ghum naki tor appetite naki tui tui ar shakti naki tor ghum ki shishu ghum.,T,yq
+Shudhu mone hoy jodi amar kichhu beshi shakti hoto tahole ami shudhu kichhu shajgoj karbar korte pare.,P,id
+"ektu khub bhalo hoto je amar porer proshno. Mone koro, tor mone ki tor sathe kivabe tini ajker din e tomake shahajjo korte pare?",T,orq
+"Bhalo, ami mone kori sleeping tablets er maddhome tini maddhome shahajjo korte pare.",P,od
+Ki shob gulo upay gulo ami mone kori sudhu mone koro amar kotha bola gulo mone koro shob gulo ki shob gulo tomar jonno valo hote pare,T,yq
+thik ache. Aro kichhu option ase ki?,P,"ack,yq"
+"amra mone korte pari kichu kotha bole, apni amader shathe bole boshe jete paro, ekta train kora counselor er shonge apnar feelings er upor ebong ki hochhe tai bole.",T,id
+"Ei cholbe amar ghum. Well, let me be able to cope the next day to sleep.",P,id
+"Ei apnar bhabnay jukto kora te apnar bhabnagulo shomosto ko korey felaite pare. Amra mone kore nichi shuorer tablet er upor bhabnay. Amra mone kore nichi eta ekta aro option. Obosshoi, amader shomosto holo amra chay na apni shuorer tablet er upor nirbhor hoye giye jete ar opor nirbhor hoye jete. Amra tara ke ek choto somoy er jonno upoyog korte pari, bolte pari, ek week er jonno apnar ghum theke kichu besi normal ghum pawa te amar madhdhome.",T,id
+Hmm. Ei bhalo mone hoyeche amar.,P,ack
+"Tarpor etake to niye ki vabe counselor er, ar poddo sleeping pills?",T,irq
+"counseling, shochona counseling, eta ami khub ichhe korchi. Ami mane kori, ami jodi kichu shuorer tablet niye jai, ami matro matro ekta mutho jabe, ebong amar theke counseling e khub khusi.",P,id
+"Ok, to apni duitai try korte chan. Ami mone kori ei bhalo idea. Apni khusi theke counselor er kachey surgery te jak?",T,yq
+Hmm. Tai choluk,P,op
+"Tai choluk, ami etake organize korte pari, ami tader kachey bolte pari ebong tader ke appointment nite, eta amar jonne khub upokrito hote pare ebong eta help korbe oposhtho korar jonno. Jodi apni er ekti heder questionnaire purno korte paren, eta amar jonno oposhtho hobe.",T,id
+Shob cheye besi shomosto poroblem er maddhome jinishta ekta question.,P,id
+"Sorry. Ei ekta chhoto questionnaire, shudhu apnar feelings er bishoye kichu proshno kora hobe ebong ei amake help korbe bujhte, jodi ami kichu adhik sahayota dekhte pari. Jodi eta thik hoy, eta chhobiye dichhi. Apni amake ajker din theke bolechen, mane, ekti bochorer modhye apni khub khoto feel korechen. Apnar shohorer bhagni theke bibhinno.",T,id
+Hmm.,P,ack
+Tumi ki bhalo ne? Tumi ki khete bhalo na?,T,id
+Ami khichuri,P,id
+"Amake bhabte hochhe, tumar self-esteem e kono real dhakka asche karon ami bishesh vabe mone kori je amra tomar proti kichu sahayata korte pari, jekhane amader surgery te ekta counselor ache, seta tomake upakrito korbe. Ar phire amra tomar shutor angul diye ekta chhoto sleep tablets er dawar short course korte hobe, tomake punah ekta niye niye jete.",T,id
+Thik ache,P,ack
+"Mone hoy ami tomar dike dui, tin shaptah por dekhte parbo. Ar tumi mone korbe, tumi eto kichu keval nijer modhye sambhalte hobe na. Matal, tomake kebal etai korar jonno noi. Amra toh etai jonno achi. Tomake sahajjo korte ebong tomar samarthan korte.",T,id
+Hm. Thik ache.,P,ack
+Cholun ami tai prescription ta kore dei.,T,id
+Dhonnobad.,P,gt
+Tai seta reception e giye porjonto jante parbe.,T,id
+Thik ache.,P,ack
+Ar amar ekta kajer porikkha tomar kache debo.,T,id
+Thik ache.,P,ack
+Pore amra tomar dike dekha korar age tai puron kore nite hobe.,T,ci
+"Thik ache. Dhonnobad, doctor. Amar dekhar jonno dhonnobad.",P,gt
+"Thik ache, dekha hobe pore.",T,gt
+Dhonnobad.,P,gt
+"Thik ache, bye bye.",T,gt

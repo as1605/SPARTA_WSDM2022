@@ -1,0 +1,98 @@
+Utterance,Type,Dialogue Act
+"Hi Hazel, kemon acho ajker din?",T,gt
+Thik ache,P,gt
+Ki korche? Ki golpo chalche?,T,irq
+"Ei, last time tomake onek kichu bolechilam, amar ekjon bondhu-r kotha, amar best friend-er kotha bolechilam. Ashlil video camera tar sathe konoi ghotona ghoteche. Tai ki holo amar local library-r bathroom-e gelo, ar bathroom-e giye video camera dekhe gelo",P,id
+Bathroom-e?,T,crq
+"Ha, bathroom-e, ha. Ar oi camera-ta she police-ke diye disilo. Ar mone hochhilo karon, ta camera-ta ke o niye galo, ar oi camera-ta khujte giye, tar hat-er chhap ghuchiye gelo ar tara sekhane kon se lok-er hat chhap-o peyechilo na. Tara tini kichui korte parlo na.",P,"cd, id"
+Shayad lok-ta pakra hoini?,T,crq
+"Na. Tarpor ota Chara amio khub chokhe khule roilam. Chinta korchhi je eto kichu amake, amar chhele-meyeke ghuriye churi koreo ghote pare. Ar ami khub chintito karon tara lok-ta pakra hoini, taar moto lok abar kothai ghuriye churi korte pare.",P,"cd, id"
+Tai to ekhaneo oi manush tar kachhe achhe? Tumi kebol lok-ta neye?,T,"crq, irq"
+"Onek oshonko, jani na ki hobe, ki korbe lok-ta amake tokhon. Ami camera-gulo ke onek kache e anubhab korchhi.",P,id
+"Ok, oshonko ebong alert,",T,gc
+"Ha, Thik ache, ami janina je tomake tomake office-e camera ache ar lokera mobile phone-er camera gulo.",P,gc
+Thik ache,T,gc
+"Shudhu ami ke rekho mane je kothao jete ichhe korche na. Tai to ami amar patir shathe onek jhogra kori, karon tar icche je restaurant-e jete, ar ami jete chai na, karon bathroom-e camera thakte pare ar ami jeno tara chhobi tola na. Ar ami amar dharaner opor o ato kotha baddho korte hoyeche, tomake dekhte gele tomake bujhte hobe je ami kemon kore dress kori, ami to ekta kotha shuni je kono lok, juto-r opor camera use kore, jeno creepy vabe. Tai ami ami dress korte parina na ar comfortable thakte parina karon ami ei vabe dress korte hoyeche.",P,"gc, id"
+"Tai tomar ekta besh kichu bolecho. Tumi oshonko ebong atmar agoto mane ache, je eto ki tomar sathe ghote pare. Kintu tomar routine-ta to change korte holo safety er jonno.",T,crq
+Ha,P,cd
+"kintu apnar kach theke ki kono sahajjo ase, apni kivabe posha poriborton korchen naki kothay jaben ebong kivabe jaben, eta ki apnar chintar jonye onuvob korchen?",T,yq
+"Thik bole mone hoy na, ami eto bhalo bole mone kori na. Tai ami eshechi. Amar jibone ektu ektu shuru hochche, tai eshechi.",P,on
+"Apni ekhane bisesh kore apnar shami niye kichu kotha bolchen, eta ki cholche?",T,irq
+"Tar chhara shudhu apnar bachader sathe jete chai, kintu ami kono kothay jete chai na, karon jani, ajkal camera gulo sob kothay.",P,id
+"Hm, toh",T,ack
+"Ar ami ektu chinta kori, public bathroom gulo te ki kono camera thakte pare, kauke toh kono somoy baby monitor diye nijer phone a hack kora jete pare, laptop camera gulo. Tai amar nijer bari teo ami ektu ektu chinta kore achi. Tai ami mone kori ami ei chinta theke kichu protiruddho pai ni.",P,id
+Apni ki kono eto dekha nitechen karon ei shomoyshojja chinta theke?,T,irq
+Ami mane ami poriye chhilem.,P,id
+"Jeta ami already mention korechilam, kintu camera niye bisesh kichu bolechilen. Ami mone kori,",T,gc
+"Ami, ami, jani, jabar samay ami bathroom gulo te camera ache kina, tai amar bachader jonno ami camera er jonno cheye dekhechilam. Ami online e poriye chhilem je phone er camera gulo kivabe bondho kora jai, ar je laptop er camera gulo niche dekhe rakhle. Tai, ar smart TV teo same kichu. Tai, ami kichu kichu kichu bishesh kore bondho korechilam, jeta amar nijer jnno darai nai.",P,"gc, id"
+"Ar eta dekha shohoj. Apni jokhon protirakha korechen reasonable, video recording er avoid korar jonno try korechen,",T,gc
+haa,P,ack
+against tomake bhalo lage na.,T,gc
+Exactly.,P,ack
+"Kintu still, tomar ei chinta o ontrikota chetonata aar tomar schedule e antrito kora hote?",T,crq
+right.,P,cd
+"biased tumi chao je tomar feelings er shathe bhalo vabe cope koro, anxiety komiye nao. Tai jokhon tumi ekjon public bathroom e pravesh koro aar amra age automatic thoughts er kotha bolchilam, prothom thekei tader bhabe tumi ei mone guchho koro aar tader shathe feelings connect koro. Se jeno akorshonkar.",T,gc
+right.,P,gc
+"Jemon anxiety aar chinta. Tai public restroom e pravesh korle, tomar mone prothom kotha ki jay?",T,irq
+"je ami dekhte pari je ekta video camera ache, taar kotha na dekheo, je amar bondhu mayer shathe ache, ta boro hote pare, kintu ami tate chokh pora jai na ebong je kauke oi chokher shathe vulgar vabe upobhog korbe.",P,id
+"Okay, tai jokhon tumi pravesh koro, tumi chinta koro je ekta camera ache.",T,gc
+Yeah.,P,ack
+"Aar jokhon oi automatic thought guchhe, tar por ki anukarshoner bhabe kichu hoe?",T,irq
+"Shomoy bodhoy ami camera ta khujte cheshta kori kintu shomoy bodhoy just bathroom use korar jonno aager theke ektu hote pare. Amar hridoye baje thake, ami onnorokom onnotomo hote suru kori ebong jani, ami na gele ghotona hole ami kichutei na jai. Kichu somoy ghor theke boshobas korar jonno ghor thekei try korchi.",P,id
+Tai tomaar abostha camera khujte kintu somoy bodhoy bathroom use kore na gele just chole jaoar kotha. Aar tumi tomar anubhuti to shetai je anxiety aar chinta?,T,crq
+Yeah.,P,ack
+"amra je kotha bolchhilam. Thik ache. So, really, jodi amra vabte pari, amra age kotha bolchhi core beliefs, intermediate beliefs niye, ebong ami wonder kori je intermediate belief, hoi toh, ami vulnerable. Ba eto specifically, hoi toh eta ekta core belief. Ar specifically, ami vulnerable ei area te, like ei lokta chhara geche",T,"gc, id"
+"thik ache,",P,gc
+"tumi jano, sei crime koreche. Ebong tarpor, tumi jano, eta combining hocche situations er sathe je tumi encounter korchho, ebong sei jaiga tei tumi automatic thoughts pachho. So eta sort of sense kore.",T,gc
+Ekdom.,P,gc
+"Thik ache. So tumi mone koro, therapy te ki ki apply korte chai, amra je adaptive response ba self talk bolte pari. So eta holo sei thought je tumi interject koro sei moment realize koro je tumi ekta automatic thought pachho, je hoi toh ei case e anxiety ebong worry te niye jabe ebong behaviors je camera khujte jabe hoi toh useful behavior na, kintu chole jawa, tumi jano, eta hoi toh useful behavior hote pare. So ei self talk er khetre, cholo kaj kori develop korte ekta self talk response jate tumi nijer ke bolte paro sei initial, tumi jano, ami wonder kori je ei bathroom e camera ache ki na. Thik? Tumi ki mone koro tumi nijer ke ki bolte paro je eta thought ebong feelings er majhe get in korte pare?",T,"id, irq"
+Ami bolte pari jokhon ami bathroom e dhuklam?,P,id
+Umm hmm,T,gc
+"hoi toh ami bolte pari, Umm tumi jano, hoi toh ekta chance ache je ei bathroom e camera thakte pare, kintu eta hobar chance onek kom. Ebong tumi jano, ami steps nebo nijer ke safe rakhar jonno, jate ami vulnerable position e na thaki, jemon camera khujte.",P,gc
+"Kintu eta bhalo. So tumi ache, tumi ache ekta low probability je eta hobe, ebong tumi useful behaviors necho risk minimize korte aro beshi.",T,gc
+Thik ache.,P,gc
+"Right. So eto bhalo automatic thought, I think are good adaptive response er jonno poroborti obdhi ekbar try korben na? Keno na? Ekdin try koren. Ei obdhi mone hocche? Right. Try out korun. Jani, ami mone kori, eto logical. Maane, eta ghotbe toh shombhob na. Ekhon, bishesh shomoy pete hobe. Right,",T,"gc, id"
+right.,P,gc
+"Ar amra, amra nijer sathe bolar somoy, mone hocche ei shomoy arokom kichu ghotte bhoy korti shombhob, kintu tomaar porekaushol arokom jhulanto ghotonar jonno tomader kono toiri korte perecho. Ekti shomoy ei obdhi kom chance hote pare, toh setake man e rakhun. Aakhri te, amra etake review korbo.",T,"gc, id"
+"okay,",P,gc
+"Right, tomaar ajker theke ber hobar age, amra ei gulo lekha korbo. Kintu eto adaptive response er modhye ekta likhte chai tomaar jonno. Ami o kotha korte chai, protikolpito obdhi bishesh upothon, karon ekkhuni tomar jhogra achhe ekta event er opor bhoy pachar jonno, jar poreye tomar shomoyti bhoy achhe. Eta ghotbe na hok, shombhob ta hok. Ami bichar kori, tomay oi sob shomoy kivabe react korbo? Jodi protikolpito shomoyti ghotto, ooi shomoy restroom use korchen, ar tomar kache ek camera dekha tokhon jeno law enforcement er maddhome, keno jani, shadhin er maddhome bhetor dekha toh, shuntechen. Tomay ooi shomoy ki bhabe react korben?",T,"gc, orq"
+"Maane, mone hocche ami besh khoti holam. Mone hocche ami kichu somoy jontrona upobhog korbo, ar besh kichu somoy kichukkhon chakori kore thakbo. Maane, ultimately mone hocche, ei shob shomoy theke ultimately shomoy korar moto hobe. Amar ekjon bondhu ei ghotona ta besh kichu din age ghotto, o bhalo hoye gelo ar tomar normal routine e phire gechilo, besh kichu somoy chakori kore, tai mone hocche ami o ultimately bhalo hoye jabo. Tobe oboshsho, bhalo lagbe na je ei ghotona ghotto.",P,od
+"Ar etai mone hocche kichu somoy chokhe uthe jete pare. Kintu shomoy kalponik hobe, eta oboshyo shomoy, ar nijer kotha shobai jonno bhalo hobe na. Kintu tomar kichu din pore shomoy theke bhalo hote pare.",T,gc
+Eta thik.,P,gc
+"Distress, right? Ar acute, ar oboshsho, tumi happy hobe na.",T,gc
+Right,P,ack
+Probable eto chinta ar bhoy er bhabna aage theke aachho koto din?,T,"gc, irq"
+"Shombhob 2 mas, 2 mas hoye gecho probably.",P,id
+Ebong average week e koto din tumi ei feelings er prabhavit hao?,T,irq
+"Protidin,",P,id
+protidin?,T,crq
+Ha.,P,cd
+"So jodi amra compare kori, thik ache, amader kache chance ache recorded hobar, thik ache, illegally. Eta low probability event. Hote pare. Hoi toh sambhabona kom. Tomar je anxiety ebong worry hochhe. Eta high probability event karon tumi suffer korchho protidin.",T,"gc, id"
+Ebong eta sotti. Ami kokhono ei vabe bhabini.,P,gc
+"So holo, ekta point ache jekhane hoi toh tumi reach koro ebong bolo, ami oi path ta nite chai risk ta niye, ami deal korte chai potential consequences er sathe oi unlikely event er, recorded hote, ebong mukhomukhi hote jodi hoi, tar cheye anxiety, worry te thakte.",T,"gc, id"
+"thik ache, Karon ekhon ami suffer korchhi protidin.",P,id
+"Ekhan tumi suffer korchho, thik? Ebong jodi, jodi tumi adaptively respond effectively korte paro, tumi still risk niye thakbe recorded hobar. Kintu tumi jano, survive korte parbe oi event ta jodi hoi late.",T,gc
+Ami bujhte pari,P,gc
+"Ebong tumi reasonable precautions necho ebong, tumi jano, amra je kotha bolchhi. So, jokhon tumi ei niye general sense e vabcho, ki adaptive response tumi apply korte paro oi thought er upor, tumi jano, ami worry korte hobe ei niye ba, tumi jano, jetai thought ta dekhte pare sometimes thought ta image hote pare, hoi toh image recorded hobar, kintu jetai hok na keno general series of automatic thoughts gulo je tomay anxious ba worried kore dey bari theke beronar aage. Ki adapter response tumi apply korte paro oi jaigay?",T,"gc, irq"
+"Hoi toh, tumi jano, ami bollam ami camera niye worry korchhi, hoi toh ami bolte pari, tumi jano, ami bujhte pari kichhu camera ache, tumi jano, bhalo purposes er jonno, security,",P,id
+hoi toh beshirbhag camera gulo holo,T,gc
+"thik ache. Ebong chances of being recorded illegally holo na likely jodi, ebong ami precautions nebo tumi jano, thik jaigagulo te jabo. Bhalo areas, bhalo areas. So overall hote pare na likely. Ebong ami bari theke berono worth kore risk ta, tumi jano, minimal risk je hote pare ebong jodi hoi, ami survive korte parbo.",P,"gc, id"
+"Eta darun. Eta darun adaptive response. Ebong asole, eta kichhu adaptive responses.",T,gc
+"Thik ache, thik ache.",P,ack
+"Kintu eta bhalo. Ebong tumi apply korte paro ebong amra, amra ekgulo break down korbo.",T,cv
+Thik ache.,P,cr
+"Tumi jano, ami bollam, ajke tumi beronar aage, amra ekgulo break down korbo. So tumi likhe niye jete paro. Ami mone kori eta gurutwopurno, karon automatic thoughts amader upor quickly chhute ase. Eta gurutwopurno rehearse kora ei adaptive responses. So amra ready thakte pari.",T,"id, cv"
+Thik ache.,P,cr
+"Thik ache. Ebong, ebong kind of, tumi jano, amra prepare korchhi nijeder apply korte adaptive response. Ebong prepare howar jonno, tumi jano, ki holo seta. So bhalo hobe likhe rakha kind of more or less commit to memory.",T,gc
+Thik ache.,P,gc
+Eta sense kore?,T,yq
+Ha.,P,op
+"Thik ache. So, ajke amra beronar aage, ami seta niye kaj korbo. Ebong ami chai tumi ei adaptive responses use koro ei saptah. Ami tomay dekhte chai next week. Ebong record koro outcome ta ki holo protibar tumi response ta apply korte parle, ebong eta include koro tumi ki feel korecho ebong tumi actually ki korecho.",T,"gc, cv"
+Thik ache.,P,cr
+"Ebong of course, tumi jano, mention korecho kono physiological reactions, tumi jano, tomader heart racing, right er niche likho, so eta holo sub behavior. Kintu note koro physiological behaviors ebong onno behaviors.",T,"gc, cv"
+Thik ache,P,cr
+"Ha. Once tumi consciously controlling, ebong tarpor kono feelings, thik? Ebong amra dekhbo. Amra dekhbo protibar use koro seta ek ek kore, dekhte hobe ki ki adjust korte hobe adaptive response ta ebong dekhte hobe kemon kaj korche. Thik ache. Eta plan.",T,"gc, id"
+Ha. Ami mone kori eta helpful hobe,P,gc
+So amra oi dike jabo. Ebong ami appreciate kori tumi ajke ashar jonno.,T,gc
+Dhonnobad onek.,P,gc
+Dhonnobad.,T,gc

@@ -1,0 +1,101 @@
+Utterance,Type,Dialogue Act
+Aj kemon acho?,T,gt
+Ami guess ami okay korchhi. Valo. Amar kichu problem ar kichu issue hochche.,P,gt
+Ki hochche?,T,irq
+"Ah, ami nijek-e really confused, ekdhoroner restlessness ar stuffs find out kori. Ar ami mone kori amar sei ekta condition thakte pare ja ami TV-te always shuni",P,id
+ADHD er moto. Apni ki mone koren je apnar ADHD thakte pare?,T,yq
+Ha.,P,ack
+"Okay, so allow me to ask you some more questions, and then we will specifically ask some questions about that and see what's happening there.",T,gc
+Okay.,P,gc
+Apni ki kokhono nijek-e depressed ba anxious mone koren?,T,yq
+Ha,P,ack
+Drug ba alcohol-er sathe ekta problem?,T,yq
+Oh no.,P,on
+Ota moton kichu na. Apni kokhon first notice korechhilen je apnar symptoms chhilo?,T,irq
+Probably around thirteen maybe ago,P,id
+Apni ki janen boyos koto?,T,yq
+Na na.,P,on
+Okay. But you're thinking maybe early adolescence?,T,yq
+Ha.,P,ack
+You have a really annoying symptom na je amake ghotieche.,T,yq
+Ha.,P,ack
+Ha. Ki dhoroner areas e tara problem create kore?,T,irq
+"I really everywhere mane, I guess.",P,id
+Ha. Ha.,P,id
+Apni ki job koren?,T,yq
+Ha.,P,ack
+Eta workplace-e problem create kore?,T,yq
+Ha.,P,ack
+Kemon college?,T,yq
+Ha eta kore,P,ack
+Okay. Eta bari te ache?,T,yq
+O acha.,P,ack
+Valo. Okay. Okay. So apni je symptoms ADHD indicate korte pare bolen amake about that. Ki hochche?,T,irq
+"Okay, when I go to class, ar ami nijek-e pai, you know, going into my own little world jekhane teachers kotha bolchhen, eta onek amar moto, ami sit korte pari na ar then stand up ar teachers amar dike takiye, apnar ki kichu proyojon? Ar ami chai, na, amar sotti dandate hobe.",P,id
+So apni classe stand korte forced hon?,T,yq
+Ha.,P,ack
+"Jodi apni jenen, eta kichuta attention attract korte pare.",T,irq
+"Ha, unfortunately, ami bolte chi, ami eta jani, kintu still amar eta kora dorkar.",P,id
+"Okay, so ami apnake koyekti question jiggasha korte jachchi. Ar apni question duto section thakte pare.",T,gc
+"Okay,",P,gc
+"So first section diye start kori. Apni ki mone koren je apnar goal set korte problem hochche? Ar cholo, school context-e ei dike taki.",T,yq
+"Ha,",P,ack
+Tumi koro. Okay. Apni jokhon attention establish korechen tokhon ki hobe apni ki nijek-e eta dhore rakhate struggle korchen?,T,yq
+Ha ha.,P,ack
+"Ar abar, ami shudhu school environment-er sathe stick korbo. Okay. Eta symptoms irritating ekta place. Well, eta shant.",T,yq
+Ha.,P,ack
+"Abar, tara onno jaygay kinle, kintu seta ki boro problem?",T,irq
+Je ekta boro ek.,P,id
+"Okay, aapnar ki class-e shunte problem hoy?",T,yq
+"Haan,",P,ack
+Tumi kor. Kivabe professor diye given instructions follow kore?,T,yq
+"Haan,",P,ack
+"Yes, class projects are the toughest.",P,id
+Aapni ki nijer ke organized paben?,T,irq
+"Haan, ami tai besh organized.",P,id
+Besh organized.,T,id
+"Aapni ki nijer ke school-e ba onno settings-e pachen, emon activities avoid kore jachchen je jonno onek mental effort proyojon?",T,irq
+"Haan, tara amar matha byatha dey ar ami eti mokabela korte chai na.",P,id
+"Aapni avoid korun kichu jinish ki? Uh-uh,",T,irq
+Games ami chess sahjo korte pari na. Ami shudhu tai bujhte perchi ar tarpor lokera amake rules explain korechilo ar ami okay korlam.,P,id
+Tara nijerai emon jinish harie felche ja aapnake workplace-e ba school-e kaaj korte hobe.,T,yq
+Na na.,P,on
+Confused??,T,yq
+Haan. Distracted distracted,P,ack
+Mota-moti sohoje?,T,yq
+Haan haan.,P,ack
+Forgetfulness somporke kivabe?,T,irq
+"Haan, ami besh bhule jai.",P,id
+"Okay, tai ami sorie jacchi ar aapnake onno bisoye question jiggasha korbo.",T,gc
+Okay.,P,gc
+Okay. Kivabe aapni nijer ke khunje pete? Restless?,T,yq
+"Haan, haan.",P,ack
+"Aapni kivabe mokabela korben ami mone kori aapni eta age touch korechen, kintu ami calm activities diye eti korechi. Jemon, pora.",T,irq
+Ami satyi je sange struggle kori.,P,id
+Aapni je sange shuru? Haan.,T,irq
+"Ami ek ghontar jonno video game khelte pari, kintu ami porte ba khelte pari na ba ankte pari na?",P,id
+"Sutaraang aapni jokhon calm activities-e nijukto hon, tokhon aapni ki nijer ke distracted mone koren?",T,yq
+"Haan,",P,ack
+Tumi kor. Mone hocche aapnar ekta internal motor ache ja bondho hobe na?,T,yq
+"Na, ami ta bolbo na.",P,on
+Na. Okay.,T,gc
+Aapnar ki mone hoy aapni excessive kotha bolchen?,T,irq
+"Haan. Haan, haan, proy ei bindute je ami permission dei emonki proy ami manushke onek barrier di.",P,id
+Ki settings khunje pete ekta problem.,T,irq
+School-e ekta boro ekta.,P,id
+Eta ekta boro?,T,irq
+"Haan. Karan ami kotha bolbo ar ami kotha bolbo. Mane, shikkhok dakle ami track bondho kore debo. Ar tarpor onno keu kichu bolbe ar emon hobe, oh, haan, na, ami bhule gechi. Haan, tao. Ar, ami bolte chacchi, ami terrible bodh kori, kintu ami eta bondho korte pari na.",P,id
+Aapni ki kokhono sei eki class-er jinish khunje pan?,T,yq
+Haan. Haan.,P,ack
+Aapni ki manushke barrier den?,T,yq
+Ha ya ami korbo,P,ack
+"Emon ekta paristhiti ache jekhane, jemon, workplace-e ba school-e ba barite bolun, jekhane aapnake kichur jonno aapnar palo apekkha korte hobe. Aapni je uposamasya khunje pan?",T,irq
+"Ki, ekta drive thru moto?",P,crq
+Eta bondhur madhyome ekta drive hote pare. Jodi aapnar drive-er madhyome aapni khunje pan?,T,cd
+"Mane, ami bujhte parchi na.",P,crq
+Line-e opekkha kora ba aapnar palo-er jonno opekkha korar moto aapnar kono samasya nei? Ami mone kori na. Eta thik na. Okay.,T,cd
+"Okay. Tai ami aapnake amader ekjon poramorshadatar sathe dekha korte jacchi, aapni ullekh korechen je ei lakshanguli aapnar jonno biraktikor. Ar ami aapnar chikitsa nischit korte chai. Okay emon kauke dekhte aapnake niye jete amra koyek din somoy nebo,",T,id
+Haan etai thik ache.,P,ack
+Tai amar sathe ei somoy kataanor jonno ar ei question-er uttor dewar jonno ami aapnake dhonnobad janate chai. Ei sotyi sahayok hoyeche.,T,gt
+Dhonnobad.,P,gt
+Dhonnobad,T,gt

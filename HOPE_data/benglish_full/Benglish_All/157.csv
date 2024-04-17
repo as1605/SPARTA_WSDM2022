@@ -1,0 +1,90 @@
+Utterance,Type,Dialogue Act
+"Hi, Olive.",T,gt
+Hi,P,gt
+welcome back.,T,gt
+Dhonnobad.,P,gt
+Tumi kemon acho?,T,gt
+Feeling pretty intense. Things have kind of gone downhill since I was here last time.,P,"gt, id"
+Ohh I'm sorry to hear that.,T,ap
+Haan.,P,gc
+"Last time amra kotha hochchilo to, tumi o Kalie biye korecho, r kichu plan korecho tomar jiboner jonyo. So bolo ki hoyeche, ki chhilo ki change hoyeche?",T,"gc, irq"
+"Mone hoy, amra just akdom pore gie porlo. Tumi jano, ami khub asha korchi o biyer shomoye, oshanti niye kaj korar, gussa niye kaj korar, tomra amader shomoye ki shomoye aar ki obhab korechi, tai holo na, eta hoy na. Amra abar oi jayga te.",P,id
+"Tumi eta shunte kharap lagche, etai bujhte parchhi. Amra jani tumi utsuk chhile, tumi asha korechhile poriborton er jonno. Kintu ami ekta confidence ta tomay abar dekhtesi. Ebong eto bhoyonok, maybe obostha ta shunte pechon theke shobkichu dhara kharap lagche. Tobuo, ami ki kivabe helpful aar support korte pari, kivabe tomay useful korte pari ei shomoye.",T,"ap, od, gc"
+"Ami just... Ami bujhte parchina kivabe poriborton korte hoy. Ami bujhte parchina kivabe ei shesh korte hoy. Ami bujhte parchina, ami kivabe berote hoy. Ami just... Ami eto korte pari na.",P,id
+Tumi decision nite parcho. Ebong bepare bhabchho. Eto bujhte pari na je tomar eti shomoye relationship theke ber hote hobe.,T,gc
+"Ami bujhi na. Mone hoy, ami berote chai. Kintu, ami bujhte parchi na, ami kivabe berote hobe na.",P,id
+"Bujhte parchho, na. Tumi abar berote bhabchho. Tumi jodi bole na thakho je tomar kono niomito nirdeshon nei je tomar absolutely relationship theke ber hote chai. Kintu, correct koro amake, ami ghotonata je, tomar kono ebhabe relationship chai na.",T,"gc, crq"
+Haan.,P,cd
+"Ekhon, tumi berar kotha mone koro, ebong tumi ki ki chintechho? Mone koro, berote bujha, ar kono bichar chilo kina ebong eta ki rokte pare.",T,irq
+"Ami bujhi na. Jokhon eta bhabte parchi, tokhon mone hoy, amar kichu way out nei. Aar eta eto jore bojha jachche je eta eto kothin. Eta eto bhalo lagche na. Eta jeno na. Na, ami tar dukkho korte chai na. Ami sudhu berote chai.",P,id
+Tumi keno relationship e theke berote chai na?,T,irq
+"Eta uttam na. Eta, ami khushi na. Mone hoy, o khushi na, o bolte pare kintu ami bhabe na. Amra shob somoy jhogra kori. Mone hoy, ami bhalo obhab e berote parbo na. O khub overprotective. O just eta eto kichhu bhalo lagche na. Eta, just jeno na. Just jeno na.",P,id
+Jeno na. Eto ki bhalo lagbe?,T,irq
+Ei shomoshsha. Ei shomoshsha ektu boro prashna. Ami bujhi na. Ei to bhalo na.,P,id
+"Tai obostha joto tai bhalo na. Eto bujha jacche na, tumi kichhu vabe bhalo obhab e. Jodi somporker obostha shuru te bhalo chhilo, kintu eto valo na hoye geche, eta tumi nijer jonyo chai na.",T,crq
+"Haan. Amra shob somoyi manushke utsuk shudhu na, tao tumi dekhte parcho na je tomra ei relationship e thakle, tumi nijer jonno kotha rakhte parcho na.",P,"cd, id"
+"Tumi nijer self care ar well being ke onek value koro, ar tomar spirit keo. Ar mone hocche tumi feel korchona je tumi nijer care thikmoto korchona ei relationship e thakte giye. Jodi jinishgulo shuru te bhalo lagleo, ekhon mone hocche na je ei relationship ta tumi nijer jonno chai.",T,"gc, crq"
+"Na, kintu jano, se khub lovely ar ami or ke bhalobashi, ami imagine korte parina je amar life e or ke chara.",P,cd
+So tumi torn feel korcho?,T,yq
+Ha.,P,op
+"Tumi torn feel korchotomar love ar affection or jonno ar nijer self honor korar sense er modhye, ar mixed feelings acho. Tumi bolcho je tumi change chai, mone hocche tumi ei complexity dhorte parcho, je tumi or jonno strong feelings acho ar mone hocche na je ei relationship ta tomader jonno bhalo.",T,"gc, crq"
+Na. Mone hocche amader duijoner jonno e bhalo na.,P,cd
+"Duijoner jonno. Ha. Tahole tumi ektu bolcho leaving niye. Amake bolo ar ektu, tumi kivabe vabcho. Ar jokhon tumi change korte vabcho, leaving er kotha, ta ki dhoroner hobe tomar kache?",T,"gc, irq"
+"Ami jani na. Mone hocche... ami imagine korte parina amar life or ke chara. So or ke na pele mone hocche khub scary. Ar ei bhabe thakte giye, jinishgulo change na hole, ta aro scary lagche. So ami jani na ki kore korbo, ki kore shuru korbo. Amader life eto intertwined. Ami mean, amar business, amader friends, queer community eto choto, janiyo, eta amar family, bondhu, sobai. Ar just, janiyo, ki kore nijer ke extract korbo, jevabe ami feel korbo, ami grace ar respect diye korchi or jonno, nijer jonno.",P,id
+"Tumi ki vabna acho ki kore extract korbe? Ki bhabe extract korbe nijer ke, jevabe integrity ar grace thakbe, jemon tumi bollcho?",T,irq
+"Ami jani na. Ami mean, ami amar friend Jay er sathe kotha bollam, ar ami jani na or suggestion chilo break nite, kintu ami jani na. Ami chai na abar caught hote on again off again e, jemon age hoyeche, kintu break er idea ta ektu kom... ami jani na, maybe gentle. Ami jani na.",P,id
+"Bolo ektu beshi, gentle keno mone hocche.",T,cv
+"Ami jani na, ki kore amader duijon ke time dite pare vabte, ar ami jani na, maybe or change hobe, maybe jodi eta final break hoy, maybe or change hobe.",P,"cr, id"
+"Ami shunlam tumi bollcho, jete Kelly chara move on kora, life e egiye jawa khub scary. Fact, almost impossible mone hocche imagine korte, jate tumar life e or abhav gulo kivabe intertwined. Ami o shunlam tumi bollcho je change na korle ta aro scary. Ami curious, tumi ektu beshi bolo ki bujhte chao eta diye?",T,irq
+"Eta just... ami exhausted feel kori. Mone hocche ami ar ami noi, je ami chilam relationship e ashar age. Mone hocche ami constantly struggle kori or ke happy korte, ar ta kaj kore na. Kichu korar nai. Ar ami mone kori ami amar joy hariye fello. Ar ami jani na. Ami bhoy pai ki hobe jodi ami ei jaygay thaki, jekhane mone hocche ami dhukkho pachchi. Hmm, amar peace.",P,id
+"Ha. So tumi nijer well being ar joy, spirit niye concerned acho, jodi tumi stay koro ar change na koro, ar seta part ta tomader jonno khub scary.",T,crq
+Ha.,P,cd
+"Tumi mention korecho je tomar friend suggest koreche maybe ektu break nite. Ar tumi bollcho je ta scary mone hocche. Ar ami shunte chai tumar additional thoughts ei option niye, tomader jonno.",T,gc
+"Well, mone hocche jodi eta happen korte pari, jodi kono upay khuje ber korte pari, ta hole amake time dibe vabte, ki chai, ki dorkar, ar ami mone kori ami sort out korte parbo na ki ami ei modhye. Ar jodi space pabo shudhu nijer jonno breathe korte, or feelings niye na vabte, or care na korte, just ektu time nijer jonno focus korte. Mone hocche ta helpful hobe.",P,"gc, id"
+"Mone hocche tumi ato modhye acho, mixed emotions, hopelessness, sadness, disappointment e, je khub hard lagche berote. Ar break er advantage holo just ektu moment breathe korte, charpashe takate, nijer ke collect korte, ar na atkano thakte oi ambivalence e, jani na ki korbo.",T,crq
+Ha.,P,cd
+"Jodi tumi mind na koro, ami chaibo ei ruler ta dekhte, ami ektu quickly likhechi, kintu scale e zero theke 10, zero mane not motivated at all, ar 10 mane extremely motivated. Tumi koto motivated feel korchoto break nite relationship e right now?",T,irq
+oh chhoy. So somewhat motivated.,P,id
+Keno chhoy ar na ek?,T,irq
+Karon ami dorkar. Mone hocche ami nijer ke hariye fello. Tai mone hocche,P,id
+eta important?,T,crq
+Ha.,P,cd
+"Well, so keno chhoy ar na noy? Ba dosh?",T,irq
+"Karon ami sure na ki kore korbo. Ha, ami jani na.",P,id
+"So eta important tomake, ar tumi maybe fully confident na, sure na ki kore korbe.",T,crq
+Ha,P,cd
+ki kore korbe?,T,crq
+Exactly.,P,cd
+"Well, eta niye follow up korar jonno, scale e zero theke 10, zero mane not confident at all, 10 mane extremely confident. Tumi koto confident je jodi tumi decide koro break nite relationship theke Kelly er sathe, tumi successful hote parbe eta korar jonno?",T,irq
+"Ami jani na, maybe tin ba char.",P,id
+"So, so less confident or less confident than you are motivated. Keno tin na zero.",T,irq
+"Karon ami, ami chai. Ami mean, ami kichu korte chai.",P,id
+"Mm hmm. Ar tai wanting eta tomake confident feel kore, kichu extent e tumi actually eta korbe parbe.",T,gc
+"Ha, ha.",P,gc
+Keno tin ar na at o noy?,T,irq
+"Ami control korte parbo na or ke. Ami jani na or reaction ki hobe, ami chai na ar kono argument, anger. Ar ha, ami chai na or ke hurt korte. So.",P,id
+"So jokhon tumi break niye vabcho, tumi o vabcho or reaction ki hobe, or ki korbe, ar seta create kore arek dhoroner chinta. Eta undermine kore tomar sense of confidence on some level.",T,"gc, irq"
+eta create kore amar jonno onek anxiety.,P,id
+Ha. Tumi ki mone koro ki change hote hobe jate tumi feel korte paro confident about successfully being able to take a brief break.,T,orq
+"Ami mone kori maybe ekta plan, like just knowing, knowing ki rules hobe, ki kore korbo, ki accomplish korte chai.",P,od
+"So ekta actual plan vabna, ki bolbe, koto din, ki boundaries thakbe, eta help korte pare.",T,crq
+"Ha, regard.",P,cd
+"Okay. Ar ekta final question, scale e zero theke 10, zero mane not ready at all, ar 10 mane extremely ready. Tumi koto ready bolbe commit korte kono brief break nite, let's say, next couple of weeks e.",T,irq
+Ami mone kori at.,P,id
+so pretty ready?,T,crq
+Ha.,P,cd
+"Ar tumi age ektu bolcho, believe, kintu ami abar jiggesh korbo, keno at ar na ek ba dui?",T,irq
+"Karon ami jani jodi ami drag out kori, ami miserable hobo.",P,id
+"So tomar sense of readiness actually connected to tomar motivation, je eta kichu tumi jano je tumi nijer jonno korte chai. Ar jodi na koro, jinishgulo bhalo hobe na. Ar eta tomake motivated kore ar o beshi ready. Well, keno at ar na dosh?",T,"gc, irq"
+"Eta, janiyo, scary. Change kora hard ar vabna je ami woman ke ami bhalobashi, ami thought korechilam ami biye korbo, eta amake sad kore.",P,id
+"So tomar emotions, maybe sadness ar grief, disappointment, eta komiye dey tomar sense of readiness ke kichuta.",T,crq
+Sort of giving up on a dream.,P,cd
+"Ha, ar so, onno aspect tomar experience e holo je tumi grieving. Relationship shesh hoini, kintu tumi grieving korcho dream ar hopes gulo niye. Ar eta ekta heaviness, certainly ekta factor, tomar next step e ki korbe?",T,"gc, irq"
+"ha,",P,cd
+"well, jodi ami ek minute nite pari ar make sure ami bujhte parchi ar understood korechi sob kichu tumi share korecho amar sathe, ami jani eta kotha bolte khub difficult. So ami khub appreciate kori je tumi time niye share korecho amar sathe eta kemon lagche tumar jonno. Tumi stuck feel korcho. Jinishgulo kichukhon bhalo chilo, tumi hope korechile je change hobe ar ekhon realize korcho je Kelly change hobe na ar tumi suffer korcho process e, tumi really kept from your aspirations ar dreams, onek different regards e. Tumi jano je change korte hobe, tumi change korte chai, ar mixed feelings acho ei change niye. Tumi jano eta korte chai, eta right thing tumar jonno. Ar tumi o khub care koro ar bhalobaso Kelly ke. Ar tumi o concerned, outer level e, about tomar business, community, family, friends ar kivabe tara affected hobe breakup e. Eta manage korte, tumi vabcho maybe smaller change, like taking a small break, as opposed to breaking off the relationship ar tumi feel koro tumi pretty ready. Tumi somewhat motivated. Ar maybe ektu kom confident. Kintu tumi o bollcho jodi tumi concrete plan vabte paro, eta help korte pare feel korte confident.",T,"gc, id"
+Ha.,P,gc
+"Ar eta toh kore jete parbo amader agami meeting-e, toh tumi oke khub enjoy korbe bolle. Tumar chintar kichu ideas shunte khushi hobo, shayad ami oke kichu protishruti diye di.",T,gc
+Eta bhalo hoto.,P,gc
+Eta thik achhe toh?,T,crq
+Ha. Dhonnobad.,P,cd
+Tomar somoy er jonyo onek dhonnobad. Ami eto valobashi.,T,cd

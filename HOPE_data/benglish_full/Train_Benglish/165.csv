@@ -1,0 +1,46 @@
+Utterance,Type,Dialogue Act
+"Hi, Victor ami Dr. Sawyer. Victor, tumi ki bolo parbe tomay boyosh koto?",T,"gt, irq"
+Ami 20.,P,id
+"Tumi 20. Okay, tumi kothay thako?",T,"ack, irq"
+Bari te.,P,id
+Tumi bari te thako? Tumi ke ke er sathe thako?,T,"ack, irq"
+"Amar maa, baba, bon.",P,id
+"Okay, so tumi thako maa, baba ar bon er sathe. Tumi ki kaj koro?",T,"ack, irq"
+Ami cop te jai.,P,id
+"Okay, so tumi amar kache esecho. Ami doctor.",T,irq
+"Ami nijer iccha te asini, amar maa ar baba ar bon amay ekhane niye esecho. Ami ashte chai ni.",P,id
+"Okay, tomay maa baba ar bon ekhane ache?",T,irq
+"Ha, ache.",P,id
+"Okay, tahole ami tomake kichukhon por orader kache pathiye dibo. Kintu cholo kichu prashna kore feli.",T,gc
+Ami ekhon jete chai.,P,gc
+"So Victor, bolo to, tomay ghum kemon hoy? Ar tumi ki anondo bodh korona, joylessness feel korcho?",T,irq
+"Ha, amar teacher amay mean koreche. Amar educational assistants amay mean koreche. Tader shob somoy amay timeout e rakhe.",P,id
+"Tumi calm down hobe, Victor, tomar seat e thako. Ami nahi to security dakhte hobe.",T,"gc, cv"
+Ami kokhono chillaini. Eta prothombar.,P,cr
+"Tumi ekhon amar sathe chillachho, ami chai tumi chillano bondho koro. Tumi ekhon kono medication neyecho?",T,"gc, yq"
+"Amar maa, baba, bon? Na. So eta just ha,",P,"gc, op"
+"ha na, tumi ki kono medication neyecho?",T,"gc, yq"
+"Ha, ami neyi.",P,op
+"okay. Ami chai tumi porerbar amar kache tomar medication er list niye asbe. Ami tomake ekta antidepressant medication er prescription dibo. Tumi bari giye tomar maa ke dekhabe, tarpor pharmacy te giye fill up korte hobe.",T,"cv, irq"
+"Obviously, seta tomar byapar na.",P,id
+"Okay, tahole ami just amar computer e giye enter kore dei, tarpor amar receptionist tomake medication er kotha bolbe. Okay, good luck Victor.",T,"id, gc"
+Bye.,P,gt
+"Hi Victor, ami Dr. Sawyer. Hi. Ami ekjon psychiatrist. Tumi ki jano psychiatrist ki?",T,"gt, irq"
+Na.,P,id
+"Okay. So ekjon psychiatrist holo ekjon doctor je manush der niye kaj kore je sad ba mad feel kore, alada alada feelings je tara bodh kore. Amra ektu kotha bolbo, ar kichu kotha bolbo je gulo tomake jibone tough lagte pare. Ar amader goal holo dekha je kivabe amra jinishgulo tomay ektu sohoj kore dite pari.",T,id
+"Okay, ar school e ami mone kori tara kichu korche na. Tader amar feelings niye shunte chai na.",P,id
+So tumi mone koro keu shunte chai na.,T,crq
+Ami mone kori school e keu amay shunte chai na. Amar parents ar bon shunte chai.,P,id
+so tumi bollcho tumi onek sad feel korchona. Eta koto din dhore cholche?,T,irq
+"Um, well. Ekti teacher achi. Ami or naam bolbo na, kintu se amay shunte chai na. Okay? Se chesta kore amay niche rakhte.",P,id
+Tumi ei teacher er sathe koto din dhore acho?,T,irq
+"Char bochor, char bochor.",P,id
+"So tumi ki mone koro ei char bochor dhorei sad feel korchona, na kom somoy dhore?",T,irq
+Kom somoy dhore.,P,id
+So eta ki koyek saptah? Koyek mash? Koyek din?,T,irq
+Koyek mash.,P,id
+"So Victor, ami tomake amar kichu vabna bolte chai je ami mone kori ki hocche, kintu ami chai tomar bon ke niye ashi, karon ami tomar medical history niye ektu jante chai. Ami or ke niye ashi, tarpor firbo. Okay?",T,"gc, id"
+Okay.,P,ack
+"So, ami Victor er sathe kotha bolchi, se amay bolche kivabe or interest kom hoye geche jinishgulo te. Ghum hocche na. Ar se, se sad feel korchona shob somoy. Ar mone hocche se suffer korchona jeta amra bolte pari major depression. Kichu treatment achi je ami bolte chai, tumi ki jano Victor kon medication neyecho?",T,"gc, id"
+"Ha, actually ami ei niye vabchilam, karon onek gulo achi. Okay, sure.",P,gc
+"Dhanyabad. Okay, so ei list e achi sort of ki medical illnesses Victor er achi, hospitalizations, surgeries o. Depression er jonno kichu treatment achi. Ekta holo medication, ar ekta holo school ar family moddhe kichu intervention. Onek kichu vabte hobe, kintu, mone hocche school e thikthak jacchena sobkichu. Ar eta sadness er jonno onek boro contribution hocche.",T,gc

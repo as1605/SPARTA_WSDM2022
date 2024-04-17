@@ -1,0 +1,42 @@
+Utterance,Type,Dialogue Act
+"Hi Joe, kemon acho ajke?",T,gt
+Ami thik achi.,P,id
+Shudhu thik achi?,T,crq
+"Mane, obviously ami bhalo nei, tomake boltei hobe ei session er jonno, amra scheduled chilam na ajker jonno. Ami just, ami jani na, ami feel korchi, janiyo, depressed, usual moto, kintu eta ektu beshi strong, ami just, ami uththe chai na, ami just...",P,cd
+Tough time cholche?,T,crq
+Ha.,P,ack
+Ki karon e eta hocche?,T,irq
+"Not really. Mane, same jinish, shudhu ekta, janiyo, ami just mone kori ki point ase? Ami continue korte chai na.",P,id
+Tumi continue korte chai na tomar life er sathe.,T,crq
+"Ha, kinda.",P,cd
+Tumi ki suicide er kotha vabcho?,T,yq
+"Mane, ami vabchi ki hobe jodi shob kichu shesh kore dei. Mone hoy beshi easy hobe. Kintu ekdom, ami imagine korte parina ami eta korbo. Kintu bolte parbo na je ami vabini ei byapare.",P,id
+"So tumi kichu vabna acho ei byapare, ki prevent kore tumi eta na korar?",T,irq
+"Ami jani na. Mane, ami jani family er jonno ki hobe. Ami tader hurt korte chai na.",P,id
+Tader hurt hobe?,T,crq
+"Ha, ar eta scary, mane, dying er kotha scary, kintu continue kora painful.",P,cd
+So mone hocche tumi ekta tough situation e acho.,T,id
+"Ha, mone hocche ami atka porchi dui tough situation er moddhe. Jani na ekhon theke kothay jabo.",P,id
+Tumi ki kono specific plan korecho eta niye?,T,yq
+"Na, mane, tumi jano, ami vabchi jodi korbo, ki bhabe, kintu specific na, karon ami mone kori ami eta korte parbo na, janiyo, ami suicide niye vabchi, kintu seriously consider kori ni as an option. Kintu eta amar thoughts e dhukte shuru koreche, ar age kokhono hoini, tai ami ektu concerned. Mane, ami jani, mone hoy manush gulo plan kore, kintu ami, eta niye age kokhono vabini, tai eta amar jonno khub scary.",P,id
+"So, ei feelings gulo koto din dhore cholche?",T,irq
+"Um, mone hoy gato koyek din dhore, start hoyeche, beshi, ar tarpor ajke, eta chilo prothom vabna amar mathay, ar ami stop korte parini vabte, tai ami tomake dekhte chai, karon ami feel korchi ami ektu out of control hocchi.",P,id
+"Okay, so ajke, ar gato koyek din ektu new feeling, new thought je tumi life continue korte chai na. Kintu ekdom, tumi suicide korte chai na. Tumi kono plan nai.",T,id
+"Ha, ami korte chai na, ami, ami sotti korte chai na, kintu, jemon bollam, ami atka porchi dui tough situation er moddhe, eta ami jani na valo option. Mone hoy ami eto atka porchi, jani na onno kothay jabo.",P,ack
+"So jodi, amra bolte pari depression, thik? Karon amra age ei byapare kotha bolchi, depression jodi chole jay? Tumi ki mone koro eta change korbe tomar outlook?",T,yq
+"Definitely, ami mone kori eta holo karon, karon depression er jonno, ami mone kori je ami bachte chai na, karon ami feel kori emotions out of control, ami uthi down feel kore, useless ar pointless, eta amake wish kore je ami dead hote pari. Kintu jodi eta na thakto, tahole ami wish kori na je ami dead hote chai. Karon ami jani amar life er value ase, ami jani amar family amay chai, ami jani amar future ase, kintu amar feelings amake feel kore je amar future dark ar pointless.",P,id
+"Alright, ei suicidal ideations, ami jani tumi bolcho age kokhono paini, tai appreciate kori eta scary hote pare. Eta scary hote pare, depression er sathe common. Ar tumi, mone hocche tumi bolcho frustrated, ar tired hoccho sickness niye. Ar ami mone kori tumi valid point toiri korecho je tumi bolo family upset hobe jodi kichu hoy. Ami chai tumi ei thought ta dhore rakho. Amra shesh kore, bolo to ajke ki plan korecho baki din er jonno.",T,id
+"Well, ami plan kori ni kichu, karon ami ekhane aschi feel kore ami tomake dekhte hobe, tai ami jinishgulo hold e rakhlam, kintu, mane, ami guess kori ami bari jabo, ar, ami jani na.",P,id
+Onno kothao jabe?,T,yq
+"Na. Kintu, mane, ami probably jete pari amar parents er bari, ami tader call korte pari, ar dekhte pari, bikal hoye asche, tara kaaj theke chuti pabe.",P,on
+Tumi ki amar jonno eta korte parbe? Tumi ki jete parbe?,T,yq
+"Ha, ami mone kori eta bhalo idea.",P,op
+"Ar amra dekhte thakbo ki hoy. Ami ajke tomake dekhte chai. Amra ajke kichu kaj korbo. Ar ami tomake abar dekhte chai kal. Thik ase? Jodi tumi ek raat tader bari te kate, eta wise choice hobe, tomar thoughts ar feelings er jonno ekhon. Tumi ki age contract for safety term ta use korecho?",T,irq
+"Mone hoy tumi age bolcho, ami sure na.",P,id
+"Okay. So eta mane holo, authentic hole, ami chai eta sotti hok, jekhane tumi amake promise koro je tumi safe thakbe amar abar dekha porjonto, right, foreseeable future er jonno, tumi kono intent ba plan nai nijer ke harm korte. Tumi ki amake ei promise korte paro ekhon?",T,yq
+Ha,P,op
+"Okay. Thik ase. Ami ek minute nite chai ar ami abar asbo, ajke ektu kaj korbo. Ar ami tomake schedule korbo dekha kal er jonno.",T,id
+ha.,P,op
+okay,T,ack
+Dhanyabad.,P,gt
+"Thanks, Joe.",T,gt

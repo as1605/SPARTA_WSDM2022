@@ -1,0 +1,19 @@
+Utterance,Type,Dialogue Act
+"Hello, eta ki luke?",T,gt
+ha.,P,op
+Dekha hoye bhalo laglo. Ami Dr. batata. Ami jodi apnar abdomen and aro kichu body part examine kori seta ki thik ache?,T,gt
+"That's right, thik, accha.",P,op
+Apni jodi thik more koren tahole apni ki apnar gun ta niche korte parben?,T,yq
+Ektu.,P,id
+"Okay, thank you etar jonno.",T,op
+"Okay, apra eta pore korte pari.",P,id
+"Right Okay, ami ki? Ami apnar eyelid niche korte jacchi. Okay, just animia er kono evidence ache kina dekhchi. Amar jonno ekabe upore-niche dekhun.",T,irq
+Accha.,P,gc
+"Bhalo, kono kata dag ache kina dekhchi.",T,id
+okhane pain.,P,id
+"Okay, eta dekhe mone hocche eta onek live. So apni deep breath nite paren ki?",T,yq
+"Sorry etar jonno, sorry.",P,ay
+Ami ekhon apnar tummy tap korbo. Okay.,T,id
+"Okay, hoyeche?",P,yq
+"So amar porikkha shesh korar jonno, ami shifting dullness test korbo. Dekhte hobe apni in depth achen kina. Tachara ami full lymph retinopathy sreen korbo, sathe accelerate and inguinal lymph nodes o kora hobe.",T,id
+Okay. Thanks.,P,gt

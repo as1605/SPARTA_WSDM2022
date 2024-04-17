@@ -1,0 +1,49 @@
+Utterance,Type,Dialogue Act
+"Hi, Miss Watson, abar dekha hobe. Dekhun, ami khushi je apni fire eshechen. Apnar check-up er pore amra je rokte kaj korechi tar phalaphol ami ekhon peyechi.",T,"gt,id"
+Thik ache.,P,ack
+Aar amra je kono kichur upore jawar age ami satyee apnar kach theke jinisguli kivabe cholche ebong apni ki niye udvigno ta janate chaiyechhilam.,T,irq
+"Acha, mane, ami, ami tader somporke kautukhli karon ami khub bhalo chhilam na, thik ache. Ami khub, khub bhalo chhilam na. Ami gato shoptahe ami kichu rokt nikshep korechi.",P,id
+Eta ki prothombar ghoteche?,T,irq
+"Haan, prothombar. Mane, ami gato shoptahante tokhon rokt chhurre felchi. Abar, gatkal. Tai kharap kichu ghoteche. Ami jani kichu kharap hochhe.",P,id
+Apnar ki mone hochhe?,T,irq
+Ki cancer thik ami mone kori ami sambhabot cancer hoyeche ami na ami khub bhalo korchi na ami shudhu matha byatha dekhechi ebong ami shudhu chhilam.,P,id
+"Ei kichu ber korar chesta kora jak. Thik ache. Apni jokhon bolchhilen je apni blabari chhurrechen, ujjol lal rokt chhurrechen ebong eti ki chhoto dag, boro dag-er moto chhilo?",T,irq
+"Eta chhilo ekta toilet praay bhore yachchhilo temonta chhilo na. Ami eto chhiloam na je eti joteshtho chhilo je ami toilet-e eti dekhte pachhi, ebong ami chhurre felechhilam.",P,id
+Aar apnar ki onno kono uposorg chhilo?,T,irq
+"Acha, ami asustho bochhchilam. Tai aar amar mathabyatha chhilo ebong ami, apni janen, ami peyechhi,",P,id
+Diner kono somoy chhilo?,T,irq
+Amar khub mathabyatha ache,P,id
+Saradin rokt jhoreche,T,crq
+"Je sokale ebong tarpor aabar,",P,cd
+"Onno somoy eti diner pore sajano chhilo, kintu ami",P,cd
+"Apni janen, amio mazrati jege uthi ebong ami shudhu gham-e dheke achi. Ami jani eta aro ekta cancer jinis.",P,cd
+"Dekhun, ami bujhte pari apni keno chintit. Thik ache, karon rokt nikshep kora bhitikar, ebong mazrati gham-e bheje utha. Setao thik mone hochhe na. Amake apnake koyekti prashna jijnasha korte din ja jinisguli byakhya korte sahayata korte pare. Apni khon apnar shesh paniyo pano korechen?",T,"gc,irq"
+"Asle, ami ekhane asar thik age,",P,id
+"Thik ache, tai aj shokale chhilo. Thik ache, tomar ki chhilo?",T,irq
+"Amar kachhe komolar rosh chhilo ebong ete amar kichu bhodoka chhilo. Eti asle aktamatri jinis ja amake dorjar baire jawar jonno yathechhara kore. Ami eto ghan ghan baire jai na. Kintu ei muhurte,",P,id
+Tale amake bolo eti apni kivabe sahayyo kore.,T,irq
+"Eta shudhu odhyon amake odhyon kore jemon ami achi, apni janen, ami sob somoy kampchi. Ami thik moto,",P,id
+"Tai diner belay, nijekete shanto bodh korar jonno odhyon kore. Apni shesh porjonto koto paniyo panochen?",T,irq
+"Panch? Hmm, hote pare.",P,id
+Ekk nakki dwait?,T,irq
+Ami porimap kori na,P,id
+Thik. Tai eti pradhanto bhodka,T,gc
+"Kokhono kokhono jodi ami sotti'i anubhob kori je amar pet sotti'i kharap, ami cider pan korbo. Tai je tar cider ba bhodka karon",P,gc
+"Ebong apni kokhono sokale emon anubhuti pan je kichu lok boronno kore je tara khub birkutikor bodh kore jege othe. Tader shanto hoiar jonno ekti paniyo proyojon. Hyan. Eta amar jonno kaj kore je shudhumatro jinis moto. Je kon kaj, khub. Tai got shoptahe, apni ki mone koren apni beshi pan korchen?",T,irq
+Got shoptahe? Got koyek shoptahe hoyto eto kichu hoyni?,P,crq
+Dainik hoyeche na. O achha. Thik. Tahole apni got mase ekti paniyo chhara sobcheye dirgh hoyeche kot dirgh hobe?,T,cd
+"Ami jani na. Asle mane, ami jani na. Ami apnake janate perechi, amar onek kichu cholche. Thik. Hyan. Tai amar, amar bon Boston e ache, tar cancer hoyeche ebong ami jani je amar take kol kora uchit ebong ami ta korte pari na. Amar ma sotti'i asustho ebong tini bhoyanok, ebong ami ekmatro je take dekhte jete pari? Ebong ami amar make dekhte jai ebong se shudhu amar dik'e chitkar kore ebong chitkar kore ebong se ei emailti peyechhe ebong eti thik",P,id
+"Tai ei somosto jinis'er jonno, alcohol sahayyo kore.",T,yq
+"Hyan, hyan.",P,ack
+"Hyan. Ebong eta ki kokhono diner sheshe ghote pare je, porer din ja ghotechhilo ta mone korte apnar kosto hoy?",T,irq
+"Ami anuman. Ami bolte chacchi, ami, apni janen, amar dineguli eto'ta alada noy. Kintu ami, apni janen, ami television'er samne ghumiye porbo ebong tar pore ami onek lokke dekhte pari na tai ami jani, amar jibone emon boro ghotona nei ja ami mone rakhabo. Ami shudhu, apni janen, bishesh kore ekhon je ami khub bhalo bodh korchi, je ami",P,id
+"Hyan, amar mone rakhar moto onek kichhui nei",P,id
+Je ache. Apni apnar modhyopan komano'r jonno eti sob chesta korechen?,T,yq
+Ami korechi. Ami korechhilam.,P,ack
+"Apni janen, amar ekjon premik chhilo",P,cd
+"Tumi ki jano, ek dhore naimittik aschhilo ebong se, se moolot bolechhilo je se ar amar sathe thakte parbe na karon ami khub beshi pan kori. Ebong tai ami chesta korechi. Ami chesta korechhilam. Ami chhilam, bhal, hyan, ebong tarpor se chole gel. Tai ke jotno kore, tai na? Mane, tai na?",P,id
+Apni alcohol somporke nijeke doshi bodh korchhen.,T,yq
+"Ami amar boner jonno doshi bodh kori, tai na? Ami doshi bodh kori je ami pachhondh korte pari na ami thik pari na. Ami jemon pari na take dakhteo pari na.",P,id
+Thik. Tai,P,id
+"Jodi ami, jodi ami etike eksathe tante pari,",P,id
+"Karon apni amake ja bolchen ta theke ami ja bujhte perechi ta hol je modhyopan apnar jonno ek ti nirdisht proyozon metate sahayyo kore, ei somosto jinisgulike eksathe rakhar chesta korar khetre ebong rakhar chesta korar khetre ek ti proyozon puron kore. Tumi shanto ho. Kintu eki shomoye, eti apnake somsyae pore. Somporke'r khetre eti somsya pore, tobe apni keno rokt nikshep korchen tar jonno eti sambhavot akt bakhya'o noy keno ami je lab folafolguli peyechi ta apnar jonno khub beshi poriman'e alcoholer sathe samanjasyopurno handle korrar jonno sharir. Sotti'i, sotti'i, ebong er ortho hol, adarshbhabe, amra eti somporke kichhu korar upay khujte ber korte ekshathe kaj korte jachchi.",T,gc

@@ -1,0 +1,122 @@
+Utterance,Type,Dialogue Act
+"Hi, Andrea, asha kore esechhen dekhe khushi.",T,gt
+"Hi, dhanyabad.",P,gt
+"Ami mone kori apni jante paren na amar role eikhane ki, ar apni keno ekhane aschen. Tai ami bhablam ami prothome amar sombondhe ektu bolbo. Mooloto, amar kaaj holo proti student er sathe dekha kora, proti semester e ek ba dui bar, ar kotha bolbo je kemon cholche, ki dhoroner behavior gulo niye engage hochhen, jibone ki dhoroner change gulo anar kotha vabchen. Jodi apni decide koren je apni change korte chan, amar kaaj noy apnake change kora. Ami parbo na, even jodi ami chai. Amar role holo apnake sahajjo kora, bhabte sahajjo kora je kemon cholche apnar jibon, kemon kore change korte chan, kivabe egote chan. Eta thik lage?",T,gc
+Haan.,P,ack
+Thik ache. Tahole amra shuru kori apni amake apnar sombondhe ektu bolun.,T,"gc, irq"
+"Sure. Um, apni jene thakben, ami Andrea. Ami junior. Ami marching band e achi. Ami ceter sax bajai.",P,"gc, id"
+Oh.,T,gc
+"Ami band geek. Ami Wind Ensemble, jazz band ei dhoroner jaygay bajai.",P,gc
+Wow. Apni to music e onek involved.,T,gc
+Haan.,P,gc
+Apni kobe shuru korechhilen?,T,irq
+Ami shuru korechhi prai 10 bochor aage.,P,id
+Wow.,T,gc
+"Haan, ami prothome violin diye shuru korechhilam, tarpor piano, clarinet niye explore korechhi. Shesh porjonto ceter sax peyechhi.",P,gc
+"Haan, khub cool. Ami sobsomoy music e valo hote chai. Thik ache, mone hocche apni band ar koyekta musical ensemble e achen, ar apnar ki onno kono hobby aache ba maja korar jonno ki korte chan?",T,"ack, irq"
+"Um, just bondhuder sathe hang out kora, beach e jawa, ei dhoroner jinish.",P,id
+"Ei gulo ki rojkar, everyday sort of thing?",T,yq
+Haan.,P,op
+Apnar family sombondhe ektu bolun.,T,irq
+"Well, amar ek boro bhai aache. Se amar theke prai aat and a half bochor boro, amar parents, ar amar ekta Dog aache.",P,id
+Cute. Ki dhoroner dog?,T,irq
+Golden retriever.,P,id
+"Oh, bhalo.",T,ack
+Boro chele.,P,gc
+"Khub mojar. Thik ache, ar school e apnar kemon cholche?",T,irq
+Besh bhalo. Grades besh alright. Pray 3.7 ish.,P,id
+"Okay, great. Apni bhalo korchhen? College ba high school er por apnar ki goal aache?",T,"ack, irq"
+"Ami chai, obviously high school theke graduate hote, hopefully kono nice Ivy League school e jete.",P,id
+"Ohh, thik ache.",T,gc
+"Ar hoi to seta na hote pare. Tarpor ami chai doctor hote, psychology study kore psychiatrist hote.",P,id
+"Okay. Apnar kichhu boro swapno aache. Eta khub exciting, bhabte ki apnar samne ki aache.",T,ack
+Haan.,P,gc
+"Thik ache. Ami apnake ektu jante chai, apnar jibone ki ki jinish guruttopurno, jemon apnar cultural identity, family, bondhura, kaaj, hobby, ei dhoroner jinish. Ei holo ekta sheet, je basic values gulo niye, jemon belonging, community sense, cultural identity, family, friendship, modesty, religion, respect, self determination, spirituality. Apni nijer kotha vabun, ei gulo theke kon gulo apnar jibone beshi guruttopurno?",T,irq
+"Um, mone hocche community sense ar belonging.",P,id
+Okay.,T,gc
+"Ei dui ta, ar respect, respect.",P,id
+"Okay,",T,ack
+"Haan, ami mone kori community ar belonging related. Ami bolchhilam ami marching band e achi, ami bhalobashi team setting e thakte, onno der sathe ek sathe kaj korte. Ar respect niye ami mone kori eta ekta boro role, ami mone kori respect khub guruttopurno, nijer samman korte, ar onno der samman korte.",P,id
+Okay.,T,ack
+Ami ei gulo ke besh guruttopurno mone kori.,P,id
+"Okay, besh. Tai group er ekta part hote, team er ekta part hote apnake sense of belonging dey, jemon apni bolchhilen, ekta sense of purpose.",T,"ack, irq"
+Haan.,P,ack
+"Ar respect ta to sob dik diye, shudhu authority noy, nijer samman, team mates ba band mates der samman, ar onno der samman.",T,gc
+Haan.,P,gc
+"Thik ache, besh bhalo. Thik ache, ami apnake ektu jante chai, belonging ar apnar bondhura niye, bondhura sathe jokhon dekha koren, ki dhoroner jinish koren?",T,"gc, irq"
+"Um, sometimes amra shudhu movie dekhte jai, beach e jai, jemon ami bolchhilam, ba sometimes amra karo bari te giye board games kheli, hang out kori.",P,id
+"Ar bondhura sathe hang out korar somoy, ki kokhono alcohol involved hoy?",T,irq
+"Haan, sometimes.",P,ack
+"Thik ache, apni ki ektu bolte parben alcohol apnar social scene e kivabe fit hoy?",T,irq
+"Well, mostly just parties e thake, party settings e, jate sob kichhu shuru hoy ar shobai relaxed hoy, jemon tara bolte thake.",P,id
+"Mm hmm. Tai party te gele, mostly alcohol thake?",T,yq
+Haan.,P,op
+"Thik ache. Ar apni ki mone koren, mashe koto bar apni drink koren?",T,irq
+"Ami boli, busy na thakle, mashe dui ba tin weekend e.",P,id
+"Tai mone hocche mashe ardhokhon somoy apni drink koren, ar ardhokhon somoy koren na.",T,yq
+Haan.,P,op
+Apni ki bolte parben je drink korar din gulo ar na korar din gulo te ki difference aache?,T,irq
+"Drink korar din gulo mostly party te hoy. Tai beshi energetic hoy, dance kora, fun kora. Ar na korle relaxed hoy, board games khela, movie dekha.",P,id
+Tai basically activity er upor nirbhor kore alcohol thakbe ki na.,T,yq
+"Haan, definitely.",P,ack
+Thik ache. Ar apni ki boro difference notice koren party te enjoyment level ar board games khelar raat e?,T,irq
+"Ami mone kori duto different. Board games khela meant to be relaxing. Party te besh energetic hoy, shesh hobar por khub klanto lagte pare, kintu moment e besh moja hoy dance kore, fun kore.",P,id
+"Okay, tai basically pros and cons aache.",T,yq
+Haan.,P,ack
+Thik ache. Apnar kache alcohol ba drinking er ki ki bhalo dikgulo aache?,T,irq
+"Um, jokhon amra drink kori, amra beshi moja kori karon mone hocche amra shobai ek sathe relaxed hoye jai, ar stress ba tension niye bhabte hoi na. Kintu obviously, beshi drinking kharap hote pare.",P,id
+"Okay. Tai beshi drinking er somoy, ki dhoroner kharap dikgulo aache alcohol niye?",T,irq
+"Onek somoy, alcohol lokeder boka banai. Haan, mone hocche lokera boka decision ney. Amra chesta kori joto possible safe thakte, tai amra bondhur bari te thaki, drive kori na. Amader friend group er moddhe thaki, tai amra strangers er chinta kori na drinks niye. Kintu haan, lokera drunk hole boka boka kaj kore.",P,id
+"Okay. Tai apni chesta koren dangerous activities e jete na, thik?",T,yq
+Haan.,P,ack
+"Apni thakte chan, drive korte chan na, trusted manush der sathe thakte chan. Kintu mone hocche tarporo kichhu kichhu ghote.",T,yq
+"Maje maje, haan.",P,ack
+Ektu beshi bolte parben ki ghote?,T,irq
+"Ami especially pasand kori na jokhon ami ba amar bondhura beshi drink kori, ar vomit kori. Eta moja noy.",P,id
+"Haan, vomit kora kokhono moja noy.",T,ack
+"Haan, noy.",P,gc
+Eta ki koto bar ghote?,T,irq
+"Ami ekbar ghotechhe, pratham bar drink kora somoy. Ami mix korechhilam onek kichhu, ar jekono kichhu neyechhilam. Eta valo hoy ni. Kintu tarpor theke ami ar hoini, kintu amar bondhura maje maje kore. Tai ami tar der dekhte hoi, ar eta amar moja noshto kore dey.",P,id
+"Uh huh. Okay, tai ek dik diye alcohol er moja aache, lokera relaxed hoye jay, carefree hoye jay. Onno dik diye, planning korte hoi karon safety niye vabte hoi. Ar tarpor kichhu consequence aache, jemon vomit kora, ba jodi apni na koren, bondhur jonno dekhte hoi. Okay, ar alcohol niye ar kono not so good dikgulo aache?",T,"ack, id, irq"
+"Lokera sometimes sloppy hoye jay, jemon loose hoye jay, corner e giye private jinish public e kore feli.",P,id
+Ei dhoroner jinish. Tai apni mone hocche apni jor kore dekhte hoi.,T,gc
+"Haan, thik ache.",P,gc
+Thik ache. Apni koyekbar bollen je apni kichhu decision neyechhen drinking er dangerous aspect limit korte. Ei decision gulo keno neyechhen?,T,irq
+"Ami just dekhechi amar ek aunt alcoholic. Tai ami jani issues gulo ki. Movies dekhechi, jani drunk driving issue. Tai ami joto possible safe thakte chai, safe setting e, jemon bondhur bari te, parents thakle. Tai ami jani dangers aache, ar ami chesta kori limit korte, moja korte chai safely.",P,id
+"Okay. Mone hocche eta apnar respect er value er sathe mil aache. Ek dik diye drinking maybe belonging ar community sense help kore, kintu beshi hole purpose defeat hoye jay.",T,ack
+"Haan, thik.",P,gc
+"Ar respect er kotha bolte, apni bolchen apni nijer samman korte chan, boundary cross korte chan na. Drinking kivabe fit hoy eta niye?",T,"gc, irq"
+Respect er dike ki dike bolchen?,P,crq
+Haan.,T,cd
+"Ami mone kori drinking holo amar body ke disrespect kora, karon amar body te kichhu thik na thakle. Kintu onno dike, ami respect kori nijer ke, safe thakte chesta kori, drinking limit kori, control e thaki. Random lokeder sathe jete chai na, kichhu ajana jaygay kichhu ajana kaj korte.",P,id
+Okay. Tai balance khujchen?,T,"ack, yq"
+Haan.,P,op
+Apni ki korechen e porjonto? Apnar ki kono limit ache je apni mene cholen?,T,irq
+"Ami usually nijer drink nijei banai, jate jani ki aache ar koto aache, tai ami control korte pari koto khacchi. Ami ekta cup neyi, ek drink banai, ar chesta kori seta joto somoy possible tene niye jete. Ami boli, ""Okay, eta amar ek drink, ami bhalo achi."" Eta diye ami kichhu somoy let loose korte pari, kintu cup e kichhu thakle, lokera ar offer kore na, ""Na, ami bhalo achi, amar aache.""",P,id
+Eta apnar jonyo beshi bhalo kaj kore? Na ki sometimes apni sei limit exceed kore felen? Ki mone koren?,T,irq
+"Beshir bhag somoy eta bhalo kaj kore. Lokera jokhon pressure dite ashe, ami boli, ""Na, ami thik achi, pore nebo,"" ar pore kichhu nei na. Kintu sometimes lokera boli, ""Cholo shot nebo,"" ar sobai kitchen e gather kore shot nebar jonno ready. Sei somoy ami bhabte pari, ""Hoyto ekta beshi neoa jabe."" Ar sei somoy ami beshi poriman e pori.",P,id
+"Tai kichhu somoy eta apnar jonyo bhalo kaj kore, ar kichhu somoy apni mone koren adjustment korte chan, ektu smooth korar jonno. Okay, tai vabte thakun, apnar koto guruttopurno apni kichhu change korte chan ba adjustment korte chan apnar drinking e, jeeta apnar values ar goals er sathe milbe.",T,"gc, id"
+"Ami chai nijer body ke respect kori, tai kom drink korte chai. Moja korte bhalo lage, kintu ami chai na amar body ke khoti kori, ba liver kaj kora bondho kore dei 22 bochor boyose. Ar ami chai amar bondhura o similar mentality niye kaj kori, group hishebe, community hishebe.",P,"gc, id"
+Uh huh. Tai basically combined goals.,T,yq
+Haan.,P,op
+"Thik ache. Tai tumar ekta goal ache mone hoy. Mone hoy tumi actually tomay pan kora komate chai. Eta koto guruttopurno tumar kache ei goal ta niye kaaj korte, scale e one theke 10 er moddhe, jekhane one mane ekdom guruttopurno na, ar 10 mane etai shobcheye guruttopurno jinish ekhon.",T,"od, irq"
+"Ami bolbo mone hoy, motamuti six ba seven. Ami kaaj korte chai ei niye. Kintu, tumi jano, jodi ami ete pao, tahole pabo, jodi na pao, tahole na. Hmm.",P,id
+"Thik ache, tumi keno bolcho six ba seven, na je four?",T,irq
+"Um, karon ami mone kori eti guruttopurno. Uh huh. Ami shudhu bolbo, ami jemon bolchi, ami chai na amar body ta noshto hoy especially med school e jawa, ami jani jinish gulo kivabe tomay body ke affect kore, ar social life ar schoolwork keo. Ami jani college e gele, eta kaj korbe na, proti weekend e pan kora ar tarpor shokal e utha school e jawa, exam dite, ami jani eta feasible na. Eta valo idea na.",P,id
+"Haan, agami din gulo dekhe. Tumi ei vabe pan kore gele tumi tomay goals paoa jabe na. Thik ache. Tumi koto confident feel koro je tumi chaile komate parbe, ami mone kori sei scale e one theke 10 er moddhe?",T,"op, orq"
+"Ami mone kori jodi ami decision nite pari je ami korbo, tahole definitely mone hoy 10. Ami jani ami parbo.",P,od
+"Oh, wow. Thik ache, tumi keno bolcho 10?",T,"gc, crq"
+"Shudhu karon ami jani jokhon ami decision nibo, ami jani ami korte parbo. Uh huh. Decision neya prothom kaj.",P,cd
+"Thik ache, ar tumi bolcho, tumi onek karon niye bhabcho keno tumi komate chai. Tumi ki vabcho kivabe eta korbe?",T,ack irq 
+"Um, ami vabchi hote pare ami amar bondhura ke convince korte pari bina dorky sound kore, bolte pari, ""Hey, tumi jano, ajke amra bari tei thaki. Cholo baire na jai."" Ba bolte pari, ""Hey, ami ajke pan korbo na."" Ar jodi amar bondhura pan kore, ami thik thakbo tader sathe, na pan kore, ar tara thik thakbe amay na panar sathe, ar tara je kichu korte chai kore felbe.",P,id
+"Tai tumi try koro plan korte alcohol jukto na emon activities, ar tarpor try koro participate korte activities e na pan kore nijer theke ba maybe kom pan kore. Thik ache. Eta ki goal tumi ekhon kaaj korte chai?",T,"ack, orq"
+Ami mone kori ami chai. Eta khub feasible. Eta possible.,P,od
+"Thik ache. Tai ami guess korbo amra kotha bolbo less alcohol activities niye. Ami shudhu note kori nijer jonno, ar tarpor hote pare pan kora komano jodi alcohol jukto hoy. Thik ache.",T,gc
+Ami mone kori eta bhalo.,P,gc
+Eta ki tumi korte chai?,T,yq
+Haan,P,op
+"Thik ache. Well, ami appreciate kori tumi amar sathe samay keteche kotha bolte, ar mone hoy tumar onek valo goals ache nijer jonno, khub ambitious goals, medical school e jawa, ar psychiatrist ba onno kono doctor hote chai, tumi khub valo korar jonno school e porashona korte chai jate pao. Ar mone hoy tumar active social life ache ar onek bondhu ache je tumi mone kori supportive hobe jodi tumi alcohol komao. Ar tumi dekhte pacho onek benefits ache tomay body ar health er jonno, school performance, ar social stuff e terms e sense of belonging anar jonno, na deal korte hoy gross consequences er sathe je ashe too much pan kora theke.",T,gc
+Haan,P,gc
+"Tai haan, tumi jano, amar kache mone hoy tumar ekta valo plan ache. Ar jodi tumi willing thako ar interested thako abar dekha korte, ami khub excited hobo kotha bolte kivabe cholche.",T,gc
+"Haan, ami chai.",P,gc
+"Thik ache, great, tai ami plan korbo tomay dekhte koyek saptah por.",T,gc

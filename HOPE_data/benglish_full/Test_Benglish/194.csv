@@ -1,0 +1,103 @@
+Utterance,Type,Dialogue Act
+"Hi. Alvina, aajke tumi kemon acho? Tumay dekhe bhalo lagche.",T,gt
+Ami just thaka achi.,P,gt
+just thaka?,T,crq
+Hmm.,P,cd
+"tumi jancho, ami tumi-r pre-visit planning korechhilam ar tumi-r Ph. Q two, ja ekta short depression screen, ta toh positive ashchhilo. Tai ami nurse-ke bolen ekta beshi chhoto screening tool diye dao, ja holo pH q nine. Ar sei toh asole ekta score ashlo, ja holo aath, ja ta toh mild depression range-e aschhe. Tai eta kemon lagchhe?",T,"gc, irq"
+Bhalo bhabe jantam ami alada feel korchhi. Ami jantam na ami depressed achi.,P,id
+Tobe tumi jancho kichhu off chhilo.,T,gc
+Ami nijer moto feel korchhilam na. Aajkal nijer moto feel korchhi na.,P,gc
+Bolo ekta toh beshi amar nijer moto feel korchho na.,T,irq
+"Maane, ami kaj-e jai, phire ashi, ar shute jai. Pratite jago ar ami akhon o kintu shute thaki. Ami kebol shakti chari.",P,id
+Tai tumi shute beshi. Kintu shute o boshe thakle thik moto uthte paro na.,T,crq
+"Na, kichhu moto uthte parina.",P,cd
+Shunte bhalo lage na mone hoy.,T,crq
+"Na. Ami kebol shakti chari. Ami kichhu korar icche kori na, keval shute thakte ichhe kore.",P,cd
+Aar koto din cholchhe ei obostha?,T,irq
+"Mone hoy, duto-moish.",P,id
+Dui ya tin moish?,T,crq
+Hmm.,P,cd
+Ar ki cholche?,T,irq
+"Arrey, jaani to, ami ekhaney beshi piye aachi. Mone hoche, ami ekhane piye thaki. Kintu ami nijer opor bose mone korchi je ami ekhane eshe, jaani to, ekta wine er gilaas kore ar firbona.",P,id
+Ar sei to bereyechhe?,T,crq
+Karon ami usually hebdomader moddhey eibhabei beshi pi na. Tai bereyechhe. Hm.,P,cd
+Ar ami bujhte parchhi je eta tomake kharap lagchhe. Ar ki? Ar ki cholche tomake?,T,"gc, irq"
+"Arrey, jaani to, amar ma ek bachhor age mara gechhe. Tai Ma-er Din aschhe tai mone korar dorkar nei mama shilpo. Ami tini ke beshi miss kori.",P,id
+Ar anniversaries ta close?,T,crq
+Hm.,P,cd
+"Eta bishesh kothin. Jokhon amader ma-baper mrityur anniversary ashche, tokhon khub kothin hoy.",T,gc
+"Hm. Ar ami ma-ke dekha korechhilam. Tai eto kothin, karon ekdiner por ekhono tini roger mato thakchhilen. Tarpor tini roger roger roger theke mritu helen. Tai ekdiner por amar kotha mone korechhe.",P,gc
+Jiboner ekta khola?,T,yq
+"Hm, amader kachhe khub proshnoi chhilo.",P,op
+"Amar tomake khub valo lagchhe. Ar amar kache tader katha shonar jonno dhonnobad. Ami jani, eta khub kothin. Abar mone hoy tumi khub kharap chhob. Tumi bhalo moton ghum pai na. Tumi khub thakano.",T,"ap, gc"
+Hm.,P,gc
+"Din theke raat chakri kore jaan, eta mone hoy. Ar tar por tomar khaoyar holo kemon?",T,irq
+"Thik bhabe khete hocche na. Jaani na, ami shakto nei, jaani to, prothom ami office theke fire eshe dinner banabo, naki office por theke kichhu bandhur shonge dekha korte jabo, kintu eta korte ichhe kore na. Ami ekhane eshe ekta wine er gilaas kore ar firbona. Ekanto hoye ar firbona.",P,id
+"Tumi prothom beshi sobai sathe involved chhilen, kintu eto na thakle.",T,yq
+"Hm, ekhon ami kichhu korina.",P,op
+Kichhu ekanto hoye gechhish.,T,yq
+Haan. Just working from home and sleep.,P,op
+"So if there was something that you could do about this, what do you think you might like to do?",T,irq
+"Ei toh, ami ei bhabe thakte chai na. Ei amar sartaye nei. Janen, shudhu shute thakar kotha. Ei amar moddhe nei.",P,id
+Ei toh ektu obostha tei atka mone hoy.,T,gc
+"Haan, ami ektu kichu korte ichha korena, na hole amar bandhura sathe berote na, shudhu kaj kore ghore fire boshe shute thakte. Ei korte chai na. Ei ekdom shei purono routine.",P,gc
+"Ei mone hocche jodi amra kichhu option er kotha korte paritam, jara eto chhoto depression niye bhalo thakche, tahole ki hobe tai?",T,gc
+Hmmm,P,ack
+"Maximum samay e toh amra generally dawa-r kotha bhabte chini. Tai, ei obosthaye kono dawa nei abar.",T,gc
+No.,P,gc
+"Theek ache. Tai, mone hoy dawa theke beshi important hobe, nishchit rokomer counseling, ebong tomar bhabna-gulo niye kichhuke kotha bole, ebong regular basis e ebong, ebong seta upor feedback pawar kichhuke.",T,gc
+"Ami okay achhi. Janen, maa rogu bishesh, jenechen, seta chikitsak er dike kotha bolechilo. Ekhane oigulo kemonchhilo, janen.",P,gc
+Tai oi gulo bhalo anubhuti chhilo?,T,crq
+"Haan. Haan. Jara amader dhukkho-ta bujhechilo, tara ke kotha bole chhilo, shudhu tarai bujhte perechhilo seta sure.",P,cd
+"Ar ekta option hote pare pranayam, ar kono natural product, naki kichhu bajarer kichhu jinish, jara khub chhoto depression er jonyo upokrito hoy. Ebong seta kichhu onno jinish, jader bishesh kore charcha korte parbo, jodi tor khub ichha hoy.",T,gc
+"Shayad kichhu natural pranayam, oh, vishesh urja. Ami kichhu korte ichha korina. Tai ami abar pranayam korbo na. Kintu jodi kono natural jinish hoy, janen, seta ami shayad proyojon kore try korte parbo.",P,gc
+"Okay. Tai, jodi thik hoy, chalachalan niye kotha bole ferot chali. Ebong tahole ami kichhu onno kichhu gulo niyeo charcha korte parbo.",T,gc
+Okay.,P,ack
+"Tomar kono cousellor ache je kichu janish naki, naki eto sundor mahila tar sathe tomar maa'r mrityu upor kaj korechilo? Se kono lok samajey ache?",T,yq
+Ami khub valo lagchilo. Hmm. Ami tader bhalobasi.,P,op
+"Tui to shune shunte bere gelis. Tui ektu ekta maan chharo, shun to. Scale e zero theke shuru kore das e, das mane shunno ekhono aar ektu ota tule ashbo, tui shoto berote paro kina?",T,irq
+"Ektu shoyto, shoyto dhore, tui shob shunte paro.",P,id
+"Shoyto dhore, shoyto? Keno shoyto dhore, shoto na chara?",T,irq
+"Ektu shobha kore, karon ami ei rokom theke bachte chai na. Aar, tor mone hoilo, ami aar kotha bolechilam tader shathe. Ami tader sathe phire jete icche kori. Aar tader boli, ja jokhon ami tader peyechilam, je dorkar hole ami firte pari.",P,id
+Ei jeno tomar ektu connection ache already. Eta khub bhalo. Tui tai korte iche korechis tahole ar ki kore mone koro aar ebar kichu planning korechi?,T,"gc, yq"
+"Hmm, ami nishchoi tader sathe dekha korte parbo, dekha korte parbo.",P,op
+"Eibar ora ki bhalo? Ami mone kori, tader sathe kichu chhoto katha bole? Ami jani to tor ekhane shomoy er jonno eto vakti nei, eta bhalo, eto bhalo. Tomar jonno shudhu tui ei nirnay ghorite paro Alvina. Kintu jodi etai thik hoi, to etai thik hoi, tahole amar kichu information deoa valo hoto exercise er bishoye ebong brain er opor tar prabhav niye.",T,gc
+Ok.,P,ack
+Exercise er bishoye ek number er kichu study e dekha hoyeche je eti boi hoi shontron asanto-dopamine baraye.,T,gc
+Ok. Ei rokom jinishta ami jantam na.,P,ack
+"Hmm, er moddhe serotonin baraye. Serotonin er bishoye to suni.",T,gc
+Hmm.,P,ack
+"Happy hormone. Haan. So ei jaanen serotonin tule barche ebong ekta kichu boli BDNF, jeita, well, er ki roop e naa, kintu etai shongjog kore tokhono tomar manushyer brain barche ebong shahajjo kore. Tai exercise kora to shomoy bhabe anek rokom vabe upokar korte pare serotonin er shomorpon barano ebong stress kamano shorirer quality er upor asar karone. Eta kemon lagche ei point e?",T,"gc, irq"
+"Well, jodi ami proyash kori exercise korte ebong phire onake kotha bole dekhi, etar mane kintu ki je ami ekhon dawai nite naa, tomar bhalo mone hoe ekhon amra etai proyash korte parbo.",P,id
+"Absolutly. Phirbo kintu, ei tomader tomar decision, ebong ami, ami ekhon eki rokom support korbo. Jodi etai kichu korte ichchuk hoy, ami tai pochondo kori.",T,gc
+"Ami dawai-er shathe proyash korte cheshta korbo. Amar kichu bondhu proyash kore ebong workout kore, jader shathe ami shomoy katte proyash korar jonno kotha bolte parbo.",P,gc
+Tai tomar kichu bondhu ache jader jekhanei proyash program-e involved ache? Hmm. Ei kotha ti tomar kotha holo tader shathe kotha bola ebong tomar ei group-e proyash kora shombhob?,T,yq
+"Hmm, amar kichu bondhu jara race kore ebong jara gym-e jay. Amar kichu bondhu jara kaje porer pore ghure beray.",P,op
+Tai eta shune mone hoe shomosto rokomer kichu korte paro.,T,yq
+Hmm.,P,op
+Tai eta theke tomake beshi interest kora ki?,T,irq
+"Well, ar, to jani, weekend-e amar church-e exercise class ache, to. Tai, haan, kintu mone hoi ami exercise korar jonno kono energy nei kintu ami etai proyash korbo, kintu ami nishchit vabe amar kotha bolechi, jader shathe kotha bolechi ma ami guye gechi, ebong ami ekhon tai korte parbo.",P,id
+"Bhalo. Aro kotha bole kintu. Ei tomar jonno bhalo lagche mone hoe. Ebong mone hoe tomar prothomok amra ekti plan korar jonno kintu tomar life-er modhhe kivabe ektu bhalo kore fit hote pare, phire counseling er kotha ebong proyash er kotha.",T,"gc, irq"
+"Well, jodi ami takiye to dekhte pari, to jodi ami takiye to dekhte parbo kajer pore. Tai ami kotha korte parbo ar dekhte parbo jodi ami takiye therapy ebong exercise. Ebong ami korte parbo, to, kajer pore naki weekend-e, amar bondhu, tara shomoy katte proyash kore ebong ebong amar pashe thake.",P,id
+"Cholo to ekhon ete or kotha bolechi. Tomar kotha ekta scale er upor, jodi amra arekta scale er upor kore kotha bole, shunbena, jekhane zero mane ekhono exercise program shuru korte niye confident, zero mane khub beshi confident naa ebong 10 mane khub beshi confident. Amarke bolo tomake ei exercise bishe kothay?",T,"gc, irq"
+"Honestly, shayad paanch ebong ami etai proyash korbo. Kichu jodi ami korte pare, to jodi ami dawai nite hoi, tahole ami etai proyash korbo. Ok.",P,id
+Eta to shonalo beshi strong commitment lagche.,T,gc
+"Haan, ami proyash korbo.",P,ack
+"Ok. Aur bolo, exercise er jonno tomar planer bishesh kichu bolte paro.",T,irq
+"Dekho, tomar ki khabar, amar bondhura toh call koreche, kintu, tomar ki khabar, ami shudhu shutei achhi. Tai tader call kore o ami shutei achhi, tai ami tara ke abar call kori nai. Kintu, tomar ki khabar, ami, tader call gulo return korte parbo ar taderke bolte parbo, ami tader shathe milte ichhuk. Ar, tomar ki khabar, komoy mile egiye shuru kora jai.",P,id
+Ei mone hoi toh onek bhalo decision. Tumi kichu bondhu mone koro je tader kotha chao.,T,gc
+"Hm, amar kachhe onek kachhe, khub prokar bondhu ache, tader basa amar kachhe theke dure nei. Hm.",P,gc
+"Tai bolo, ki plan koro tomar mone jeno exercise korte tomai shuru kore dite pare.",T,irq
+Ami ekhono bhabchilam je shayad ami ghar aar na ashte pari. Shayad amar ek bondhuke phone kore r ekta plan banate hobe je shomoy office theke baade jaabe ar ekta poribortoner bastra niye jete hobe ar shayad ekta bondhur bashay jaabe r shei poribortone change korte hobe.,P,id
+Tai subah e korte mushkil lagche. Tomar mone hoi ei sambhab noy?,T,crq
+"Na, karon e toh ghum theke uthe ekdom kathin hoi. Subah e korte parbo na.",P,cd
+Tumi mone koro ki office baade korte kom kothin hobe?,T,orq
+"Karon ami jodi ekbar beriye jai toh ami jekhanei achhi, kichhu shudhu shutei jaibo. Hm, jodi ghar na ashi, na ashi, tai ekdom ghumaye jete ichhe kore na.",P,od
+"Ghar na ashe, khatam?",T,gc
+"Hm, ha, ha.",P,ack
+"Theek aache. Khub bhalo. Eta shunle to lagche je counselor er jonno ekta plan aache. Aaj checkout korar shomoy, ami ei record taanbo. Oi somoy counselor ke konta dekhle shesh korte chao. Tumi to maa'r situation er dhoray kaaj korle, oi shomoy ke...",T,gc
+Ok.,P,ack
+"Maane, taar maa'r shoronio dokaan bondho kore gese ebong opekkha opekkha korbo. Tumi tomake tomar bondhuder sathe kotha bole tarpor exerciser program e prokriyo hoye esho.",T,gc
+"Ok, ami try korbo.",P,ack
+"Theek aache. Ar jodi thik hoy, ami ekti shomoy pore tomarke phone korar ichha kori, ekhane jante, ekhane tomar bhalo lagchhe ki na, ebong duita, exerciser tomarke kisu madad korteche, jodi tomake eto khub upokar korte pare, tahole tomar ekta bhalo trial dile tomar motamuti er jonne opekkha korte pare. Karon amar asha je eta tomar motamuti ke bheter anubhob korbe ebong tomar mood onk bhalo kore dite pare. Ar ei tarikh e ami tomay dui saptah por theke dekhte chai, karon amra vabeche kichu korte pari na, aamaar kichu ebong kichu tablet er upor aache na. Kintu tomar jene rakhar jonno bolchi, tomar katha koi somoy thakte pari, ebong ami tomar jonno kaj korte thakbo. Ar jodi amader plan kaj korte na thake, tahole tomar jonno kichu korar jonne ami kaj korte pari.",T,gc
+Ok.,P,ack

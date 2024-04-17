@@ -1,0 +1,27 @@
+Utterance,Type,Dialogue Act
+"Thanks for coming along today, bhai. I've really been looking forward to meeting you.",T,gt
+"Yeah, ami oto.",P,ack
+"Cool. Okay. So I just wanted to ask, tomar kache je oi information pack ta peli, jeta tomar kache mail-e pathano hoyeche, seta toh pelechho?",T,yq
+"Haan, peyechhi.",P,op
+Fabulous. Okay. So would you mind if amra ek chhoto bela oi jointei toh dekhe nebo?,T,yq
+"Haan, na, eta theek ache.",P,op
+"So I guess something really important that I would like to draw tomar attention eita first of all, eta holo confidentiality er bepare, thik ache. Basically, ei therapy session-e amader jotnei ki kotha hobe, seta only tumi ar ami jane, kintu karon ami ekta professional psychologist, tai amader kotha-gulo ke, amar supervisor-er sathe bolte parite pari, thik ache.",T,id
+"Haan, haan, eta theek. Ei only tumar supervisor-er sathe hobe?",P,yq
+"Haan, ei rokom. Haan. Kichhu bishesh oshudhmatre, jekhane ami confidentiality bhenge dite pari. Eta hobe jodi tumi amake bolo je tumi nijeike ar kauke kharap korte paro. Thik ache. Jodi bolo je tumi ekta serious crime-e involved hoye gechho, okhan theke. Eta onnotomo kauke chao je amader kotha-gulo theke legal proceedings er context-e information tule nebe ar subpoenay amake oi information dewa hobe, tahole ami seta dite hobe. Kintu besh kichhu jodi ei rokom ghotto hoy, tahole ami proti bar tomar sathe seta discuss korte chai. Thik ache, eta bhalo hobe. Thik ache. So something onno ami tomar attention ektu tule dite chai, eto-i amader clinic-er fee. Haan. Jemon je amra phone-e kotha hoyechhilo, seta $20.",T,ack
+Haan. Ar eta theek. Kono somossha nei.,P,id
+"Okay. Ar amra bujhte pari je somoye somoye tomar kachhe kichhu asha jawa te pare, eta bujhte chai. Amar kache around 24 ghonta age notice debar jonno pray koro, taate amader onno ekta appointment time set korte pare.",T,id
+"Haan, haan, eta theek. Kono chinta nei.",P,op
+Thik ache. Tui oi akta akta akta rokomer akta chinta niye ar kono prosno korechish shape ta niye?,T,yq
+"Um, na. Sob to amar jonno thik ache. Hmm.",P,on
+"Hmm. Ok. Tobu, tui kichu bolar jonno shei niche tomar signature thik kore dite paro. Thanks.",T,id
+"Ami toh, ami ekhane ektu nervouse mone hocche.",P,od
+"Hmm, bujhte parchi je eti kichu shomoy er jonno thoda theke beshi onkobad and bhoyokari hote pare. Protibar tomar eshe ashar shomoy e. Hmm. Tai, ami mone kori, ami kemon vabe client er sathe kaj korbo, jeno amra duijon mile jete pari notun problem gulo ar tomake dharonor kono chinta ache sei moment e. Thik ache.",T,id
+Hmm. Shuni bhalo.,P,ack
+"Toh, ajker session er uddeshyo hobe mone hocche amar thik moto bujhte ki tomar shathe ki ghotche. Ar amader jonne eto shomoy thakte ekbar chance hobe ek jon eke onnorke onk bhalo kore janar jonno. Thik ache. Thik ache. Hmm. Hmm, eta beshi valo. Hmm. Ar seshe amader ektu touch base korte parbo dekha hobe ar dekha hobe je ajke amra ki rokom kaj korechi ar amra ki tate age berote chaitesi ki na.",T,id
+"Hmm, shuni bhalo. Tahole amader orthe ekta bhalo idea hobe.",P,op
+"Haan, thik ache. Haan, exactly. Hmm. Tai, ami mone kori, toke shuru korte giye amader othe kichu onno kichu try kora hoyeche ki na therapy er baire ar tomake jotota possible tomake jeno tomar joner sathe cope korte sahayak hoye.",T,irq
+"Umm, beshi kichu kori ni, ja ami feel korchi, tokhon ami ghorei thaki. Hmm, ami kichui kore na. Hmm, kichui kori na, sudhu withdrawal kori, etai amar onk kora hoyeche.",P,on
+Hmm. Tomar ei byapar e khub kichu nili rakhle oshadharon. Eto shomoy dhore choleche je ajke kauke dhorte eshe khub boro kore dhore nilo.,T,id
+"Haan, e toh hoyeche. Ektu onno shomoy e tomar kache ashar jonno prochur mon chilo kintu kichu korar idea chilo na. Hmm.",P,id
+"Ok, shuru korar jonno ami mone kori toh. Tui ki amake ekto beshi bole dite chao ki tomar sathe ki ghotche?",T,yq
+"Haan, sure.",P,op

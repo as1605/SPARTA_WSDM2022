@@ -1,0 +1,87 @@
+Utterance,Type,Dialogue Act
+"Hi, Laura. So thanks for coming in. Ami sure nei tomake koto kichu janish kina, ki bhabe eshechho, amader ki kotha hobe. Basically, ami school er sob student der shathe ekbar moddhe dui bar dekha hobo, ebong amra tomake tomar jiboner kotha kotha korte hobo. Ami tomar goals er bishay e kichu prashna korbo, ar tomar mone ache ki rokom masti korte ichhe koro, oi rokom kichu. Tarpor amra thakbo kichu kotha bole, tomar jiboner ongsho gulo niye. Ami tomake ekhon ekta chance dichhi, tomar kache ekhanei tomake janar jonno.",T,gt
+Okay?,P,gc
+"Tai cholo shuru kori, tomar bishay e amake kichu bolecho.",T,irq
+Okay. Amar naam Laura. Ar ami 17 bochhor er. Ar ami senior high school e pori.,P,id
+"Okay, ar tumi masti korte kichu kore?",T,gc
+"Mostly friend der shathe time katte, weekend e, ei rokom kichu.",P,gc
+Ar tumi ar tomar friend der sathe kothay jao?,T,gc
+"Boardgames khela, party te jao, haan, school er sathe related, ekta game khelbo, mall e jao, shopping korbo, cinema dekhte jabo, ei rokom kichu. Ar raat e, shayad kono party or kichu hobe.",P,gc
+"Okay, ar tumar ki ki hobbies ache?",T,irq
+"Um, ami boi pora bhalobashi. Ar bahir jao, walk nie jao, hike nie jao, ei rokom kichu. Ami khub baire thakte bhalobashi.",P,id
+"So. Oh, bhalo. High school shesh korar por tomar ki plan ache?",T,irq
+"Ami college e apply korbo, ar shayad bhalo career korte parbo, ei rokom kichu. Asha kori.",P,id
+"Bhalo, eta bhalo. Tumi mone koro tumi ki study korbe?",T,"gc, irq"
+"Ei, journalism e or pre-law e vabchi.",P,id
+"Oh bhalo, tao ekdom alada. Kintu haan, ei bhalo. Ei rokom ekta uddipon mahaan uddeshya.",T,ack
+"Haan, dhonnobad.",P,gc
+Law school e dhukte kharap na. Tumi ki school e bhalo korechho? Tumar ki grades achhe?,T,"gc, irq"
+"Thik achi. Mostly A ar B peyechhi, tai bhalo.",P,id
+Okay. Thik ache. Tumi kon class e A ar B peyecho na?,T,irq
+"Um, ami mone kori je amar sob grade A o B te ache.",P,id
+"Oh, haan. Thik ache. Ar tumi jancho college-e apply korar jonno kothay jete chao?",T,"gc, irq"
+"Ami eto sure noi. Kintu amar moner modhye achhe je area te thakarokom kichu school dekhechi, tai mone hoi, ami janai na, shayad amar basha theke beriye jabo ki.",P,id
+"Thik ache, bhalo. Ar keno mone holo last school or journalism e ki bhabe add korecho?",T,"gc, irq"
+"Um, bhalo to, ami definitly math or science-er manus noi. Tai ami shuru korlam oi dike, oikhane career dekhte shuru korlam je shayad amar bhalo lage.",P,id
+"Thik ache, bhalo lagche je tumi bhalo lakshya rakhecho ar school-e kothaigulo korchcho. Tumi bollecho je tumi bondhuder sathe berate jaoar somoy, tomar iccha moto shopping kora, ebong party te giye. So, tomar kache alcohol peyechi?",T,"gc, irq"
+"Not really, shayad party te ek-do drinks to maximum.",P,id
+"Thik ache. Ar tumi mone koro koto bar tomai mone hoi, tumi drink koro?",T,irq
+"Shayad ek-do bar mone hoi, maximum ekhono.",P,id
+Haan.,P,gc
+Shomvob.,P,gc
+"Eto somoy alcohol khele, tahole to khub hoi.",T,crq
+"Haan, mone hoi, eto bole dichhi.",P,cd
+"Thik ache. Tumi mone koro, tomai shobcheye beshi koto bar holo?",T,irq
+"Shyad, ekhono ek-do bar mone hoi to maximum.",P,id
+"Haan. Tumi mone koro, tomai kono somoy oboshshoi mati hoye geche?",T,yq
+"No, not really. Shyad tipsy hotei hoi, kintu mati hoye gechchi na.",P,on
+Thik ache. Tobe tomai eto somoy ek din e beshi dite hoyeche ki?,T,yq
+Haan.,P,op
+"Thik ache, bhalo. Tumi jancho alcohol-er kharap gulo sob?",T,yq
+"Oh, haan. Haan.",P,op
+"Thik aache. Tai, ekta jinish je tumi teenagers der sathe kotha bolte anek bhalo, seta holo drink kore gari chalano. Tai, toh, eti khub boro ekta problem. Aar ei pashe amra dekhi, shokoler diker moddhe vorsa vorsa chele meye gari chalate marte thake drunk driving accident e. Tai, ei ekta kotha jeta tumi bhalo kore obak hoye dekhao. Thik ache. Tumi kono somoy ei kaj korechho? Ektu mone aache?",T,gc
+"Na, never drunk kore, aar na korechi, aar na korechhi gari chalate, jokhon kono drunk driver er sathe chhilaam.",P,gc
+Thik ache. Tumiar bandhugan gola koto drink kore?,T,irq
+"Mone hoy, amar kichu bandhu beshi drink kore, baki gulo kom. Amar kache toh bhalo lage na se kotha, tai amar close group er bandhugulo eto beshi drink kore na. Kintu ami jani aache, jara beshi drink kore tader o ache.",P,id
+"Ei party te geleo, aache onno kono chele meye jara beshi drink kore?",T,irq
+"Haan, ache. Aro beshi drink kore sharaami kore, amar theke toh beshi.",P,id
+Aar toh tader sathe time kate?,T,yq
+"Beshi kichhu noy, naaki ami tader sathe khub ghurghute bondhutto nei. Tader ke ami toh jani, hi bolbo, kintu khub dhire.",P,on
+"Tai, toh, jante hobe je bishesh kore tader sathe ghurghute thakle, toh tomake beshi jokhon risk e dite hoy. Tumi eta janocho?",T,"gc, yq"
+"Haan, eta toh bujhte parchi.",P,op
+"Haan. Tai, ami toh bolchi, drink kora theke bhalo bhalo accident er bishoye beshi kichhu danger aache, gari accident er baireo, manush giriye porar baireo, yaar kaache ghire ashar baireo. Maane, toh, meye hisebe tumi bhalo kore takeo dhoro, karon tomake dhora hoite pare.",T,"gc, id, yq"
+Haan,P,op
+"Jani, especially jodi tomake drink kora hoye thake, tahole toh risk beshi hoye jaay, karon meye der sathe jokhon ghotche, tahole chele ta tomake advantage nite pare. Ei bisay e toh tomake mone hoyechhe?",T,"id, yq"
+"Haan, haan, mone hoy. Ekti boro karon holo ei, amar beshi drink korte ichhe hoi na.",P,op
+"Aar toh, jancho, lokera drink kore jokhon, tader moddhe beshi duto hoa jay. Aar toh, eti o jancho, ekhane shokolchele meye school e trouble e porlo, karon tara drink kore chhobi tule Facebook e upload kore, aar phire tader maa-baba tai ber kore, school o jane, aar amader ei drubon oshustho policy ache drugs o alcohol er obosthay, tai, ektu careless hole tomakeo trouble e dhokabo, aar tomake porashuna rasta theke berie dite pare. Tumi ei bisay e mone korocho?",T,"id, yq"
+"Haan, nishchit.",P,op
+Kintu tumi still drink korchho?,T,yq
+"Haan, ami to bujhte parchi, ei party te ei kaj ta kora uchit.",P,op
+"Tobe ami mone kori, eta ki kaj ta, jodi tumi ekjon attorney hote chao?",T,irq
+"Ami definitely noy, tai to ami itna besi drink korte chai na. Just ektu dekhte hobe, eto kore.",P,id
+"Okay. Hmm. Tobe mone kori, amader ki korte hobe, tahole thoda thoda kichu lakhte hobe jate tumi surakshit thako. Clearly, tomar kono korar dorkar nei. Tumi ki mone koro seta?",T,"gc, id, irq"
+"Ami definitely agree kori. Ami jani ar othoba risks ache alcohol er baire, toder mention korene oigulo, jemon swasthya babostha ar onno kichu. Tai agree kori, alcohol valo mohanor kichu noy.",P,"gc, id"
+"Mm hmm. Tobe tumi mone koro, tumi ki quit korte paro?",T,"gc, yq"
+"Um, haan, ami mone kori, eta amar jiboner boro bhaag noy, to.",P,op
+"Okay, tahole ami likhte jabo je tumi decide korecho quit korar jonno.",T,gc
+Okay.,P,gc
+"Ar eta tomar lakshya hobe. Ar eta bhalo. Toh, ami mone kori, tumi ei weekend e quit korte paro?",T,"gc, irq"
+"Haan, haan, definitely. Ami sudhu ekta drink nei hobe.",P,id
+"Okay. Ar tomakeer friend der ki royeche, tader ki mone koro?",T,irq
+"Ami khub komor moto tader kormu, kintu ami obostha moto amar closest friends der keo stop korte cheshta korbo, jemon ami korbo.",P,id
+"Okay, ar jodi tara na korbe tahole?",T,irq
+"Tobe bhalo, tahole mone kori ami thoda kom tader shathe thakbo, kintu eto obosthay, naki ami amader jonno alcohol-less kichu kora dekhte cheshta korbo, jemon party, kono kichu.",P,id
+"Haan, mone kori, jodi tomar friends drinking bondho na kore tahole tumi nijer jonno notun friends khojte hobe.",T,gc
+Okay.,P,gc
+"Karon, to bujho, tader bhaang korle, tara toke bhaang korar jonno dababe, ar tarpor toke awkward feel korate hobe, ar bujhbe na ki korte. Tui stuck hote parbi, ar tui ki korbo bujhte parbi na, ebong shayad tader bina tui valo theke theke jete parbi.",T,"gc, id"
+Hmm.,P,gc
+"Ar seta college-er jonnoo oto sundor hobe, karon, bujho, tui ekhon bhalo korei porchis, kintu college-e giye to onek tough hobe. Ar, tui ja law school-e admission pete chai, taar jonno to bhalo grade dorkar, ebong, bujho, tui alcohol-er dharay distraught hote parbi na.",T,"gc, id"
+"Hm, definitely.",P,gc
+"Thik ache, to eto bhalo, karon eto beshi kichu ache ja ami toke diye discuss korte chaitam. Dekhi, mone hoyni, tomar maa-baba ke bujhano hoyeche toke drink korte dekhle ki hobe?",T,"gc, id"
+"Tader khub bhalo lagbe na. Haan, tader kache alcohol-er obostha bhalo lagbe na. Tai.",P,gc
+"Thik ache, to haan, eto ekta karon ar toke bujhano holo je toke shayad chhara rakhbo. Thik ache, haan. Thik ache, to, jemon bolechilam, ami etai likhte jachhi je toke nirnay nite niye bhalo laglo. Ar, dekhi, ami tomake next semester-e mone hoy phire dekha korbo, ebong dekhte parbo je eto sundor vabe cholchhe ki na, ar toke dekhte parbo je toke shayad rater chhara ar keu shorbo korche na. Aar tui eikhane kono onno kichu kotha barta chao?",T,"gc, id, irq"
+"Na, mone hoy, ami bhalo achi.",P,id
+Thik ache. Kono prashno?,T,crq
+Na,P,cd
+"Thik ache, to to bishesh bhabe kichu nai. Thik ache. Bhalo ache, tai toke class-e phire jete debo, ar ashte hole dhonnobad.",T,gc
+"Thik ache, dhonnobad.",P,gc

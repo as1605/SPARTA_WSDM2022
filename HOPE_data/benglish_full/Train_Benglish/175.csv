@@ -1,0 +1,61 @@
+Utterance,Type,Dialogue Act
+"Hi Alice, kemon acho ajke?",T,gt
+Ami thik achi.,P,gt
+Office e eshe puro path ta thik moto korte parle?,T,irq
+"Ha, traffic beshi kharap chhilo na.",P,id
+"Bhalo, bhalo. Ami bujhte parchhi je tumi amake dekhte eshecho karon kono situation, ki bolcho?",T,irq
+"Ha, ami ekhon onek anxiety feel korchi, amar boro chele bari chere beriye jachhe. Ami jani maa hisebe eta goal, je taderke swadhin kore tader nijer jibon start korte deoa, kintu ekhane ekta chinta ase je sob kichhu thik thakbe to, je she bhalo jagate ache, thik moto khete parbe ki na, ei dhoroner chinta.",P,id
+"Thik ache. Ami chesta korbo tomay sahajjo korte, ami sure tomay start korte hobe. Thik?",T,gc
+Absolutely. Jitna taratari hobe toto bhalo.,P,gc
+"Bhalo. Ami chaibo counseling relationship niye kichhu disclosures go through kori assessment shuru korar aage, jeita first stage.",T,gc
+Thik ache.,P,ack
+"Thik. Ami tomay onek question korbo. Thik ache, tomar past niye ebong ekhon ki cholche. Tarpor assessment shesh hobe, counseling e move korbo. So roughly ekbar kore week e asbe.",T,gc
+Thik ache.,P,ack
+Kintu prothome ami chaibo confidentiality niye ekta piece go through kori.,T,id
+Thik ache. So attorneys er moto ki ki korte paro ebong na korte paro.,P,crq
+"Ha, ami khushi je tumi attorneys niye uthlecho. Attorneys ebong clients er moddhe confidentiality thake, ebong counselors ebong clients er moddheo thake, kintu duto type alada. Ami tomay bujhate parbo je amader moddhe kivabe kaaj korbe. Kintu jano, eta attorneys ebong tader client er moddhe alada vabe kaaj kore.",T,cd
+Thik ache. Ekhon differences gulo amake bujhiye dao.,P,cv
+"Absolutely. So, ekta jinish casting relationship niye, ei shomoy jeta tumi ekhane spend korbe, notes gulo ami nebo assessment er somoy ebong progress notes poroborti te. Karon ei shob chart tomader naam diye secure place e stored hobe. Shob confidential, ebong confidential er pashe ekta asterisk. Thik? Exceptions achhe. Thik? Ebong ami tomay bujhate chai je confidentiality er exceptions gulo ki, karon confidentiality absolute na.",T,crq
+"So mone hoi tumi onno keu ke kichhu bolbe je ami bollam,",P,cd
+Ha.,T,ack
+Thik ache.,P,gc
+Ha. Kintu khub specific situations achhe je permit kore ba mandate kore. Thik? Ami review korte chai tomay shathe move korar aage. Thik? Eta sense kore?,T,"gc, yq"
+Ha. Ami jante chai je ami tomay kichhu bolar aage.,P,op
+"Ami ekmatro. Eta bhalo, bhalo vabe dekha. So confidentiality er prothom exception holo je tumi amake permission dao information release korar jonno je tumi disclose korecho ebong interactions amader counseling er somoy. Eta actually fairly common. Udhahoronswarup, tumar primary care physician achhe?",T,"gc, yq"
+"Ha, achhe. Yes.",P,op
+"So depending on amra ki kotha bolbo, tumi hoi toh chai tomader physician jante. So tumi ekta release sign korte paro, jeita physician ke right dibe amar sathe directly kotha bolte.",T,gc
+"Eta sense kore,",P,gc
+"Thik. Aro, tomar issues with tomar chele niye, part of tomar concern. So bol, ami necessarily foresee kori na, kintu bol, poroborti te amra ek sathe kaaj korar somoy, tumi chai je she ek session e asuk shudhu kichhu discuss korar jonno, thik? Tumi hote hobe sign release confidentiality, so amra ekhane thakte pari ebong amar sathe kotha bolte.",T,gc
+Thik ache.,P,gc
+Eta sense kore?,T,yq
+"Ha, onek sense kore.",P,op
+"Thik ache. Onno exceptions insurance company. So tumi jei screen packet fill out koro insurance Insurance companies access pabe progress notes, assessment, chart e kono kichhu ebong tara generally responsible ei information niye. Ami kono instances jani na je tara irresponsible. Kintu ami mone kori je important je tumi jano je ami chart e kichhu likhbo, chart er moddhe kichhu technically insurance company chaite pare ebong periodically review korte pare. Abar, ami amar career e kono difficulty dekhi ni, kintu joto dur ami jani information hobe transmitted off site, so to speak. Ebong agency bills korle hobe transmitted tomader information off site te insurance company te.",T,"gc, id"
+So automatically je kono progress notes tomake dite hobe insurance company ke?,P,crq
+"Progress notes, standard billing er jonno na, kintu session er type, session er length, ebong ar kichhu personal information tomader identify korar jonno jabe tader kache, so tara jante pare je service provided holo.",T,cd
+Thik ache.,P,ack
+"Jemon ami bollam, Tader generally onek responsible information niye, boro companies jeita onek din dhore kore asche, thik,",T,gc
+"Tomar medical stuff gulo niyeo. So tader access achhe,",P,gc
+"Tader different types of data access achhe. Aro ekta exception confidentiality, abar, ami necessarily foresee kori na, kintu ami tomay bolte chai limits er kotha, jodi ami mone kori je tumi nijer khoti korbe, ba high potential achhe je tumi onno keu khoti korbe. Ei instance e ami obligated to act. Thik? Amra probably tomader life er onek different elements niye kotha bolbo next however many weeks amra ek sathe thakbo. Thik? Jokhon, ebong jodi, abar, ami predict kori na, tumi suicidal ideation niye kotha bolbe ba onno keu khoti korte chai. So unlikely event e je eta hoi, ami shudhu release korbo information je ami release korte hobe tomay protect korar jonno ba je person niye ami worried. So jodi tumi review koro lie like deep, dark secrets, ebong tarpor tumi bolbe je tumi jete chai harm a relative of yours, thik? Ami duty achhe warn korte oi relative ke je tumi ki plan korcho, tumi ekhon kothay acho, ki threats tumi korecho, kintu ami certainly na bolbo tader ke tomader deepest, darkest secrets revealed. Thik ache, unless tara directly relevant to protecting. Thik ache, khub unlikely je tara hobe,",T,"gc, id"
+"Ami jani na ami kauke khoti korbo na, kintu ami jante chai ei.",P,gc
+"Ami jani. Ha, kintu ami shudhu tomay jante chai je ei confidentiality information ami release korbo limited just je ami release korte hobe.",T,gc
+Thik ache,P,ack
+"Erom, jodi tumar kono type suicide ideation thake, ebong ami kauke contact korte hoi tumake pick up korar jonno, jemon law enforcement. Ami shudhu tader bolbo je ami jani, tader theke hospital e niye jao ebong tumake safe environment e rakho.",T,id
+Thik ache.,P,ack
+"Ei opportunity ta niye ami suicide ideation niye kotha bolte chai. Jene rakhbe je shudhu karon tumi suicidal ideation, mone mone suicide niye vabcho, onek manush samay samay suicide niye vabche, ba homicidal ideation ba thoughts, je tumi kauke harm korbe, kill na koreo, harm koreo, eta automatically mane na je ami police dake pathabo hospital e. Eta ekta discussion khule dey tumar safety ebong onno keu er safety niye. Kintu eta automatic na, jodi tumi suicide er kotha vabcho hospital e jao. Eta discussion, ebong onek, actually beshirbhag manush je suicide ideation niye vabche tara kono intent ba plan nei suicide commit korar.",T,"gc, id"
+"Mane, tumi bolcho, jodi keu vabche ei niye, tumi shudhu police dake pathabe na hospital e. Tumi chesta korbe matter ta bujhte.",P,crq
+Ekdom.,T,cd
+Thik ache.,P,ack
+"Ha. Mane, amar dayitto tomay safe rakha, ebong ami mone kori ami seta korte pari. Jodi amra kono issue niye kotha boli ebong tumi kono karon e mone koro na je tumi nijer khoti korbe, shudhu suicidal thought esheche, okay, okay, eta onek alada je tumi amar kache eshe detail plan bolo, ebong mone hoi je tumi sotti korbe, tokhon ami onek beshi worried hobo.",T,id
+"Okay, eta sense kore. Thik ache.",P,ack
+"So confidentiality er ei exception ta shudhu use kora hoy most extreme cases e suicidal ba homicidal ideation er jonno. Aro ekta exception state e ami tomay janabo, jodi ami kono karon e mone kori je ekta child ba elderly person abuse hochche. Ami report korte hobe, eta bolche mandated reporter.",T,id
+Thik ache.,P,ack
+"Ekhon ami sure je tumi kauke abuse korcho na elderly people ke. Kintu ami explain korte chai ei exception kivabe kaaj kore karon eta tumi mone korte paro theke beshi far reaching. Dhore nao je tumi asho ebong amar sathe discuss koro ekta neighbor niye, thik, je seemingly tomader treatment er sathe kichhu kortei na, just kidding. Ami mention kori je kichhu hocche ebong sei discussion amake mone kori je tomar neighbor tar child ke abuse korche. Ami still report korte hobe, jodi eta directly tomader sathe kichhu na thake. Eta tumi shudhu amake passing e boll echo. Ami action nite hobe. Abar, ami shudhu release korbo information je necessary child er safety protect korar jonno. Eta sense kore?",T,"id, yq"
+"Ha, sense kore. Yes.",P,op
+"So kivabe ami jante pari, ba keu hok, ami action nite hobe.",T,id
+Thik ache.,P,ack
+"Ebong last exception ta ami review korte chai, abar, onek er moddhe ei khub unlikely, kintu jodi kono karon e tumi jorito thako kono type civil ba criminal litigation e, ebong ekta judge amake testify korte bole. Ami testify korte hobe. Ami bolte pari ei khub rarely hoi, kintu hote pare. Ebong ami chesta korbo na disclose korte, ami judge ke bolbo na disclose korte jodi tumi na chai, kintu ultimately judge order korte pare ebong ami korte hobe. So shesh porjonto judge er upor depend kore.",T,id
+Thik ache.,P,ack
+"So, abar, ei most of these pretty unlikely, ha. Kintu ami chaibo je sob information forward hoi jate kono chinta na thake tomader revealing ba kotha bolche je information ta kothay jachche. Thik ache. Tumar kono question achhe?",T,id
+Mone hoi clear.,P,ack
+Thik ache. Ami appreciate kori je tumi ei confidentiality niye kotha shunecho. So amra ekhon assessment shuru korbo.,T,gc
+Thik ache.,P,gc

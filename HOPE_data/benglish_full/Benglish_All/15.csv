@@ -1,0 +1,70 @@
+Utterance,Type,Dialogue Act
+"Hi, apni aaj eta kivabe korchen.",T,gt
+"Thik ache,",P,gt
+"Dost, thik ache. Haan, ami bujhte parchi apni ekhane counseling services pete esechen.",T,gc
+"Amar boss amake ekhane pathiyeche, apnar boss apnake ekhane pathiyeche.",P,gc
+Apnar ebong apnar boss-er sathe ki hochhe?,T,irq
+"Ah, eta amar ebong amar boss-er modheo noy. Ami amar kaj-e ekjon bhalo kormi. Ami somoy moto sobkichu shomponno kori, kintu tara amake onmoniyo ebong perfectionist bole dakche.",P,id
+Tahole ke apnake perfectionist-er jonno flex-e dakche?,T,irq
+"Achha, amar boss amake dekheche.",P,id
+"Amar onek coworkers chhilo. Ekti somprotik ghotona ghotche jekhane keu amar sathe din poriborton korte chhilo, kintu ami tader somoyosuchi bolechhilam je Budhbar amar ekhane thakar kotha. Apni eta poriborton korte parben na. Eta thik sethane ekti shada moto. Ami Budhbar kaj kori, apni eti poriborton korte parben na.",T,irq
+"Achha, tara poriborton korte chhilo. Ebong ami sotti je sanghe ekmati na. Jodi tader ekti nirdisht diner chhuti-r proyojon hoy, tao tader order-er moddhe jete hobe ebong ekta diner chhuti chai.",P,id
+"Ebong tara ta koreni. Poribar, tara kon din amader jijhak",T,crq
+Ebong tarpor tara amake onmoniyo bolechhilo karon ami eti niye bhirto hochhilam.,P,cd
+Kono upay-e apni bhirto hon?,T,irq
+"Thik ache, ami tader bolechhilam, ami dayitwojnanhin bolechhilam je tara amar sathe poriborton korte chay bole shamner dik-e chinta koreni. Ami ek ti nirdisht somoye sethane achi. Ami sokal otto theke bikal panch porjonto achi. Ami 12 tay amar dupurer khabar grôhôn kori. Sedin amar Budhbar. Je sob somoy amar Budhbar hoyeche. Ami jani na keno tara eti kare bhirto korte chay.",P,id
+"Thik ache, tai eti apnake bhirto kore. Ar sei puro ghotonay tader mon kharap kore? Haan. Apnar boss-er karon hote pare emon onyo kichu",T,irq
+"Tara amake ekjon perfectionist bole karon ami boi dwara kora jinisguli pochondo kori, ja ami mone kori amake ekjon mohon kormi kore tole, karon ami sobkichu shomponno kori. Apni janen, somoysimar upor, age noy, pore noy, thik somoysimar upor. Ebong sobkichu thik thik, apni janen, sobkichu file kora hoyeche. Sobkichu sajano. Ebong kichu lok, apni janen, onlaine ek ti file nite chan, apni eti ek ti protibedon purno korte ebong eti sekhane ache. Apni eti sporsho korte parben na, apni eti sorato korte parben na. Je jekhane eti proyojon.",P,id
+Tai apnake kormochari hôbe nijekete motamuti sushongthito korte hobe.,T,crq
+"Oh, ekebare. Haan, ekebare. Moto,",P,cd
+Apni sekhan aṭ theke panch porjonto apnake ullekh korechen. Ebong 12 theke 1230 porjonto apnar dupurer khabar grôhôn korun.,T,yq
+Haan.,P,ack
+"Shesh koy din bolun, tin mash? Aponi ki deri korechen tadaritadi chole gecchen?",T,irq
+"Oh, 000. Aponi janen, sekhaney, atota theke pachta, shokal atota theke pachta, ami chhoytaye ghum theke uthi. Ami ready holam. Ami sattataye kaje chole jai. Ami atataye sekhaney paochai. Protiti, puro dine ekati somoysoochi achhe. Ebong ami sei somoysoochi puron kori. Ebong eta amar jonno shera jinish.",P,id
+Tai eti apanar jonno hatashajonok je apanar sahokormiraa bujhte pare aponi kotha theke aschen.,T,orq
+"Ami thik bujhte parchi na. Aponi janen, ami bholsh dwara boi dwara sobkichu karchi. Ebong ami ekrokom shomoshyay achi. Amar sathe kichu bhul ache karon ami eta thik kori ami eta thik vabe kori. Ebong je ekrokom bhul, ebong ami eta pete na.",P,od
+Aponi ki kokhono apanar sahokormirader sathe ekati daler moto ekati dale kaj korechen?,T,irq
+"Tara amake toiri korechen kintu ami eta pondo kori na. Karon ami jani je upaye amader korte hobe. Jodi amra ekati projap deowa hoy, thik ache? Eti A, B, C, D diye shuru hoy ebong tarpor na, sobai chai oh, asun c o, d, ebong tarpor F. Na, na, na, na, A, B, C, D, theke kono bichuti nei je ebong tarpor tara amar upor kshiptho hoy.",P,id
+"Sutara, group-e kaj kora apanar jonno khub ekta valo kaj koreni.",T,orq
+"Satyajit na, kom noy. Manush amar kotha shone.",P,od
+"Tai jokhon lokera shone je kibhabe jinishguli kaj koreche,",T,crq
+"Ami jodi sobkichu todarki kori, tobuo ami osusthite pori karon, aponi janen, tara amar drishtir baire. Ami jani na tara ki korche. Kakhono kakhono, aponi janen, amake ekjon byaktike dekhte hobe, aponi janen, ekjon byakti, sekhane onno byakti. Ami jani na tara ki korche. Ebong jodi eti kora na hoy, thik ache, eti sotikvabe kora hoy ni. Ebong eto kharap.",P,cd
+"Aponi amake nishchit samborte kichu bolte paren? Sadharanbhabe mizaj, poriprekshite aponi ki dukhito ba udbigno ba sompriti erokom kichu anubhav korechen?",T,irq
+"Ami kon bishesh kichu paini, ami onuman kori ami udbigno bodo kori maje maje jokhon jinishguli jevabe cholte hoy shevabe jacche na. Karon tokhon saradiner bondho hoye jay. Ebong eto kore, ami onuman korbo, ami eti bibechona korbo, aponi janen, udbeg karon eti jodi sotik path-e na jay tobe ekta jinis bhul hoye jay, puro dine bondho hoye jay. Ebong tarpor akhon ami je mokabela korte hobe. Akhon amake amar puro somoysuchi, poribesh shamanso korte hobe ebong eti amake udbigno koreche, emonki purushder dwara, emonki ek minutyer jonno o.",P,id
+"Sutara, group-e kaj kora apanar jonno khub ekta valo kaj koreni.",T,irq
+"Satyai na, kom noy. Manush amar kotha shone.",P,id
+"Tai jokhon lokera shone je kibhabe jinishguli kaj koreche,",T,irq
+"Ami jani ami jokhon ami amar bariro mato mangsh kobar dewa, aponi janen, jodi aponi amar bari te jano, sob kichu sundor. Sob kichu jekhane eti thaka proyojon. Ami amar khabar niyotitto ache, amar ekta sundor chhoto calendar ache. Sob kichu, aponi janen, poriklanto, aponi janen, brishtibare'r chicken fried, tomalley's ebong aro onek kichu.",P,id
+Sutara sanggathito howar kshetra apanar bariro jibon kichuta apanar kajer jiboner moto.,T,orq
+Eti korar sotik upay.,P,od
+Aponi ki kokhono apanar griho jiboner poriprekshite kokhono kichu songroho koren?,T,"irq,yq"
+"Hyan, ami kori.",P,"id,ack"
+E-guli apanar bari te rakhoon.,T,irq
+"Rasid prapti? Achha eta rakhte bole. Ami bolte chachchi, ami sob somoy jani je apanake rasid rakhte hobe. Apani janen na kono apanake praman korte hobe je apani kichu kinechen ba kono kichu ferot dite hobe.",P,id
+Tahale apani je rasidguli diyechhen tar shatakora kot shatangsha apani ki mone koren je apani seguli rakhen?,T,irq
+"Prati ekok amar khub mon kharap hoye jai jodi ami na jai jodi ami Mækḍonaldsa, ba khabor phaṣṭ phude-r jaygaye jai, ami sobkichu chai. Ami",P,id
+"Apanake kichu prashna jijnasha korbo. Bum, kaje fire asun, apanar kajer somoysoochi somporko.",T,gc
+Ami khawar pore khawar age amar hat dhuye feli.,P,gc
+Apani ki khono nijeke apanar hat dhoyar ebaṃ tarpare phire giye aro koyekbar dhute chan?,T,irq
+"Na, eta karar kono daraka nei. Keu ta kare na. Na, apani apanar hat 30 sekende dhuben. Eta-i. Je sob apani korte habe.",P,id
+Jibāṇu ba ei jatiẏo kichu somporke apanar ki bisheṣa udvega achhe?,T,orq
+Ami amake rakhár chesta kari kintu ami bisheṣbhabe jani na.,P,od
+Apani ki nijeke emon paristhiti te khujte pechen jekhane darjar noba aṛa ālora suića chalānōra mato kiṣu bārbar sparśa karchen? Bārbar ēmon kare apanar udvega kamāte mane hochhe?,T,irq
+Moṭē-i na. Ekhane eta samay naṣṭa bale mane hochhe.,P,id
+Eta adakṣa hobe.,T,yq
+"Hyā, hyā, eta karar daraka nei. Kemon",P,ack
+"Ḍabala cek'iṅ, udāharaṇasvarūpa, ālōra suića ba darja lōka kara āche kiṅa ta niścit karate. Ami tairi karechi",T,irq
+Niścit amar darja loka kara ache. Prathambare thik ache.,P,id
+Tai poriksha kore dekhun kintu ekbar.,T,crq
+"Achha ami eta kori. Achha, jano, ami jokhon darjaye asi, darja bondho kore dao. Eta-i. Thik ache.",P,cd
+"Tahale apani ki mone karen ekhane samadhan holo apanar niyogokarta apanake counseling er jonno pathiyeche. Paribartaner moto,",T,irq
+"Tini amake aro namoniyo hote chan jodi ekati anirdharit meeting hoy, jodi keu amar sathe palte jete bole. Ami sotti ei ta bujhte parchi na, kintu ami karmakshetre samasyay ache. Tai ami ki takan ache",P,id
+Apani apanar kaj pochondo karen.,T,yq
+"Ami amar kaj pochondo kori. Ami amar proyoniyo sobkichu pete sakkhom hote pochondo kori, apani janen, keu kichhur jonno dake, apani janen, oha, eti ekhane. Keu ekhane onno kauke dake. Ami etta bhalobashi. Eta ekta machine-er moto.",P,op
+Thik? Tai apani apanar kaj pochondo karen apani sekhan kivabe songgthit hote parben ta pochondo karen. Kintu sahokormi ebong apanar boser sathe kichu birodh royeche ja apani chan je apani eti ber korte chan.,T,crq
+"Amar dharona ami bolte chachchi, ami amar chakri harate chai na. Ebong jodi eti ekta somoye hoy, tahale sotyo kajti apanar sathe kotha bolte hobe",P,cd
+Counseling sessione onsho neowar jonno khola na hoya ebong ekhane ki cholche ta ekbar dekhun.,T,orq
+"Aobhabei, jodi amar boser proyog hoi je amar bosh ta chan tahale etai sotyo kaj.",P,od
+Ami apanake proshansa korte chai je apani amar prashner uttar diyechen ebong khub sahayok. Amra apanake ekhane ekjon poramorshodatar sathe dekha korar somoysuchite neye jabo. Ami proyo ek sapthah somoy nebo ebong amra sekhane theke jabo.,T,gt
+"Thik ache, tai ek sapthaher modhye. Thik ache. Dhonnobad.",P,gt
+Dhonnobad.,T,

@@ -1,0 +1,51 @@
+Utterance,Type,Dialogue Act
+"Hi Rebecca, kemon acho?",T,gt
+"Ami bhalo, tumi kemon acho?",P,gt
+Besh bhalo. Ami ki jante pari tumi kon haate lekho?,T,"gt, irq"
+Ami amar right hand diye lekhi.,P,id
+Tomar right hand. Ami ki kichu prashna korte pari tomay memory niye?,T,gc
+I guess.,P,ack
+"Okay, dhanyabad. Ami tomay kichu prashna korbo ar kichu problem solve korar jonno bolbo. Daya kore tomar shorbochcho chesta kore uttor dao.",T,gc
+Okay.,P,ack
+Ei bochor koto?,T,irq
+2015.,P,id
+Ei bochorer kono season ki?,T,irq
+winter.,P,id
+Ajker date koto?,T,irq
+January 20.,P,id
+Ajke ki weekday?,T,irq
+Tuesday.,P,id
+Ei month ki?,T,irq
+January.,P,id
+Tumi ki bolo parbe amra kon deshe achi?,T,irq
+United States.,P,id
+Tumi ki jano amra kon county te achi?,T,irq
+Newcastle.,P,id
+Tumi ki jano amra kon city te achi?,T,irq
+Newcastle.,P,id
+Ei building er naam ba address ki?,T,irq
+Eta ki Graduate Center? Tin weeks away 31 weeks away.,P,id
+Amra ei building er koto tolay achi?,T,irq
+First floor.,P,id
+"Ami tin ta object er naam bolbo. Ami bolbar por, tumi amay abar se gulo bolbe. Apple, Table, Penny.",T,cv
+"Apple, Table, Penny.",P,cr
+Mone rakhbe ki gulo chilo karon ami kichukhon por abar tomay jiggasa korbo.,T,gc
+okay.,P,ack
+"Ekhon ami tomay ekta word dibo ar tomay bolbo taratari forward ar backward spell korte. Word ta holo world. Pehle, tumi ki forward e spell korte parbe?",T,cv
+W O R L D.,P,cr
+"Ekhon, tumi ki backward e spell korte parbe?",T,cv
+D L R O W.,P,cr
+"Ami age je tin ta object tomay mone korar jonno bolchilam, se gulo ki chilo?",T,irq
+world? Na. Apple. Ami mone korte parchi na.,P,id
+Eta ki?,T,ci
+Eta Watch.,P,cr
+"Ami chai tumi ekta phrase amar por por kore bolo. Phrase ta holo no ifs, ands or buts.",T,cv
+no ifs ands or buts.,P,cr
+"Ami chai tumi page e je words gulo lekha ache se gulo poro. Ami page ta dhore rakhlam, tarpor je word ta bolo.",T,ci
+Close your eyes.,P,cr
+"Dhanyabad. Ei kagoj ta tomar right hand e nao. Kagoj ta ekbar fold koro dui haate ar tomar koler upor rakh. Ei kagoj er upor, tumi ki ekta complete sentence likhte parbe amar jonno?",T,"gc, ci"
+.....,P,cr
+"Dhanyabad. Ekhane ekta drawing ache, please ei drawing ta copy koro ekoi kagoj er upor.",T,"gc, ci"
+....,P,cr
+Dhanyabad. Ei test ta shesh. Tomar cooperation er jonno dhanyabad.,T,gc
+Dhanyabad.,P,gc

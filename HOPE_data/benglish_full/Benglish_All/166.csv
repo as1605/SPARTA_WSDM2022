@@ -1,0 +1,15 @@
+Utterance,Type,Dialogue Act
+"Hi, August ami Angie. Ami ekjon nurse ekhane.",T,"gt, id"
+Ami bhalo feel korchi na. Ami khub sad. Ami. Ami sotti scared. Ami palate chai.,P,id
+"Okay. Thik ache. Ami sorry shunchi je tumi sad feel korcho. Tumi jokhon sad thako, ki tumake bhalo feel korate sahajyo kore?",T,"gc, op"
+Hospital e asha.,P,gc
+okay. Ar ki tumake bhalo feel korate sahajyo kore? Dekhchi tumar kache ekta phone ache. Tumi ki oi phone e kono game khelo?,T,irq
+"Ha, ami onek valo games jani.",P,id
+"Okay, tahole tumi ekta game khelo, hote pare eta tumake bhalo feel korate sahajyo kore, ar ami ekhuni aschi kichukhon por. Okay?",T,gc
+Okay.,P,ack
+"Okay, eta bhalo. August, tumi ekhon bhalo feel korcho?",T,"gc, yq"
+Ami ektu bhalo feel korchi.,P,op
+"Bhalo. Okay, eta khub bhalo. Ar ei bar jokhon tumi bari phirbe, tumi ki tumar group home worker ke bolte parbe, je tumi abar ekhane esecho, ar tumi abar sad feel korecho.",T,gc
+"Ha, ami seta korte pari.",P,gc
+"Okay, darun. Ami doctor ke niye aschi.",T,gc
+Okay.,P,gc

@@ -1,0 +1,75 @@
+Utterance,Type,Dialogue Act
+"Vanessa, Hi, bhalo dekha hoyeche abar.",T,gt
+Tomake dekha bhalo laglo.,P,gt
+Ha. Tumi kemon acho?,T,gt
+"Ami thik achi. Jinishgulo ekhon ektu settle down hocche, mone hoy.",P,"gt, id"
+"Ha, last time dekha hoyechilo sob kichu onek chaotic ar hectic chilo, tumi hot discharge theke bari firechile. Pray ek week holo,",T,gc
+"ha, ha,",P,gc
+tomar injury kemon acho?,T,irq
+"Eta onek pain, janiyo, onek pain feel korchi. Ami chesta korchi beshi pain medication na nite ar busy thakar chesta korchi, focus korchi jinishgulo te. Ami busy achi church er kaaj niye ar amar bacchader sathe.",P,id
+tumi fit thakte chesta korcho.,T,gc
+"Ha, ha, amar kache onek kichu important ache, nijer kotha vabte khub hard lagche.",P,gc
+Tomar bacchagulo kemon acho?,T,irq
+"Tader bhalo achi, janiyo, choto bacchagulo first bari fire eshe stressed out chilo, unsure chilo nijeder niye ki hobe. Kintu boro bacchagulo onek help koreche. Mone hoy tara ekhon ek sathe achi.",P,id
+"Imagine kori, ekta readjustment period, healing, sadness, mone hoy tumi chesta korcho just jinishgulo sere felte.",T,gc
+"ha, mone hoy amar motto holo keep moving, joto fast paro, chesta kori clean thakte, church er duties thik rakhte, bacchader focus rakhte tader activities te, na je tara amar ar Paul er life e ki hocche tate.",P,gc
+"Mm hmm. Ekhane tumi onek manusher care korcho, community, bacchagulo, nijer care korar chesta korcho. Eta onek.",T,gc
+Ha.,P,gc
+"Ami appreciate kori tumi ajke esecho, tomar plate e onek ache, onek kichu hocche. Well, janiyo, last time amra dekha korechilam, tumi kotha bollcho je tumi ki kore bacchagulo ar nijer safety rakhte paro, eta kotha bolar jonno interested acho ajke? Na onno kichu niye kotha bolte chao?",T,"gc, irq"
+"Na, ami, janiyo, ami ajke time ber korechi ei kotha gulo niye. Mone kori eta khub important, kichu figure out korte hobe, jinishgulo onek out of hand hoye giechilo. Tai, ami excited achi vabte je ki korte pari.",P,id
+"So, so tumi scared chile. Mone hoy tumi scared chile.",T,crq
+"Eta terrifying chilo. Mone hoy, police dakha hoyechilo, police ke call korte hoyechilo. Ar Paul arrest hoye jail e giyechilo. Child Welfare folks amar bari te esechilo, amar ma upset chilo, pasher bariwala gossip korche. Eta, eta khub scary chilo.",P,cd
+"So so onek kichu ulot palot hoye giechilo. Ar tumi bolcho eta scary chilo, mone hoy tumi bolcho tumar safety niye scary, kintu mone hoy ar o scary chilo karon onek disruptive element gulo motion e esechilo,",T,gc
+"thik? Mone hoy, amader bari te lokjon asche, call korche, jiggasa korche tumi okay acho ki na? Restraining order nite paro ki na? Amar ma chesta korche amake or bari te thakte bolte, janiyo, onek, onek lok er idea.",P,"gc, id"
+So onek lok er idea ache tumi ki korte paro.,T,gc
+"Ha, ha, ami just really ami na korbo. Ami restraining order na nibo. Police ke call na korbo. Se janiye amar thikana.",P,gc
+"so bolo ektu beshi, keno tumi police ke call korte chao na, ba restraining order nite chao na.",T,gc
+"Tader dekhechi, or ke matite felechilo, or haat pichone dhorechilo. Tader gun chilo, janiyo, kono din bujhte parbo na police ki korbe ekta black man er sathe. Jail e safely pounoche ki na, mone hoy na. Tai ami terrified chilam or jonno. Ar porer din, janiyo, Child Welfare call kore bari.",P,"gc, id"
+Mone hoy eta khub scary experience chilo tumar jonno.,T,crq
+Ha. Karon ami ekta bhalo ma.,P,cd
+"Ar oi experience er por, mone hoy tumi maybe inclined na police ke abar call korar kotha vabte.",T,crq
+"Ha, na, na, ami amar ma ke bolchi, eta last resort. Ar ami kichu lok der sathe meet korbo, other options niye vabte.",P,cd
+"Ar eta niye kotha bolte chao ajke, alternatives to calling the police.",T,crq
+Absolutely.,P,cd
+"Well, tumi ekhon porjonto ki vabcho? Ki ideas acho tumar kache ki korte paro? Serious moment e jokhon tumi scared thako",T,irq
+Mm hmm.,P,gc
+Tumar well being ar bacchagulo niye?,T,crq
+"Ami mone kori ami most afraid. Janiyo, kichu hobe je khub crazy ar out of control. Tai ami vabchi ki korte pari jodi things crazy ar out of control hoye jay. Ar ami just vabchi maybe kauke bolbo, ba amar minister ke bolbo, eta amar mone esechilo karon or sathe age kotha hoyeche.",P,"cd, id"
+Okay.,T,gc
+Ha,P,gc
+"So, tomar minister, kauke tumi vabcho kotha bolte, relationship niye? Tumar ki thoughts? Ki bolbe tumi tomar minister ke, ki bolte chao?",T,"gc, orq"
+"Ami really, ami really interested or sathe truth bolte, relationship e ki hocche. Se jani na Paul amake marte threaten koreche. Ar se nijer ke marar, bacchagulo ke marar kotha bollche. Se jani amader marital problems, financial problems achi. Paul er drinking problems achi. Kintu se jani na or threaten kora niye, amake mara niye, or rages niye. Tai ami mone kori, ekhon time bolte, or kache.",P,od
+"Tumi mone kori tumi significant information rekhecho tomar kache, ki karon hote pare tumi or kache ei kotha gulo bolbe, ki advantages hote pare?",T,"gc, irq"
+"Se age help koreche, onek help koreche amader. Amra, counseling niyechi or sathe last five years, onekbar. Ar se khub helpful chilo, someone you trust, someone you have a relationship with, ar se helpful chilo ki bhabe? Mone kori Paul or ke respect kore ekjon man hishebe. Ar ami mone kori se Paul er care kore. So se amar ma, baba, bondhuder moto na, tara tara Paul ke hate korte chesta korche. Tader kache kono objectivity nai Paul er sathe kaj korar, kintu amar pastor er achi.",P,id
+"mone hoy tomar pastors able to see him as a whole, complicated human being, same way je tumi dekho perhaps, je or ek side scary ar tumi pasand koro na, ar ek side ache je tumi appreciate koro. Ar tumi mone kori tomar pastor o likely se korte pare. Ki hobe arek karon kotha bolte tomar pastor ke, in addition to this being someone you trust, ar Paul might listen to, ki hobe arek karon?",T,"gc, id"
+"Ami mone kori na se likely jabe storming into, janiyo, amader pastor er bari, Paul. Paul won't, se asbe amar ma er door e, se jabe storming over to amar girlfriend er bari. Kintu likely na korbe. Ha, ami mone kori na se korbe.",P,"gc, id"
+So so. So tomar pastor er bari actually might be a physically safe place for you all to go?,T,crq
+Thik..to cool off,P,cd
+Hmm,T,gc
+"Karon things got so out of control and crazy, janiyo, ar eta abar hobe na.",P,gc
+"So tumi bolecho koyekbar ei kotha je things got so out of control and crazy. Bolo ektu beshi, ki chilo eta?",T,"gc, irq"
+"janiyo, amar eldest son involved hoye giechilo. Amar arm was, was harmed and things were broken. Se threaten koreche amake marbe, amader sobai ke marbe. Ami police ke call korte holo, ami lokjon ke amar bari te anate holo, Paul ke dhorechilo, mara hocche. Se call kore jail theke, tumi ki korcho? janiyo, ki korlam? Ki kore ami ei kaj korte pari?",P,id
+"Thik. So not only was it so scary in the heat of the moment je tumi feared for your life and the life of your children, but afterwards, scary chilo, karon sob kichu je",T,gc
+all that Fallout.,P,gc
+"Ha. So so. So going to your pastors talking to your pastor, possibly seeing if his house might be a place that you could run to temporarily might be something to explore and those are advantages. Ki disadvantages hote pare, ki hote pare possible disadvantages talking to your pastor about what's been going on in your relationship?",T,"gc, irq"
+"je Paul will know, janiyo, se jodi jante pare ami amader minister ke ei kotha gulo bollam? Ami doubt nei se koto angry hobe.",P,id
+So eta hote pare ekta significant trigger?,T,crq
+"Ha, se jodi jante pare.",P,cd
+"So eta ekta difficult situation. Ha. Jokhon tumi ei safety plan er specific part ta niye vabcho, ek dike ache potentially some real advantages and positives to speaking to your minister. Ar ek dike ache possible significant risk. Jokhon tumi pros and cons niye vabcho, tumi ki mone koro? Tumi kothay jao ei situation e?",T,"gc, id, irq"
+"Eta, eta ekta risk ami nebar jonno ready, janiyo, ami ei niye vabchi. Ar eta chilo, jinishgulo onek out of control. Ar ami mone kori ekhon time kichu different korte, vabte ki bhabe differently korbo.",P,id
+"Tumi, tumi really concerned.",T,crq
+Ha.,P,cd
+"Ar tumar ekta part really worried next time niye. Ar appreciate koro je kichu risks involved ache safety planning e. Ar tumi mone kori eta ekta risk je tumi nebar jonno ready, ki stake e ache. Ar really, mone kori tumi feel koro tumar life ar tumar bacchader life maybe at stake.",T,gc
+"Tumi janiyo, ami mone kori jinishgulo continue korte parbe na ei bhabe. Amake kichu figure out korte hobe je amar jonno, amar bacchader jonno, Paul er jonno kaj korbe.",P,gc
+"Tumi ki mone koro je ami ekta suggestion ba kichu bhabna share korle, kids ar safety planning niye, jeta ami jani onno maa ra, tomader moto situation e thaka, korechen, ar seta holo, boshe bacchader sathe kotha bolbe, ekjon safe person identify korbe je tader call korte hobe ba run korte hobe jokhon situation gulo jodi, jodi really crazy hoye jay, ami curious achi shunte tumar thoughts ki bacchader sathe ei byapare.",T,"gc, irq"
+"Ami mone kori amar eldest, amar eldest chele er jonno eta khub helpful hobe karon se jante chai se ki korte pare. Se kichu korte chai, se sob somoy ready thake. Ei karon e ami hurt hoyechilam first e karon se jump in korechilo. Tar jonno kichu identify korte sahajyo korte parle je amader safe rakhte pare ar nijer keo safe rakhte pare, seta khub bhalo idea hobe.",P,id
+"Ha, tumi mone koro eta ekta upay hote pare, or ke violence situation theke na tene ber kore, kintu violence situation theke mukh ferano, na je or modhye jete dei.",T,id
+"Ha, se ekhon manush hocche, too. Se, se jante chai se ki korte pare tar family ke safe rakhar jonno.",P,gc
+"Ha. Ar jokhon se manush hocche ar vabche kivabe tomay protect korbe, tumi o khub concerned acho or safety niye ar or ke safe rakhar byapare. Ar ami shunlam tumi kichu kichu identify korecho je tumi korte chai ba korte paro. Ar tumi mone koro tumi asole control korte paro. Last time amra kotha boltechi, tumi khub clear chile je tumi Paul ke control korte paro na, jokhon se tar fear ar rage e violence kore. Ar ami clearly shunlam tumi ki chai, seta holo figure out korte ki tumi control korte paro. Tumi or ke control korte paro na, kintu kichu jinish achi je tumi control korte paro ar specifically tumar jonno seta hote pare kotha bolte ekjon safe person er sathe, tomader minister.",T,id
+Ha.,P,gc
+"Ar sei kotha bolte dekhte je seta ki safe person hote pare jayga hishebe giye thakte, ar tarpor onno piece ta holo hote pare tomader eldest baccha sathe kotha bolte, at least je ke call korte hobe oi moment e.",T,"gc, id"
+Ha.,P,gc
+"Ar ami confident Vanessa je tumi ekta plan together korte parbe je tomader family er jonno kaj korbe ar ami ekhane achi tomay support korte, je kono upay e. Ar jodi at all helpful hoy, ami khushi hobo koyek din por follow up korte tumar sathe ar dekhte tumi ki mone koro aro kotha bolte.",T,"gc, id"
+"Dhanyabad, ami appreciate korbo.",P,gc
+Tomar samay er jonno dhanyabad.,T,gc
+Dhanyabad.,P,gc

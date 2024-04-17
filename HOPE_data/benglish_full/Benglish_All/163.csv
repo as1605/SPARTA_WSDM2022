@@ -1,0 +1,116 @@
+Utterance,Type,Dialogue Act
+"Hey Michelle, ki khobor, kemon acho ajke?",T,gt
+"Umm I am kind of doing, I'm feeling a little bit stressed out",P,gt
+stressed?,T,crq
+"Haan, amar kachey onek kichu ache. Ekhaney ekta test korte hobe kajer jonno.",P,cd
+Test ta ki type er?,T,irq
+"Eita ekta aptitude test. Eikhane math problem o ache, ar scenario gulo o ache, jatey ami system manager position e promote hote pari.",P,id
+"Now, to ami mone kori, tobu ota to ekta kaj je tomar shadharon pashe ache.",T,crq
+"Haan. Haan. Tai ami khub anxiety feel korchi test neoya shomoy, ar tara amar jonno test schedule korlo. Ar ami onek overwhlmed feel korchi. Ar ami just erom onek jinish ekhon start korlam. Ami jantam sob answer, ami ar amar bondhu shomoy pora practice korechilam. Kintu exam e giye ami khub concentrate korte parini.",P,cd
+tai to test er material gulo tomake onek bhalo kore jantey hobe?,T,yq
+Haan.,P,op
+"Kintu oshudh bhabe tai, eta to anxiety er jonne roilo, plus oshudh physiological response heart rate ebong sweating, er shathe shathe tomake jinish gulo onek difficult koreche puron korte.",T,gc
+"No, ami complete korte parini. Ar dhoroner to karon amake ekta chance deylo phire ashar jonno. Ami just tarai bole dilam ami valo mehsus korina. Tai tara ami phirbo, ei jonno ami onek anxiety feel korchi.",P,"gc, id"
+"Tai to ami mone kori, tobu ei test neoya tomar jonno khub upokarjog hoini?",T,irq
+"Ajke, raat theke, ami mone kori sob answer jani, kintu room e pravesh korar por, suddenly sob bhoy gulo amar upore niye gelo.",P,id
+Kintu to jantey chiley je ei shob asbe?,T,yq
+Haan.,P,op
+tomake holo? Okay.,T,crq
+Haan.,P,cd
+Tui advance-e kichu chinta chilona?,T,crq
+Haan.,P,cd
+"na, tomake hoyechilo. Okay.",T,gc
+"Ami the day before e kichu chinta chhilam. Kintu amar bondhu ke niye review korar por, ami bhablam, Oh, ami uttor gulo janina. Ami mone korechilam etai chintar chashta kore rakhte pare. Kintu mone hoy je amar jokhon oikhane pouchhlo, shob kichu phire elo upore.",P,id
+"oikhane unmadan hoye gelo, ebong eti tomake rokto korechilo. Tui mone koris ki e jinis erokom kichu lead kore?",T,"gc, orq"
+"Naa, ami shob somoy kichu bochor dhore bishesh chintar shathe jor korchi. Ami mone kori, jokhon ami thaklam thard gredo, tokhon ami ekta test dicchilam, karon ami math e kharap korchilam. Ar ami etar jonno next grade-e jete hoyechilo. Ar amar mone hoichilo je etar jonno ami prai prothom theke prothom ready. Ami ekta tutor chhilo, ar ami etai jonno khub e prochur prepare chhilo. Kintu amar kheyal, jokhon ami taina, ami fail korechilam. Ar amake peche dhore dhorbe. Ar ami mone kori, janina keno, kintu ami mone kori je ami khub kichu janina. Ami janina keno ami test-ti pass korte pari nai.",P,od
+"Ar etar por theke, eto test-e chinta chilona toke.",T,gc
+Haan.,P,ack
+Ar tokhon theke kharap testing experience er por. Test-ti niye kichu somoy chinta chilona?,T,yq
+"Haan, ami shob somoy khub e chinta kori. Maane, ami obviously test-ti pass korte pari, karon ami college theke graduate hoi. School chhilo, high school-e giye. Kintu amar jonno eto kothin karon eta chinta ja chilona je jodi ami janina, tahole ami shayto test-ti fail korte pari, oti shomoy jeno ki hochhe oikhane.",P,op
+"Bhalo, to third grade-e tumi ekta khub baje testing experience chhilona. Ar etar por theke, toke test niye shob somoy anondo hoyechilo na?",T,crq
+na,P,cd
+Kintu toke parirup-e hoyechilo. Tui shikhte pari.,T,yq
+"Haan, ami mane shomoye A peye jai.",P,op
+"Tai, eta bhalo, na?",T,orq
+"Haan. Ami mane, haan, etai bhalo. Haan, etai bhalo.",P,od
+"Kintu eti je test-ti, jeta chhilo na score er jonno, kaj er jonno, haan, eta tomake shomoye ekta obstacle.",T,gc
+Haan.,P,ack
+Tumi kono bhabchho ki je ki kore ei test ta tomake eto chinta kore?,T,gc
+"Ami mone kori eta sudhu eto promotion er jonno. Tai eki kotha. Jemon, jodi ami fail kori, tahole amay pichhone dhore nibe. Ar ami mone kori, amra sei pichhone dhora moment e jibon kori. Ar eta amar ekta bhoy. Je, ami ei test gulate pass korte na pere amake pichhone dhorbe.",P,"gc, id"
+Tai khub shomoy amar mone ache je tar proti tomar third grade e sei ekta e bhavna asche eta toh?,T,crq
+"Haan, ami abar abar abar abar ek shomoy porjonto tarai kore nai. Kintu haan.",P,cd
+Ar grade school ar high school e tomar onyo kon test gula amon valu nei chilo.,T,gc
+"Ekhon karon tader upor oi shob pressure chilo na je jeta hote pare jite naki hariye, basically,",P,gc
+toh tomake school e shobche prakar option chilo?,T,crq
+"Haan. Fail korte paro, pass korte paro?",P,cd
+toh tomake school e shayad beshi option chilo?,T,yq
+"Haan. Eto, jano, pass korte na parle?",P,op
+"Haan, Tai eta pressure. Eta toh ekta pressure je tomake eikhanei onno raste jete hobe. Ar school e je suraksha net gulo chilo tader kotha asbe na?",T,"gc, yq"
+"Haan, jodi ami fail kori, tahole amar promotion pabo na, ami certain amount er por theke abar test nite parbo.",P,"op, id"
+Tai eto beshi pressure.,T,crq
+"Haan, eto beshi pressure ache.",P,cd
+So ki eta kaj er jonno kono samay sima aache?,T,irq
+"Um, na, nei.",P,id
+Samay nai.,T,crq
+No,P,cd
+"Eto ta holo ki, ekta, ekta multiple choice er moto?",T,irq
+"Ha, ei holo.",P,id
+"Okay. Ar tumi ektu ektu jinish bolar moto lagchhe, jemon je, je raat theke tomar bondhuder shathe.",T,gc
+Yeah.,P,ack
+Tumi khub bhalo obosthito acho.,T,gc
+Yes.,P,gc
+"Tai ami kichu kichu vichar korechi. Ekta hoche, amar mone hocche, ami chinti korchi, tomaar mone ki chinti hote pare jeta aager din gulo tumi nijeke bishwas korechhile. Tai ami jante chai tomaar mone ki chinti hote pare jeta bishoye bikel test er sathe, ei kaaj er test er sathe",T,gc
+"je ami fail korte pari, jodi ami fail kori tobe amar porei bishwasher shomoye porjonto ek fail hoye jete pare, tumi jancho, amar jitte chesta korle ota hojachhe na",P,gc
+"kono kichu je, ami ek failer naki ami ek failer hotei boro hoi, ami ek failer hotei sonkorito.",T,orq
+Ami bolbo je ami sonkorito hotei achi.,P,od
+"Okay, toh, destined to be failure. So that, so that, potentially, ekta core belief. Right? That's, that's operating.",T,gc
+"I mean, eta amay bhoy kore. That's, that's exactly mone porche ami test neboar age. And if I don't pass that, etao hobe like ekta domino effect of failure.",P,gc
+"Okay, so eta ekta core belief hote pare, but it's also seems like you're still on ota thought. Like as you get ready to take that test. You're thinking ami just destined to be a failure.",T,gc
+Haan.,P,ack
+And you're having what sounds like ekta panic response to heart racing.,T,irq
+"Haan, amar haat shaking.",P,id
+Are you in the room alone? You're taking the test?,T,yq
+"Yes,",P,op
+you are. So no one's really seeing you have this. I wouldn't want to call it a panic attack yet we haven't really gotten too far into it. But it sounds like it has some panic like features.,T,gc
+Haan.,P,gc
+"Because it's not. It's interfering with you thinking clearly enough to get to the items. So, okay. So one thought I have is you have you ever had panic attacks in the past or anything like this?, the third grade thing?",T,"gc, irq"
+"No, not really. I mean, sometimes I get worked out when I'm about to take a test, okay, but it's only around test.",P,id
+And what happens once you get worked up like once your heart rate increases and You have any other physiological symptoms would,T,irq
+chai toh actually neboar age test?,P,crq
+hmmmm,T,cd
+"Um, ami kinda try korchi tai kore dekhi, ekta ekta prashner uttor diye jete chai, shesh prashner ta peye jete chai.",P,id
+"So ekta possible strategy hocche ami bolchilam adaptive response-er kotha. Thik to? Tai, jeta mone mone bolen, seta holo ei bhabna, ami mone kori, apnar doctorer uttor hoite pare ami ei bhabna ta cholte dite pari ami ki jani, karo test korar jonno shomoy nei?",T,"gc, crq"
+"Haan, toh toh.",P,cd
+Ar panic-er response ta sudhu eto somoy porjonto thake.,T,gc
+Ar ami o jodi chhara dei maybe oshob questions gulo ke answer korte pari ja straight forward tai hote pare je somosto stress ta kombe,P,gc
+"Tobe onno kon sense-e amader toke kichu chhoto jit gulo pawa hobe jeno, tar maddhome, tui je answers gulo tulechis tader sathe closer hoye jachchis tor goal er achievement-er dike",T,gc
+"haan, ebong tarpor ami feel kori je, kom porsi kintu atleast ami janina je, don't validate kori je feeling ta je shomoy hobe ami hobe sheta pass korle",P,gc
+Tai joto gulo item tui correct uttor de tui toto kome anxious feel korbi karon toke shesh er kache jachchis.,T,crq
+"Haan, nishchoi. Karon tarpor ami feel kori je, shant hoa jacche karon ami jani je, ei questions gulo ami nishchoi correct kore jabo.",P,cd
+"Tai tai ekta, tai tai ekta kognitib ebong behavior strategy, to? Like toke toke panic-er wait korte hobe. Ami menechilam, toke room-e kichu nei.",T,gc
+"Haan, toh toh. Kau nei. Kau amar kotha shuntebe na. Ami nijei bojhatechi.",P,gc
+"Haan. Aajker panic-ta kemon jeno. Ar to, to jano, panic symptoms gulo kemon pain e porbe. Tai jeta toke bolte pare je, ei to anondomoy noi. Kintu ami to shob symptoms ta cholte debo karon tader eto somoy thake.",T,orq
+"Shomvob holo, ami self talk use korte pari.",P,od
+"Exactly. Haan, karon shadharonoto panic symptoms gulo ektu time nite pare. Panch minute, dosh minute, pandra minute. Kintu toke ki somoy boudi?",T,"gc, crq"
+Haan.,P,cd
+"yeah so if you can just kind of use that time to focus on the items, as you mentioned, you could get right. And kind of, at the same time be telling yourself I can ride this out.",T,gc
+"Haan, ami to abar prothomei korechilam, tai ekhon eita ke apply korte pari.",P,id
+Tai toh je ki tomake kaj korechilo?,T,crq
+"Haan, ota kaj korechilo ebong ami pass korechilam.",P,cd
+"So that's, that's certainly that's certainly one adaptive response to try writing. Another one could be that, although it wouldn't be great to fail, you can retake the test in a year. Right. You could try it.",T,gc
+"Haan, etai toh sach, tai.",P,gc
+"I mean, I know that's not what you want, but, but the alternative is kind of buying into that automatic thought we know that's not working. Right. The I'm I'm Destin, that was the word right like I'm destined to be a failure. We know that's not working for you.",T,gc
+"Tai jodi amar ei test ta abar neoya lage ebong ekhon ekti bochor por, taholeo ami ekhono ek failure hobe na karon abar test neoya jabe. Eto naki ami eita abar neoa jabena.",P,gc
+"Haan, tomar ekta bochor ar study korte hobe, na? Ar, bishesh kore, tokhon tomake oi promotion ta hobe na ebong eto tao tomake iccha nei. Kintu tomake ki tumi bishash korecho j amar career er shesh hobe na. Ei toh tomar career er shesh hobe na. Tumi berojgar hobe na.",T,gc
+"Na, na, nishchoi na. Ar mone kore dekhiye oi tine grade er dhoron, tateo ami ekhon kaj korchi. Tini prothomei thakte parar kono sujog dite pareni. Kintu eto toh, ei lamba chal ei rokto ei bochor kono kichu korar sujog dilam na.",P,gc
+"Tai toh khub bhalo. Eirokom abar ekta adaptive response, j korecho tomake age.",T,gc
+"Haan, nishchoi.",P,gc
+"So ei ekta ghotona, ami mane, ami chhilam third grade e ei akta akorshonkor anubhob korlam kintu etai ekta ghatona jeta tomake eibhabe chay na. Tomar kotha use kore, tomar destiny er moto, ekta jinish jeta tomake ekdom othobaate niye porechilo kintu panic er moto shymptom guli. Ar bhalo kotha holo tomar employer tomake ei chance dibe shob shomoy retake korar jonno. Ar, ar ami jante parlam, tomake mone hochhe tomake eto symptoms likhte paro. Ar ami mone hochhe tomake onno adaptive response ache, jeta holo ami agei ei kaj ta korechi.",T,gc
+"Hm, haan. Ami mane, definitely ami beshi bhalo achi abar karon ami jaani je hoyto ki hok, ami ager moddheo eikhane chhilam, ar ami er modhye chole jete pari ete badha hoye.",P,gc
+"Oh, eta khub bhalo, test ta tomar ki dite hobe?",T,irq
+agami shoptahik.,P,id
+"Tai chol, amra ekta ar afsos janate bole ekta appointment fix kori just test er age.",T,gc
+"Okay, thik ache.",P,gc
+"Ar amra dekhbo je tomake ei adaptive responses ta ache na kintu tomake prothom theke ready korte hobe. Okay. Ar amra positive outcome e focus korbo. Thik ache, jeta holo etota bishesh kichu korar, ektu kichu samay nebe ar shomosto e physical symptoms jara tomake royeche, tara jukti karar try korbe.",T,"gc, id"
+"Okay. Haan, eta shunte bhalo laglo. Ei rokom kore ami test er jonno prepare hobo.",P,gc
+"Bhalo. Tai, Michelle, ami tomake dekhte chi, ei sab kichu niye kaaj korte. Aaj eshe ashar jonno tomar bhalo kore asha kori.",T,gc

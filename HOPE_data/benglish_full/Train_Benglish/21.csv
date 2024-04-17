@@ -1,0 +1,95 @@
+Utterance,Type,Dialogue Act
+"Hi, Lisa, tumi kemon achho?",T,gt
+"Ami besh bhalo korchhi, kintu kichu ekta niye concerned.",P,gt
+"Hyan, ami jani apnar kichu symptoms ache ja apnake bother korche. Apni amake seguli somporke bolun.",T,irq
+"Hyan. Kokhono kokhono amar attention moto somossha hoy ebong apni janen, ami online e dekhchhilam ebong ami satyoi chintit je amar ADHD thakte pare.",P,id
+ADHD.,T,ack
+"Thik achhe, tai amra korbo, amra eti somporke kotha bolbo. Amra eti pete age amake apnakay koyekti druto proshno jijnasha korte din. Apni ki kokhono bishonno bodh koren?",T,yq
+Na.,P,on
+Naki anxious?,T,yq
+Na.,P,on
+Ebong drug ba alcohol neye somoshyay porechen?,T,yq
+Oh na.,P,on
+Temon kichu na. Thik achhe.,T,ack
+Apni keno mone koren apnar ADHD ache?,T,orq
+"Oh, karon ami bolte chachhi, ami shobshomoy amar attention nie problem achhe. Ebong ami khub sohojei bibhranto hote pari. Ebong",P,od
+"Tai, attention protistha kortey eto somosha?",T,yq
+Hyan.,P,ack
+Attention dhore rakhte asubidha kemon? Jemon ekbar eta establish korechhen?,T,yq
+Hyan.,P,ack
+Dutor sathei trouble?,T,yq
+Hyan.,P,ack
+Thik achhe. Ebong apni distracted shabdo-ti ullekh korechhen.,T,yq
+Hyan. Hyan.,P,ack
+"Tahole apni nijekete easily distracted paan? Hyan, apni korben. Thik achhe.",T,yq
+"Well, amake ei setting er somporke idea din. So, eta ki work e naki school-e?",T,irq
+Eta sob jaygay.,P,id
+Eta sob jaygay.,T,gc
+"Thik. To, apni kaj koren?",T,yq
+Hyan.,P,ack
+Apni ki school-e jaan?,T,yq
+Hyan.,P,ack
+Apnar bosh koto?,T,irq
+Amar bosh 24.,P,id
+24. Thik achhe. Ebong attention ei somoshyati apnake work e affect kore.,T,yq
+"Hyan,",P,ack
+Ekti school-e ebong apni sorbotro bolechhen.,T,crq
+"Hyan, eta ekhon amar dainandin jiboner angsho.",P,cd
+"Apnar bosh 24. Ekhon, apni kohon sambhabyo somoshyaguli prothom lokkho korechhilen?",T,irq
+"Ami sob somoy eta ache. Ami bolte chachhi, emonki jokhon ami prathomik bidyaloy-er moto chhilam, apni janen, eti sorboda sei bachcha chhilo.",P,id
+Apni eta onek din dhore ache?,T,yq
+Hyan.,P,ack
+"Kibhabe birkatikor moto, eta apnar kajkorme koto ta hastokshep korche?",T,irq
+Eta satyoi eta satyoi kore.,P,id
+Eta satyoi somoshyayukto. Ki darun. Thik achhe.,T,gc
+"Thik achhe, tai ami ekhane apnake aro koyekti proshno jijnasha korte jachchi. Amra monoyog somporke kotha bollam. Tai monoyog dewa ebong monoyog dhore rakha apnar pokshe kothin.",T,yq
+Hyan.,P,ack
+Shunle kemon hoy? Apatot school-er poribesh niye chalun. School-er kotha boli. Class-e shunle kemon hoy?,T,irq
+Ete amar asole kono somossha nei.,P,id
+Eta apnar jonno ekta somosha noy.,T,yq
+Na,P,on
+Nimonnohito nirdeshaboli somporke kibhabe?,T,yq
+Na.,P,on
+Apnar sangathanik dokkhota somporke amake bolun,T,irq
+"Ami khub sanggathit,",P,id
+Khub sanggathit?,T,irq
+Hyan college thakte hobe.,P,id
+Apni ki nijekete adrie jachhen?,T,irq
+Onek manoshik binayoge proyojon hoy emon karyokrom?,T,irq
+Shakti porjonto?,T,irq
+"Na, satyoi na na, na.",P,id
+Ei dhonner karyokrome dik-e agrashor hote hobe.,T,irq
+Ami tader birodhi noi. Jemon ami daba ebong chekar pochondo kori.,P,id
+Bibhinn kaj ba kajguli shomporsho korar jonno apnar proyogshoniyo jinisguli hariye jawar jonno nijekete khujte pete.,T,yq
+Na.,P,on
+"Thik achhe, ami gear poriborton korte jachchi ebong apnake ekta bhinno elakar ashepash kichu proshno jijnasha korbo.",T,yq
+Thik achhe.,P,ack
+Apni ki kokhono nijekete osthir mone koren? Osthir thakar kothin?,T,yq
+"Satyoi na, na,",P,on
+"Na. School-e, ebong amra school-er sathe lathi kata korbo. Poribesh",T,yq
+Thik achhe.,P,ack
+Apnar ki boshe thakte asubidha hoy?,T,yq
+"Na, motei na.",P,on
+Apni jokhon shanto karyokalape niyukto hon tokhon apni kibhabe korben?,T,irq
+Ami besh bhalo kori.,P,id
+Apni eta thik achhe.,T,yq
+"Hyan,",P,ack
+Apni janen je apni nijekete bicharun korchen.,T,yq
+Na.,P,on
+"Apni ki kokhono mone korechen, abar abhoyantoreenbhave ekta motor cholche ebong apni eti bondo korte parben na.",T,yq
+"Na, na.",P,on
+Kibhabe kothabarta hochhe apni nijekete khujte na.,T,irq
+"Ami khub alapchari, khub alapchari, khub kothabarta. Kokhono kokhono ami obhodro hote ebong ami manushke badhagrasto kori. Karon ami shudhu eta ber korte hobe.",P,id
+Thik. Tor mone hoy apni onek kotha bolben? Ebong je apni badha.,T,yq
+Hyan.,T,ack
+"Emon poristhiti te lokera jekhane pochondo kora, opexa kora, line thaka ba apnar pala opexa kora oitihashik hobe. Apni ki apnar jonno kothin mone koren?",T,yq
+Ack,P,on
+"Na. Apni ki kokhono nijekete khujte pan, jemon class-e, shudhu kichu bolchen? Onek chinta na kore kichu out blurting moto?",T,yq
+"Na, satyoi na. Na? Thik achhe.",P,on
+Thik achhe. Ami mone kori amar ekhane jay dorkar ta ache. Ebong ami apnake ekjon poramordhotar sathe dekha korte chai.,T,ci
+"Thik achhe,",P,ack
+"Jodi eti apnar jonno kaj kore, karon apni ullekh korechen je eti apnar function ke prabhavit korche. Ami nischoi korte chai je apni ekjon counselorer sathe dekha korben. Apnar jonno kaj kore emon kauke dekhte apnake pete koyek din somoy lagbe.",T,ci
+Eta chomotkar. Dhonnobad.,P,ack
+"Hyan, ami apnake amar sathe ei somoy neowar proshongsha korchhi. Ei tottho shohayok hoyeche.",T,gt
+Apnake onek dhonnobad.,P,gt
+Dhonnobad.,T,gt

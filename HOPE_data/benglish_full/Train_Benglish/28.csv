@@ -1,0 +1,72 @@
+Utterance,Type,Dialogue Act
+Ami ekhon porjonto projuktite apanar angshogrohon er proshongsha kori. Ami notun bibhage poriborton korte chai. Eta apanar sathe thik ache. Ebong ei bibhagti podarth byaboharer upor. Eti emon ekta elaka ja apani alochona korte swachchhondyo bodh koren?,T,irq
+Oboshoi.,P,id
+"Tahole, emon kono podarth ache ja apani bortomane byabohar koren?",T,irq
+Ami ekTu pan kori.,P,id
+Apani amake bolte paren apani koto ghon ghon pan koren?,T,crq
+Ami mone kori eta ekTu beshi. Ami bolbo. Ami aaj shomvobhot tinTi panir aache.,P,cd
+Ebong apani ki pan korchhen?,T,irq
+Beer,P,id
+Ki akar janote,T,irq
+Botol bolche sekhaney 3 ache.,P,id
+Dine tin botol beer.,T,crq
+Haan.,P,cd
+"Ebong apanake bhoktader kache niye jete koto somoy lage,",T,irq
+Khub komi ghonta duyek.,P,id
+"Tai, protidin, tinTi beer ebong proyo dui ghonta. Haan. Je apanar kichu korte pare? Apanar majhe baa anubhuti pariprekshite? Hum,",T,irq
+Eta thik ek prakar amake sahayyo kore dirgho din kaj korar por amake aram dey.,P,id
+Tai eta apanar jonno aramdayak.,T,yq
+Haan.,P,ack
+Eta ki kono somoy apanake kono dhonno shomoshyaye feleche?,T,irq
+"Hum, emon ekta somoy aache je ami, amar bondhura ebong ami modyopan korar pore ek prakar jhogra korechi. Ebong amra etir karon e kotha bola proyo bondho kore dici, kintu amra eti kaj korte shokhho hoyechi. Kintu ami age proyo bondhu hariyechi.",P,id
+"Thik ache, onno kono kshetra ache jekhane eti karyokarita byahot korte pare?",T,irq
+"Kkhono kkhono ghum theke otha ebong porer din sokale kaj kora kothin, ami khawar pore, jodi ami eti diner porer moto pan kori, tahole porer din sokale uthe somoy moto kaj kora kothin. Tai ami koyekbar deri korechi.",P,id
+"Tai, tin, tin botol beer, proyo protidin,",T,irq
+"Proyo protidin,",P,id
+Apani nirdisht diner cheye beshi ba kom khawar somoy jeiti hok na keno.,T,irq
+"Ebong shadharanto shaptah e noy, tobe kkhono kkhono ami shaptahante aro beshi pan korbo.",P,id
+Ebong apani kotdin dhore mod pan korchen?,T,irq
+Ami onumon kori ami jokhon 17 bosor boshhe shuru korechi.,P,id
+Haan. Je apani beer ullekh chhilen. Apani ki kkhono onno kono dharoner alcohol seban korchen?,T,irq
+Ami age wine ebong shot chesta korechi kintu ami sob somoy beerer dikhe beerer dikhe aro beshi madhyakrshon kori. Haan.,P,id
+Apani bortomane byabohar korben emon onno kono podarth?,T,irq
+"Shaptahik chhutir dineo sobai shonibar rate amar bondhuder sathe kichu patra dhupan kore,",P,id
+Apani kkhono pratham marijuana byabohar shuru korchen?,T,irq
+Eti sambhoboth koyek bosor age jokhon ami pratham college shuru kori.,P,id
+Proyo dui bosor age.,T,yq
+Haan.,P,ack
+"Shaptahante, kkhono kkhono onno somoye",T,yq
+Haan.,P,ack
+"Beshirobhar shaptahante, maje maje shapthe. Eti ki kkhono kono somossha ba function poribortoner dike parichalito koreche?",T,irq
+"Ami nei, mane, shaptahante, na, karon amar sotti kothao thakar jayga nei. Kintu shaptah e maje maje jodi ami abar dhupaner moto alcohol khai, jodi ami abar khub deri kori, sokale uthe somoy moto kaj kora kothin ebong amar bosh sotti aamar upor bikkhoto hote shuru kore. Ami koto bar deri korechi. Emon noy je ami khub derite achi, kintu ami joto deri kore feli.",P,id
+Apani ki kkhono padarth er byabohar komanor chesta korechen?,T,irq
+"Umm, ami age alcohol komanor chesta korechi. Je ek bosor age ami chesta. Ami, jemon, shuru korechi jokhon ami ei kajti shuru korechi ja ekhon amar ache. Ami jokhon pratham shuru korechi tokhon ami kattate chesta korechi. Ebong ami tinte poriborte duiti, ek ba duiti beer poriborton korte shokkhom hoyechilam. Kintu tarpor kaj chhap hoye gelo ebong ami aram peyechi, ami onumon kori ebong abar modopon shuru kori.",P,id
+Tahole apani mone koren je alcohol byabohar apnar kajer sathe chap er sathe jukto?,T,orq
+"Ami haan, ami bolbo eti oboshoi shongkto.",P,od
+Apani ki kkhono lokeder dware birakto hoyechen je sambhoboth apnar padarth byaboharer samalochona kore?,T,irq
+"Haan, amar poribar samalochona korte pare je tara sotti mairijuana somporke jane na kintu tara amar alcohol byaboharer samalochona korte pare.",P,id
+Eti apanake birakto kore.,T,yq
+Haan.,P,ack
+Apani ki kkhono apnar padarth byabohar somporke kharap ba doshi boddho korechen?,T,irq
+"Thik. Ami oporadhi boddho. Amar ma chilen karon eti take maje maje khub birakto kore, jemon ami oporadhi boddho korbo kivabe amar chele take birakto korte hobe kintu ebong kkhono kkhono amar kharap lage jodi ami shanto na hole amar bondhuder sathe amar jhogra hoy tader sathe torko kora r dine kharap lage karon sadharanoto boka kichu niye.",P,id
+Apanar snayu odbhidhan korte ba hangover er pravab komanor jonno apanake ki sokale pratham jinis pan korte ba osudh khete hoyeche?,T,irq
+"Umm, ami shaptah e non-e boloa chai kintu weekend e jokhon ami ekto beshi pan korbo maje maje amar poshondo hobe, thik kichuta jemon ami shonibar rate pan korle robibar sokale ekto ekto kore jete pere.",P,id
+Tai kkhono kkhono eti ghote. Haan.,T,irq
+Ami bolbo na eti proyoshjye hoy kintu upolokkho.,P,id
+"Sutang, alcohol, mairijuana, duiti padarth ja apani bortomane byabohar korchen. Apani ki amake atite byabohrtto padarth somporke bolte paren?",T,irq
+Ami ektti party te chhilam ekti bar ami poromanonde chesta korechi kintu ami eti pohondo korini. Ami sotti e tader sathe hang out shesh na. Tai eti kono somossha chhilo na.,P,id
+"Shudhu ekti bar. Haan, shudhu ekti bar.",T,ack
+"Ami high school-e achi, amar bondhura. Amar bondhur duto lokeder anek dhumpai chhilo. Tai ami cigarette khai kintu eti amake osustho boddho kore. Ebong ami sotti e beshi pohondo na sotti e amar jonno kichu.",P,id
+Tai eti sthoyi hoini se sudhu chhaliye geche.,T,yq
+Haan. Thik ache.,P,ack
+Onno kono padarth naki shudhu oi duiti?,T,irq
+Ami bortomane je duiti byabohar korchi ebong tarpor shudhu poromanonde dhumpan korchi.,P,id
+Apanar ki padarth byaboharer paribarik itihas ache?,T,irq
+Amar dada? Amar ma dawbi koren je amar dada mod poro chhilen.,P,id
+Onno kono itihas?,T,irq
+"Na, ami ontoto shocheton noi.",P,id
+"Ami grahoner poroborti bibhag-e jawa-r aghe. Jodi amra ekhono padarth byabohar somporke kotha bolchi, apani bibhag-ti somporke je montobbo korte chan tate ki or ki kichu jog korte chan?",T,irq
+Karon ami mone kori je eti kovor kore.,P,id
+Tai beshi bhalo achhe.,T,gt
+Haan. Thik ache.,P,gt
+"Ami ei prashner uttor dawar jonno apnar shubheccha kori. Ebong jodi apni thik thaken, ami bibhag theke sorano ebong poroborti bibhag-e jete jacchi. Grahon thik ache.",T,gt

@@ -1,0 +1,57 @@
+Utterance,Type,Dialogue Act
+"Hi George, ki khobor aaj?",T,gt
+Thik ache.,P,gt
+Ami tomake ekta test dicchi je tomar bichar o memory ke matiye ney. Tumi tai korbe?,T,crq
+Haan.,P,cd
+"Tobe, jodi tomar kono prosno thake, oti sundor hoto. R joto tuku uttar dite paro, ta bhalo hoto.",T,gc
+Thik ache.,P,cd
+Aajker tareekh ki?,T,irq
+Aaj? Aaj 15.,P,id
+15th. Aajker bochor ki?,T,"ack, irq"
+Aaah 15th.,P,id
+Aaj kon mash?,T,irq
+June.,P,id
+Aar aaj kon din?,T,irq
+Eita Thursday.,P,id
+Tumi bolte paro ki kono season?,T,irq
+Beshi garmi. Summer.,P,cd
+"Tumi bolte paro ki, amra ei building e achi, ei building er naam ki?",T,yq
+No.,P,on
+Amra kon floor e achi?,T,irq
+Hard floor to hard.,P,id
+Amader konti shahor e achi?,T,irq
+New York?,P,id
+Amader konti jela e achi?,T,irq
+New Castle.,P,id
+Amader kon state e achi?,T,irq
+Pennsylvania?,P,id
+"George, ami tomake bolchilam kichu object amay phire bolte. Ball, flag, tree. Tader phire bolte paro?",T,cv
+"Thik ache, phool, plant.",P,cr
+Ami chai tumi 100 theke shuru kore sat e ghate kore gulo bolte thako. Ami bole dibo jokhon thamte hobe. Shuru koro.,T,cv
+"93, 7, 14, 21, 32.",P,cr
+"Bhalo, George. Dhonnobad. Ami chai tumi ""world"" er spelling ta ulte bolte.",T,"ack, cv"
+W O R L D.,P,cr
+"Tumi mone koro, ami tomar kache ek minute age ki kichu bolchilam?",T,yq
+No.,P,on
+"George, ei ki?",T,yq
+Haan.,P,op
+Eita ki?,T,irq
+Eita ekta wristwatch.,P,id
+Aar tumi bolte paro ki eita ki?,T,yq
+Haan.,P,op
+Eita ki?,T,irq
+Eita ekta pencil.,P,id
+"Ami tomake ekta phrase bolbo, tumi tar pori repeat korte paro. Ota holo ""no ifs, ands, or buts.""",T,cv
+"No ifs, ands or buts.",P,cr
+"GEORGE, tumi right-handed naki left-handed?",T,irq
+Right-handed.,P,id
+"Ami chai tomake ei kagaj ta right hat e niye, tate tate kagaj ta duto kore phelte r darun kore floor e rakhte.",T,cv
+.......,P,cr
+Dhonnobad.,T,gc
+......,P,gc
+"Dhonnobad. George, tomar chair er bame ekta clipboard ache. Tumi seta tule nao.",T,"gc, cv"
+Er upore ekta kalam othe.,T,cr
+......,P,gc
+"Dhonnobad, George. Ekhon sei kagaj er upore, tomake sei chobi dekhte hobe. To dekhte parcho?",T,cv
+......,P,cr
+"Dhonnobad, George. Ei khub upokar hoyeche. Ami tomake ei jonno dhonnobad janai.",T,"ack, gc"

@@ -1,0 +1,75 @@
+Utterance,Type,Dialogue Act
+"Dhonnobad. Kemon acho? Ami aaj tomake dekhe khushi hoyeche. Tai, ki bhabe eshecho?",T,irq
+"Doc, amar gola bhorti hoye jacche.",P,id
+Kya tumi gola bhorti hoye jaccho? Tumi nijei to dekhte parchho?,T,crq
+"Amar bou amake bolche, thik ache, o eto kore.",P,cd
+"Hm, kobe shuru hoyeche eta?",T,irq
+Ektu mota hote shuru korar pore theke ami khub gola bhorti hoye jacchi.,P,id
+"Okay, koto kilo beshi hoyeche tomake?",T,irq
+"50 pound. Hm, thik ache. Ami ei love handles gulo lose korte chai. Thik ache, dekho eti, ami ei love handles gulo lose korte chai. Tumi ki amay help korte parbe?",P,yq
+"Amra ekta plan banate parbo. Ami tomake sahi dik dikabo. Thik ache, maaf koro, ami kichu notes porchi, tumi maniye nao.",T,id
+Thik ache.,P,ack
+"Maaf koro, eta shuru hoyechhe koto din age bolechho to?",T,irq
+Ektu dui bochhor age kotha holo.,P,id
+Eto age kono bar holo to?,T,yq
+Exactly noy.,P,on
+Kichu try korecho?,T,yq
+"No, kau bollo easy liquidation namok kichu ache. Tumi kholo, try koro, kintu ami thik moto bhinnobhabe bujhte parchhilam na. Thik ache.",P,id
+"Hm, kichu somoy to help kore, kichu somoy na. Tader prati depend kore, ar raat e tumi gorom lagcho ki, tomar gola bhorti hoye?",T,yq
+Hoy doctor.,P,op
+"Okay. Toh, tomar din e bhalo lagche ki na dekhe nao.",T,id
+"Chhilo, kintu sei age to aro bhalo lagto. Kintu ami eto mota hoye gechi, khub thaklam, thaklam. Ei doktor, khub bhalo question.",P,id
+Dekhi sob kichu dhora holo toh. Tui kichu allergic reaction ache kichute?,T,irq
+"Hm, doctor. Ami niyeo thik bhabina, nikel e o royeche. R ashole amar kichu aushadh niyeo allergy, penicillin e o. Ar ei ek special taraher sharaab e o amar allergy ache, ami ota naam bolo na. Ar seta kheteo allergy hoyeche. Tobu ami tomar samne bolte chai na. Ar seta teo ami smoking bandho korechi. Ar alcohol o chhodo korechi.",P,id
+Tumi ki reaction peyecho?,T,irq
+Matro ekta rash.,P,id
+Ar sharaab?,T,irq
+"Oh, jani, sharaab khaoar pore pete gurgling hoy, diarrhea hoye thake, aar amar poop change hoye jai. Ei rokom.",P,id
+Kemon change hoy?,T,irq
+"Mushy hoye jai, mushy.",P,id
+Tui kichu dawa khachho to?,T,yq
+"Oh, ami just last week medications nilam, ami mone kori Xanax or any other medications.",P,id
+Tai valo. Thik ache. Tumi purono kono surgery korecho?,T,yq
+"No,",P,on
+Na. Thik ache. Tumar family te kono rogo ache?,T,yq
+No,P,on
+"Mr. Smith, ami tomar lifestyle er kotha janar chesta korchi. Tumi tobacco khaocho?",T,irq
+Ami tokhon khaitam kintu abar abar kori na,P,id
+"Tumi ki kichu khaito, kobe shuru korechhilo?",T,irq
+"Ami 16 bochor er chilam jabot eksho chheleti and ami rukh te ber korechilam 36 bochor. Ok, bishesh kore tobu, ami beriye gelam vaji baranor por theke. Last dui bochor dhore ami mone kori ami balloon hoye gechi.",P,id
+Tumi ageo kono hospital e bhorti hoyecho?,T,yq
+No,P,on
+"Heart attack, stroke, diabetes er kono history?",T,yq
+No,P,on
+Blood sugar?,T,yq
+No,P,on
+Ei to khub bhalo jinish jane.,T,id
+Ami to eita nei. Special check korar proyojon. Tumi ki American healthcare dollar gulo fak korar chesta korcho?,P,yq
+Eita to physical er ekta bhaag. Tumar last physical kobe chhilo?,T,irq
+Panch bochor age.,P,id
+"Panch bochor, tobe physical er jonno time holo ar amra ota schedule korbo. Yep. Ekta note kore rakho. Tokhon blood work o check korbo. Tumar bathroom e problem ache?",T,irq
+Rater samay ektu problem hoy. Ami khub bar jai.,P,id
+Koto beshi bar?,T,crq
+Panch ya chhoy bar,P,cd
+Tumi shokale ghurte gechhile?,T,irq
+Ami just US er shob jaigai ghurte gechhilam. Ami deliver kori.,P,id
+Tumi ki koro?,T,irq
+Ami truck driver. Ok.,P,id
+Tomar ghore koto somoy thako?,T,irq
+"Ektu shomoy, ek sapta.",P,id
+Ei personal prashner gulo. Ei gulo confidential thakbe. Tumi sexually active?,T,irq
+Yep.,P,id
+"Okey. Tomake ki bolte paro? Tomar jiboner patikatha bolte paro? Ekta matro, ekta matro. Aro kauke?",T,irq
+Amar bou.,P,id
+Tomar kache chhotochheler bachcha ase?,T,yq
+"Haan, Doctor.",P,op
+Aro bachcha hobe?,T,yq
+No.,P,on
+"Mone rakho, eta gopon. Jodi tomar kono rajyo roger bimari hoye thake, tahole amader dekhte hobe.",T,id
+"Ami bhishon ghumachhi, Doctor. Ami janina. Just eto ghum hoye jachhe, dinero kharap hoye jachhe. Aami eto ghumachhi, tor kopale bojhano. Okey.",P,id
+"Ami pore kichu test korte chai ghum theke uthle. Ami tomar ghum bhalo kore dekhte chai, ki hochhe, snoring er jonno ki karan. Tor moner dhorte chai. Shokto kore saans tene. Kripaya, tomar mukh khule toh. Okey, Mr. Smith, amar mukhya chinta hochhe, tor vajan bereche, taar gati onnor theke beshi hoye geche. Eibar ghum theke uthle, beshi vajan pore theke pore, taar saathethe, taar gale boro kichu toh nai, tai amar mone hoy. Amar kache aso, amar kichu test kora dorkar. Ami tomake sleep study korar jonyo advise korbo. Ami dekhte chai, tor ghum kemon hochhe, ki kichu karan theke snoring hochhe. Tomar moner dhonno bhalo. Ar ami mone kori, snoring er sathe shaytan kono moner rogon hote pare. Ami tomake ECG korte chai.",T,id
+Keno holo moner rogon? Keno holo moner rogon ebong snoring ebong sleep apnea?,P,irq
+"Ami mone kori, tader modhye somporko ache. Aar tader modhye vajan berechhe. Aar vajan bere gele, tor diet e kom fat, kom cholesterol khete bolbo. Tomar physical checkup hoye nai bole, ami bloodwork order korbo, tomar blood sugar, cholesterol, electrolytes, and such. Okey. Amar kache ar kono prashno ase?",T,yq
+"Jonne rognirokto medicine kheyo, snoring ebong car chalano ek sathe hoe jay protibad diye. Jodi tomake snoring hoye ar sleep apnea thake, toh patient ke protibad deoa uchit na. Tomar car chalano shokto hote pare. Khub, khub mahatto, to? Durghatona hoye jay. Car chalate samay, jodi tor ghum hote pare, toh tor chokh khulte mushkil hoye jay, bujhte khub, khub important. Jadi tor ki chokh khule jay na, tahole tor bichar nei, tor protibad deoa. Ar sleep apnea er lakshano ki?",P,irq
+"Snoring, khub shokto, rato ghum, ratri te shoyar sathe kotha hote pare. Risk factor ghum vule fele, shab somoy saans niye.",T,id
+Aar ki snoring-er proshno roga taar jonno ki aro roga thake?,P,irq

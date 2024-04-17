@@ -1,0 +1,55 @@
+Utterance,Type,Dialogue Act
+"Hi Susan, kemon acho ajke?",T,gt
+Bhalo achi. Apni kemon achen?,P,gt
+"Ami bhalo achi, jiggasa korar jonno dhonnobad. Ami tomay ekta brief assessment dite chai jeita memory ebong thinking measure korbe. Eta tomay thik lagbe?",T,"gt, crq"
+Thik ache.,P,cd
+"Thik ache. Ei assessment er prothom part er jonno, amra sheet ta back and forth dibo. Thik ache, ami ekta table rakhi niyechi, so tumi tar upor likhte paro. half a second part. Ami seta tomader theke sarie niye asbo. Ami kichhu onno parts niye kaj korbo. Thik ache, shonar moto lagche?",T,"id, crq"
+Ha.,P,cd
+"Thik ache. Cholo ei section ta dekhi ekhane. Ami amar finger diye point korechi, please ekta line tano number theke letter porjonto ascending order e. Ami chai tumi ekhane shuru koro ebong line tano one theke A porjonto tarpor two ebong erokom kore ekhane?",T,"gc, cv"
+Thik ache.,P,cr
+Dhonnobad. Ami chai tumi ei drawing ta copy koro joto accurately possible space er niche.,T,"gc, cv"
+....,P,cr
+"Dhonnobad. Ei faka jaigay ami chai tumi ekta clock aanko, sob numbers gulo diye ebong time set koro five past hour.",T,"gc, cv"
+Thik ache.,P,gc
+Dhonnobad amader sathe join korar jonno. Tumi ki amake ei animal er naam bolo?,T,"gc, irq"
+Giraffe,P,id
+Ei animal er naam ki?,T,irq
+bear,P,id
+ebong oi animal er naam ki?,T,irq
+hippopotamus.,P,id
+"Dhonnobad. Eta ekta memory test. Ami ekta list of words porbo jeita tomay ekhon mone rakhate hobe, ebong pore abar. Carefully shono. Ami shesh hole, bolo amake joto words mone thake, kono order e bola lagbe na. Truck, Banana, Violin, Born, Green.",T,"gc, cv"
+"Banana, Truck, Violin, Green, Born.",P,cr
+"Dhonnobad. Ami ekhon ekoi list ta second time porbo. Chesta koro mone rakhte ebong bolo amake joto words mone thake, including words tumi prothom bar boll echo. Truck, Banana, Violin, Born, Green.",T,"gc, cv"
+truck banana violin green.,P,cv
+"Dhonnobad. Ami tomay abar oi words gulo mone korate bolbo test er shesh e. Ami kichhu numbers bolbo ekhon, ami shesh hole, tumi amake repeat koro exactly ami jevabe bollam...3 2 9 6 5.",T,"gc, cv"
+3 2 9 6 5.,P,cr
+"Dhonnobad. Ekhn ami kichhu ar numbers bolbo, kintu ami shesh hole, tumi amake repeat koro backwards order e. 8 5 2.",T,"gc, cv"
+2 5 2008.,P,cr
+Dhonnobad. Ekhn ami chai tumi count koro subtracting seven theke 90 ebong tarpor keep subtracting seven tomader answer theke until I tell you to stop.,T,"gc, cv"
+"Shuru kori 90 diye ebong tarpor niche neme jabo seven kore,",P,crq
+correct.,T,cd
+90 83 76 69 62 55.,P,cr
+"that's good. Dhonnobad. Ami tomay ekta sentence porbo, repeat koro amar por por exactly ami jevabe bollam. A bird can fly into closed windows when it's dark and windy.",T,"gc, cv"
+A bird can fly into close windows when it's dark and windy.,P,cr
+Dhonnobad. Ekhn ami tomay arekta sentence porbo repeat koro amar por por exactly ami jevabe bollam. The caring grandmother sent groceries over a week ago.,T,"gc, cv"
+The caring grandmother sent groceries over a week ago.,P,cr
+"Dhonnobad. Bolo amake joto words mone thake shuru kore ekta certain letter of the alphabet diye, ami bolbo ek minute er moddhe. Tumi bolte paro kono dhoroner word ichche moto chhara proper nouns, like Bob or Boston, numbers, ba words je shuru hoi same sound diye kintu different suffix, like love lover loving. Ami bolbo stop after one minute. Ready?",T,"gc, yq"
+Ha.,P,op
+Ekhn bolo amake joto words mone thake shuru kore letter S diye?,T,cv
+"shoes, socks, stockings, sweater, shirt, Stripes. suitcase, Save, Strategic, Serene. Sweet, super.",P,cr
+Bolo kivabe ekta carrot ebong ekta potato similar?,T,irq
+vegetables.,P,id
+Tumi ki bolte paro kivabe ekta diamond ebong Ruby similar?,T,irq
+Dutoi stones.,P,id
+"Ami age kichhu words porlam tomay, ami chaichhilam tumi mone rakhbe. Bolo amake joto words mone thake,",T,cv
+"banana, truck, green, born, violin.",P,cr
+Tumi ki bolte paro ajker date koto?,T,irq
+February 10.,P,id
+bolo ki day of week aaj?,T,irq
+Tuesday.,P,id
+Bolo amra ekhon ki jaigay achi?,T,irq
+Willmington University.,P,id
+ebong amra kon city te achi?,T,irq
+Delaware.,P,id
+"Susan, dhonnobad, khub bhalo korecho.",T,gc
+Dhonnobad.,P,gc

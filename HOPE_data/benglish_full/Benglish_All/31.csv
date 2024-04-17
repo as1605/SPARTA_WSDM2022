@@ -1,0 +1,59 @@
+Utterance,Type,Dialogue Act
+Kon adhyatmik biswaser jonno amake nischitbhave bolun.,T,irq
+"Achha, ami catholic hoyechi.",P,id
+Tai apni nijekhe catholic mone koren. Kintu apni mone koren onek niyom ache.,T,irq
+"Haan. Ami bolte chachchi, ekhane onek koroniyoy ebong koroniyoy royeche. Amader girja chilo khub bhalo, norko bhittoik. Like, apni jodi eta koren, tahole apni eta korte norko jaben. Amra Jahannam-e jaboo ebong pchhondo kori, Achha, asun moja kori.",P,gc
+Apni kibhabe mone koren je ei adhyatmik moolyobodh-guli apnar dainondin jibonke prabhavit kore?,T,irq
+"Mane, ami majhe majhe kori. Ami ja kori tar jonno aparadhi bodh kori. Ami aparadhi bodh kori, apni janen, ami madok ebong partite shwikar korte ichhuk tar cheye beshi ortho byay korchhi, kintu ami bolte chachchi, ami mone kori apni janen, Ishwar amake kshama korun. Hum.",P,id
+Kibhabe jatigot jatigot porichoy sambhuke?,T,irq
+"Achha, ami Mexican.",P,id
+Mexican.,T,crq
+"Achha, ami khub, khub paribar bhittoik.",P,cd
+Paribar bhittoik.,T,crq
+"Haan,",P,"cd,ack"
+Apni ki amake apnar boshbasher abashon poristhiti sambhuke bolte paren?,T,irq
+"Asthir, naki sotti shobdo? Haan. Ami bolte chachchi, sadharanot eki bari te amra onek je thaki. Jemon, ei mohurte ami onyo chhoyjon er sathe boshbash korchi. Ebong, apni janen, maramari hoy ba keu bhora dite pare na ba ami bhora dite pari na. Apni janen, ami sambhavat gat ek bochore prai 12 bar sthanantoreto hoyechi,",P,id
+Gat bochhor.,T,crq
+Haan.,P,"ack,cd"
+"Suton, eti ekta ongso tai kharap noy.",T,gc
+"Haan, kintu ami dekhte pachchi je eti amar bachchader upor pravab fello.",P,gc
+Arthik drishtibhangir jonno koto.,T,irq
+"Arthik drishtibhangi anusare, ami rashtrer kach theke sahayata pai. Ebong ami bolte chachchi, amar kache sadharanot sobkichur jonno ortho prodaner jonno yathestho thake. Ami bolte chachchi, kichu din ase je amake bolte hoyeche, apni janen, amar roommate bole, apni ki amake kichu taka dhar dite paren? Athoba amar bon sob somoy ase jodi ami tar kach theke je proyojon hoy?",P,id
+Tai majhe majhe apni taka dhar korben.,T,crq
+Haan.,P,"ack,cd"
+Thik achhe. Tomar ghum kemon hobe? Apnar ki mone hoy jeta ghumano uchit? Apnar cheye beshi ba apni nishchit hower cheye kom?,T,irq
+Amar cheye onek kom.,P,id
+Amake se somporko bolun.,T,irq
+"Ami bolte chachchi, shudhu bachader kache ebong tader namano ebong tarpor nijer jonno kichu somoy neowar chesta kora ebong kono somoy ami manusher sathe thakte deri kori, apni janen. Dhumpaan, madyapan. Ami shudhu je beshi na.",P,id
+Naki eti ekta somoy ja apni kaj kortey chan?,T,irq
+"Haan, ami anuman kori. Haan. Haan. Ami sotti anor kichu ghum pete peshon kori.",P,id
+Khadyo grahon khawa somporko kibhabe? Apni ki mone koren je apni joto khabe setar cheye kom khawa uchit na ba thik ache?,T,irq
+"Amar jeta uchit setar cheye beshi, ami nijekhe dine belaye onek kichu khete ichhe kori. Ebong ami akhono niyomito khaoa kori. Suton, eti snacking-e upor khaoar moto snacking-e upor khaoar upor ebong eti kintu onek khaoa.",P,id
+Eti ki eto akta area jekhane apni kaj korte chan? Apni ki eti ekta somoy mone koren?,T,irq
+"Haan, ami anuman kori je ami sei somoye kaj korte pari, kintu ami ekhon anuman kori je apni eti ullekh korchen. Eta akorshoniyo hobe.",P,id
+"Ebong hote pare ami ekhane abar giaar switch korte chai. Trauma itihas. Akhon. Apni amake iti moddhe bolchen je apnar baba sathe ki ghotechhilo ba hote pare? Kono sharirik nirjatoner bishoye kibhabe? Ami mone kori je apni je age ullekh korechen, tai na?",T,irq
+"Haan. Achha, amar baba amader chhoto belay aghat korte chhilen. Ebong tarpor se jele jowar por, um, ami ebong amar ma majhe majhe maramari kortam.",P,id
+"Sharirik maramari, haan.",T,crq
+Apni jorito bote ki bujhat te chan ta amake bolun.,P,cd
+Apni jante ki bujhate chan ta amake bolun.,T,irq
+"Apni janen, ami phire ghushi.",P,id
+"Achha, apni ki mone koren ei paristhiti te ki ghotecche? Tomar emon mone hoy?",T,irq
+"Na, tara amake bakhshi.",P,id
+Apnak target kora hoyeche?,T,irq
+"Haan. Karon ami chhoto. Ami nischoi. Tumi jano, amar chachato bhai sotti je amar upor probolbhabe ache tai tara amake osomman koraar chesta korbe karon tara mone korechilo je tara porte pare.",P,id
+Ebong apni nijerke raksha korar jonno tader biruddhe sharirikbhabhe kaj korben.,T,orq
+Eto nirbodh?,P,od
+Upolokkhe?,T,crq
+Haan.,P,cd
+Monosik opoboboharer bishoye kemon?,T,irq
+Amar ma sob somoy amake boliro pathar moto kore tolano chesta korechilo,P,id
+"Se somporko,",T,irq
+"Emonki jodi eta tar dosh chhilo je light jwalaano chhilo na ebong sekhane jol chhilo na. Eta ekrokom amar dosh hobe. Na to tumi thakakalin, amake abar tomar bonke jamim dite hoyeche. Suton, apni jano je eta ghotecche ebong amake tomar bonke khujte ber kora hoyeche shehorer charpase gari chalate hoyeche karon apni jano, se amar nijer kajtio bondho kore diechilo. Tai ami gaser sob taka kharcheoi tader dite parini je somoy amar dosh chhilo. Sob kichu somoy amar dosh chhilo, jodio ami janotam je eta chhilo na kintu akhono bando.",P,id
+Eta tomar jonno bedonadayak chhilo.,T,crq
+Haan.,P,cd
+Apni ki mone koren je eta ekta pravab fellechhilo ba eta ba sharirik nirjaton apnar jibone pravab fellechhilo? Ki hochhe ekhon?,T,irq
+"Sharirik nirjaton, ami anuman kori ami sohingshotar sathe laddai shesh korar chesta kori, ami anuman kori, karon ami jani eti koto ta kharap hote pare. Tai ami sotti dhruto eti bondho korar chesta korechi, kintu sambhobato sobcheye shashthokor upay noy. Ki hochhe shat, tai bhobi amar bon ar amar kachakachi. Ebong tai ami er jonno amar maa ke dai kori karon tini amake bolir pathar moto korechhilen. Ebong tarpor amar bon moto chhilen, oh, bhalo, je kharap bon.",P,id
+Tahole apni mone koren je apnar mayer ochoron apnar bon ekhon apnar sathe jevabe ochoron kore?,T,yq
+Haan.,P,ack
+Sharirik ba monsik nirjatoner onno kono ghotona?,T,yq
+"Na, sotti na.",P,on

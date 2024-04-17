@@ -1,0 +1,26 @@
+Utterance,Type,Dialogue Act
+"Tommy, amar kotha bolar jonno ami tomar sathe kotha bolte chai, karon ami ekdin Facebook-e chhilm tomake niye ar kichu chhobi dekhechhilam, seta amar jonno kichu chinta-kar. Tomar kichu bondhu-gulo shokal bhaang-e thakchhe, ar tomake dekhe mone hoy, tumi to bhalo chhele, ami jani na ki kore tomake darun khawa lagchhe. Jibon kharap korte hobe na.",T,"gc, irq"
+"Ami mane social gathering-e chhilm, ami to chhara khujte o kori nai, drinks chhilo oi jayga-te, ar amar sob bondhu-gulo o tai korchhilo. Tai ami occasionaly-i to kori, kintu jokhon avasar hoy, tokhon thik thak kore kichu fun korte bhalo lagche.",P,"gc, id"
+"Tommy, khawa-te eto beshi khatra aache, tomake jenechi tumi 21 bachchar moddhe o to goliye poro, gari chalate gele accident hoye jete pare, ar school-e o kichhu kharap hote pare. Tumi to ekta roshogolla bhobishyo tomake dekhte chai, tai amar khub khub chinta.",T,"id, irq"
+"Ami to bujhte parchhi tomake ki bolte chao, kintu ami mone kori ami chhilo shob control-e rakhlam. Ami nijeke onek dure nei giye niye jabo bole chhilo na. Ami control-e rakhte chai, ar amar bondhu-gulo keo thik thak thakte chai, tai ami onek beshi khawate chaini.",P,"ack, id"
+"Khawar jonno ""not too much"" er moto kono kichu nei, ami mane, jokhon tumi bachcha, tokhon ki khawa to onek. Mone koro, onek kichu tomake ghotte pare.",T,"id, cv"
+"Ha, bujhte parchhi tomar kotha, ar",P,cr
+Tomar koto khawa hoy?,T,irq
+"Mone hoy ami onek beshi khawina. Beshi hoyto social gathering-er jonno. Ektu occasionaly-i kori, kintu kono somoy akela hole to ami kichu khawina. Ei",P,id
+Every weekend moto?,T,irq
+"Na, every other weekend, bole to.",P,id
+"Tommy, ami khub chinta kori, keno na tumi kichu bhalo kore na korte paro?",T,"gc, irq"
+"Bujhte parchhi, ami mone kori ami shobcheye beshi school-e focus korte pari, ar party-te jete kom kore. Ami bujhte parchhi tomake ki bolte chao.",P,"gc, id"
+"Haan, tomar bondhura kono problem? Mone kori, tumi shudhu shishu doler onk shishuder shonge time kate, ar oi shishur sathe na jao, jara shobar kothay party korche?",T,"ack, id, irq"
+"Haan, mone hoy ami nijei ektu bujhi ni, mone hoy eto kora holo tader jonno, mone hoy tader korte korte ami tader pechone giyechi, karon tader kora dekhe mone hoy onno kichu kora anek moja hote pare. Ar ami shudhu ei confirm korte chai je ami high school er experience theke kichu kichu ber kore ni.",P,"gc, id"
+"Ei toh besh kichu kora mone hoy jo ekdom moja lagche, kintu amader jante hobe je sei moja gulo bhalo choice noi. Ei je amra onk kotha boli toh mone hoy setai, amader jiboner jonno bhalo choice gulo nibo, ar tomar jonno sei bhalo choice gulo korte hobe. Ar mone hoy, tor jonno ekta boro paribartan korte vabe sochish toh.",T,"gc, id"
+"Haan, ami eta bujhte parchi. Mone hoy, amar jibon theke khub kom peyala kheye mone hoy amar life er jonno bhalo hobe, toh ektu kam peyala kora jete pare. Eta toh besh kichu bhabe bujha jache. Ar mone hoy, ami ektu beshi prayas korte pari peyala khorar level ta komiye nite.",P,"gc, ack"
+Mone hoy toh tumi ekdom banchte hobe.,T,vc
+"Haan, mone hoy, alcohol toh amader society te khub prachur, ar ei rokom chhilo amar kachhe sob kotha, jekhanei jai, party gulo, et cetera. Ekhane shomoy katate hobe, etake ami ekdom nijer jibon theke ber korte debo na, kintu ami obostha ta bujhe ni etake amar jibon theke poriskar korbo. Ami etake amar jibon ke puri korte chay na.",P,cr
+"Mone hoy toh tumi bhul korcho. Amra ki jane onno koto kichu ache, jeta moja lage oikhanei. Eto somoy amra boli, amader jiboner jonno bhalo choice gulo kora, ar amader jibon er jonno ki bhalo seta kora. Ar mone hoy toh tumi boro paribartan korte vabe sochhcho ei obostha te.",T,"gc, id"
+"Haan, mone hoy, ami eto boro problem ta dekhe ni. Ar mone hoy, eto boro problem ta dekhe nai karon mone hoy ami abar onno kono traumatic ghotona dekhe ni. Kintu, umm",P,"gc, ack"
+"Ki, wait korte chao ota ghote? Tumi ekta dramatic experience er jonno wait korte chao?",T,irq
+"Tumi thik bolecho. Ami wait korte chai na. Ami khub dure jete chai na, jeno beshi deri na hoye jai. Jemon ekti stage ashte pare jekhane ami escape korte na pari. Ar mone hoy, amar kache alcohol er kono asli experience nei, jeta amar jibon ke onk beshi prabhavit korche na, naki kaukeo onk beshi prabhavit korche na. Mone hoy, eta ekta kichu jeta ami control korte pari, kintu mone hoy, ami bujhe ni je ami mone kori.",P,id
+"Thik aache. Bhalo, shayad amra ekshathe kaj korte parbo. Ar mone hoy, amader jonno ekta plan banate hobe, jeta tor jonno kaj korbe, jate tumi control peye alcohol khele thamte paro.",T,"ack, gc"
+"Haan, mone hoy, eta ekta bhalo kadam hote pare, ar ekta sharthok jibon er songe anubhob korte pare, sudhu matro alcohol er haziness er age.",P,"ack, gc"
+Thik aache. Shunle bhalo laglo.,T,gc

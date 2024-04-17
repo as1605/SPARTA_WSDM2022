@@ -1,0 +1,81 @@
+Utterance,Type,Dialogue Act
+"Aaj kemon achho?, Bhalo achho?",T,gt
+Hyā.,P,gt
+Ami khushi je aponi aaj ba Sintek ashte paren. Prokriya somporke ekṭu byakhya korte chan? Ami bujhte parchhi aponi itimôdhjyēlei abhôt sommati sômmpurnô kôrechhen.,T,gt
+"Hyā. Hyā, ami eta age kôrechhi.",P,gc
+Tai aponi age eti kôrechhen.,T,yq
+Hyā,P,ack
+Tai kichu bishoy ripoṛṭ kôrar jônno amar bôdhyôbôdhotā bujhun. Thik achhe.,T,yq
+Thik achhe.,P,ack
+"Sutôrang, aponi sei pekete arô kichu prashner uttor diye chhen jā aponi obôgôt sommati, jaun dhôrôner prashne diye purno kôrechhen. Tôthô apanar drā'ibing laisens ba bīmā kārḍe thakte pare, erôm jinish. Ami ei ônsh, grôhôner ônsh hôishebe apanāke arô abêggôtbhabe bhittik prashner jijnyasha kôrte jachchi.",T,yq
+"Thik achhe,",P,ack
+Thik achhe. Amra kôbhar kôrbo emon kichu bishoy onek lôker jônno sônbêdônsil. Ebong aponi eti somporke kôtha bolte chan na. Thik achhe.,T,yq
+Thik achhe.,P,ack
+"Tai jôdi ami ei bishoyguli r êktite hôngchôṭ khai, aponi jannen, ami eti niye alochona kôri, shudhu amake janan. Ebong amra etta somporke kôtha bolte habe na.",T,yq
+Thik achhe.,P,ack
+"Jodi eti emon ekṭi elakô hôy jeṭi somporke aponi akhôn jôno kôtha bolte chan na, kintu aponi pore kôtha bolte chan, amra pore kôtha bolte pari. Thik achhe. Je jannar jônno?",T,yq
+Hyā. Thik achhe.,P,ack
+"Tai, apanāke ekhane amader ejensite kibhābe rēphār kôra hôyechhe?",T,irq
+"Achha, amar ei bôndhu achhe jake ami chirkale jôni. Ebong tini amake bôlechhilen je ami jevabe amar jibôn japôn kôrchi she somporke tini sôtti udbigno chhilen ebong aponi jannen, amar ekhane asha uchit nôy. Tai, tar proti onugrôho hishebe, ami ekhane achi.",P,id
+Aponi ki kaunselling kôrte pratishrutibôdhe bôdh kôren?,T,irq
+"Ami bolte chachchi, amar dhôrôna emon kichu jinis ache ja ami kaj kôrte pari, kintu ami bolte chachchi, tader somôsya ache ja amar ashôli nei.",P,id
+"Tumi keno bolle ora,",T,irq
+"Amar onno kichu bôndhu, je bôndhu amake rēphār kôrechhilo.",P,id
+"Thik achhe, tai kichu ache",T,yq
+Hyā.,P,ack
+Ebong aponi mône kôren je tara shekhane nao thakte pare?,T,yq
+Hyā. Thik achhe.,P,ack
+"Yathēṣṭa nyāyẏa. Sutôrang, ami upôsthanā samasya hôishebe amra ullēkha kôra somporke kôtha bolte chan. Ebong ami jani aponi ingit kôrechhen je aponi ekhane ache karon ekjon bôndhu apanake rēphār kôreche tôbe apanar jibônê je kôno lakṣan ba somôsya ba somôsya hôte pare tara pariprêkṣṭhitê. Thik. Aponi tader kôno snākṭa kôrte paren? Bhalo kôtha?",T,irq
+"Achha, mane, ami shbikar korbo, ami onek rāga kôri.",P,id
+"Rag, thik achhe.",T,gc
+"Hyan. Ebong maje maje jokhon ami pagol hoye jai, ami kichu jinish bheenge feli. Tomar deywal eka. Ami kauke aghat korbo na. Tai ami bolte chachchi, eta kon somossa noy, apni janen, kintu ami emon kichu nibe jaa byatha onubhob kore na. Ami bhebhechilam je ekta bhalo jinish chhilo.",P,gc
+"Sutrang, um, ebong bostu kichu, kichu sharirik ebong raganvit acharaner lakshyo. Hyan, kintu manush noy.",T,gc
+Hyan.,P,"ack,gc"
+Tahole apni ki ragke emon ekta somossa hisebe dekhen jar upor apni kaj korte chan?,T,irq
+"Ami onuman kori je ami kom raganvit hower jonno kaj korte pari. Ami mone kori na amar rager somossa ache, tbe ami kom rag korte pari.",P,id
+"Thik achhe. Tai ekta uposorgo rag hobe. Apni ogota mone kore na je eti ekta boro somossa, tbe apni kom raganvit hote paren.",T,gc
+"Hyan, tumi thik thakbe. Ami mone kori sobai ek tu beshi shantite kaj korte pare.",P,gc
+"Thik achhe, eta bojhay. Ar kichu?",T,"yq,irq"
+"Um, na, eti eto kichu ja ami age thamanoar chesta korechi, kintu amar ekta somossa hochhe. Ami ganja dhumpaan kori, onek somoy ebong apni onek onek. Ebong somproti ami kichu madokdrabyo chhidre feliar moto hoyechi.",P,"on,id"
+Apni ki amake bolte paren kon oshudh?,T,irq
+"Xanax er moto. Ebong ami age thamar chesta korechi ebong eti kaj koreni. Kintu ami, ami etta pchondo. Tai etta je bhalo dharon. Ami sotti je etta dite chai.",P,id
+Ami nischoitoi na je apni ete ek tu beshi chhidre gesen.,T,crq
+Hyan.,P,"ack,cd"
+Tai apni onek ganja dekhte. Ebong er ortho byaktir upor nirbhor kore bhinno kichu hote pare. Eta apnar mane ki?,T,irq
+"Dine besh koyekbar. Emonki ami jokhon kormosthole thaki, ami birotithei amar gari te jabo.",P,id
+Keu ki etta lakhyo kore?,T,irq
+"Mane, ami je jaygaye kaj kori seti khub peshadar noy, amar dharon. Mane, emon manager ache je ami etta lukie rakh. Kintu sobai je motamuti jane.",P,id
+Je tara etar sathe thik achhe.,T,yq
+Hyan.,P,ack
+"Ebong apni bisheshvabe Xanax ullekh korechen. Hyan, benzodiazepine, onno kono oshudh?",T,irq
+Na. Tokhon hoyto prodhanto marijuana. Ami Xanax shuru korechi.,P,"on,id"
+Mone hochhe eti aro somprotik.,T,gc
+"Haan. Mane, gat char maser modhye, ekjon bondhu amar sathe eti porichoy koriyechhe ebong eti pochondo korte shuru korechhe.",P,gc
+Apani kot ghan ghan eti byabohar koren?,T,irq
+Eta kom proyojoi hoy? Ami proti saptahante sambhobhoto du'bar somporko bôlte hobe.,P,id
+"Thik achhe, Marijuana ekati dainandin jiniser moto shonachchhe.",T,yq
+Haan. Thik achhe.,P,ack
+Onno kon oshudh? Eta besh?,T,irq
+Na.,P,id
+"Thik achhe. Atite kemon chhilo,",T,irq
+"Amar atite, ami kokain nie poriksha korechi, kintu ami er jonno shukno nie somoshyay porechi. Sutôrang, kibhabe je thamate. Thik achhe.",P,id
+Ar kichhu?,T,irq
+Na.,P,id
+Apani kaj korar jonno chhinnito onno kon somoshya?,T,irq
+"Umm, ami maje maje amar gôrboke amar pothe ashate dite pari,",P,id
+Ohongkar. Amake bol ki.,T,irq
+Ami kichu bhul korchhi bole bola ami pochhondo kori na. Karon beshir bhag somoye ami noi ba ekvabe korchi. Bhalo legeche karon ami eta apanar moto korchi na er mane ei no je ami eta bhul korchi. Ami jani ami ki korte pari ebong ami jani ami ki korte shokshom.,P,id
+Tahole keu ki apanake bolche je apani emonvabe abhinoy korchen ja garbito?,T,irq
+"Haan, amar onek lok ache jara ami kichu bondhu hariyechi karon apni jane, chhoto chhoto jinis ja theke ami nôbo na. Uddharon svarupe, shôrho TV show ki ta pochondo kore. Ami jani kohon shorho TV show? Je kau binnô bole ta ki bhul noy? Ota Oscar. Kintu apni ki jane, hoyto tara prokrito bondhu noy.",P,id
+Tai apni gôrbo nirdesh korchen. Kintu eta mone hochhe hoyto onomoniyota eti'r ektti onsho. Ami onumon kor. Keu ki kono somoy emon kotha shunechen,T,gc
+"Ami? Sei shôbdo ti noy, tobe amake janate din je apni eti bolechen, amar dhôrôna. Haan.",P,gc
+Apani ki mone koren je ohongkarer sathe ekshathe?,T,yq
+Haan.,P,ack
+Apani thik moto mone koren.,T,yq
+Haan.,P,ack
+"Thik achhe. Tai amader kshobh achhe. Beshirbhag bostu, jodio.",T,irq
+"Haan,",P,id
+"Manush noy. Marijuana, onek. Xanics jôto na maje maje, maje maje. Ebon tarpor onomoniota ebon dam. Haan. Je eti sotti moto shonachchhe na",T,irq od
+Ami bolte chacchi je ek number record ja nishchit noy je ami eti shikar korte ghôrna kori. Eta kore.,P,irq
+Tai ei form shomporke kotha bola apnar pokkhe kothin.,T,id
+"Haan, haan.",P,ack

@@ -1,0 +1,96 @@
+Utterance,Type,Dialogue Act
+"Hello there. Ami Dr. Betty. Ami ekhane notun GP. Prothome, apni amake ki dakben seta bolen?",T,gt
+"Well, apni amake Barbara dakben. Thik thakbe.",P,gt
+"Okay, thik ache. Okay, so, Barbara, ami ajke apnake dekhte esechhi. Kintu ami mone kori apni usually Dr. Brown er sathe dekha koren, tai na?",T,"gt,irq"
+Haan. Dr. Brown amar doctor.,P,id
+Okay. Apni ajke ki karon e amake dekhte esechhen?,T,irq
+"Well, ami amar pet er problem niye esechhi. Amar stomach e khub baje somossa hocche. Ar Dr. Brown kichhu ekta thik korte parchhen na. Tai ami vablam apnar sathe dekha kori dekhi apni ki help korte paren.",P,id
+Right. Okay. Apni ki amake ektu beshi bolte parben apnar pet er problem gulo niye?,T,irq
+"Umm, well, ami ei terrible discomfort anek somoy feel kori. Prayi somoy pet bhorti lage. Ami constipated hoye jai, ar tarpor abar diarrhea hoy. Mone hoy cramping feelings, ar sometimes pet e betha hoy, real stabbing feeling. Prayi somoy toilet e jete ichha kore, ar khub smelly wind pass kori.",P,id
+"So onek gulo symptoms aache, ar kichhu apnar kache beshi troublesome mone hocche.",T,crq
+Haan. Okay.,P,ack
+Ar ei problem gulo koto din dhore cholche?,T,irq
+"Well, ami trace korechi Egypt e amar holiday niye, prai char bochor aage. Ami ek terrible bout of sickness and diarrhea peyechhilam. Ar ami mone kori amar stomach kokhono thik hoy ni tarpor theke.",P,id
+"Okay. Okay. Tai apni mone koren je ei problem gulo shuru hoyeche char bochor aage, holiday er por?",T,yq
+"Haan, haan.",P,ack
+Okay. Ar apni ei problem er jonno age ki ki treatment try korechen?,T,irq
+"Well, Dr. Brown amake shuru te kichhu muscle relaxants diye chhilen. Kintu ami health shop e giye onek help peyechhi. Tader theke onek different tablets and medicines peyechhi different things er jonno. Ar oh, Imodium, ami shob somoy amar handbag e rakhi, just in case, thik ache.",P,id
+"So ei different tablets gulo apni herbal shop theke peyechhen, apni ki kore nen eta?",T,irq
+"Oh, well, different tablets. Apni jani, proti din amar problem same hoy na. Tai ami kichhu tablets nen certain symptoms er jonno, thik ache. Ar onno tablets onno kichhu er jonno.",P,id
+"Tai ami ki thik bujhte parchi je apni din onujayi decide koren je apni ki nen, apnar stomach er upor nirbhor kore?",T,yq
+Haan.,P,ack
+Okay. Okay. Ar apni ki kono tests korechen ei problems er jonno?,T,irq
+"Haan, early days e ami ekta gastro... guess...",P,id
+Gastroscopy?,T,crq
+"Haan, ar ek sathe ami barium enema o korechhi, right, eta khub uncomfortable chhilo.",P,"cd,ack"
+Okay.,T,ack
+"Kintu ami mone kori Dr. Brown enough tests koreni, karon tarpor theke uni bollo je kichhu paini. Ar uni ar kono test pathaini. Ekhon uni mone kore shesh, amake abar doctor er kache pathiye diyeche.",P,cd
+Right. Mone hocche apni ete khushi noy?,T,irq
+"Well, ami mone kori actually NHS er taka shesh hocche. Ar uni mone korechen je ami enough tests peyechhi. Ar apni jodi internet e dekhen, onek tests aache je uni amake pathate parto.",P,id
+Right.,T,ack
+"Jodi amar ektu beshi taka thakto, ami private e jeto. Ami mone kori uni problem er bottom e pounchate paren ni.",P,id
+Tai apni mone koren je actually enough kichhu kora hoy ni.,T,crq
+"Haan, uni noy. Ami sure, aro onek kichhu kora jeto. Right. Okay.",P,cd
+"Mone hocche apnar ei problems gulo chhar bochor dhore aache, stomach e onek gulo symptoms aache. Apni onek rokom tablets try korechen, kichhu prescribed, kichhu herbal remedies, ar kichhu tests o korechen, kintu apni mone koren je apni thoroughly enough investigate kora hoini. Eta ki thik?",T,yq
+Haan.,P,ack
+"Right. Okay. Ar ami jante chai, Barbara, ei sob kichhu apnar din protidin er jibone ki prokriya koreche, kemon aache apnar life?",T,irq
+"Well, eta quite boro impact koreche. Mone hoy boro jinish holo, ami full time theke part time e chole gechi kaj e. Ami sara din comfortably boshte partam na. Ar part time e giye, ek bochor aage ami kaj e chole gechi. Ami miss kori. Ami miss kori meyeder, amra at least ekbar week e raat e cinema ba drink e jeto. Eta ekta jinish.",P,id
+Eta ki apni enjoy korechhen.,T,gc
+"Haan, haan. Haan, amra just hasi tamasha kori.",P,ack
+Okay.,T,ack
+"Ami swing in shape e jeto. Ami exercise class e jeto, ami miss kori exercise ta. Eta weekly chhilo, kintu mone hoy ami comfortable feel kori ni. Always worried chhilam je ami short nite parbo. Tai ami stop kore diye.",P,id
+Right.,T,ack
+"Then well, amar husband and ami dinner korte jetam. ajkal ar seta hoi na. eguloi shudhu.",P,gc
+"Haan, mone hocche gat koyek bochor e apnar jibon onek change hoyeche ei symptoms er jonno. Mone hocche apni ager moto kichhu kaj ektu komiye diyeche.",T,gc
+"Hmm, thik ache.",P,ack
+Apni ekhon din er average e ki kore katayen?,T,irq
+"Well, ami bari te ghure berai. Hoi to ektu beshi somoy television dekhe katayi. Daytime television e ami ektu addicted hoye gechi, bolte gele. Ektu purono magazine o pori, kintu mooloto ami bari tei thaki.",P,id
+"Right. Okay. Okay. Ar gat char bochor e ki kono somoy apni significant change notice korechen apnar symptoms e? Jemon, kono somoy ki bhalo lagche apnar?",T,irq
+"Gato bochhor amar chele biye koreche. Ar ami worried chhilam je ami cope up korte parbo ki na, bhalo feel korbo ki na. Kintu ashcharyajonok vabe, ami besh bhalo form e chhilam. Mone hoy garmi te tin saptah ready hoye wedding er somoy, kintu ami besh bhalo form e chhilam. Haan, seta bhalo somoy chhilo.",P,id
+"Right. Ar apni amake bolun to, oi somoy apnar symptoms kemon chhilo?",T,irq
+Ami hardly notice korechi. Haan. Mone hoy shob clear hoye geche.,P,id
+Sundor.,T,gc
+Eta valo chilo.,P,irq
+"Thik ache, eta interesting. Tomar symptoms ki kono somoy beshi bother kore, kharap lage?",T,id
+"Ekhon ami ekta kharap patch er moddhe achi. Eta besh uncomfortable. Ami bolte pari, amar husband jabar somoy ami notice kori. Se, se tar job er jonno travel kore, ar se ek mash e dui bar jabar hote pare. Ar seta beshi valo lage na, bolte pari.",P,gc
+Mane tumi notice koro je tumar husband na thakle beshi kharap lage.,T,gc
+Hote pare ami beshi bhabchi jokhon se ashe na.,P,gc
+"Thik ache. Tumi gato koyek bochor Dr. Brown er kache jachcho ei niye. Uni ki bollen, uni ki mone koren ei problem er karon ki hote pare?",T,irq
+Uni mone koren eta shob amar mathar moddhe. Uni bolchen eta stress.,P,id
+Thik ache. Tumi ki mone koro?,T,orq
+"Mane, eta shob amar mathar moddhe hote pare na. Ami onek physical pain feel kori, eta mathar moddhe hote pare na. Eta real pain.",P,od
+Ar tumi nijer theke ki kono vabna niyeche je ki karon hote pare?,T,orq
+"Mane, ami vabechilam hote pare eta ekta infection chilo je clear hoini early stages e. Kintu ami mone kori, mone kori hote pare eta IBS, amar ek friend er ache, ar seta similar shonay. Ar kichu somoy ami vabchi hote pare eta ekta ulcer, ar khub kharap din e ami vabchi hote pare cancer.",P,od
+Thik ache.,T,ack
+"Amar shashuri maa gato bochor cancer e mara gechen, tini ekta growth niye chilen, doctor investigate koreni, ar jokhon paoa gelo, seta football er size er moto chilo, ar operate kora too late hoye gechilo. Tai jokhon ami raat e bichanay jai, ami feel kori ar make sure kori je kichu different hocche na. Ar haan, ami worry kori ei niye.",P,gc
+"Mane tumi raat e nijer body feel koro, dekho je kichu feel korte paro ki na.",T,gc
+Haan. Ami shudhu make sure korte chai je kichu change hocche na oikhane.,P,gc
+"Thik ache. Thik ache. Mane ami shudhu make sure korte chai je ami golpo ta thik bujhechi. Tumi Dr. Brown er kache gato koyek bochor dhore jachcho, nana dhoroner medication try korecho, kichu prescribed, kichu herbal shop theke, ar kono ta beshi difference koreni. Tumi kichu investigation korecho, kintu mone hoy tumi mone koro je enough investigation hoini. Ar kichu somoy tumi worry koro je eta hote pare kichu serious, jemon cancer. Ami ki golpo ta thik bujhechi?",T,gc
+Haan.,P,ack
+"Barbara, tumi ki asha korechile je ami ajke tumar jonno ki korbo?",T,irq
+"Mane, ami vabechilam, tumi ekta notun doctor ekhane, ar tumi medical training shesh korecho. Ami vabechilam hote pare notun chokh diye, notun upay diye problem ta dekhte paro. Tumi hote pare notun test er somporke jano, je amar doctor janto na, notun development gulo, je tumi amake different test er jonno pathate paro.",P,id
+Thik ache. Mane tumi asha korchile ami tomay aro test er jonno pathabo?,T,irq
+"Hmm. Mane, ami mone kori, kichu ache je test e reveal hote pare.",P,"id,ack"
+"Thik ache. Mane, Barbara, ami tomay shunte peye, ar tomay symptoms niye shunte peye, ami mone kori ekhon aro test pathano tomay jonne most useful hobe na. Karon tumi gato koyek bochor dhore main investigation gulo korecho, ar kichu dekhay ni. Ar tomay symptoms beshi change hoini. Tai khub unlikely je ekhon aro test pathale kichu different dekhabe je amra age jani na. Tai ami mone kori tomay aro test er jonno pathano time waste hobe.",T,od
+"Mane, tumi ki mone koro eta shob amar mathar moddhe, tumi Dr. Brown er moto mone koro ami shob imagine korchi?",P,crq
+"Na, ami mone kori tumi clearly pain feel koro. Ar clearly tomay onek physical symptoms ache, ar seta clearly tomay jibone badha dey ar disability create kore. Ami mone kori ei dhoroner jinish gulo necessarily mathar moddhe ba body tei hote pare na. Mone hoy ei dhoroner jinish gulo ek sathe jete pare. Ami vabchi je tumi bolle gato bochor tomay chele biye korechilo, ar tumi besh busy chile ar bhalo lagchilo, somehow tomay symptoms kom lagchilo. Ar jokhon tomay husband jabar hote pare, je tumi beshi pasand koro na, somehow tomay symptoms beshi lagche. Tai ami vabchi, Barbara, hote pare tomay mind er moddhe ar tomay jiboner moddhe ki hocche, ar tomay symptoms kemon trouble kore, er moddhe kono link ache ki na? Tumi ki mone koro eta possibility?",T,"on,irq"
+"Mane, ami mone kori na je amar mind e ei amount of pain create korte pare.",P,"on,crq"
+"Ami bolchi na je pain ta tomay mind e ache. Ami bolchi je mone hoy amader feel kora ar amader jibon kemon cholche, seta impact korte pare amader symptoms notice kora te. Jokhon amra medication try korechi tomay jonne, ar investigation try korechi, ar amra blank draw korechi, kono ta tomay help koreni. Tai ami vabchi hote pare ekhon tomay jonne different approach try kora uchit.",T,"on,cd"
+Ki dhoroner approach?,P,crq
+"Mane, ami vabchi tomay jiboner onno dike niye bhaba. Mane, ami vabchi gato char bochor dhore tomay jibon onek change hoyeche. Mone hoy khub shrunk down hoyeche. Ar mone hoy tumi onek kichu koro na je kichu age korecho je tomay pleasure dito, thik ache?",T,cd
+"Mane, ami ar korte pari na. Haan, ami ar korte pari na.",P,id
+"Ar ami vabchi, mone hoy tumi ei jinish gulo korte chherecho karon tumi mone korecho je tumi korte parbe na. Kintu ami vabchi, hote pare ei karon e je tumi ei pleasurable jinish gulo korte chherecho, seta tomay unhappy koreche tomay jibon niye. Ar ami vabchi hote pare seta tomay symptoms kharap koreche?",T,irq
+"Oh, ami jani na.",P,on
+"Ami vabchi, hote pare amader ekhon dorkar tomay jibon niye ki koro, ar tomay din niye ki koro, seta niye bhaba. Ar hote pare kichu pleasurable jinish gulo abar try kora. Jemon, shudhu female friends der sathe ekbar ek week e meet kora. Ar hote pare ei dhoroner jinish gulo kore tomay quality of life improve korte pare. Ami tablets niyeo vabchi je tumi ney, ar mone hoy tumi onek ney, ar ami vabchi hote pare amader boshe dekha uchit, ar hote pare rationalize kora uchit, ar decide kora uchit kon gulo tomay help kore, kon gulo kichu kore na, ar kon gulo hote pare tomay symptoms kharap kore. Ami vabchi tumi ki mone koro ei slightly different approach try kora, dui ba tin mash er jonno, just dekhar jonno je eta ki difference kore kina?",T,irq
+"Dui, tin mash onek lomba somoy, jodi kichu hocche, mane, seta holo amar shashuri maa er sathe, ora ora take chhere diyeche, ar spot korte pareni.",P,id
+"Mane, ami vabchi, jodi amra ei new approach er moto kaj kori, ami regularly tomay dekhte parbo, ar amra tomay symptoms er upor eye rakhte parbo, ar jodi change hoy, tahole amra appropriate proof investigate korte parbo. Jodi same thake, tahole amra pretty clear hote parbo je kichu new hocche na je amra miss korchhi. Eta ki shonay?",T,irq
+"Mane, tumi ki bolcho je ami abar tomay dekhte ashi?",P,id
+"Ami mone kori eta valo idea hobe. Ami mone kori amra shudhu shuru korechi kotha bolte, ar ami mone kori hote pare tumi ektu somoy niye bhabte paro, ar tarpor abar asho, hote pare next week e double slot er jonno book koro. Ar seta amader valo chunk of time dibe ei new approach niye bhabte. Ar hote pare tumi tomar tablets gulo niye asho ba list banao, amra dekhte parbo je tumi ki ki ney, ar seta theke jete parbo. Eta ki shonay Barbara?",T,irq
+"Thik ache, ami next week e appointment kore asbo, abar tomay dekhte asbo, ar ektu beshi kotha bolbo.",P,id
+"Haan, ami mone kori eta valo start hobe.",T,od
+"Ar ami amar ney tablets er list banabo, ar shob bottles niye asbo.",P,gc
+Thik ache. Thik ache. Tahole next week abar dekha hobe.,T,gt
+Ami next week e appointment kore asbo.,P,gt
+Thik ache. Dhonnobad Barbara.,T,gt
+"Thik ache, thik ache.",P,gt
+Bye bye.,T,gt

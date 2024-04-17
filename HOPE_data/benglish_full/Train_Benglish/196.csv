@@ -1,0 +1,22 @@
+Utterance,Type,Dialogue Act
+"Welcome, Kayla.",T,gt
+Dhonnobad.,P,gt
+Ajker ashe-pashe ashar jonno dhonnobad.,T,gt
+Kya aap hame thoda sa bata sakte hain ki Adelaide counseling practice kya suvidhaayein pradaan karti hai?,P,yq
+To counsellors un suvidhaon ke pradaan mein kya bhoomika nibhaate hain?,P,irq
+"Theek hai, ve sabhi clients ko LA ke kshetron mein suvidhaayein pradaan karte hain. Aur ve sheher ke karyalayon ko pashchimi uubhakton mein karyalay pradaan karte hain. Lekin ham bhi apne counsellors ko hamare clients ke nivaasiyon ke paas jaane ki anumati dete hain aur mere malik ka boss nahi hota. Haan, aur yeh bahut labhdayak hai kyunki bahut saare clients ko aise jagahon par aane mein aaraam nahi hota jahan ve abhi bhi keh sakte hain.",T,id
+To aap kya dekhte hain ki jo skills aur knowledge humare ARPC graduates ne pradaan kiye hain woh suvidhaon ki upalabdhi mein kaise sahayak hote hain?,P,irq
+"Haan, mujhe lagta hai ki AAPC diploma se bahut saari jaankaari milti hai. Hum lagatar kai lekhon ka upyog karte hain aur un actual forms ka jo padhai ke dauraan istemaal kiya gaya tha diploma ke dauraan, for instance, vyaktitva profile jo humare clients ko unke vyaktitva ko samajhne mein madad karta hai aur yeh ki vah ek sambandh ke andar kaise hote hain, hum bhi panch prakaar ke samjhauta ka upyog karte hain, jo hum readings mein dekhte hain, jisse hum clients ko samjha sake ki alag prakaar ke samjhauta hote hain aur vah sambandh ko kaise kharab kar sakte hain. To hum us jaankaari ka kaafi istemaal karte hain jo bahut hi labhdayak hai hamare clients ke liye.",T,id
+Theek hai. To kaise hamare vidyarthiyon ki yeh kshamata adelaide counseling practice ko labh deti hai?,P,irq
+"Yeh ek labh hai kyunki vah vahan hote hain. Ve sabhi apni ek jaise hote hain, jab baat aati hai adelaide counseling practice ki avashyaktaon ki to, humein yeh jaan kar achha lagta hai ki hamare counsellors mein uniformity hai. Aur humein pata hai ki AAPC yeh pradaan kar sakta hai kyunki hum sabhi ne ek hi moolik vahiniyan seekhi hain aur phir jab baat aati hai actual major ki, to kuch karmachari jo humne liya hai, ve bhi seva mein varshon ke liye kuch badhava kar sakte hain.",T,id
+Unnat adhyayan major ek diploma ke saath ek aur labh hai.,P,id
+Bilkul.,T,ack
+Utkrisht. Aur kya aap apne projects practice mein iopc ke vidyarthiyon ke liye sthitiyan jari rakhne ka vichar karte hain?,P,yq
+"Bina kisi shanka ke, haan, hamein ab tak un logon ke saath koi samasya nahi hui hai jinhe humne apne team mein shamil kiya hai. Ve sabhi vyavhaarik aur achhi tarah se shikshit hain aur hamare clients ke saath shandar hain.",T,"op,id"
+"Utkrisht. Dhanyavaad. Kya aapko aur kuch add karna hai course ke baare mein, sabhi vidyarthiyon ne darj kiya hai?",P,"ack,yq"
+"Main sach mein yakin karta hoon ki yeh course dusre jo maine pehle se pradaan kiye hain, is diploma ko sabse adhik gahraai se dekhna padta hai, aise ki ab main ab manasikta degree kar raha hoon aur main nahi maanta ki manasikta degree hone par main apne clients ko counsell karne ka vishwaas rakhta hoon kyunki yeh aapko asal mein prashikshit kaise karna hai vah nahi dikhata, jabki diploma aapko seedha sikha deta hai kaise vyavhar karna hai.",T,id
+To vyaktigat clients ke saath kaam karne ki himmat deployment se aati hai.,P,id
+Bilkul. Dhanyavaad.,T,ack
+Aapka aaj ka samay ke liye bahut onek thanks.,P,gt
+"Thank you, Carol.",T,gt
+Achha hai. Thanks.,P,gt

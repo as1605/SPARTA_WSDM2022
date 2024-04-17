@@ -1,0 +1,82 @@
+Utterance,Type,Dialogue Act
+Aajke kemon achho?,T,gt
+"Bhalo, dhonnobad. Apni kemon achen?",P,gt
+Ami bhalo korchi. Jijnyasa korar jonno dhonnobad. Ami bujhte parchi apnar emon kichu lakshan ache ja apnar jonno birkatikor. Apni ki somporke amake bolte paren? Ki hochhe?,T,irq
+"Haan, ami pray ek bochor age amar apartmente chole eshechi. Ebong amar mone hoy, udvigno chintabhavna ache ebong kokhono kokhono ami bhoy pai je ami amar apartment harate jacchi.",P,id
+"Tahole apni udvigno hoye porechen, sombhobotho apnar apartment haranor bishoye chinta korchen? Haan. Tai amake je somporko amake bolun.",T,crq
+"Um, thik achhe, jokhon ami amar bhara jonno doure beriye eshechi,",P,cd
+Ami sadharanotai eti online porishodh kortam kintu tarpor ami botamti click kortam ebong eti koyekbar joma ditam. Tai pore ami shudhu artho prodan somporke nishchit korte chai.,P,cd
+Tai ami asholey personal bhabhe jete ebong eti dite shuru kori.,P,cd
+Kintu tarpor ami amar statement check kori shudhu nishchit korte jonno je cashier ebong tader korte hobe,P,cd
+Nishchit tara sotti apnar haan apnar payment peyechhe.,T,irq
+"Ebong ami-o nervous je apni jano, kichu ekta ghotte pare jekhane ami amar straightener ebong apartment rekhe jai, jemon pure jai ba onno kichu.",P,id
+"Thik. Apni ki nijerke sei chintar upor kaj korar moto mone koren, jemon, straightener-er sathe beshe sei chinta ta bolun.",T,crq
+"Ami eti porikhha korbo ebong ami nishchit kori je eti unplugged kora hoyeche. Ebong, ebong tarpor ami charpase takai ebong nishchit kori je sobkichu unplugged kora ache, karon ami chai na je kichu dhora jai.",P,cd
+Apni jokhon sobkichu balen apni ki bolte chan?,T,crq
+"Amar laptop charger shoho toaster ebong amar computer moto? Ebong amar cell phone, jeta jonno charger. Ebong shudhu television-er moto plug in kora kichu. Ami jaber age nishchit korte chai je sobkichu unplugged kora ache",P,cd
+"Jowar age. Haan, apnar apartment. Apni fire eshe ki korben?",T,irq
+"Ami nishchit korte paro je tara ekhono unplugged ache. Kintu tarpor jokhon amar eti bapar kora lagbe, ami eti abar plug in kori.",P,id
+"Sutara apnar jodi udahoronshuropto television boshor kora lagbe, eti plug in kore eti dekhte ebong tarpor avilombe ba shudhumatra apni chharar age eti unplugged koren,",T,crq
+Ami jowar age,P,cd
+"Apni jowar age, jate apni shekhane thakar somoy eti ke plug in kore rekhe jan.",T,yq
+Haan.,P,ack
+Apni kokhon prothom udveg lokkho korechilen?,T,irq
+"Ami onumon, chhoy mash ager moto.",P,id
+Chhoy mash ager?,T,yq
+Haan.,P,ack
+Eta kibhabe shuru hoy?,T,irq
+"Eta shuru hoyechilo shudhu jinishgulo niye chinta kore, chole jawar kotha chinta kore, apni janen, dorja khule geche ba ami bill porishode korechi kina ta nishchit na howa, thik eta niye bhabor moto. Ebong tarpor ami double check ebong triple check porshonto korte hobe. Ebong thik dhore nishchit korun.",P,id
+Dorjar tala diye shuru korar jonno.,T,irq
+"Haan, eti kewal chintabhavna kore ebong dorjati lok kora ache ta nishchit korar sathe shuru hoyechilo.",P,id
+"Ebong apni ekhono to korchhen, apni ki dorja koyekbar check koren?",T,crq
+"Haan, ami nishchit korchi eta lok kora ache.",P,cd
+Tahole apni kibhabe eti korben je uthate ebong etir dike takan ebong slottti dekhun ebong tarpor bosun ebong chintakrun je eti fire asbe ba apni ki prokriyati shamne pichhone porichalona korben?,T,irq
+"Haan, ami eimatro bhitore jacchi. Ami ekta kulungiir dike takachhi jekhane eti lok kora ache. Ebong tarpor ami fire jethe habe ebong ami shudhu fire boshte habe ebong ami thik hobe.",P,id
+Kichhukshon-er jonno. Haan. Ei ap chinta kokhono fire asha ebong eti abar check jete habe?,T,irrq
+"Kokhono kokhono, sotti na sotti. Ami shudhu check in korbo. Eta thik ache.",P,id
+"Apni jokhon apnar apartment chhede chalen tokhon ki apnar mone ekta checklist ache? Jemon, motamuti eki krome sobkichu unplugged korben? Ebong sobkichu tai order check.",T,irq
+"Um, ami sotti ei shomporke chintaa korini, tobey ami nishchit korechi je sobkichu thik ache. Ami jani ki hote hobe.",P,id
+"Thik ache, tai apnar mone ekta talika ache ja unplugged korte hobe. Haan, nishchit korun je eti sob unplugged kora ache.",T,orq
+Thik.,P,od
+Ebong jokhon apni baire theke apnar dorja lok korben jokhon apni chole jachen? Apni je poriksha korben?,T,irq
+"Haan, ami eta poriksha korbo. Ebong tarpor jodi ami amar gari te bose thaki, tobe ami kebal double check korte fire jete pari ebong nishchit korte pari.",P,id
+"Tahole apni dorja check karchen, janen? Tepo toiri korte pare emon bivinno item plug kora. Apni apnar bhara porishodh korchen somporke satorko. Haan. Tai, kono bhabe apartment haranoar bhoy o udbeg. Eti kivabe apnar dainik jibonke prabhavit korche? Majhe majhe,",T,orq
+"Mane, eto somoy shapokkhe. Kokhono kokhono ami kajer jonno deri kori, karon ami mone kori ami kichu plug in rekhechi ebong amake bhitor theke fire jete hobe. Kokhono kokhono ami dorja lok kori ebong fire jete hobe ebong eti lok kora ache ta nishchit korte hobe. Tai ami sadharonto jinisgulor jonno deri kori karon ami double check korchhi.",P,od
+Eti kichhu somosya srishti kore shudhu shanto. Somoy moto jagga pawa. Haan.,T,gc
+Apnar udbeg o udbeg-er matra kemon? Apni koto ucchobe,T,irq
+Tai bole?,T,irq
+"Um, ami onumon kori eti emon hobe,",P,id
+Eti somporko chinta.,P,id
+Eti apnar jonno somosya?,T,yq
+Haan.,P,ack
+"Apni jodi chinta koren je eti kokhon theke shuru hoyechilo, eti koyekti chintabhabnar moto shonachchhe. Thik? Jodi amra boli je eti tulonamulokbhabe kom udbeg. Haan. Ekhon apni ja ache tar sathe tulon koreben kivabe?",T,orq
+Adhunik chehara ki ekta beshi?,P,crq
+"Shudhu ekta upore, haan.",T,cd
+Kintu apni ki lokkho korechhen je eti aro kharap hoyechhe?,T,yq
+Haan.,P,ack
+Chhoy mash?,T,irq
+Eti ki amar sobcheye beshi jinis ja apni kokhono anubhav korechhen?,T,irq
+Ami nijekni ekjon udbigno borti mone kori. Tai ami onumon kori. Haan.,P,id
+Ei apni sobcheye obhijatto ache?,T,yq
+Haan.,P,ack
+Haan. Eti bishesh kore udbegjonok.,T,yq
+Haan.,P,ack
+Tara apnake shob somoy udbigno borti bola hoyeche.,T,yq
+Haan.,P,ack
+Amake se somporke bolun.,T,irq
+Ami thik group settings-er moto ba ami jokhon chhoto chhilam tokhon kichu ullekh kortam. Ami thik dorjar sathe khelar moto chhilam ba erokom kichu. Ar amar baba-ma amake doctorer kache niye gechhilen. Ebong tara shudhu bolechhilen je ami udbigno chhilam.,P,id
+Tara amake ekta chikitsa dey. Ami,P,id
+Jani na. Ami mone kori na tai tara shudhu bolechhilo ami udbigno chhilam.,P,id
+"Tai bola chara apni udbigno, kono roger nirnoy prodan kora hoyeche?",T,crq
+"Na, satyoi na.",P,cd
+"Apni ki kokhono monoshik shastho nirnoy korechen? Shudhu, ami onumon",T,irq
+"Shudhu udbigno bosh kora, kintu ogotyo roger nirnoyer moto na",P,id
+Kono prodankariro kach theke na?,T,yq
+Haan.,P,ack
+Thik achhe. Kono chikitsa shart somporke kivabe?,T,irq
+Konotai na,P,id
+Apni ki kokhono hospital-e gechhen?,T,irq
+"Shudhu amar tonsil ber korte chai, kintu onno kichur moto na",P,id
+"Madok ba alcohol, etigulor kono boshonto somporke kemon?",T,yq
+Na.,P,on
+Apnake dhonyobad.,P,gt

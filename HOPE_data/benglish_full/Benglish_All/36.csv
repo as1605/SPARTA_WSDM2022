@@ -1,0 +1,66 @@
+Utterance,Type,Dialogue Act
+Apani aja kemon achen?,T,gt
+Oh ami thik achi bhalo hote pare kharap hote pare. Ami sekhan-e jhule achi.,P,gt
+Sekhan-e jhulonto. Ami bujhte parchi apanar emon kichu upasarga ache ja apanake birkat korchhe seguli sambandhe amake bolte paren?,T,irq
+"Oh, ami sob somoy chintit thaki ebong shudhu protidin saradin sob kichur jonno eto chintit je ami sobematro school-e phire jete shuru korechi. 20 bochor pore ami ekjon grihini hoyechi, bachchera ekhon boro hoyeche. Tahole keno school-e phire yaben na ebong ekhon gato shat, aṭa mas dhore eti kebol dushchinta chhada ar kichui nai, dushchinta kramagat sarakhon sarajatra bari niye chintit school niye chintit ebong eti jibonke prabhavit korchhe.",P,id
+"Tai, eto chinta onek, ebong koto? Koto din? Apani ki bolben je apani ekati sadharan shaptahe chintit?",T,irq
+"Koto din chinta korben na,",P,id
+"Ami beshiর dinai bolbo, sombar theke shukrabor, shanibar, tai ami jokhon sombar theke shukrabor theki, tokhon ami school niye chintit, ba jokhon ami school-e thaki, tokhon ami bari niye chintit thaki shaptahante, ami lokkho korechi school asche. Ebong tarpor tara sobkichu porichaloner bishoye chintit. Ami kivabe sobkichu mokabela kortey jachchi tai eta onek.",P,id
+"Tai eta apanar jonno khub, khub kastodayak",T,irq
+Khub tai.,P,id
+Ebong apani ullekh korechen je eta school-ke prabhavit korchhe,T,irq
+"School-e. Ami ekhon khub bhalo korchi na. Ami jokhon snatak chhilam, tokhon ami ekjon soja e chhatra chhilam. Ami bhebechilam ami eta abar korte pari. Ami jekhane theke chhede diyechhilam shekhanei tule dhorechhilam, kintu ekhon ami eto tai chintit je ami udbegjonok udbeg-e upor eto tai manoyog dechchi je ami ki assignment niye khub chintit ta niye chintit dudh, ami sobematro microovve shuru korechi. Tara ekhono jache na. Karon ami tai na, jokhon ami school-e thaki, tokhon o ami bari niye chintit. Bari te ki cholche je ami class-e manoyog dite pari na ebong eti kebol grass korche.",P,id
+"Thik? Tai school ebong bari te ubhoy? Uhu,",T,yq
+"Haan, oboshoi. Apani",P,ack
+Udbeg niyontroṇ kara kothin.,T,yq
+Haan.,P,ack
+Eta ekṭi pradhān upaẏe prabhābita kara.,T,yq
+Haan. Khub.,P,ack
+Tai apanake aro kichu prashna jignasha korte pare ja er sathe juganto hote pare. Thik ache. Apani ki kono alcohol ba drug bhabayen?,T,irq
+"Kichu, kichu kichu. Ami majhe majhe pan kori. Kintu ami ekhono khub chintit. Amar snayu ei muhurte prante sob somoy. Ami eti sahajje khoje. Tai ami take troll peyechi, kintu",P,id
+Eṭa niyontroṇe. Haan. Apani koto ghon ghon apani pan korte hobe?,T,irq
+"Um, hote pare protidin ekhane-sekhane kau na kau.",P,id
+Ebong apani koto pan korben tai apani pan.,T,irq
+"Um, hote pare eta rate wine ekṭi prashna, kintu ami ekṭi madhyap ba onno kichu no kintu, thik ache, drug sambandhe ekṭi patra bhaba.",P,id
+Kintu ami mone kori eta amar snayu-ke sahajje khoje.,P,id
+"Thale thik. Ami shaptah-e koyekbar, ek dompotir moto",T,irq
+Shaptah-e bar. Thik ache. Apani kintu kono panic attack hoyeche? Na.,P,id
+Apani koto ghon ghon chhila,T,crq
+Apanar itihas-e kono agghat?,P,cd
+"Achha, amar didima, tini mara gechen. Jokhon ami chhoto chhilam. Tini amader jotno nite obhysta. Tini amar kache duiti mayeṛ moto chhilen. Ebong ami tani take sei vabe dekhechi. Ebong ami jokhon chhoto chhilam tokhon sei mara gechhilo ebong tini satyoi chhilo. Ebong eto tai, ami satyoi tiniṛ kachei chhilo. Ebong ke? Amar sheshokaleo amar shoshur-ke nie onek chinta korechi ebong bishesh kore jokhon theke ami school-e phire eshechi, sei amar mitra sambandhe chinti korechi je tini amake sada shikkhaye jete, 10-er sathe jog dite ebong ekhon amader mrito sambandhe chinti koreche. Tai tini,",T,irq
+"Se apanar mathay ache. Ebong jokhon apani tiniṛ sambandhe chinti koren, tokhon ki anubhuti ase?",T,irq
+"Um, ami khub chintit karon ami bhabchi je ami taki ebong taniṛ smriti bivorto kori je ami jodi bhalo na kori tobe tani mon kharap korbe jodi oṛa abar ekhane nei. Ami bhalo na kori tahole ora birkat hobe.",P,id
+"Thik ache, tai jokhon apani taniṛ sambandhe chinti koren, tokhon ki apanar ek dharoner chintay hoy.",T,orq
+Haan.,P,od
+Eta kastakor hoyeche.,T,yq
+Haan.,P,ack
+Eta kasto hoche.,T,yq
+Haan.,P,ack
+"Thik ache, tai ami apanake kichu bhinn lakṣaṇa jignasha korte jachchhi. Ekhon ja ghotochchhe tai apanar ei lakṣaṇgulir jonno ki ei ghotonagulita chhilen seta amake janano. Apani ki asthir bodh korchen, chabikathi ba prante achen?",T,yq
+Shob somoy,P,ack
+Haan.,T,gc
+Eto tan.,P,ack
+Apanar kemon lage je apani sohoje klanth hoye paren.,T,irq
+Ami sob somoy klanth.,P,id
+Hyan. Apanar mon phaka hoye jacche ba monoyog dite somoy hache ki na?,T,irq
+"Thik ache, ami amar matha ekti sathay onek kichu bhavabar chesta korchi tai ami keboli hyan bishaygulite focus korte pari na, ovoshoyi ami ghonotwe somosshayay achi.",P,id
+Mononibesh korbe.,T,irq
+Apani ki lokkho korechen je apani beshi khitkhite,T,irq
+"Ami khub beshi ghomachchi na, tai ami pagol,",P,id
+Khatka? Hoyto ek tu nirodho.,T,orq
+Amar swamir moto onek khitkhite. Thik ache.,P,od
+Apani ullekh korechen je apani sob somoy tensione thaken. Eta ki peshite tan parar moto.,T,irq
+Ami motamuti tai jagrato bodh korchi. Amar peshi snap jacche moto. Shudhu ami sob somoy tai onomoniyo bodh.,P,id
+Aro ami ke apanar ghum shomporke bolun.,T,irq
+Slip span. Ghumer sathe. Eta thik jemon akhon astito nei temoni abhinetrara mone kore ghumate jawaar chesta kora jokhon apanar mone onek kichu thake tokhon kothin.,P,id
+Tai apanar ghumate asubidha hocche. Kintu ekbar ghumiye porele,T,crq
+Ami na karon ami pochondo khujhe jodi,P,cd
+Ami emon duhsopno dekhabo ja ami ghum theke uthe shudhu akai valo hobe na. Oh Bhagaban. Amake ki korte hobe? Ami ki bhule jachchi? Tai ami sob somoy onubhob kori je amar mone sob somoy emon kichu thake ja keboli jodi ami ghumiyecho tahole ami ghumiyete pari na karon ami eti shomporke chinta kore jeghe uthechi. Ami ghumate fire jete pari na. Ei mohurto chhochche kichu kutsit chokro.,P,cd
+"Bonam ghum apanar jonno ekta boro, boro somossho hoyeche.",T,yq
+Hyan.,P,ack
+Tai ami apanake ekjon poramorshodatar sathe dekha korte chai. Ami shomvobhot apanake matro koyek din er moddhe dekhte perte pari,T,ci
+"Thik ache. Oh, ami je eta prashansa korbe",P,ack
+Eti shohayk hobe. Hya hya.,T,gt
+Aro ami ei prashner uttor dewar jonno apanake dhonnobad janate chai. Amar jonno. Ei khub shohayk hoyeche.,T,gt
+Apanake onek dhonnobad.,P,gt
+Dhonnobad.,T,gt

@@ -1,0 +1,71 @@
+Utterance,Type,Dialogue Act
+"Hi Jill, kemon acho ajke?",T,gt
+Ami thik achi.,P,gt
+Thik achi?,T,crq
+"Ha, ami ektu bhalo feel korchi.",P,cd
+"Ektu bhalo, onek din dhore down chhile, ki hoche?",T,irq
+Ami mone kori shob kichhu thik hobe.,P,id
+"Eta tomader jonno unusual karon usually, tumi amar kache eshe kotha bolo down ba depressed, kichhu change hoche sambhabona?",T,"gc, irq"
+Ami mone kori ami solution ta peye gechi ebong ami jani ami ki korbo. Tai ami depression niye worried noi. Tai ami guess kori ami ektu bhalo feel korchi.,P,id
+Tumi ki amake solution ta bolo je tumi peye gecho?,T,irq
+"Ha, tumi jano, amra age kotha bolchi ami mone kori ami suicide commit korbo.",P,id
+Tumi suicide korte chai? Tumi ki kore korbe?,T,irq
+"Ha, amar bari te kichhu pills ache medicine cabinet e, ebong ami oi gulo nebo.",P,id
+Tumi ki plan korcho eta kobe korbe?,T,irq
+"Hoi toh koyek din por. Amar kichhu kaj guchhate hobe. Ami chai jeno shob kichhu thik thakuk, jeno shob kichhu order e thake tarpor ami eta korbo.",P,id
+Ki dhoroner kaj guchhate chaicho?,T,irq
+"Um, tumi jano, ami chai amar husband er dorkar hobe emon shob documents thik jaigay thake jate she khujte pare. Ami bolbo na kintu ami chai jeno or jonno jinish gulo kothin na hoy ebong shetai. Tumi bujhte parcho? Jemon shob kichhu order e thakuk jate ami chole gele shobai jeta dorkar ta pabe.",P,id
+"So Jill, tumi amar sathe prottekbar dekha korecho prai ek bochor dhore, ebong tumi jano, ei kotha bolo mane ami act korbo tomay atkate. But ami chesta korbo tomay suicide korte atkate.",T,id
+"Mm hmm. Ha, ami korte chai. Ami mone kori sheshe eta holo jeita shob kichhu bhalo korbe. Kintu ami guess kori ekta part amar ase je marte chai na, amar family ke ei obostha te felte chai na. Tai ami guess kori ami tomay bolchi, karon ami 100% sure noi, ebong ami guess kori ami ei niye kotha bolte chai.",P,"ack, id"
+"Tumi pretty serious mone hochhe, tomader timetable ebong plan niye.",T,"gc, irq"
+"Ha. Mone hocche, tumi jano, jokhon weekend trip plan koro, tumi pretty sure thako jabe kintu jodi weather kharap hoy, hoi toh jabe na. So ami mone kori, ami pretty sure.",P,id
+Kichhu ase ki je tomay atkate pare?,T,yq
+"Um, ami jani na. Ami mone kori ami pretty sure.",P,on
+Tumi mone koro ki depression na onno kichhu tomay ei decision e niyeche?,T,orq
+"Ami mone kori, um, eta shudhu, tumi jano, same purono jinish gulo niye ami worried chhilam, depression ebong, ebong, tumi jano, amar relational issues amar job, oi jinish gulo je amay down kore dey, ebong, tumi jano, click kore gelo ebong chhilo, tumi jano, ami age bhabini, kintu ami mone kori ami bhalo feel korbo. Ami mone kori just hobe, eta hobe, ami bhalo feel korbo.",P,od
+"tumi boll echo, eta solution.",T,gc
+Ha,P,ack
+"Ami jani amra, amra ei issue niye past e kotha bolchi, thik? Ebong tumi ei bhabe eshecho resolved harming yourself. Amra tomay hospital e pathiye diye chhilam. Ami jani seta tomader favourite place noi. Kintu jokhon tumi jao oi khane however long it's been usually ki five days, beriye esho tumi onek bhalo feel koro.",T,gc
+Ha.,P,ack
+Tumi mone koro ei bar hobe different?,T,orq
+"Dekho, ami mone kori past e, ami seriously suicide niye vabini, kintu ekhn, ami ato bhoy pai na. Tai ami chai na tumi amay hospital e pathao karon tahole ami eta korte parbo na. Age ami bhoy peyechhilam, tai ami chaiyechhilam tumi amay hospital e pathao. Kintu ekhn ami shudhu chaichi ei byaparta shesh korte, tai ami chaichi na tumi amay atkao.",P,od
+"So tumi bolcho, ekta part tumi chai na ami tomay atkai. Kintu ha, tumi ekhane eshecho ebong amake bolcho, tai mone hocche ekta part tomay maybe not quite sure.",T,gc
+"Ami guess kori, hoi toh thakbe, ekta part amar je manus, tumi jano je bhoy pai marte. Ebong ami care kori tomay niye, tumi jano, amra, ami jani tumi amar counselor, kintu amra ekta relationship share korechi ebong ei dhoroner kotha niye kotha boli. Ebong ami, ami mone kori ami obhinno kori tomay, tumi jano, honest thakte je ami kemon feel korchi karon amra past e ei relationship share korechi. Tai ami guess kori ami ekhane eshechi er jonno, ebong karon ami just chaichi ei niye kotha bolte. Tumi jano, ami kori, ami tomay kotha boli ami ki vabchi, tai ami mone kori ei kotha bolle ami help pabo. Jemon final clarity ta peye jabo ami dorkar.",P,gc
+Eta ki tomay help kore clarity peye?,T,irq
+"Ami jani na, ami guess kori. Ami guess kori tumi bolcho je, ami really hospital e jete hobe. Ami guess kori ami ektu asha korechhilam tumi happy hobe je ami bhalo feel korchi. Kintu ami mone kori tumi chai ami hospital e jai. Tai ami jani na. Eta amay vabte dey je eta ki right decision. Tumi jano,",P,id
+mane suicide?,T,crq
+Ha.,P,cd
+"Mone hocche tumi jano, amar sathe thako, ami bollam prai ek bochor dhore ebong tumi depressed chhile beshirbhag somoy. Ebong eta unusual noi. Jokhon keu mone kore she solution peye geche depression er, even jodi sei solution ta ami against hoi, jemon suicide, tahole tar mood elevated hoi karon she pain er end dekhte pare. Ache onno upay amra past e try korechi pain theke tomay ber korte.",T,"gc, id"
+Kintu amra korchi past e ebong ami bhalo feel kori ni ebong ekhn ami bhalo feel korchi. Tai tumi jano ami just chai tumi accept koro.,P,id
+"Kintu ami korbo na, eta amar obligation ebong ami happy fulfill korte chai tomay bachate. Ami dekhechi tomay ei bhabe age ebong ami jani hoi toh ekhn mone hoi na kintu jokhon tumi suicidal thoughts ebong feelings theke beriye esho tumi bhalo korecho weeks, sometimes months at a time. Tumi dekhecho shudhu darkest jokhon tumi depression e.",T,"gc, id"
+"Ha, kintu ami ekhn bhalo feel korchi.",P,id
+"Temporarily, karon tumi mone koro end peye gecho pain er, ami bujhte pari. Ami bujhte pari tumi bhalo feel korcho, kintu tumi bhalo feel korcho karon tumi plan korecho nijer ke kill korte. Ebong amra kotha boli kemon devastating hobe eta tomader family er jonno, thik? tomader bondhura.",T,"gc, crq"
+"Ami ora ke torture kori amar sadness diye, ami shudhu ora ke miserable kori. Ami bujhte pari na ora ke help korbe ami bachte thakle. Tumi jano, ami worth beshi, ora amar life insurance pabe. Ebong, tumi jano, ami ora ke suffer korate parbo na.",P,cd
+"So tomader logic holo je jodi tumi nijer jibon shesh koro, tumi ora ke free kore dibe dealing theke",T,gc
+Ha. Ebong mone hocche eta right thing korte.,P,ack
+"Ebong tumi jano, ami mean, tumi releases sign korecho, ami tomader husband, parents er sathe kotha bolchi, ora repeatedly bolche je, sometimes depression niye dealing er challenge thakleo, ora much rather chai tumi alive thako, ora keno eta bolbe?",T,"gc, irq"
+"Ami mone kori ora bhoy pai losing me er pain er, kintu ami jani eventually ora bhalo feel korbe.",P,id
+So ora feel good korbe grief er upor?,T,crq
+"Ha,",P,cd
+Ami bujhte pari.,T,gc
+Ebong ami mone kori ora bujhte parbe je ami ei ta dorkar chhilo.,P,gc
+"Tumi jano, ami onek din dhore ei kaj kori. Thik ache. Ami mone kori amader valo relationship hoyeche.",T,gc
+Ha.,P,ack
+Ebong ami asha kori ami tomader trust earn korechi ebong tumi amar opinion value koro. Ami suicide niye kichhu jani. Tumi shunte open acho?,T,"gc, yq"
+Ha,P,op
+"Onek rokomer ways ache je manush marte pare. Thik ache. Ebong eta holo eventually amader sobar sathe hobe. Ami imagine korte pari na kono way jeta beshi devastating hobe suicide er cheye. Mane jokhon keu mara jay illness, ba car accident ba any other type of tragic accident e, manush grieve kore, thik ache? Kintu usually blame assigned hoi na, mane ora feel guilty noi. Eta sense kore?",T,gc
+Ha,P,ack
+"Ora sad feel kore karon ora person ta ke harayeche, kintu ora responsible feel kore na sei person er death er jonno. Suicide different, jokhon keu suicide commit kore, tar family ebong friends feel responsible. Ora kono answers pai na je questions ora ache. Ora kono din answer pabe na.",T,"gc, id"
+Ami ora ke ekta note likhbo ebong sab kichhu bolbo ebong ora ke bolbo eta ora der fault noi karon eta ora der fault noi ebong ami just chai ora happy thakuk amar chara.,P,"gc, id"
+So tumi believe koro note ta sob pain take away korbe?,T,orq
+"Na, kintu ami mone kori eta ora ke realize korate help korbe je ora shouldn't feel guilty, tumi jemon bolcho",P,od
+eta mitigate korbe pain ta?,T,crq
+Ha.,P,cd
+"Thik ache. Ami experience theke bolte pari notes, notes gulo really help kore na. Jodi kichhu hoi, eta holo arekta artifact je ora agonize korte pare. Ami jani eta dekha hard tomader perspective theke, karon tumi kind of resolved to this ebong tumi stuck feel koro pain e jeta tumi chai ekhn, kintu ora miss korbe tomay ebong ora agonize korbe baki jibon, karon ora harabe tomay. Ebong eta holo ekta special horrible type of agony je ashe feeling responsible someone's death er jonno. Ami jani tumi eta chai na.",T,"gc, id"
+Ami just bujhte pari na keno tumi amay feel better hote debo na.,P,gc
+"Ami jani eta frustrating. Ami jani bujhte hard. Je bar gulo tumi hospital e gechho age, tumi better feel korecho. Tomar outlook completely different chhilo, not 100%. Kintu completely different chhilo tumi beriye ashar por. Ami mean, tumi ekto down chhile, kintu nowhere near depression je tumi hurt korte chai nijer ke. Ki possible jodi tumi ei bar hospital e jao, tumi abar better feel korte paro?",T,"gc, yq"
+"ha, Possible.",P,op
+"Ami arrangements koriye dibo tumi hospital e jao. Ami jani. Ami jani tumi chai na. Ebong amra ei conversation ageo korechi. Thik ache? Ami realize kori, tumi happy noi kichhu conditions niye okhane. Kintu tumi usually talk finally koro groups niye. Thik ache? Tumi usually well koro groups e. Ebong typically, well, every time thik ache, every time tumi hospital e gechho, tumi beriye esho better feel korecho. Ami jani eta tumi shunte chai na. Ami jani tumi chai ami happy hoi je tumi life enjoy korbe, kintu eta amay happy korbe. Eta keu ke happy korbe na. Ami jani tumi mone koro eta tomay happy korbe. Kintu ami bolte pari eta answer noi. Ami chai tumi voluntarily ei process ta follow koro. Tumi ki korbe?",T,"id, yq"
+Ok Cholo jai,P,op
+Thik ache. Ami arrangements gulo koriye niye asbo ebong amra show korte pari. Thik ache?,T,gc
+thik ache.,P,ack

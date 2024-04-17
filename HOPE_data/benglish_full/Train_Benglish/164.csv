@@ -1,0 +1,27 @@
+Utterance,Type,Dialogue Act
+"Mone hoye, manush jokhon dukkho pay, tara nijeder ke aghat korte chai erokom vabna thake. Tumi ki kokhono erokom vabna peyecho?",T,yq
+"Ha, peyechi.",P,op
+Tumi ki kokhono nijer ke aghat korecho?,T,yq
+"Mone hoye, ami sometimes nijer ke cut kori.",P,op
+Tumi ki kokhono eto deep cut korecho je tomar stitches lagbe?,T,yq
+"Na, na,",P,on
+ba hospital jete hoyeche?,T,crq
+Na.,P,cd
+"Kauke ki jana ache je tumi ki korcho? Jano, amra je kotha boli eta confidential thake, kintu ami jokhon manushder safety niye worried hoye thaki, ami usually keu ke bolte hoye. Karon tara safe thakbe. Kintu ami mone kori, amra jodi tumar cutting niye ektu beshi kotha boli ar bujhte sahajyo kori. Jodi ami ar tumi ek sathe tumar family keu ke bolte pari, jate jokhon tumi cutting korte chao, tara tomake sahajyo korte pare. Ar tumi ar cut korbe na. Ei vabna gulo somporke tumi amake bolo?",T,"gc, irq"
+Ami chai ekhane knife diye slit kore wrist cut korte.,P,id
+Eta to khub rough.,T,crq
+Thik ache.,P,cd
+Eta ki saradin mone hoye? Na kebol sometimes?,T,irq
+"Saradin, saradin.",P,id
+"Kichu manush bollen je tara jokhon nijeder cut koren, tara feel koren ar eta tader sahajyo kore, karon onno kichu feel kore na. Eta ki tumar khetre?",T,gc
+Ha.,P,ack
+"Okay. Tumi ki kokhono mrittu ichchha peyecho, ba jibon shesh korte chai?",T,yq
+"Ha, ami chai, pillow diye mukh dhakle.",P,op
+Tumi ki kokhono pillow diye mukh dhakle mrittu ichchha niye?,T,yq
+"Chesta korechi, kintu bhoy peyechi.",P,op
+Bhoy peyecho? Ki jinishe tumi stop korecho? Amake bolo.,T,"crq, irq"
+Ami likhechi amar family ar bondhuder jonno.,P,id
+"Ami mone kori Victor, jodi amra ekta plan kori je ki korbe jokhon tumi nijer ke aghat korte chai, ba mrittu ichchha niye thako, jodi amra ajke tumar bon er sathe plan kori?",T,gc
+Ha.,P,gc
+"Tahole jodi amra tumar bon er sathe plan kori je ki korbe, jate tumi jokhon dukkho pay, tumi tomar bon er kache jao, ar tumi ekta list thakbe je ki korbe jokhon mrittu ichchha niye thako, ba nijer ke aghat korte chai, jate tumi nijer ke aghat koro na.",T,gc
+Thik ache.,P,gc

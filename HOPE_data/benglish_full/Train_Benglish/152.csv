@@ -1,0 +1,90 @@
+Utterance,Type,Dialogue Act
+"Hi Ann, kemon achho ajke?",T,gt
+"Hi Dr. Grande, almosti ei rokom.",P,gt
+Almosti ei rokom?,T,crq
+Haan.,P,cd
+Ki ghotchhilo?,T,irq
+"Ei, shayad ektu bhalo na thakto, jani na, ami tomake dekhe chanddin dhore amar problem gulo niye kotha hochchhe. Aar amar kajey, mone hoy, lokera ektu bujhte shuru korche.",P,id
+Lokera bujhte shuru korche je tomake Percocet-er prabhav e acho?,T,crq
+Haan.,P,cd
+"Mone aachhe, amader prothom kotha holo, tomake mone hoy, tomake khub safe lagchhilo, keu tomake ber kore pabe na.",T,gc
+"Haan, karon jabot ami tader khete pari, ami normal feel kori. Ar ami normal feel kori. Kintu shob shomoy hoyto kalke, amar cubicle-er opposite e bosha ekta colleague, she amake dekchhilo, kichhu ajib kore amake dekchhilo, aar, ami to sob somoy tarpor shongshar e problem hochhe, shongkaton kori, shob somoy tai na. Ami je korte parina.",P,gc
+"Tai tomake dhyan kora shomoy, kaj korte?",T,crq
+"Haan, haan, shob somoy tai. Dhyan dile kothay je korte pari na, kintu na korle, ami ki korbo ami jani na. Bed theke uthar motoo hoye gechhe, ami ki korbo ami jani na.",P,cd
+"Aar eta tomake kharap lagchhe. Percocet dile tomake normal feel kore. Amra tomake ei bisoye agei kotha hoyechhilo. Haan, tomake high feeling dito, kintu ekhon hochchhe na.",T,gc
+"Na, thik. Fun hoy na.",P,gc
+Kintu tomake normal feel kore.,T,gc
+Thik.,P,gc
+Aar detox options niye amader kotha hoyechhilo.,T,gc
+"Oh bhagwan no, no no no.",P,gc
+Ei tomake lagchhe na. So kichhu ki hoyeche je tomar colleagues tomake chokhe porlo. Tai tomake shongkaton hoye gechhe accounting kaj e o.,T,gc
+Haan,P,gc
+eto bole to?,T,crq
+"Haan. Aar jei rokom bolcho, tar mato o amar kaj er quality e asar hochhe. Ami jani, erokom hoy nai, amar proshno gulo kichhu korte onek kothin hoye gechhe.",P,cd
+"Ar tomar kotha bujhte parchi, etao to bujhte bujhte tomai oboshyo keu bujhte pare?",T,yq
+"Haan, oboshyo. Kintu ami detox nite parina, etao ekta option hochhe na.",P,op
+"Thik ache. Cholo kichu scaling kaj kori. Ami mone kori eta tomake khub important. Karon, aami tomake janate chai eta tomake kemon lagche, karon amra ek chhoto belay theke ei poriborton niye kotha hochchhe",T,gc
+"Oi poriborton, Percocet bondho kore dite bolechen tai?",P,crq
+"Haan. Cholo tarpor kotha hoye jabe, kintu ekhane matro oi ekta narrow piece niye kotha hobe. Thik ache, amra matro eta koto gurutto, etaoi bujhte hobe. Toh, ek theke das porjonto, jekhane ekta hocche shobcheye unimportant ebong das hocche atyanto important. Tumi kemon mone koro je ei poriborton ta tomake korete parbe? Kya tomake ei poriborton korete parbe?",T,"cd, gc, irq"
+"Dekho, aami ekhon o pore pore jai. Aami mone kori je eta onnotomo important noy. Kintu ami jodi amar kaj hari, tahole to khub kharap hobe. Tai shayad etao fairly important. Mone kori, amar kaj tatei. Amar kaj tatei rakhate khub important, ebong eta amar reputation tatei rakhbe.",P,id
+"Thik ache, tai tomar jonno important je tomake tomar kaj tate rakhate important hocche, ar eta onnotomo important je Percocet use korte na thakar jonno important hocche. Ektu toh onnotomo mileche, thik toh.",T,"gc, crq"
+"Haan, karon ghum theke uthar jonno, haan. Thik ache.",P,cd
+"Tai, jodi tomake ekta number pick korte hoi, ek theke das porjonto, ebong das hote atyanto important. Ei poriborton ta korete tomar jonno koto important, tumi korete parbe?",T,irq
+7 8 7.,P,id
+"7, tai mone hoy fairly important.",T,gc
+"Thik ache, 8. Mone hoy, aami ei gulo korte thakte hobe.",P,gc
+Tumi ei gulo korte hote chai?,T,crq
+Haan.,P,cd
+"Tai cholo, aar ekta construct niye kotha hobe. Taratari bolchhi.",T,gc
+Thik ache.,P,gc
+"Aami confidence niye kotha korte chai. Oi shob scale use kore, tumi koto confident je tomake Percocet harate parbe?",T,irq
+"Ei toh ami ki cheshto korchi, aami jani na toh aami ei porjonto koto din dhore esocho ki?",P,crq
+"Praye che dhoron, chhoy mash hoye geche.",T,cd
+"Aami chesta korechi, aami really chesta korechi. Aami mone kori, aami parbo na. Aami mone kori, aami parbo na.",P,id
+Tai ei ek theke das porjonto scale e mone koro tumi kothay thakbe?,T,irq
+Ei toh 0 1 ami parbo na. Aami cheshto korechi.,P,id
+"Tai khub kom confidence, na, khub kichu confidence nei. Tumi ar kono confidence nei je tomake parle, kintu tomake parar jonno toh atyanto important. Eto important chhele, eto confidence nei, eto otohyeto. Khub kharap obostha.",T,"gc, crq"
+"Haan, eta khub nirashar kotha.",P,cd
+Tumi bollechilo je tomar atmabishwas kom hochche ekhane ekti karon hochche je tumi shesh mash theke amar shathe kaj korte chesta korechile ebong tumi Percocet upayog bondho korte safol hoy nai.,T,"gc, crq"
+"Ami ekhane jatei chole asbo, nijer opor shapath kore chole jabo. Shesh. Tumi jano je agami saptah ami ashbo ebong ami bolbo je ami kichui upayog kori nai ebong phireo ami ghumachhe. Ami jantei nei, raat e konodin ami kichu niye felechhi.",P,cd
+"Tai to shudhu dekha jachhe ata je nijer atmabishwas rating kothai kothai ashe. Tumar experience gulo dekhe, shesh mashgulo. Aro koto shomoy shudhu ekjon shomoye tumi kathin paristhiti change korte parechhile? Tumi jodi tomar purono o bhinn oitihash dekho, ki kore tomar moddhe kothai kothai parajit korechhile ebong kathin paristhiti change korechhile?",T,"gc, irq"
+"Arrey, haan, ami mane, ami gambling e ber korechhilam mone hoy, ami Delaware Park e ashte chhilo ek adhunik basis e ebong kharap taka kharchilam ar amar shohor khub ogro korechhilo ar amar jonno tao eto kathin hochchhilo.",P,id
+Tai seta oigulo kathin seta chhilo. Tumi bolcho tomake gambling e ashonko lagchhilo?,T,yq
+"Amra Oh haan, nishchit.",P,op
+Ar tomar kachhe bondho korar somoy ta khub darder chhilo. Tumi khusi je tumi bondho korle?,T,yq
+"Oh, Ishwar, ami kintu oikhane firte chai na. Haan.",P,cd
+"Tai tomake gambling er addiction er moddhe hote, sheta kemon mone hocchhilo oikhane bondho korar?",T,irq
+"Haan, eta ektai khub bhalo dharona. Ami mone korini je ami oikhane bolar kora jabe, shayad du to tin.",P,id
+Tai ekhane kichhu pariprekshya ache gambling er sathe ebong je kichhu hocche ekhane Percocet er sathe.,T,orq
+Ami etake oivabe mone kori nai. Tai ami bhabini. Tai ami eto somoy mone korini je ami oikhane korte parbo ar eta kichhudin thekei nijeke ek casino te dekha jaye na.,P,od
+Tai tomake bolar chhilo tumi sei addiction er shonge jitbe bole?,T,yq
+"Haan, nishchit.",P,op
+"Nishchit bhalo, tai kemon hoyeche?",T,irq
+Eto alada. Alada. Eto alada. Oh amar Ishwar. Tumi bolar sathe kotha barta koro. Ami sudhu mukher bhetore tader dubiye dekhi. Tumi jano.,P,id
+"Tai mechanism ta alada. Gambling er jonno, tumi casino te giye shesh mash korte hoto Delaware Park te giye.",T,gc
+Haan,P,gc
+Tumar kachhe taka thakte hoto,T,gc
+"Haan, Haan.",P,gc
+"Kintu percocets ta khub sohoje. Haan, tomar bondhuder jonno to pai.",T,gc
+Haan.,P,gc
+"Ar Percocet khete khub sohoje, gari te boshe bohudur jaanar cheye.",T,gc
+Ok.,P,gc
+"Kintu ete kono somanota aache kina? Ekhane, shobkichu bhalo hoyeche, ar protibondhi bhalo hoteche, mane tumi obak chile je tomake nijer shomosharono bandor korle kintu tomake mone hoto je tomake nijei gambling bondo korte paro naki detox korte paro na?",T,irq
+"Detox-er kotha mone hoy ni, kintu toke thik bolecho. Oi shomoye protibondhi chhilo jokhon ami prottekdin casino theke beriye gelam, amar uttejona dekhe na hole kichu na. Ar ogo, amar shomoshar sob somoy shomorthok chhilo.",P,id
+Tomar shomoshar shomorthok chhilo?,T,yq
+"Oh haan, tar kotha bolar kotha na. Se amar shathe boshe boshe bhalo katha korechhilo. Amra cinema-te jai, mithai khai, o to amake proti suport korechhilo. Bhalo lagbe dekhe jeno amar Percocet khawa bondho korlam.",P,op
+"Toh tomake tomar bishwas er upor chinno korle, ar eto na kora onek importante. Tai shomoshyar, tumi shob somoy obdhi shomorthok chhile. Sob ghotona dhormo alada chhilo.",T,cv
+Ok.,P,cr
+Kintu tumi gambling theke khub uttejito hoiyecho.,T,gc
+Haan.,P,gc
+Seti addiction chhilo?,T,crq
+Haan,P,cd
+"Ar tumi to se haranor somoy rukhechho, ar seta kothin chhilo, chhunuto. Kintu tomar shomoshar tomay support korechhilo. Tomar Percocet bondho korar chesta korte hole tomake tomar shomoshar er shomorthok lage?",T,"gc, yq"
+"Oh, haan. Haan. Tar toh onno kone achole amar nijei. O shadharon toh chintito, o amake khete dekhe roilo, amar kajot khota korle amar kajot khota. Ami mone korina keno o amar theke ei rokom suport na korte pare.",P,op
+"Toh eta tomake importante, kintu tomake bishwas kom. Kintu ei kotha tomake bhalo vabe bichar kora uchit, jeta bujha tomai anek kathin. Tumi toke clearly bolecho je detox tomar prio noy, ar ami tomar karon jana rakhi. Tumi support pao, tomar kajot haro na. Tai, ektu bichar koro. Aj theke amader por theke, shomosharikta ar pashe theke giye dekho, tomake prothom theke kichhu surokkha ebong purono safolotaar bhabna gulo jog korar jonno.",T,"gc, cv"
+Ok.,P,cr
+"Ar dekho tomake ei byabostha theke kichhu bhalo outcome ashtei pare. Tai eta kichhu bhalo khetre bhabcho. Ei je tomai onno kono byabostha ache, ebong tomake purono shomosharikta chara addiction haranor chesta korte saphal chhilo. Tai eto chintar ekta kotha. Tumi eka na theke, tumi sob somoy support pabe. Eto bujha kotha?",T,"id, yq"
+Ami definitely korte pari. Haan.,P,op
+Tai amra agami somoy ei barta theke shuru korbo. Ar ajke tumi ashar jonno thanks.,T,gc
+Besh bhalo.,P,gc
+"Thanks, tomai.",T,gc

@@ -1,0 +1,82 @@
+Utterance,Type,Dialogue Act
+"Alisa, tumi aajke kemon achho?",T,gt
+Bhalo? Aponi kemon achhen?,P,gt
+Ami bhalo korchi. Jijnyasa korar jonno dhonobad.,T,gt
+Udbeg kivabe jachhe?,T,irq
+"Um, ghot odhibeshon theke, eta chek ache bole mone hochhe.",P,id
+Kichui sotti boro. Eta niye cholche. Tai ami mone kori.,P,id
+Ami emon ekti bindute pouchhechi jekhane eti nijontre royeche.,P,id
+Ami kichhuta shanto hoyechi. Eta bhalo. Ha eta bhalo. Idaning kaj e kemon cholche?,T,irq
+"Tai ekti binno golpo ekti shomoy bito kore. Um, amader protidiner meeting ache, ebong amake ashole amar ekjon shokormir moto porishkar korte hoyeche karon ami mone kori tara amake sorboda durbol kore. Ebong tara pchhondo kore, tara amake mulo sei shomman dey na, ja ami prapto. Tai ami meeting'er pore take baire niye giyechilam ebong eti somporke tar dike jhukechilam. Ebong tarpor, ami bolti chachchi, pore din, karon amader ei jinishguli protidin thake ebong se pchhondo kore, se fire eshechilo ebong abar amar kache eshechilo. Tobe kotha bolar poreo eti aro kharap chhilo.",P,id
+Na.,P,on
+"Tahole apanar eisob ache, keu bujhte pare apanar eisob roz meeting ache? Thik. Ebong apani ullekh korchen je se apanake shomman dekhachhe na ebong apani shommaner joggo. Thik? Pravab tai ami bolen, amake je somporke bolen.",T,irq
+"Athoba ami onubhobh korin je ami ekti bhalo kaj kori ebong ami amar shokormir dware somman pawar joggo. Ha, eto shudhu.",P,id
+Sommaner onnyo sthor. Sommaner ekta nirdishto sthor royeche ja apani dabi koren ba proyojon.,T,orq
+"Ami jani na ekta nirdishto sthor ache ki na, tobe ami mone kori, ami eti prapto. Tumi jano,",P,od
+Ebong se ki koreche? Ei dhorte apani nischoi je tini sommaner sei sthor purno korchen na?,T,irq
+"Thik aache, se emon chhilo, se amar dharonay niye sondhe poshon korche, um, ebong thik ek dhoroner ami ke boka mone korche, moolto. Tai ami thik bujhte parini.",P,id
+Thik.,P,gc
+"Mane, ami onuman korchhi.",P,gc
+Apani ki onno shokormir shomalochna korechen?,T,yq
+Ha.,P,ack
+Tahole apani ki mone koren je tar shomalochna shobhavik shimar modhye chhilo jemon apani shekhane niyomito ja dekhechen?,T,irq
+"Ami bulti chachchi, ekhon apani nirdesh korchen je ami bulti chachchi, ami onuman korchhi je ami etike sethebela dekhte pari jeta chhilo na.",P,id
+Mone hochhilo je tini icchakhobhob netipok korte cheshta korche jodi apani hon,P,id
+Ha.,P,ack
+"Ami bulte chachchi, ami onuman kori je ami baire giyechhilam ba kichhuta angshikbhabe um, kintu ami tokhon onubhuti korechhilam je eti juktishongot chhilo",P,id
+Apani jokhon chhilen tokhon?,T,irq
+Jokhon ami meeting er baire tar sathe kotha bolchhilam.,P,id
+"Tai apani onubhuti koren je tini kichhuta kothor chhilen. Apani barta bolun, kothay darabe",T,irq
+"Ami shudhu tar sathe kotha na bolar chesta korchi. Ebong spostoto, ekta kajer poristhiti te, sotti shayat kore na.",P,id
+Eta suvidhanjonok noy. Ha. Eta shahajjo nao o shomvabbo kore. Thik aache. Sutontronge asun amra ABC model babohar kore eti kaj kori je ami apanar age ki udvege babohar kori. Thik? Eti aage apanar jonno kosto korlo. Ei poristhiti te shokrito event ekhane ki hobe?,T,irq
+Tai ami mone kori je dondo amar chhilo ki na,P,id
+Ei somalochna chhilo?,T,yq
+Ha. Ha.,P,ack
+Tai tini amar somalochona korechen ebong ami osammanito bodh korechi.,P,id
+Eta ekta anubhuti.,T,orq
+Ami anubhav kori ba amar bishwash hol je ami sommaner joggo.,P,od
+Mon kharap kora ebong osamman kora ebong abar haan.,P,od
+"Uttejona chhilo, haan. Hothasha, hothasha sutorang je, apni tar aachoron kivabe prokriya kora hoy tar ekta poriniti hobe. Je janar jonno? Hothasha anubhav kora ekta ABC-er moto ekta poriniti hote pare apnar sokroj evente. Se apnar somalochona kore. Apnar bishwash apni somman propto. Ebong spashtho, tini sei bishwash langhon korechen. Thik? Tini apnar bishwash system record propto je tini apni somman dekhan na. Ebong pholafolguliর moddhe ekta, tai, ei hothashar anubhuti chhilo. Onno kono poriniti chhilo?",T,irq
+"Thik achhe, jodi amra egie jai, eta ek dhore birongkola ba uttejona, amar dharona, apni janen, office.",P,id
+"Eti pete, eti oboshoi ekta poriniti. Ami ekta modhyoborti pholafol staff ache chintacchhi. Tai apnar hothashar anubhuti chhilo. Ebong sei meeting shesh hower por apni ki korechhilen,",T,irq
+"Jemon tar mukhomukhi hoyechhilo,",P,id
+"Apni tar mukhomukhi? Thik. Sutorang apni oi duto pholafol dhorne ache. Ebong sei dundop, eti prodorshito hobe je take tar somalochonar sathe aro joralebhabhe ashte parichalito korechhe, ja onyo ekta sokriyo ghotona. Apni ekta poriniti hisabeo bhobote parben, kintu ami jemon bolechhi, eti ekta chakrakar. Sutorang apni dekhen kivabe A ebong B ebong C, ekta drishtanto apnar jonno ekhane ja ghotche tar sathe manansoi hote pare.",T,irq
+Eta ki kichu arthopurno?,T,yq
+"Eta kore. Haan. Ebong ami bolte chachchi, apni jokhon etike e bhabe rakhen, ebong tarpor apni bolben eti chakrakar, tokhon apni kewal, ami dekhte pachhi je ami amar carouseler charpase jawar kalpana korte pari.",P,"ack,id"
+"Oboshhoi, thik. Sutorang eti apnake sahayya kore je ki karon ghotche ebong bhobishyote ki poriborton kora jete pare ba poriborton kora jete pare. Thik. Tai amra phire jete pari na ebong eti poriborton kora jete pare na, tobe amra bhobishyote kaj korte pari. Sutorang apnar somporke tar somalochona eti poriborton koraar kono sarasri upay nei. Pholafolguli ebong poriniti je bishwassystem chhede chale jay odhikar, kono ghotona somman, tai na? Amader avantete amra je gulo korchhi tader moddhe ekta holo manusher kothor chintabhabna theke aro namoniyo chintabhabna rokte sahajyo kore.",T,irq
+"Sutorang, ek dhoner onomoniyo bishwas byabostha joto hobe je apni eti ebabe bolechhen. Kintu, apni janen, ami, ami ei bishesh srote somman dabi kori ebong propto ebong manush ta poron kore na. Thik. Apni ki bolben je eti ekta mela?",T,id
+Haan.,P,ack
+"Thik achhe. Hoyto chintar ekta aro namoniyo upay hobe je apni somman chan? Bhaloke somman kore. Haan. Swasthyokor ebong kajer poribeshke oboshhoi somman kore. Kintu jodi apni eti na pano, apni ekhono kaj korte paren. Eta apnar jonno kothin. Ami eta kothin dekhte pachhi. Je somporke bolun.",T,irq
+"Mane, ami bujhi kintu tumi bolcho ami bujhi? Ami onuman kori je eta amra je udveger sathe kaj korechi tar sathe udveger motoi. Eta shudhu shekhane peye.",P,id
+Mim hum. Apni ki ei udaharone apnar bishwaser kotha chintate ebong chelenge korte icchuk?,T,"ack,yq"
+Haan.,P,ack
+"Haan. Kothin jodi apni jemon ullekh korechen, bhitor theke ja bole ta kothin, kotodin dhore apnar ei bishwas chhilo karon ami somman pawar joggo.",T,irq
+"Oh Bhagaban, um, jehetu ami kishore-er moto chhilam. Tai dirgho somoy.",P,id
+Eti apnar jiboner ekta apekshakrito sthayi onsho hoyeche. Cholun system khela jak. Tai eta poriborton kajte jachhe.,T,gc
+"Tahole, apni jodi eti bhinn dorshon proyog korte paren tahole aro namoniyo chintabhabna proyog korben? Porer bar apni ekta meetinge thakben, tini ekhono meetinge apnar somalochona korechen.",T,gc
+Haan.,P,ack
+"Sutarang apani jodi bishwas sistemer madhyame eti filter karen tabe apanar pratham tagidti mone hote pare, ami abar osammanit hochchi. Ami eta sambhabat je pathe ashe. Apani dhoroner eta anubhob.",T,gc
+"Hyan, eta, eta amar pete shuru hoy ebong tarpor purata upore jay.",P,ack
+"Sutarang eti apanar pratham sharirbrrittiyay protikriya, sottik ebong mansik protikriya hobe. Kintu apani jodi sei muhurti biratti dite paren ebong aro nomanoy chintabhavna proyog korte paren, jemon ami kotha bolechhi, thik, ja, ami somman chai, thik. Kintu ami eti chara beche thakte ebong kaj korte pari. Kichu srote, ami eti mene nite pari. Ami eta sob somoy pete jachhi na. Jiboner anyo kshetra apanar jonno somman paben.",T,yq
+"Hyan. Amar bondhuder ebong amar paribarer jonno, ami anubhob kori je tara amake dey. Eta asole parsporik shrodha. Tara amake somman dey ami tader somman kori ebong",P,ack
+"Achha, ami mone kori",P,od
+"Samayer sathe sathe, jodi ami eti korte shikhi ami prathame amar pasher moto shuru kori, ami sei protamik laikti pabo na,",P,od
+Antre ghushi.,P,od
+Ebon ami tar upor aghat korar tadarna thakbe na. Bisheyo kore jodi eti gathonmulok samalochana kare jar fole amader office sei uttejona thake.,P,od
+Ami eta korte sokkhom hob,P,od
+Mone hoy ami tar kache jete sokkhom hob ebong hayto take jijnasha korbo je se kophi ba kichu pete chay ebong hayto bosbe,P,od
+Tar sathe kotha bolchi.,P,od
+"Hoyto ami take prothom shakshate bhul bujhechhilam. Ebong se sotti amike obmoloyan kortey chayni jetamta ami bolechhilam,",P,od
+Ebong tarpor shekhan theke jan.,P,od
+"Sutaraṅg je konoi upaye, tottho songroho kora, jar ortho tar sathe alochonamulok alochona kora, eti shohayok hobe karon ami bolte chachchi, apni dekhte paben je apni sotti ei moner prokash korchen, ebong eti tar somalochonar poriprekshtei ekṭi môtbirôdha chhilo. Apni jevabe bakhya korchen, athoba se hoyto somalochona koraar chesta korchhe ebong apni jante parben je sotti ei onno karo achôrôn niyôntôrôn korte pare na. Tobe eti apnake dharona debe je amader uddeshyaguli ki chhilo ebong apni kibhabe sei somporkotî meramot korte egite paren jate eti kaj kore.",T,orq
+"Haan. Ami oboshshoi chai na, amader urdhwotan bôbosthapôna, apni janen, jorito hôn ebong ekṭi bôṛo shôshya hobe.",P,"ack,od"
+"Apni chan na je tara ese eti bachai koruk. Dan, apni tader nijossho bachai korte paren. Ebong eti mokabela korar dokkhotota ebong nomôniyo chintabhabnar ekṭi bhalo proyog hobe. Tahole ki eto kichu apnar mone hoy je apni porer shoptahe chesta korte paren?",T,yq
+Ami oboshshoi chesta korbo.,P,ack
+"Tai sotti ei amader porikkolpona koyekṭi onsho hishabe ageye jay. Sutaraṅg ekjon môṣṛin ebong songbedônshil hobe, tar sathe eti niye alochona kora, take janano je apni ki ghôṭchhe ta janen ebong apni eti shamadhan kôrte chesta korte chan ebong dvitiyo onshoṭi hobe kothor theke kichuta dure sare jawar chesta kora, apni janen, ami shômmânê jôggo, ami shômmân chay kintu ami shobari kach theke shômmân chhadai pore jantam na. Tobe eti apnake dharona debe je amader uddeshyaguli ki chhilo ebong apni kibhabe sei somporkoti meramot korte egite paren jate eti kaj kore.",T,irq
+"Haan, eti besh porishkar. Apni eti sotti bhalo bakhya. Dhonnobad.",P,id
+"Sutaraṅg, asun sei duiti, sei duiti upadan niye kaj kori. Thik ebong porer bar jokhon apni asben, amra sei duitite poriksha korbo ebong amader koushaltite proyojonshil poriborton korbo ebong amra sekhan theke ekorokom ageye yabo.",T,gc
+Thik achhe.,P,gt
+Eta bhalo shonachchhe.,T,gt
+Chômtokar shonachchhe.,P,gt
+"Dhonnobad, Lisa.",T,gt
+Dhonnobad.,P,gt

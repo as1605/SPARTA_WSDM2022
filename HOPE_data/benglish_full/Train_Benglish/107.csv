@@ -1,0 +1,47 @@
+Utterance,Type,Dialogue Act
+"Hello Cathy, kemon acho aaj?",T,gt
+Thik aache.,P,id
+"Ami jani amra jokhon sheshbar kotha bolechhilam, apnar kichu laksho chhilo apni eibar kotha bolte chan? Apni je korte prastut?",T,yq
+"Ami hã, hã proyojôn.",P,op
+Apanar mone ki ache?,T,irq
+"Ami shudhu apanar somporkhe vabte thaki, ei ojon harano ebong ami sotti eiti korte chai. Ami shudhu sekhane jete pari na ebong keno jani na. Khub hotash eto hasyokor.",P,id
+Hotash hoye ojon kamonor chesta kora. Ekhon apni age bolechhilen je apnar ojon haranor nirdishto poriman pounder ekṭi nirdishto shongkho chhilo. Apni ekhono mone ache?,T,yq
+"Ami 20 pound 20 pound chai. Ami bolte chhachhi, ami aro chai kintu ami, ami atite aro kichhu korar chesta korechhi ebong ami gôto koyek dinô pachchi na. Tai ami 20 korte pari jeti durdanto hobe.",P,op
+"Thik, ebong apni age chesta korechhen? Ebong apni ki bhabe upay ache?",T,irq
+Ami jani na. Ami eta subidhajonok chhilo na onuman. Tumi jano.,P,id
+Hã.,T,ack
+"Thik jeṃṇo kichhu sôbsoṃy poṭh pai, apni jano, ebong tarpor ami monoyog harai. Ami je moto jinis focus thakar khub bhalo noi.",P,id
+Monoyog harano. Tai apni ojon kômanor chesta shuru koren ebong apnar focus byahat hoy.,T,cd
+"Ebong ami bhule jai ebong tarpor ami apanake janiye di, chhôy janer jonno spaghetti kaserol ebong tarpare ami eti prochur khai ebong ta hôlo carbohydrate ebong ponir ebong charbi ebong tarpare ami, apni jano, amar bachchader sathe khabo na ebong tarpare eti thik jeṃṇo ami bhule gachhi je ami swasthyokor kôrte chai.",P,id
+"Thik aache, tai apni jano, kivabe ojon komate hoy. Ebong apni jano, apni ojon komate paren. Kintu apni jokhon chesta korchhen tokhon apnar focus kichhuta bondho thake ebong eti shomossha srishti kore. Amra ki chhoto unit e 20 pound komanor lakhyoṭi bheṅte pari? Jeṃṇo bôlun, pancho pound.",T,id
+Apni ki mone koren?,P,crq
+Eti emon kichhu ja apni korte paren.,T,cd
+Ami khub bôsṭ,P,id
+Shoptahe ekbar.,T,id
+Ami sômbhôboto shoptahe ekbar kori,P,id
+"Apni ullekh korechen monoyog harano ekṭi shomossha. Anuprônnô somporke kemon, apni pancho pound ebong pancho pound ityadiro shomosto podkṣheper modhye jete anuprônito bôdh koren.",T,id
+"Ei mohorte, hã. Ami mone kori amake chaliyẏe jawar jonno amar kichhu proyôjôn hobe. Apni jano, shoptahe shoptahe,",P,id
+Apnake anuprônito thakte sahayya kôraṛ jonno er shômônya kichhu ôtirikṭo.,T,cd
+"Hyan. Jemon, apnar bachcha jokhon tader bari kaj tadar tadi tari kore, apni take dessert-er jonno ekta bishesh treat dite paren ja sahayo kore, apni janen, eti chaliye jan.",P,id
+"Thik achhe. Tai kichu dhuronor kormokolap ba item ja apni upobhog koren, je lakhye pounchanoar jonno apni shongroshon korte paren bole prothom pach poun.",T,id
+"Ami bhalobashbo mane, ami khub bibroto chhilam, apni janen,",P,id
+Thik achhe. Apnar mone korkolap ba item ache? Apni nijeke purushkrit korte paren emon kichu hisebe amra sthapon korte pari?,T,irq
+Prothom pach poun pore moto?,P,crq
+"Achha, amra eta korte pari emon koyekti upay ache. Amra seta korte partam. Tai apni pach poun-e pounchhen. Ebong tarpor apni nijeke dite paren je purushkarer kaj emon kichur jonno hote pare ja apni protidin koren. Sei din jodi apni apnar pochonder moto khete saphol hoin, tobe apni ki mone koren tini apnake aro anuprannito korben?",T,cd
+Hoyto protidin kichhu na kichhu.,P,id
+"Hyan, apni janen, protidin apni ojon komanoar chesta korchen. Apni socheton. Sei din-ti jokhon bondho hoye ashe jodi apnar ekta saphol rat chhilo, seguli saphol diner cheye kom chhilo, tai na? Jodi apnar ekta saphol diner thake, tahole apni emon kono korkolap-e niyojito hote paren ba item grhono korte paren ja amra age thekei kaj kore thaki ja apni anuprannito korbe. Tai na?",T,id
+"Ebong eti hote pare, apni janen, sambhabot ekta priyo TV onushthaner moto dekha. Thik achhe, apni janen, karon ami rat-e TV dekhi na, karon ami sobkichu porishkar korte bostho. Hoyto ami nijer jonno kichu somoy nite partam, karon ami bhalo kichu korechi. Apni janen, ami shudhu ekta TV show dekhi.",P,id
+"Tahole cholun seta kora jak. Ek din, apni janen, sondhyar dikhe. Jokhon apni janen, apnar ekta saphol din keteche ebong apni sondhyay koto kshane janote parben?",T,irq
+"Sambhabot ami jokhon rater khabar tori kori, jodi ami khabarer rater khabar tori kori, ba jodi ami amar bachchader jonno mojadar khabar tori kori, kintu ami eti chicken nuggets ebong french fry ebong jinispatre mato khai na.",P,id
+"Asun kichu boli thik achhe, dinti saphol ba kom saphol hobar poriprekshite sondhya 7 tare bolun, apni janen, thik achhe, thik sondhya 7 tay, apni socheton. Ebong sei mohurte, apni jodi apnar kolti puron karen, tahole apnar kache ekta TV show ache jeti apni sambhobat ekta TV te record korechen ba apni ja dekheben, thik achhe? Ar apni saphol na hole likhten. Tai ami apnake din somporko anupraneet rakhte kichu chai karon apni satti sei onushthan ti dekhte chan. Thik? Onek moja. Apni ki mone koren je kathamo, ei dharoner acharangoto koushol apnake saphol din-guli pete yoshto anuprerona debe tai eti prokria?",T,id
+"Ami satbhabe jani na, tobe sambhobat eti akhoni hobe.",P,id
+"Ebong eti emon kichu ja apnio track korte paren. Thik? Apni likhte paren je dinguli saphol din ba sapholotaar cheye kom path. Ebong amra dekhte pari je konon nidroshon ache kina, sambhobat saptahanguli arro kathin, karon seguli soho ba emon kichu jekhane amra emon din-guli shonakhto korte pari je guli sambhobat aro trigger royeche ba amra kom anupronito.",T,id
+"Hyan, ami eta neyi. Karon protiti din-e alada hobe.",P,id
+"Thik achhe, apni ja prokash korchhen ebong bibhinno khabarer khetre ki prolobohon, apnar somoysochiguli arro bostu jinisgulir jonno sohoje ki pochhondo kore tar sathe protidin alada hobar sambhabna royeche. Tai amra sei bibhinn nidroshon dekhte pari. Ebong amra ei porikolponar matra jog korte paren. Thik achhe, kintu apatot amra TV show nio je apni shat, shater pore dekben, apni kibhabe korechen ta mulyan korben, tar kichhu pore. Sho dekhnun, thik achhe? Eta ekta porikolpona moto.",T,id
+"Tai eti pach paund porjonto ageye jachhe. Thik? Thik. Thik achhe,",P,crq
+"Dine dine, thik achhe, ei ebong pach paund briddhi, thik achhe, apnar lakhyo pete charbar. 20 paund. Thik achhe. Bhalo lagche. Jatodur. Sutro, amra je ekta shot dite habe. Ebong amra pattern je utthan ekta kotakshapat korbo, sobkichu shomorthon. Ami boli, sobkichu likhe rakhun. Thik achhe, sambhobat shatter dik theke bhalo somoy. Jokhon apni samner din janen, sei din ki hoyechhilo ebong apni saphol hoyechhen kina ta likhun. Ebong eta an. Ami abar saptahay dekha hobe. Tai amader din, ami apnake shat, shat din kaj korte deb. Thik achhe? Ebong amra ghotonao je log takan korbo. Ebong amra proti saptahay punoray mulyan korbo.",T,cd
+Tai ami aj raate shuru korte pari,P,crq
+"Aj rate shuru hobe, thik achhe.",T,cd
+Thik achhe.,P,gc
+Tai amra eti ekta shot debo ebong ami eti ek saptah dekhte pabo.,T,id
+"Thik achhe, dhonnobad, Kevin.",P,gt

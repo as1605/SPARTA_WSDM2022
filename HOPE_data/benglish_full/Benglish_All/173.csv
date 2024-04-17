@@ -1,0 +1,198 @@
+Utterance,Type,Dialogue Act
+"Hi Smith, kemon acho aaj?",T,gt
+Bhalo. Tumi kemon acho?,P,gt
+Ami to bhalo achi. Kemon chhilo shudhu porer hafta theke?,T,"gt, irq"
+"Um, toh, kothaoi, ei haftay khub chinta-r bishoy. Amar meye roge porlo. Tai ami kaj theke tin din chuti niyechilam oke dekhar jonno, ar ami obak hoye achi, karon ami shurur kore theke ekdom roj khub chhuti nite hochhe. Ar tai ami kajer bipare aneke chinta korchi, ar tarpor kebal kajer chinta kore ami jeno bhoy peye jachchi,",P,id
+"Okay, bhalo. Shune toh, ekta dui kaj ek shomoye. Tomar meyeta roge pore tai tor chhuti niye ekta alada chinta, ar tomar kajer sathe tomar somporko'r jeno ekta chinta. Tobe tor meyetake valo kore nite toh kacheo aro chinta korte hochhe.",T,gc
+Hmm.,P,ack
+"Acha, onno kon somoye eto hoyeche, ki holo, bolte paro?",T,irq
+Shesh bar kichu din kaj theke chuti niyechilam?,P,id
+Hmm,T,ack
+"Ekhonkar katha? Toh eta sob shomoy jeno ei shoptah. Ek prothom din ami kichu tension e thaklam. Karon, amar chinta ache, jokhon ami kaj theke chuti niye, kajer bipare chinta kore. Ar tomar meye amar matha ghure dariye jachchilo.",P,id
+"Ok, shuntechi. Tai ekdom eto eto din ghotlo. Shuruwatte amra ki mone korchilam, jokhon tor meye roge pore, tor kaj theke chuti niye kaj theke ber hoyechilam?",T,gc
+"Ar, karon o ekdom aajkal shob shomoy roge porche, tai ami mone korchilam, ami jani, je ami keboli ek shomoy ar chhuti niyechilam. Tai amar mathay ek number chhilo 10, ar ami just mone korchilam, thik acho, ekta din aar 9 din ache, ar ami kajer kachhe theke chhuti nite giye, amar case load niye kichu kichu kaj korte, tai, kintu ami mone korchilam je ami ekdin kaj miss korle oke niye kichu tension aar porbo. Tobe ami mone korchilam je amar ekdin miss korle ami onno diner kaj niye seta poriborton korte parbo.",P,"gc, id"
+"Acha, toh tomake mone hocche, ei toh ideal na, kintu tomake bhabte hoche, ei theke toh ami bachte pari.",T,crq
+Haan.,P,cd
+Ek din ekhuni?,T,crq
+"Ha, ekdin.",P,cd
+"Kemon hocche ek-ek, day duita, jabar somoy realize korle je tumi ekta duita din niye jabe,",T,irq
+"and I got a little bit more worried and then I did start to also, you know, add kora worry kore felte shuru korechilam je ami kajer shamoy pore pore pichone jete shuru korbo. Not only was I missing more time, but I was also going to be behind on my work. Tai ami mone korte shuru korlam, jabar por, eta hobe ekta bhishon rush, ar sob kichur sathe up-to-date thakar chesta korte hobe. Ar jaani, eta chilo amar workload-er opor chinta kora ar akhon-o ekta besi somoy niye jete choleche.",P,id
+"Okay. Tai day one-er shomosto stressful version. Ar next ki obosthaye ase, je tomake ek third day off niye jete hobe?",T,irq
+"Ami to takhon just more amplified hoye gelo, jaani, amplified worry, ar eto beshi shomoy tuku oshohay karar chesta korte chilo na. Ami shudhu mone korechilam, shudhu sei kothai phirte thakte. Ar por ami guilt feel korte shuru korlam. Karon ami tai preoccupied worry-korechilam. Ar ami cheshta korchi kichu kaj korar, kichu emails pathano, kichu kajer lokder kache je amar shathe madad kore, karon ami othe na. Ar tarpor ami guilty feel korte shuru korlam karon ami mone korechilam ami amar chhele ke jevabe caring korte parchilam na, jaani, ami shuru korte shuru korlam je ami ekta kharap ma.",P,id
+So guilty and a bad mom. Ar eta mostly third day-tei hochhilo.,T,gc
+Ha.,P,ack
+"Ekhon ei shaptaho theke uporer shonibar chilo tini din por. Theek aache, toh, tai tomar mone hoto je Monday theke kichu bhalo hobe. So, bolo ki holo Monday e kaj-e firle?",T,"gc, irq"
+"Haan, ami office-e check-in korechilam ar tumi jancho, ami ekdom toh chinta korchi, ami khub-i, ami jane, ami ekta beshi samoy tolo. Kintu jancho, ami je kono kichu alternative plan korechi kintu amar, ami jane, just daycare shuru korlam, ta toh ekta bhalo porikhha hoyechhe, ebong ami ei rokom control korte parini. Ami je shesh porjonto shesh, parini. Ami janlam je kichu korte hobe kina doctor's note deoya niye. Ebong tader janlam je na, tader janlam, tader toh kono doctor's note lagbe na karon amar meye ta chhilo rogir. Tader janlam je kichu koreo na, ar tader bollo je khub beshi hona hobe na ar ami toh khub-i try korbo na hona.",P,id
+just do what I can to not miss more. So they said that?,T,crq
+"Haan, kintu haan. Tader kichu bollo, tumi jane, je, kichu korte hobe na, kintu je, jane, je, kintu je, jane, je, kichu korte hobe, toh kichu korle kichu korle na. Ei rokom kichu bollo tader.",P,cd
+tai tader bhalo lagechhilo?,T,irq
+"Ami mone kori na je tara kichhui bhalo bhabe bujhechhilo, kintu ami oshustho mone kori nai je tara kichhu dandakari kichhu kormo korechilo, thik, thik oi shomoy.",P,id
+Tumi gorbito chhilona je tumi anubhab korechhile bhalo chhute parlo?,T,irq
+"Haan, korlam. Ar ami obak korlam je tara shomoy niye bhalo kichhu plan korbe, ar tara kono plan chhilo na, taar jonno ami ektu chinta korchi. Ami mone kori na je ami prothom maa je ektu samoy-ta niche niye jete hoyechhi. Ar tara je kono protikriya nai je tader ki korte hobe naki ebong tara je bolechhilo tara kono dhoroner dharana rakhechhilo na je ei rokom kichhu ghote niye tader kache eso.",P,id
+As a sort of like it took them by surprise?,T,crq
+"Haan, naki tader just kichhu plan nei je tader ki korte hobe.",P,cd
+Ar tara oi bishesh bhabe bhabchhilo na?,T,irq
+"Na, na, mone hoy na.",P,id
+"Ar ki korechen, onno koto din chhilen?",T,irq
+"Just ei shesh hafte, ei shaptah.",P,id
+Tai kamon chhilo ei shaptah-e kaj-e firte?,T,irq
+"Oh, eto rush chhilo, karon ami shob kichhu bhalo kore tulche try korte. Kintu eto-ei thake, shetai shob somoy, somoy. Tai keu amay keu kichhu bole ni absences niye kichhu.",P,id
+Porechhe na kono absences er por?,T,gc
+Hmm.,P,ack
+Okhane kono absences aar hoy ni?,T,irq
+Na.,P,id
+"Ok, age tumi bollechhile ekta bhalo maa hote ki rakte dekhte ki rokom?",T,irq
+"Umm jake tader bachcha ke dekhe rakhe ebong tara tader paharer uttare rakhe, tader pratham uttare. Ebong, tumi jano, tader bachchake dekhar jonno tader ki korte hobe seta kore.",P,id
+Ar tumi ektu chinta korchhile je prothom obhijoge tomar level of good mom uthe ni?,T,irq
+"Hmm, ami mone korechhilam ami ekta bhalo maa na chhilam karon ami prathome grihokon ebong kajke ekta boro uttare baniechhilam tomar bachchake dekhar upore.",P,id
+"Ok, tai thik, maa hoye thakar chhobi manusher karap, tumi kichhu korcho na, shuddhu to, tomar bhabna gulo o tomar kormo gulo niye. Tai tumi tomar bachchake dekhachhile.",T,gc
+Hmm.,P,ack
+"Kintu tomaar mon, tomaar bichar kichhu shomoy anya kothaay thaake, ebong etai je tumi mone koro je tumi, tumi shundor maa shobha korecho na. Thik aache, ami aar ki bolechilam, ekti shundor kormochak? Tomake ki mone hoy?",T,"gc, yq"
+Haan.,P,op
+Oita ki dekhte kemon?,T,irq
+"Um, well, ei je keu je, taader shob workload er kheyal rakhe ebong protidin je kono kajer samay sob kichu sambhabna kore ebong je ekti somoyojee ebong bishwasghatito, ebong, tomaar je kaj taake prochur utsoh rakhe ebong je kaj taake sotti bhabe sotti kore. Bhagyadayok ami tomake bujhte parchi.",P,id
+"Ebong etai je tumi shundor kormochak hishebe mone koro, chhilo tomaar prottayshob ki taake haaraanor chhutir jonno. Tumi teen diner kaaje ekhon kothai gelo, okhane teen diner. Okay, ghatale ki? Ekta shundor kaaj?",T,"gc, irq"
+Thiki aami beshi chhutte jai maatority leev er jonno.,P,id
+Taai bujhaano hobe kintu otaar bahire?,T,irq
+"Shurutei school bochhor shuru hote theke ami chhutte giyechi, tule neyo teen ti jodi na. Noy, mone hoyeche teen diner.",P,id
+"Okay, ek shathe noyontoto?",T,crq
+Haan.,P,id
+Ebong tumi kichu dite?,T,irq
+"10 ta school year, eto January e shesh. Ektu beshi hoche.",P,id
+"Ami to dekhte parchi, ei kotha ta kintu chinta janai. Jodi 10 ta theke beshi hoy, tahole ki hobe?",T,gc
+"Ami janina. Maane, mone hoy tader kach theke taka kete deben. Jodi ekdin kono chuti na theke jai, ar kono chuti baki na thakle, tader taka kete deben sei din er jonno. Kintu sei baire theke, ar kichu janina.",P,id
+Kono jonne tomake HR department er kach theke prashna korbe kichu jara tomar kaj kore?,T,yq
+"Hm, mone hoy HR department er sathe jogajog korte pari.",P,op
+"Ami mone kori karon tumi ekdin theke bas ei sonkha te esho, tai mone hoy tader sathe kotha bole dekha uchit. Dekha, ki ki asha kora jay, na? Tai eta je, missing days er jonno tomake chinta, asanta holo.",T,gc
+"Hm, ek chhoto.",P,ack
+Emon konodin e bhalo lagche?,T,irq
+"Ektu kore, kabhu kabhu jodi mone hoy ami ekta kharap maa.",P,id
+"Thik ache, tai tomake jonne tomake bachcha ebong tomake bachcher sambandhe, ekhon tui kisher chinta korcho, kajer sambandhe chinta, kintu dukkho ekdom tumi kemon kore tomake job korecho. Dukkher moddhe tomake kono ekta beshi dukkho, ashadharon, shonkhar jonno keo kintu kisher dukkho ta tomake sabcheye beshi koren?",T,"gc, irq"
+Shomvob tobe kritya ebong ekta bhalo maa na hote. Tai tobe ata shobkichur moddhe shomvob tobe.,P,id
+"Tomake apne kemon maa hishabe rate korcho abar ekhono, jodi bole dite hoy, 10 ti shobche bhalo maa jeta tomake vabte paro? Ar ek ta absolute onno ekta shovabota koto ti?",T,irq
+Shomvob mone hoy ekta aat.,P,id
+"Thik ache. Eta to bhalo, na?",T,gc
+Hm.,P,ack
+Koto dure jabe? Cutoff score koto hobe? Ar tar jonno ami shudhu onno jonno eto.,T,irq
+"I guess shomoy-er dhore,",P,id
+Tai panch toh bhalo hobe.,T,irq
+"Haan, mone hoy amar jonno eto bhalo hobe na.",P,id
+Okay. Okay.,T,ack
+Ami okei samanno kora jabe na.,P,gc
+"Tai ekjon ar, ekjon onnoke, ektu thik acho panch jonno?",T,irq
+Hoitoba. Haan.,P,id
+Kintu tomar jonno specific-e?,T,irq
+"Haan, eta toh",P,id
+Ei toh chole na?,T,irq
+Haan,P,id
+Bhalo kore katlam.,T,gc
+Jani na. Komtoleshto shei.,P,id
+Ar tomar ki ashto?,T,crq
+Haan,P,cd
+nischit?,T,crq
+Na,P,cd
+not sure. Okay. So you're close to the border. Like you're close to the border on you're your value system of being not a good mother.,T,gc
+"Hm, haan, ami maa hote chai je ami bhalo maa hote chai.",P,gc
+"Okay. Now, what do you want to be?",T,irq
+"Haan, ami chaai ekta aato hoye jete.",P,id
+aato hoye jete kothay je tumi?,T,crq
+Haan,P,cd
+okay. So you want to be the parent shobaike mone hoye,T,gc
+"Ei, haan, shobai ki na bhalo korte chai?",P,"gc, orq"
+Ami mone kori lokjon ajob korar jonno prarthona kore. Kintu kya ekdum perfect hote bhalo maa hote bhalo?,T,"od, irq"
+"Na, kichu chhuta deoya uchit, mone hoy.",P,id
+"Mone aache prothom sessions-e tumi nie elo onno situations, amader kotha hoyechhilo dysfunctional thinking, irrational thinking. Ei kore shobuj howe koto upokarok? Aare, aro tola maa panch, onno maa chhe, eta bhalo, na? Tumi to aato bhalo maa hote bhalo lage, noyto ekta nau, noyto doy.",T,"gc, irq"
+"Kichudin-ei upokarok karon ei mone rakhe amake dorshonate rakhche, eta mane. Amake shreshth banate somoy somoy rakhche.",P,id
+"Okay, toh eta upokarok ekta bochor howe ekta ashadharon bhalo?",T,irq
+"Haan, ar, mone hoy, jodi ami ektu biswasghatak hoye jai, tahole ami ei chinta-te shomoshsha korina, tarpor eta bhalo maa hote pare.",P,id
+"Haan. So, ami ki chayi je, tor jonno ei chinta, ei ashomosha, ki toh labhok? Tui kharap lagche?",T,irq
+Shayad na.,P,id
+Kyon na? Toh toh tor shomossha-ta shuksomoguli?,T,irq
+Haan,P,id
+"eta thik-mot ektu jantrik korar shomoy, kintu beshi tarpor tobe, beshi shomoshsha dei.",T,gc
+Haan.,P,ack
+"Tai to, tomar maa-r kachhe khub bhalo lok, na? Tomar maa-r kachhe thik moto kaj korte. Tomar karmoshala o bhalo. Ar tomake khudarto ghotay bishwas hoi, tomake mone hoi tomake ei dutojoner moddhe onyoman korte kono bhalo kaj korte hoy ni.",T,gc
+Exactly.,P,ack
+"Ar eta mone hoi, eta bhabe vabte toh manashik rokom e hoyna. Ekhon ami mone kori eta sudhu kom bhalo na thakte pare, eta arthohin.",T,gc
+"Ha, eta bujhte parchi.",P,gc
+"Ha, amra tretay cholechhi, thik? Cholechhilo tomar kormo-er tritiyo din, tomake oke abar kichu bolte hoyechhilo. Ei bishe kon kono bhabona mone porche? Oi ekta subhela je kichhui?",T,"gc, irq"
+"Ha. Um, na, tao ekhono rater samay chhilo. Kintu, ami ekta kotha mone porlo, ki ami jokhon jabe kintu job chorabona, tai mone hocchhilo",P,id
+"tai tomar bhabna chhilo, ami jokhon jabe kintu job chorabona?",T,yq
+Ha.,P,op
+"Ar tao, er pore ki bhabe laglo?",T,irq
+"bhabishye-r opor bhoy ar chinta. Oh, ha,",P,id
+shayad kichhui obakota?,T,crq
+obakota? Ha.,P,cd
+"Tobuo oi shomoy tumi kichu korte parle oke kichu bujhalo toh? Jemon, kichu kotha bolle na? Athoba kichu kormo korle?",T,irq
+"Oh, ami nijei nijei bolechhilam je ami ekhon oke kore ni. Ar, umeed kori je ami akhono kore nai, ar tomar jonne job chharar kono shomoyo chhilo na, toh ummeed kori je oke bichchhe bichchhe job chharbe na,",P,id
+ar er pore tumi ki anondo porshu tokhon?,T,irq
+"ektu bhalo lagchhilo, kintu shomoy onno kichu na. Ha",P,id
+"purono somoy. Shobaike Monday-er din e jeno shomoy theke ektu pechon porechhilo, je tumi karmo shuru korte gele?",T,irq
+"Ha. Ha. Jemon ami chhilen oke kaj-e kotha bole bolte ar khub kharap lagchhilo, kintu keu kaj-e chhilen na. Shomoy teo keu chhilen na. Ami jokhon ei sob kichhu korte chai, tai kono kotha bole bole bhalo lagchhilo na. Tai ami shei shomoyo rukte hoyechhilam. Ha.",P,id
+"Tai amra agei kotha bolechhilam, tumi mone thakbe ami adaptive response niye bolechhilam, to? Tai eta holo ei prokar pre-packaged response je amra kichhutek mone porlo na thik moto bhalo na.",T,gc
+Thik.,P,ack
+"So degree, eto chinta, Am I going to get fired and all that? Shob eita o ki ekhono besh useful na?",T,crq
+"Hm, shob eita ekhono useful na oikhane",P,cd
+"bujhte parchi. Right, but not useful.",T,gc
+haan,P,ack
+"Tai tumi ki onno kono self talk korte chao je tumi apne apply koro, ar ki onno kono self talk er sathe, ar kichu ar kichu mone mone bolte paro je tumi bolte paro je, ami gonna lose my job.",T,"gc, id"
+"Umm, shohay bolte pari, eita ami janina, ami kono kotha kori nai je keu naki. Tai maybe ami just bhorti chintar dorkar nei or jokhon bridge tar samne ashe tokhon dekhbo. Jemon, asha kori seta hobe na. Ami janina hobe ki na. Ar asha kori na hok.",P,"gc, id"
+"Tai, tai eita self talk er sathe, eikhane clear indication nai je eita hobe,",T,gc
+haan,P,ack
+Tai keno bhoy jonno karjon? Ekhane onno kon habit adaptive behaviors? Amra previous sessions e support systems er mahatto roilo. Ar karo ache je tomar chheleke dekhte pare jodi tomake kichu onno bhorshaniyo upay hoye ashche.,T,"gc, yq"
+"Haan, amar ma korte pare. Ekhon er theke kichu din dhoreo ami tar kotha bolechilam dekhte. Kintu eita na hoye gelo karon tar kachhe ki cholche seta nite kichu obostha chhilo, kintu arekdin onar kachhe jete pare abar amar didi o korte pare seta. Ar amar husband somoy ei somoy seta dekhar upor nirbhor kore, kintu onar kaj er obostha kemon cholche seta dekhei. Tai kichu option aache.",P,"op, id"
+Ki tumi explore korechile eki pore?,T,yq
+"Haan, korechilam. Kintu shudhu situation gulo kaje uthe ni.",P,op
+Tai ki ektai opekha rekhay kono manus chhilo available?,T,crq
+haan.,P,cd
+Any other options ache tomake for care? Ki na?,T,irq
+"Ei sob. Tomake kichu bolbo, amader meyer bimari hole, aar onno kono chhele meye der pashe rakhbo na, tai shey ke daycare te pathabo na. So",P,id
+"Eta to seem reasonable. Ok, ektu tomake jenechi tomake jenechi kichu korecho. Thik. Aar ekhon, karon ami jani tomake jonne er kom e pryojon, jara tomar shomman kaj er bikolpo janen, tobe employer er dike prothom dekha uchit. Duita, HR er shathe kotha bolte paro, bujhte paro kya consequences jaowa. Tumi dekhechile tao tai tomake bhul lagche na.",T,"gc, id"
+Right.,P,ack
+"Ok. Aar ami janina tomake ki korte paro support er moddhe, shayad shuru korte paro ekta better awareness er schedules er jonne jakhon tader available ase, kintu taderke tomake problem er nature bolte paro. Customer Support.",T,gc
+Haan.,P,ack
+"Tai chilo ekta problem. Abong, jodi tomake more prominently highlight kori, the good mother hishebe take touch korte ichhe koro. Tumi shob kichu korte giyecho tomake meyer care er jonne?",T,"gc, yq"
+"Haan,",P,op
+Tumi sure?,T,crq
+"Haan,",P,cd
+ok hundred percent ?,T,irq
+Amar vabte mone hocche shayad ekhonor ami jodi thik moton present na chhilam.,P,id
+"Ok. Aar amra sei bishoye asha korbo kintu tomakeer behavior. Haan, tumi shob kichu korechile ekta good mom er moto.",T,gc
+Haan.,P,ack
+"Thik acho? Tumi shob kichui koro na je tomake mone hoy na, tader sathe mil na?",T,"gc, irq"
+"Mone hoy na ideal, kintu thik aache.",P,id
+Ideal na. So tomar bachcha ke khub bhalo dharon korte parar jonyo tomay kharap obosthay onno ghotonar dike bisshash koro na?,T,"gc, irq"
+"Tumi jano, onno ghotonar bapare chinta korte parar bashay onno somoy chinta ke alada korte parar jonyo.",P,id
+"So noukar babosthar dike shomoshsha korle, eta tomar kachhe ekta onno kichu shantir bhitor bahar deyar ekta shongkha. Ok. Tahole eikhan theke onno abongobir chinta bishoye kotha bolte ekta opportunity. Tumi mone koro tumi ekta bhalo maa acho na je onno ghotonar bapare vabe tomake obostha koro. Kintu tumi ki shudhu bhatakachchho?",T,"gc, irq"
+Haan,P,ack
+Tai tomake ekai 10 diker scale e daak dey?,T,crq
+Haan,P,cd
+"Je obosthay tumi oi rokom chinta koro, seta kono ekta adhorsho rokom chinta dharay theke niyecho.",T,gc
+Haan.,P,ack
+"Thik ache. Tai je obosthay tomarai ota ki ekta uchit uttor naki, naki tumi jontrona katha bolcho, tate ki bolo nijer moddhe oi shomoygulo ki bolte paro?",T,"gc, cv"
+"je ami kichu korchhi, ami oi kajgulo korchhi je ami korte hobe ar ekhon baby jane na je ami ki vabei mone hochhe, tai mone hoy na. O baby jane na je ami kichui kintu chinta koro naki bhoy koro. Tai ami or kono bhalo korchi na.",P,cr
+Ke jane tumi chinta koro naki bhoy koro?,T,irq
+Mone hoy shudhu ami.,P,id
+Kintu tumi ekhanei?,T,crq
+Haan.,P,cd
+Tai self-talk tai hobe ami je korte hoy ekta bhalo ma hoyar jonne. Ar toh amar chhele-o eki kotha bole. Thik ache?,T,gc
+thik ache.,P,ack
+"Kintu amar eto bujhte parlam jeta asholei aschhe eta kothai shob somoy mane bhalo ma hote chai kintu ei bhabe arektu jinisher khoti chinta kori. Ar somoye somoye toh ashe eta bishesh bujhte pari, thik ache? Maane, jeebon ta kintu chinta mukt hobe na, ei bujhte hobe.",T,gc
+thik.,P,ack
+"Kintu amra, amra prayash korte pari na othoba amra anek kichu suffer korte parina jeta ar korte hobe na",T,gc
+thik,P,ack
+Eta kichu sense kore?,T,yq
+"Haan. Eta sense kore. Ar, tomake jodi ami bolte pai jeta ami bolchi, eta shunte ektu irrational mone hoy, athoba unhelpful less than useful.",P,op
+"Haan, eta shunte ektu unhelpful, eto na, jaane, ami etai ekti mahatvopurno bivag. Eta na good or bad na. Ar ei shobdo gulo amader jeebone ekti kaj kore, kintu etake mental health er drishtite abedon kora jay ebong etake ektu khatarnak mone hoy jokhon taderke jiboner kichu jinisher sathe jora hoy jaani, bhalo ma, kharap ma.",T,gc
+Thik,P,ack
+"Kintu eta khub kichu bishesh onno kichur upore kotha bolte jay na. Udvot ta niye kichu bujhte shuneche, thik na? Ekhon ota dekha jay je tomaar lekhapora toh thekeo tomaar bhalo ma-hood kore berache. Shotti. 8 er 10 tai bhalo ma hoyar kache most people khushi hoye thakbe.",T,gc
+True.,P,ack
+"So eto lok tomay five-er dike na dhukiechilo ekhane. Okay. Tai kichu alada alada ase. Hm, to ami janina duita alada bishoy upor kotha hoyeche, thik e, kintu tara sambandhit, kaj er sthiti ebong shishu care er sthiti. Kintu ei somoy amra kichu nijer self talk strategy gulo discuss korechilam. Tai ami chachchi je tumi ajker din ghore jabe, ebong ami tumi keu jodi korte paro tahole ato tai tumi ajkei korte try koro. Okay, ami mone kori eta time er bepar, ami etar upor kotha bolchilam, tobe ami chachchi je tumi kichu oi automatic thoughts gulo jotobar possible ta dhorbe. Mone rakho, ami agei ekta worksheet diechi ebong tarpor nijer shantir adaptib response gulo ghotate.",T,"gc, cv"
+Okay okay.,P,cr
+"Shobcheye around ei obostha er moddhe, athoba shayad aro kono obosthay o, sei chinta koro. No problem. Jodi arekta problem theke eita apply korte chaow, taholeo cholbe. Kintu vison important hocche ei shishu sambandhe ebong kaj performance er visayotar duto pashaapashi. Eita to abar toke modhye ekta boro struggle hocche je ekhane ekhon cholche. Tumi ki eta bujhte parcho?",T,"gc, yq"
+Haan. Haan.,P,op
+Tumi mone koro tumi eta porjonto shesh korle parbe? next week?,T,orq
+"haan, mone kori ami handle korte parbo. Haan.",P,od
+Okay. Tai amra ei porjonto rekhe dibo ebong ami dekhte parchi toke next week.,T,gc
+"Okay, dhonnyobaad.",P,gc
+"Thanks, ma'am.",T,

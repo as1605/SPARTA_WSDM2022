@@ -1,0 +1,91 @@
+Utterance,Type,Dialogue Act
+"Asun, beshi bhalo.",T,"cv, gc"
+"Haan, dhanyabad.",P,cr
+Apni ajke kemon achen?,T,gt
+"Ami khub klanto feel korchi, ar ei shwash kosto ta niye khub chinta te achi.",P,gt
+"Apni seshbar amar ek colleague er sathe dekha korechhilen, tai na?",T,crq
+Haan.,P,cd
+Ar uni apnake blood test er jonno pathiye chhilen.,T,crq
+"Thik ache, doctor.",P,cd
+"Haan, amra mone kori apni anemic hote paren.",T,gc
+Oh baba! Haan.,P,gc
+"Ami ajke apnar sathe duto kaj korte chai. Prothome, apnar blood test er result debo. Tarpor anemia sombondhe ektu kotha bolbo, ar tarpor kichhu potential treatment niye kotha bolbo.",T,id
+"Thik ache, ajke.",P,gc
+Apnar kache ki thik lage?,T,yq
+"Haan, doctor, thik lage.",P,op
+"Besh. Tahole amra apnar blood test er result dekhi? Haan. Ei niye. Amra test korechi apnar blood er hemoglobin level, thik ache? Normal range nari der jonno holo 11.5 theke 16 grams per deciliter hemoglobin, thik ache? Ar ei holo apnar hemoglobin level. Eta 8.7.",T,id
+Eta to khub kom.,P,gc
+"Eta amra asha kori je normal range er moddhe niye ashte chai. Shudhu apnake reassure korte chai je iron deficiency anemia, je ami mone kori apnar ache, eti khub common. Pray 15% nari ei dhoroner anemia experience korte paren.",T,id
+Thik ache.,P,ack
+Ar eta khub treatable o. Haan.,T,id
+"Haan. Oh, eta tightness, doctor, eta amake khub down kore dey.",P,"ack, gc"
+"Hotei pare, karon apnar lifestyle to khub busy.",T,gc
+"Haan, haan. Ar ami ar manage korte parchi na.",P,gc
+Thik ache. Anemia sombondhe apnake ektu beshi bolbo? Apni ki condition ta sombondhe kichhu janen?,T,yq
+"Jani na. Shunechhi, kintu ki jinis bujhi na.",P,on
+"Anemia hocche apnar blood er ekta condition. Apnar blood er moddhe onek component ache, ekta holo plasma. Plasma er moddhe red blood cells ache. Ar tar moddhe protein ache hemoglobin, je oxygen carry kore apnar shorir er onno ongo te. Thik ache? Jodi eta efficiently kaj na kore, apni je dhoroner symptoms experience korchhen, shwash kosto, chakkar, klanto lage, eti shuru hoy.",T,id
+"Haan, definitely. Haan.",P,gc
+Ekta karon hote pare blood loss. Apnar periods kemon?,T,"gc, irq"
+"Well, gat koyek mash dhore heavy hoyeche. Ami mone korechhilam boyos er jonno, irregular ar heavy hoyeche. Kintu apni thik bolte paren.",P,id
+"Haan, hote pare. Haan. Tahole ami apnake treatment sombondhe kichhu bolbo. Ami mone kori apnar diet e iron barano dorkar. Apni ekhon ki dhoroner diet follow korchhen?",T,"gc, irq"
+"Ami khub busy, kintu mone kori amar diet reasonable, balanced. Amra onek ready meals khai. Weekend e valo breakfast kori, bacon bowties. Mone kori diet ta besh bhalo.",P,id
+"Teenage children ache, tara apnake busy rakhe?",T,yq
+"Oh tara to. Haan. Apni jani, taxi service er moto. Ar tarpor kaj e o khub busy. Ami shudhu klanto hoye jachhi.",P,op
+Apnar jonyo khub kothin hobe sob manage kora.,T,yq
+"Haan. Haan, kothin. Mone hocche ar manage korte parbo na.",P,op
+"Haan. Apni ready meals niye bollen. Ami bujhte pari convenience er jonno apni rely koren. Kintu problem holo, sometimes proper balance of nutrients pawa jay na.",T,gc
+"Thik ache, doctor.",P,gc
+"Tai ami apnake bolbo diet ektu adapt korte, ar iron rich foods diet e include korte.",T,cv
+"Oh, thik ache.",P,cr
+Bollen ki apni vegetarian?,T,yq
+"Na, na.",P,on
+"Tumi jano, ami jeta jante chai seta holo, tomay diet e iron er ekta bhalo source holo lean red meat.",T,gc
+"Oh, haan. Haan, bhalo din.",P,gc
+"Haan, thik ache. Ar liver o iron er ekta valo source.",T,gc
+"Na, na, na, na liver ami khabo na.",P,gc
+"Steak er kotha bolo tumi, seta ki tumi consider korte paro ektu beshi niyomito khabar jonno?",T,irq
+"Haan, haan. Mane steak ekdin kaku toll, tumi jano, karon eta bhalo. Haan, haan.",P,id
+"Ar ache leafy green vegetables, jemon kale ar spinach, iron er ekta valo source.",T,gc
+"Ohh bachchader ta khete hobe na. Kintu, mane, tara sweet corn pochondo kore so tara sweet corn khabar parbe ar ami leafy green vegetables khabo. Broccoli ache, tai na?",P,gc
+"Haan. Haan, broccoli valo. Tumi jano,",T,gc
+"Ohh bhalo, bhalo ami seta niye jabo.",P,gc
+"Ar o ache jinish, tumi consider korte paro jemon fortified cereals, iron enriched.",T,cv
+Setagulo ki?,P,crq
+"Mane, tumi ingredients panel e cereal gulo dekho, tumi dekhte pabe kichu enriched with iron, so tumi seta incorporate korte paro.",T,cd
+"Oh, haan, haan, ami supermarket e dekhbo. Mane, ami kichu niye esechi. Amra ekta tweak korte pari ar seta amay beshi somoy dibe ranna korte ba die.",P,cr
+Eta tomay jibon ektu sohoj korte parbe.,T,gc
+"Haan, definitely ami khushi hobo vote dite.",P,gc
+White bread o iron er ekta valo source.,T,gc
+"Haan. Haan. Na, tara shudhu white bread pochondo kore, ami shudhu white bread kinbo, kintu ami nijer jonno brown bread kinbo. Cobs niye lunch e khabo. Haan. Haan. Bhalo.",P,gc
+Tumi ki mone koro tumi ei sob jinish gulo try korte parbe?,T,orq
+"Haan. Ami try korbo doctor, definitely.",P,od
+"Thik ache. Haan, ar ekta jinish ami bolte chai, seta holo iron tablets course neya.",T,cv
+"Oh, ami tablets niye bhalo lage na. Keno?",P,crq
+Thik ache. Eta iron deficiency anemia er jonno ekta effective treatment hote pare. Eta tomay diet e iron supplement kore.,T,cd
+Eta ki short term hobe?,P,yq
+"Haan, haan. Onek manush ei tablets e bhalo respond kore. Kichu side effects thakte pare. Mone hoy pet kharap kore jodi khali pet e khao. Tai meal er por khao.",T,op
+"Thik ache, ami kivabe mone rakhbo? Haan. Haan.",P,crq
+"Ami mone kori ei duto jinish, diet change kora ar iron tablets course neya, tumi treatment e bhalo respond korte parbe.",T,op
+Haan. Haan. Try korbo doctor.,P,cr
+Tumi ki mone koro ami je information diyeche seta niye?,T,irq
+"Haan, ami definitely try korbo jodi eta amay bhalo lage. Eta worth it.",P,id
+"Haan. Excellent. Haan, excellent. Ami tomay anemia niye onek information diyeche ajke. Ei leaflet ache anemia niye, ami vablam tumi barir baire niye jete paro ar nijer somoye porbe.",T,gc
+"Ohh dhonnobad. Haan, haan. Ohh, haan. Eta porbo ami. Mone hoy mone rakhbe kothin je ki ki bolo tumi, so barir baire ei leaflet ta dekha khub helpful hobe.",P,gc
+Thik ache.,T,gc
+Haan.,P,gc
+"Thik ache. Tai ami shudhu check korte chai ami jodi thik thik explain korechi, tumi ki shudhu recap korte paro je duto treatment tumi try korbe?",T,gc
+"Tumi bolle je Navy ta iron er obhab er jonno, ar ami seta pabo red meat theke, mane steak ba lamb chops hote pare?",P,"gc, yq"
+Haan.,T,op
+"Haan. Ar green vegetables ar wholemeal bread, ar ei iron tablets gulo niye, hopefully ami bhalo feel korbo. Dhonnobad.",P,gc
+"Haan, excellent. Tai ami chai tumi koyek saptah por abar asho, ar amra dekhte parbo tumi kemon acho.",T,gc
+Haan.,P,ack
+Tumar kono prashna ache?,T,yq
+Aro kono test korte hobe amay?,P,"op, yq"
+"Ami mone kori ei stage e, tumi abar amar kache ele, amra arekta blood test korbo ar hemoglobin level check korbo, jodi seta normal range e na fere. Hote pare tarpor amra kichu onno investigation er dike takabo. Kintu ekhon etar chinta korar dorkar nai. Ami mone kori dekhi tumi dietary change ar iron tablets diye kemon koro. Ar amra next time e discuss korbo.",T,op
+"Thik ache, dhonnobad. Haan.",P,gc
+Ar kichu?,T,yq
+"Na, ami mone kori setai. Dhonnobad.",P,on
+"Thik ache. Dekha hoyeche tumake, ar koyek saptah por abar dekha hobe.",T,gc
+"Thik ache, dhonnobad.",P,gc
+Bye,T,gt
+bye.,P,gt

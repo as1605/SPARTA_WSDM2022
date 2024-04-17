@@ -1,0 +1,63 @@
+Utterance,Type,Dialogue Act
+"Hi Ayesha, kemon acho ajke?",T,gt
+Bhalo achi.,P,gt
+Bhalo achi.,T,crq
+Haan,P,cd
+Ami tomake kichu prashna korbo and kichu mudda dibo. Try koro tader uttor dite. Thik ache. Ei bachhor ta ki?,T,"gc, irq"
+Ei 2015,P,id
+Thik ache. Ei barchi kon season?,T,irq
+Ei beach season.,P,id
+Beach season?,T,crq
+Haan,P,cd
+Aaj ki taarikh ki?,T,irq
+Mangalbaar,P,id
+Ei sombar ki din?,T,irq
+Mangalbaar,P,id
+Ei kon mash?,T,irq
+Ei May,P,id
+Amake bolte paro amra ki deshe achi?,T,irq
+America.,P,id
+Amra ki kon county te achi?,T,irq
+"Amra Kent County te achi, Kent County te.",P,id
+Ei sheher ta ki?,T,irq
+New Castle.,P,id
+Ei building er naam ki?,T,irq
+Amra Wilmington College te achi.,P,id
+Ei building er kon floor e achi?,T,irq
+two,P,id
+"Ami tin ta object er naam bolbo. Ami bolar por, tader naam amake dubara bolte hobe.",T,cv
+Thik ache.,P,cr
+"Apple, Table, Penny",T,cv
+"Apple, Table, Penny",P,cr
+"Mone rakho tader ke, karon ami tomarke bolar por tader naam dubara jante chai.",T,cv
+Thik ache,P,cr
+"Aajke ami tomake ekta shabd dibo, ebong tomake bolbo je forward ebong backward e spelling korte hobe. Shabd ta holo ""world."" Pehle forward e spell korte paro?",T,cv
+U O R D,P,cr
+Ebong abar backward e spell korte paro?,T,cv
+D O O U,P,cv
+"Tomake ami kichu mone rakhte bolchhilam, ota ki chhilo?",T,irq
+"Apple, Table. Ar, um, last ta mone nei.",P,id
+Okay. Eta ke ki bolen?,T,irq
+Eta holo tomar watch.,P,id
+Eta ke ki bolen?,T,irq
+A pencil.,P,id
+"Ami chai tumi amar por theke ekta bhasha dohate. Sei bhasha holo ""no ifs, ands, or buts.""",T,cv
+No If no and no buts.,P,cr
+Ami chai tumi ei page er shobdo gulo poro. Tai to ami uthabo. Ebar tai kor.,T,cv
+Close your eyes.,P,cr
+"Okay. Tumi kon haath diye likho, right handed na left handed?",T,irq
+Ami right handed.,P,id
+Right handed?,T,crq
+Haan.,P,cd
+"Tumi ei kagaj ta niye right haate niye, duto haate shathe ekbar fold koro, tarpor kagaj ta tomar lap e nie rakho.",T,ci
+.....,P,cr
+"Okay, dhonnobad. Thik ase, notebook ta nie ekta kagoj niye utho. Ami chai tumi amar jonno ekta complete sentence likho.",T,ci
+Kono?,P,cr
+Huh hmm,T,gc
+Okay,P,gc
+Sentence ta dekhte parbo? Okay. Eikhane chobi achhe. Ei rokom ekti chobi kagoj e copy koro.,T,ci
+"Eita khub kathin, kintu holo.",P,cr
+Got it?,T,crq
+Kind of.,P,cd
+"Dhonnobad Ayesha. Ami byaktigoto shocheton e tomar bhaag nei, e jonno dhonnobad.",T,gc
+Dhonnobad.,P,gc

@@ -1,0 +1,41 @@
+Utterance,Type,Dialogue Act
+"Tumi kemon achho aj? Shuni, tomake shuni. Ami thik achi, dhonnobad tomake. Tumi ke?",T,irq
+"Tom, Tom Beckwith",P,id
+"Oar tumi kon haate likhte sukhcho? Dike? Dike haat diye tomar memory niye kichu prashna korar jonno tomake prosno korbo, thik achi?",T,id
+2017,P,gc
+Ei barchi kon kaler?,T,irq
+Sheeta kal,P,id
+Aajke ki tarikh?,T,irq
+16th,P,id
+Aajke kon dinte?,T,irq
+Mangalbar?,P,id
+Ei kon mash?,T,irq
+January,P,id
+Tumi amake bolte paro amra kon deshe achi?,T,yq
+United States.,P,id
+Amra kon jela te achi?,T,irq
+Wilmington.,P,id
+Amra kon shehore achi?,T,irq
+Wilmington.,P,id
+Ei building er naam ki?,T,irq
+Graduate Center.,P,id
+Amader building er kon floor e achi?,T,irq
+First floor,P,id
+"Ami tin ta object er naam bolbo. Ami set korar por, tader naam tomar kache repeat korte chai. Apple, table, penny.",T,ci
+"Apple, table, penny",P,id
+Mone rakho tader naam. Karon ami tomar kache kichu minute porer moddhe abar tader naam bolte chai.,T,id
+DUNIYA.,P,id
+Abar spell koro ta ulta.,T,ci
+DLORW,P,id
+Ami tomake kebol ki naam bolte bolchi?,T,irq
+"Apple, table, penny",P,id
+Eta ke bole?,T,irq
+Ghadi,P,id
+Eta ke bole?,T,irq
+Kalam,P,id
+"Ami chai tomake ei bhashay ekta phrase repeat korte. Phrase holo ""No ifs, ands, no buts.""",T,ci
+"No ifs, buts or ants",P,id
+"Ei page er upore likha gulo poro. Tarpor je likha ase, seta koro.",T,ci
+Tomar chokh bondho koro.,P,id
+"Ei kagaj ta dharo tomar dik theke dharo. Ekbar hath diye kagaj ta muriye rakh, tarpor kagaj ta tomar kolay niye rakh.",T,ci
+Dhonnobad.,P,gt

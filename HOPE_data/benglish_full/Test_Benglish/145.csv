@@ -1,0 +1,212 @@
+Utterance,Type,Dialogue Act
+"Hi Sharon, Kemon acho ajke?",T,gt
+"Bhalo achi. Amar counselor, toke janate chai, amar upor chinta korche, mone hoy amar nijei ke kharap korte pari. Tai",P,"gt, id"
+o toke upor ekdom chinta kore?,T,crq
+Haan.,P,cd
+Tini ki mone kore tomar sathe ki ghotbe?,T,irq
+"Mone hoy tini mone kore, ami mone kori, amar mone gulo khatra janak.",P,id
+"Thik ache, tor sathe ek assessment korar jonno ki amar doa lagbe?",T,gc
+Thik ache.,P,gc
+"Ok. Thik ache. Sharon, tomar boyosh koto?",T,"gc, irq"
+28,P,id
+28. Ek minute tomar paribar ke vabe mone rekho. Tomar paribar e ki kono suicide er itihas achhe? Kono atyanta atyachar er itihas?,T,"gc, irq"
+"Haan, amar baba suicide korechilo.",P,id
+Tor father suicide korechilen.,T,crq
+Haan.,P,cd
+Aro kichu ache?,T,crq
+"Um, ami mone kori amar bon o kono chesta korechilo.",P,cd
+Chesta korechilo?,T,crq
+Haan.,P,cd
+Tor baba ki koto bochor age suicide korechilen?,T,irq
+"Ohh, jemon 15 bochor age",P,id
+15 bochor age?,T,crq
+Haan. Ei rokom kichu.,P,cd
+Tui ki mone korchis oi kothay?,T,irq
+"Aami cheshta kori na mone korte. Oh, ami mone kori na. Aami janina.",P,cd
+Ei jonno kharap lagchhe to.,T,gc
+"Haan, e to kharap.",P,gc
+Ei kichu tor mone acho?,T,yq
+"No, kintu amra ei kotha bolchhi, toh haan.",P,op
+Kintu amar mone ache bol theke age toh?,T,crq
+"Mmm na, besh kichu mone hoy ni, na besh kichu.",P,cd
+"Tor paribare ki kono mansik swasthya byadhi ache, tobe tor kache jana achhe?",T,"irq, yq"
+"Janina. Mone hoy na, janina.",P,id
+"Thik ache. Tui joto byadhi diye dhora hote pare, seta ki tor kache janano hoyeche?",T,irq
+"Um, bhalo ache, ekkhuni mone hoy, amar kache depression bole diagnose kora hoyeche. Oi samay, amar kichu chinta gulo chhilo.",P,id
+Kintu ekhon kemon?,T,crq
+Kintu ekhon ami chinta kore achi?,P,crq
+Hmm,T,cd
+Umm ager moto oto bad na.,P,cd
+Depression kemon achhe?,T,irq
+"Haan,",P,id
+Ei moment e?,T,crq
+Haan.,P,cd
+Ar koto kharap?,T,irq
+Khub kharap.,P,id
+Haan. Ek theke das er scale e koto depressed achho tor?,T,irq
+Shayad ek ya noy noy.,P,id
+"Ek ya noy noy, eta depressed?",T,crq
+Haan.,P,cd
+Ar anxiety e ki vabe?,T,irq
+Shayad chaar ya panch.,P,id
+Tomar theke bhalo. Tai erom jeno shomoy bodlechhe na?,T,"gc, irq"
+"No, jevabe chhilo setei hoy nai, kintu barchhe.",P,id
+"Haan, ekhono barchhe.",T,crq
+"Haan, mone hochhe, ekhono barchhe. Haan.",P,cd
+"Ebar mone koro, kichhu din age ki vabe chhilo tor anxiety and depression?",T,irq
+"Anxiety shayad teen ya char. Depression aat ya noy noy, akhon otoi.",P,id
+Same intensity?,T,crq
+"Haan, haan.",P,cd
+"Thik aache, Kono rogg achhe tor?",T,yq
+"Um, no.",P,on
+Tomar kache konodin thakche keo?,T,yq
+Haan,P,op
+Thakche?,T,crq
+Haan,P,cd
+Tomar bandhu-bondhura ke koto often dekho?,T,irq
+"Shomoy-mane mone hochhe bandhu-bandhur kache shayad ek mash ektu, shayad",P,id
+"Ek mash ektu, bondhura kemon?",T,crq
+"Bondhu-gulo, depend kore. Ekhono notun korar moto. Office-bondhu-gulo shob theke bhalo chhilo, kintu ami kaj hariechhi. Tai tader sathe dekha hoy na beshi. Ar somoy-mane ek shaptah ektu, somoy-mane ek shaptah, shayad ek shaptah er upor depend kore.",P,cd
+Tomar koto din age kaj hariechhilo?,T,irq
+"Um, shayad dui mas.",P,id
+"Dui mas age,",T,crq
+Hmm,P,cd
+"Sunke bhalo lage je eto hoyechhe tor sathe. Tomar social network er strength kivabe chharano, tor ichhe moto?",T,"ap, gc"
+"Na, kichhu somoy eka mone hochhe. Haan, mone hochhe je keu amar kachhe chai na. Keu amar dorkar mone kore na. Tai haan, ami beshi somoy eka mone kori, kichhu somoy onnotar sathe thakar moto,",P,gc
+Tai toder sathe thakar por o ki eka mone koro?,T,crq
+Haan.,P,cd
+"Toder sathe thakar somoy, toder relationship er quality kemon mone koro? Shuru kori tor family tei. Tader sathe relationship koto bhalo mone koro?",T,irq
+"Mone hocche, thik thak. Bhalo mone korte pari na bole bole. Kintu sobai toh thakto ei problem er shathe. Mone kori toh.",P,id
+Tumi mone koro eta more or less normal?,T,crq
+"Haan, haan.",P,cd
+Tomar bondhuder shathe kemon acho?,T,irq
+"Thik ache. Jano, ami mone kori, ami sob somoy sob kichu dubitar kore thaki. Tumi amake bhalo lagcho keno? Tader sathe samay bitate khub ichhe kori. Ami janina, amar tader kache kharap lagche kina. Tobe bujhte parchi, beshi bhalo. Amader jonne to valo obostha, khub valo samay kati.",P,id
+Valo obostha te beshi tobe?,T,crq
+Haan,P,cd
+Tomar jiboner kono klesh naki ashchhe? Tui to bolchili je tomar kaj harano hoye geche.,T,irq
+"Haan, ami, ami amar basha theke evicted hobo, yaani amar moholke ami bill dite parini karon ami kaj haralam, tai ami khub confused achi ki korbo, kothay jabo. Ami bujhini ki korbo. Aami khub hariye gechi mone kori, shob kichu bekar.",P,id
+Shunte khub bhalo lage. Tui kobe evicted hobo?,T,"ap, irq"
+"Um, ami khub sure nei. Sunte hoyeche mohiner seshe hote pare.",P,id
+"Tai tomar theke evicted hote hobe, seta ki basha naki apartment?",T,irq
+Apartment,P,id
+Tui eta koi bujhe felchhili?,T,irq
+"Um, ami, janina, amar kaj harar agei ami rent dite kichu problem korechhilam. Tai, um, ami, ami mone kori last time ami rent miss korar por, kichu aandaj hoye gelo, mohiner malik amay bollo je ami ora te thakte parbo na, kintu ami janini, sei somoy aami koto ta biswas korbo. Ar abar, mhoner shurute mhon bollo, tora ekhon theke ber hote hobe, tora evicted hote jachchhish. Amra lock change kore debo. Ar",P,id
+Tai sob fairly recent.,T,crq
+"Haan. Mone hoi etaar karone ami ager cheye beshi anxiety feel korchi, karon eto control theke beriye gechhe, ami bujhte parchina ki hobe, kobe hobe, kivabe hobe. Tai",P,cd
+Beshi uncertainty aachhe tomar jonno ki hobe ebong ki hote pare?,T,crq
+Exactly,P,cd
+hmmm...toke bhishon age kichu korar jonne mone hoiyechhe?,T,yq
+"Haan, haan, definitely.",P,op
+"Tui amake bolte paro, koto bar naki koto somoy?",T,irq
+"Umm dhonno kore boli, je proti bar amar ebhabe gorbito hote hole, ami, ami, tomar kotha mone kori. Tai bujhini. Mane koto bar? Eta khub kothin prashna.",P,id
+Thik aachhe. Tui kono somoy suicide korar chesta korechhili?,T,yq
+"Haan, ek bar, shayad char bochhor age.",P,op
+Tui ki korechhili?,T,irq
+"Ami amar kanchher upor katiyechhilam, kintu kichu hoini bhalo. Ami sudhu tader opor ekta rui bosiye dilam. Khub bhalo hoini.",P,id
+Tui hospital jete hoy ni?,T,crq
+No,P,cd
+Kono somoy mone hoi suicide korte chhile ebong korar por thamle?,T,yq
+"Haan, haan.",P,op
+Koto bar ei ghotona ghotche?,T,irq
+"Umm shayad tin ya char bar. Mone rakha khub kothin karon kichu somoy age ghotechilo ebong abar abar holo mone hoini, kintu haal-eo shayad ek ya dui bar toh hoyeche kompori.",P,id
+Tai ek ya dui bar haal-eo hoyeche?,T,crq
+"Hmm, haan.",P,cd
+Tumi kono somoy nijer upor abhishap dite cheshto korecho?,T,yq
+Haan.,P,op
+"Thik ache, eta amake bolo.",T,irq
+"Ektu prothom, oikhane cheshto korechilam suicide korar jonno, ebong prothom thekeo aro kichu bar cheshto korechilam, bujhate, jani, thoda thoda kore katiye dekha kora, oi rokom.",P,id
+Tomar last attempt ta holo kobe?,T,irq
+"Um, seta holo ota jonno, amar je bolchilam, seta amake khub bhoy kore diyechilo. Tai mone hoi, aro try korbo na.",P,id
+Tai tumi mone koro na ota abar korbe.,T,crq
+"Na, kichu katiye debo na.",P,cd
+"Thik ache. Tumi kono somoy physical, sexual, emotional obosthay peyecho?",T,yq
+Ami jani na.,P,on
+"Tai jodi eviction hoy, tomake mone hoi tomar ma-ke boshano dite hobe.",T,yq
+Haan.,P,op
+Ar tumi jeno pichhone kharap obosthay chole gechho.,T,yq
+Haan.,P,op
+Tumi seta dubara korte chai na.,T,yq
+"No, ami ota kore thekeo chai na.",P,on
+Suicide-er prati tomar attitude ki?,T,irq
+"Ami jani na. Mone hoi khub dukher katha, keu chai na ota hoye. Tumi jokhon keu bolbe je kauke suicide koreche, takhon sobai khub dukkho hoye. Kintu onno kon rastai mone hoi kichu nai. Tumi jano, amar moto kivabe cholbe ei obosthay, sob kichu ek por ek por bhalo hote jachhe na. Ar ami ki korbo bujte parchhi na. Tai hoi, ami nijeke onek dosh dite parchhi.",P,id
+"Tomi odhikar nei, kintu tomar option shesh hotei tomar mone hoi?",T,crq
+Haan.,P,cd
+Tomar kono somoy impulsive chhilo?,T,yq
+"Um, jani na. Ektu gondogol-e mone hoini karon kichu somoy amar mone holo je suicide korbo, khub kachei jacchi, kintu abar korini, janish, toh.",P,op
+"Onno kichu obosthay impulsive chhilo tomake, suicide bahirbhabhike?",T,irq
+Mone hoi na.,P,id
+Violent naki aggressive chhile?,T,crq
+"Na, obosho toh no.",P,cd
+"Tomar kache ever loose nations holo kina, jemon onno jon-er kotha shonar ya dekhar moto?",T,irq
+Mone hoi na. amar.,P,id
+Tui to tai mone kori na.,T,crq
+"Na, ami to bolchi, ar jara nei tader ki kono bishay shunte pare, seta bojhano o nei. Kintu mone hoy na je amar ache.",P,cd
+"Ektu nischinte, tomake toh eta bujhte hobe.",T,crq
+Hmm.,P,cd
+Kono alcohol naki drug use-er kotha bolo tomake?,T,irq
+"Kabita-kabita ami ekla thakte khabo, karon ami mone kori, aro kono lok dekhte parbo na. Ami kono drug o kori na.",P,id
+Tomar last drink kobe chhilo?,T,irq
+Gatabar.,P,id
+Tomar koto ghonta chhilo?,T,irq
+Bhoyonkor ek bottle wine.,P,id
+Ek bottle wine. Eta tomake shokto lage na?,T,crq
+Haan.,P,cd
+"Tomar koto ghonta bole feli, bottle wine koto bar khele?",T,irq
+"Mone kori, tin ya char bar shokto korte pari.",P,id
+Tin ya char bar ?,T,crq
+Haan.,P,cd
+"Tai ami tomake oi atyanta manobik bichar gulo niye kotha bolte chai. Tomar ei atmohatya bhavana gulo tomake koto bar bashay bose eseche, eta koto bar hoyeche?",T,gc irq
+Khub ondhokar.,P,id
+Kono samay ase naki?,T,yq
+"Haan, haan.",P,op
+Bhavana gulo tomake koto intensity te lagche?,T,irq
+"Besh kichhu, ektu bhoyonkor. Mone hoy kharap, mone hoy na.",P,id
+Eta tomake bhoyonkor lage.,T,crq
+Haan.,P,cd
+"Tomar kache jodi atmohatya er plan thake, tomake ki plan ache?",T,irq
+"Mone kori ami sudhu ekta bottle wine khabo, jeta ami sob somoy kori, r ekta kichhu pill khete pari.",P,id
+Pill gulo ki?,T,irq
+"Um, amar medicine cabinet-e ibuprofen ase. Sei chhara ar kichhu nei, shudhu vitamin. Tai mone hoy seita khaoa uchit. Ami mone kori, char-ti naki, ami jani na.",P,id
+"Tai, ekta bottle wine khabo ar ibuprofen khabo?",T,yq
+Hmm mmm.,P,op
+Tumi ki suicide korte mone hoy? Tomar mone hoy tumi abar eta korebe?,T,irq
+"Ami jani na, sometimes mone hoy mone hoy ami korte jacchi, kintu ami, you know, kono pill khaini tai mone hoy, jodi bujhte chai, jantam na, ami khub mone mone kori ebong ami korte jacchi tai jantam na, ami bujhte jacchi aro.",P,id
+Tumi ki mone koro tumi icche rakho?,T,yq
+Haan,P,op
+Amake kichu karon bolte paro je tumi shuicide korar jonno na korcho?,T,orq
+"Well, amar mone hocche ami kono karon e marbo na. Um, mone hoy amar bondhu poribar khub birokto hobe ebong mone hoy amar bondhura o. Ami jani na.",P,od
+Tumi shuicide-er shomoy ki dhormik naki sanskritik oshilotto ache?,T,irq
+Not really,P,id
+Tomar bashay ki koi pet royeche?,T,irq
+Ami ekta khati royeche. Haan.,P,id
+Tomar khatike ki hobe?,T,irq
+"Ami taake amar bonke diye debo jate kuchkuche khati ache. So, you know, ami prochur rokom vabe chilam taake kebol, jodi kichu amar sathe ghote tahole, you know, prothom toh, ami taake khati ditechi, you know,",P,id
+tomake koto diner age kotha bolechilo?,T,irq
+"Kind of like, dui mas age,",P,id
+so bortoman obosthay er shate kono somporko nai?,T,irq
+"No, I guess not. I mean, ami jani na. Like, ami just tokhon tokhon jante chilam jodi kichu amar sathe ghote.",P,id
+Aro ki kichu karon ache tomar jonno bachte?,T,irq
+"Ami jani na. Ami amar kaj hariyechi. Ami ami akai thaki. Ami jani na, ami ki korbo, jeno berate hobe, ami jani na kothai jabo.",P,id
+Tomar jonno etai bhoyonkor. Ar chinta uttejonak?,T,crq
+Haan.,P,cd
+Tomar kaj korar shomoy tumi ki korechile?,T,irq
+Ami just Tumi mane kon rokom kaj korechile?,P,crq
+Haan,T,cd
+Ami ekta gas station-e kaj korchilam.,P,id
+Tumi kaj-ti valo lagechilo?,T,yq
+"Mone hoy. Tumi janish amader kuch korekhun tomra bolte amader regular customer ache ebong tader kach theke ektu jante paro. Amader kajer bondhu golpo kora. Ebong tumi janish amader khub sundor laav milto, kintu chhoto thik ache, kintu kichu byapar tomar pawa jeto jemon kichu chuti din ebong kichu asha. Tai",P,op
+Tomar aro kono kaj-e asha dekha uteche?,T,irq
+Ami just dekhi kivabe hobe.,P,id
+Tumi ki shesh karon bolte chai kaj chara?,T,irq
+Ami just bujhte pari na kivabe hobe.,P,id
+Karon tomar ekta strike haralo?,T,crq
+Ami kaj korte giye mukhe chole gelam.,P,cd
+Tumi kichu tumar onurag ki?,T,irq
+Ami jani na,P,id
+Tumar paribar bole tumar onurag ki?,T,irq
+"Kora o kora, khub bhalo. Ami jani na, ami jani na. Ami jani na.",P,id
+Ekhon tumar jonno dhoronkor vabe bhalo bhabe vabte kothin toh?,T,yq
+Haan,P,op
+"Thik ache Sharon, eta ki hobe, ami tomake bhalo korei eta poriskhar complete korar jonno anumati dile. Amra tomar counselor-er kache ferot anbo, athoba ami ekta plan banabo je tomay ekhon surakshit rakhar jonno. Tai amra tar mulyankan niye dekhar kichu korechi. Thik ache.",T,gc
+Thanks.,P,gc
+Thanks.,T,gc

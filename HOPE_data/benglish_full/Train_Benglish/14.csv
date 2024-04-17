@@ -1,0 +1,102 @@
+Utterance,Type,Dialogue Act
+"Lisa aaj kemon korchhe,",T,gt
+"Ami bhalo achi, tumi kemon acho?",P,gt
+"Ami bhalo korchi. Jijnasha korar jonno dhonnobad. Apanar sathe dekha kore bhalo lagche. Ami khushi je apani agency te ashte paren. Tumi ki bolte paro aaj tomake ekhane ki niye esheche? Umm, achha,",T,"gt,irq"
+Ami akhon ekhane achi karon ami taka churi korte giye dhora porechhilam.,P,id
+Thik ache. Tahole apni kon adalater niyede dichen?,T,yq
+"Haan,",P,ack
+Haan. Hum kab?,T,irq
+Pray ek mas age,P,id
+Ek mas age.,T,ack
+"Nirnayer moto,",P,
+Nirnayer moto. Eta apnar sathe thik ache?,T,yq
+Oboshoi.,P,ack
+Tahole ekhon apnar bosh koto?,T,irq
+25,P,id
+"Thik ache. Tai apni pray ek mas age bolchhen, apni amader somossay fellechen. Apni ki amake bolte paren sekhane ki hoyechhilo?",T,irq
+"Achha, ami amar ek bondhur kach theke taka churi korechi. Aar",P,id
+Apnar taka dorkar.,T,crq
+Eti ekta bondhu chhilo.,P,cd
+Jinisguli ekhon apnar aar apnar bondhur modhye dariye achhe.,T,irq
+"Achha, she amake dhukiye dile. Tai amra ar bondhu noi.",P,id
+Ar bondhu nei. Thik ache.,T,ack
+"Thik ache, mooloto ami jokhon chhoto chhilam, ami onek maramari korte abhyasto hoyechhilam.",P,id
+"Ei din,",T,gc
+Amar poribar.,P,gc
+"Eta korar kotha mone ache? Ah,",T,irq
+"Haan, amar mone ache eta kora. Haan.",P,id
+Apanar bosh koto? Mone ache?,T,orq
+12 bochor boshi.,P,od
+"Apani ki kono somoy er jonno chikitsa korben, jemon, ei dharoner monoshotho chikitsa?",T,irq
+"Oh, na",P,id
+Apani ki atite monoshotho somporkito kono roger bisoye socheton? Na na. Sutara apani jokhon 12 bochor bosh-e besh guruttor lorayer moto shobde jhoriye porechhilen. Ei obhabei apani ekhon 25 bochor boshi amake bolte paren 1215 er moddhe onno kono somossagulir khetre ki hoyechhilo?,T,irq
+"Ami swabhavik onuman kori ami bolte chachchi, ami upobhog kori ebong kichu oshudh kheyechi ebong serokom jinish babohar korbo ebong korbo. Tai",P,id
+Onno kono churi ba hamla? Thik?,T,irq
+"Ami haan mane. Tai maramari ebong jinishpotro pete rakha kintu haan, ami mone kori amar shesh asol lorai chhilo jokhon ami 20 bochor boshi chhilam. Tai haan.",P,id
+Thik ache. Ar koto ta bipode porechhilo manush je tumi yuddho korcho?,T,crq
+"Haan, haan.",P,cd
+Apanar sathe eto bar ghoteche je kauke guruttorbhabe aghat korche,T,irq
+Sambhobota protiti loraye ami eto beshi onsho niechi amar kache ekta shongko nei,P,id
+Apani ki ghoteche byakhya korte paren? Ki karone maramari moto?,T,crq
+"Tai ekta meye, she shudhu, ami onubhobh korechi je amake bhul dekhe ebong ami eti poshondo korini. Tai ami tar mukhe ghushi marami ebong she matite na howa porjonto ta korte thaklam ebong tarporo ami ta korte thaki.",P,cd
+Eta sompore apnar onubhuti ki?,T,orq
+Se tar prapyo chhilo.,P,od
+"Se apnar dik theke jevabe takie chhilo, hum.",T,crq
+Haan.,P,cd
+Apanar ki kono oporadhbodh ba onushochonar onubhuti ache?,T,irq
+Na.,P,id
+Apani ki kono dukhito lokder kache kshama cheyeche?,T,irq
+Ami kshamapratthi kintu shudhu manushke santusht korar jonno jate ami ar kono somosay na pori.,P,id
+"Eshao keu poristhitite, kshama chaowa dhorno porilo.",T,irq
+Haan.,P,id
+Tai apani tader kache kshamapratthi je apani asole eta bolte channi. Ba,T,crq
+Ami mone kori ami bolte chai ni se eta mane na. Eta chhilo shudhu kosto theke ber hoye nijekete ageye niye jawar jonno.,P,cd
+Apani somosay porte saphol,T,orq
+Ekebare. Haan.,P,od
+Apani ekta ohonkar shonge ei dharoner gorbo kora kichu bole.,T,crq
+"Haan, haan.",P,cd
+Bhrôman korte para.,T,orq
+"Haan. Mane, tumi korbe na?",P,od
+Tahole jeta apnar mone hoy emon kichu ekta dokhotaar moto je apnar ache?,T,crq
+Ekebare. Haan.,P,cd
+Apani ki kono somoy churir dhoroner karyokalaper moto lorai korechen jekhane apani kono oporadhbodh ba onushochona anubhob korechen?,T,irq
+Na.,P,id
+"Eki dharoner jinish,",T,crq
+"Eki jinish. Tara, mane, tara amar cheye beshi taka chhilo, tahole keno noy? Tara sambhobota amar sathe eki kaj korte. Tai tara amar sathe eta kora-r agei ami tader sathe eta korechi.",P,cd
+Apani ki kono opradh er shikar hoyechen?,T,irq
+"Ekhon, ami beshi boro lokder cheye smart, tai ami sombhobota manushke eka korte pari. Thik ache tahole.",P,id
+Apani ki samajik dexterityer poriprekshite lokeder sathe kaj korar koushol ti bhalo mone koren?,T,orq
+"Mane, ami ja chai ta pachchi.",P,od
+Tahole apani ekebare kono kache jete samprkho porichalanay karyokor?,T,crq
+Haan. Thik ache.,P,cd
+Apani kibhabe apanar majaj barno koren? Odhikangsho somoy,T,irq
+"Ekhon, amar mone hoy ami ektao birakt hote pari,",P,id
+Jodi khitkhite. Eti kohon kohon ghotta to?,T,irq
+Shaptah e koyekbar.,P,id
+Sei birakti ki kono somoy akramonatmotar dik theke porichito kore ba kono somoy neta kothay? Haan.,T,irq
+Apani jokhon kichu somoy er jonno somosay porechen tokhon apanar akramonatmotar hobar sambhabna beshi. Haan.,P,id
+Sheshbar apani kon shoririk loraiye jorito chhilen?,T,irq
+Tai eta chhilo round 20.,P,id
+Pray panch bochhor age? Haan.,T,yq
+Haan.,P,ack
+Ami ek dhoner jinish,T,gc
+Churi kora,P,gc
+Tai,T,gc
+"Aha, ami nischoit noi. Nischoit na.",P,gc
+Tomar chakri achhe?,T,irq
+"Haan. Achha, ami korechi.",P,id
+Sekhane apanar kajer performance ebong abhijñata somporko amake bolun.,T,irq
+"Thik ache, apni janen, ami jokhon beshi beshi somoy proyojoni tokhonai uposthito hoi and amar ja korte hoi ta kori.",P,id
+Apni beshi beshi somoy dekhan.,T,yq
+Haan.,P,ack
+Amra. Kibhabe apnar nio̱gkartake kormochhari hisabe barno kora hoy.,T,irq
+"Mane, ami ja kori ta kori, ami beshi bhalo. Kintu ami anuman kori je amar bos amake shekhane aro thakte chan.",P,id
+"Thik ache, tahole onuposthito kaj somporko apanar onubhutir poriprekshite? Apni koto kaj chhilen?",T,irq
+Chhoy,P,id
+Thik ache. Amake ei somporko bolun,T,irq
+"Tara amake cheye chhilo and tara amake maniyenaor chesta korlo, ami onubhob kori and ami keboli ekjon conformist noy. Ishwar jinish apnar nijer moto kore. Haan.",P,id
+Apni ekhane chikitsa ki labh kortey chan?,T,irq
+Ami shudhu somosay theke beriye ashte chai.,P,id
+Apni ekhon somosay achen. Ebon apni kosto pote chai.,T,crq
+Thik ache. Dhonnobad.,P,gt
+Apnake dhonnobad.,T,gt

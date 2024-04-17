@@ -1,0 +1,118 @@
+Utterance,Type,Dialogue Act
+"Hi, Andy Jones, asun, bosun. Ami Dr. Taylor. Ami ajker dupur er jonno Encore psychiatrist. Ajke sokale apnar family doctor er theke phone pelam, karon mone hoy apni sokale unar sathe dekha korechen apnar maa er sathe. Ar ami jani je apnar jonno gulo ektu kothin chhilo, kichu distressing experiences hoyeche. Tai apnar doctor mone korechen je amader ektu kotha bolle maybe ami help korte parbo. Apnar jonno thik hobe?",T,"gt,irq"
+"Haan, thik ache.",P,gt
+Apni ki amake ektu bolte parben je ki hocche?,T,irq
+"Well, apni mone korben eta boka boka shonachhe, kintu amar housemates MI5 er jonno kaj korchhe.",P,id
+Right.,T,ack
+Ar tara amar brain er sathe kichu korche.,P,id
+"Okay, apnar jonno khub kothin hobe.",T,yq
+Haan.,P,ack
+"Eta koto din dhore cholche, Andy?",T,irq
+Dui mash.,P,id
+Right. Ar apni kivabe bujhlen je eta hocche?,T,irq
+"Ekbar ami esechhilam ar tara TV ta move korechhilo, tai ami just janlam.",P,id
+"Um, ki janlam apni oi moment e?",T,irq
+Je tara MI5 er jonno kaj korchhe.,P,id
+Right. Okay. Okay. Tai dui mash dhore cholche.,T,"ack,crq"
+"Haan, ei notun lecture ta shuru hoyechhilo May te. Ar uni MI5 er jonno kaj korchhe. Basically amake draft korechhe, amake against e kichu korte bolchhe.",P,cd
+"Okay. Okay. Ami notice korchhi je apni kotha bolte bolte room er charidike takachhen, jeno kichu check korchhen. Ki hocche oi somoy gulo te?",T,irq
+"Well, ami shunte pachhi tara kotha bolche.",P,id
+Ke shunte pachhen?,T,irq
+Amar housemate.,P,id
+Right. Tai apni chinte parchhen je tara kotha bolche?,T,yq
+"Haan, ami tader kotha shob somoy shunte pachhi.",P,ack
+"Right. Koto gola voice shunte pachhen, Andy?",T,irq
+Teen gola.,P,id
+"Okay. Ar tara ki real shonachhe, amar moto kotha bolte shonachhe?",T,irq
+"Haan, kothin. Eta... ami shunte pachhi tara na thakle.",P,"ack,id"
+Mane tara barite na thakle?,T,crq
+"Haan, eta emon, jeno tara onno ghore aache.",P,"ack,cd"
+Okay. Okay. Ar apni ki shunte pachhen je tara ki bolche?,T,yq
+"Haan, tara amar sombondhe kotha bolche, tara shob somoy amar kichu kichu niye comment kore.",P,"ack,id"
+Ki dhoroner comment kore tara? Ekta example dite parben?,T,irq
+"Jemon, jodi ami amar bag pack kori kichu korar jonno, tara comment korbe, jemon apni barir baire beriye gelo.",P,id
+Okay. Okay. Ar kichu? Tara ki kokhono ekjon arekjon er sathe apnar sombondhe kotha bole?,T,"ack,irq"
+"Haan, ami bujhte parchhi. Ar ekhon tara janlo je ami tader sombondhe janlam, ar tara bolche ami trouble korchhi, ar ei dhoroner kotha.",P,"ack,id"
+"Okay. Okay. Ar tara ki kokhono direct apnar sathe kotha bole, amar moto?",T,"irq,yq"
+Haan.,P,ack
+"Okay, apni housemates er voices shunte pachhen. Ar kono change holo ki apnar thinking e? Mone hoy ki apnar mathay onno karo thoughts dhukche, je apnar nijer na?",T,irq
+"Haan. Ami vabte parchhi je amar mathay onno kichu dhukche, ami vabchi na.",P,id
+Mane onno dhoroner thoughts apnar brain e?,T,crq
+"Haan. Eta boka boka jinish, jemon arek din hothat kore ami Coronation Street er ekjon mohilar kotha vabte laglam, ami dekhi na ota.",P,cd
+"Eta apnar moto na, thik?",T,irq
+"Na, eta amar thoughts na.",P,id
+"Right. Okay. Ar apni ki mone koren je eta kivabe hocche, ke responsible?",T,irq
+"Eta MI5, tara amar mathay ekta chip boshieche, ar ami seta shob somoy feel korte pari.",P,id
+"Okay. Tai apnar mathay onno karo thoughts dhukche, je apnar nijer na? Ar onno dhoroner experience ki holo, jemon onno lokera ki apnar thoughts janar upay khojeche, apni na bole?",T,irq
+"Na, shudhu amar mathay jinish dhukche.",P,id
+"Ar ami ekta kichhu check korte chai, apnar thoughts ki kokhono hothat kore shesh hoye jay na? Mane kono thoughts thake na?",T,irq
+"Jodi kichhu hoy, tahole beshi hoy. Kash korchi unplugged korte parle.",P,id
+Okay. Okay.,T,ack
+Ei jinish ta amar matha theke ber kore dao.,P,gc
+"Tumi ei chip ba device er kotha bolchile, je tomar brain e ache, ektu beshi bolo toh.",T,crq
+"Eta ekta tracking device, ora jekhanei ami jai, ora janen. Ami feel korte pari je eta ghurche, rotate hochche.",P,cd
+Tumi physical sensation feel korte parcho tomar brain e?,T,gc
+Haan.,P,ack
+"Thik ache. Thik ache, eta tomake onek kothin lagche hobe.",T,gc
+Ami bujhte parchi na ora amar sathe ei kajta keno korche. Ami kichu vul kori ni.,P,gc
+"Thik ache. Ami ekbar check korte pari, tomar body r baki jaiga gulo te kono problem ache? Kono sensation change hochche ba kono jaiga alada vabe feel hochche?",T,irq
+Ami thik ache. Ami kono roge vugini. Shudhu amar mathar upor ei jinish ta.,P,id
+"Shune onek kothin mone hochche. Ami jante pari, tumi ei sob niye kivabe cope korcho? Eta tomar upor kemon effect felche?",T,irq
+"Ami amar room theke beshi ber hoi na. Ami wait kori je ora ber hok, tarpor ami khete jai. Kintu ora amar khawar moddhe kichu koreche.",P,id
+"Thik ache, tumi ki mone koro tomar khawar sathe ki hocche?",T,irq
+Ora eta poison koreche.,P,id
+"Thik ache, tumi ekhon onek khete parcho?",T,yq
+Na.,P,on
+"Thik ache, ei sob hocche, tumi nijer ke safe mone korchona, ami thik bujhte parchi? Tumi nijer ke protect korar jonno kono step niyeche?",T,irq
+"Ami ekta knife niyeche, thik ache. Ar ekta baseball bat, shudhu amar room e thakle. Ami kauke hurt korte chai na. Mone hochche ami nijer ke protect korte hobe. Eta amake badha dichche.",P,id
+"Thik ache. Tumi knife ba baseball bat use korte hobe mone korchona, protection er jonno niye beriyeche?",T,irq
+"Na, na, ami caught hote chai na. Shudhu amar room e.",P,id
+"Thik ache. Eta eto kharap hoyeche je tumi nijer ke hurt korte ba suicide korte mone korchona, eta kebol coping er ekta upay?",T,irq
+"Ami kichu pills niye ashar kotha vabechilam, kintu ami bari theke berote parini.",P,id
+"Tumi pills niye ashar kotha bolcho, overdose er jonno?",T,crq
+Haan.,P,"cd,ack"
+"Kintu tumi ekhono kichu koroni, thik?",T,crq
+Haan.,P,"cd,ack"
+"Thik ache. Past e tumi kono temper problem ba fight e joriyeche, aggressive hoyeche kauke sathe?",T,irq
+Ami oi dhoroner manush noi. Ami kauke hurt korte chai na. Ora amake ei kaj korte badha dichche.,P,id
+"Ar ekbar check kori, tumi police er sathe kono problem e joriyeche?",T,yq
+"Na, kokhono noi.",P,on
+"Thik ache. Ei sob hocche, ekhon tumi kono vabe safe feel korcho?",T,irq
+Amar baba-ma er bari te.,P,id
+Thik ache. Tumi tomar baba-ma ke onek dekhecho sesh koyek mash e?,T,irq
+Haan. Kintu ami tader ei jhamelay tene an te chai na. Ami amar paach ta keu jane na.,P,id
+"Ei sesh koyek mash e, je sob chinta bhara somoy ta tumi katcho, tumi ki mone korecho je tomar baba-ma o ei conspiracy te involve hote pare?",T,irq
+"Vabechilam, kintu na.",P,id
+"Thik ache. Thik ache. Ami ekbar tomar background er kichu jinish check korte chai, Andy, tomar general health thik ache? Generally fit and well?",T,irq
+"Haan. Kono roge vugini, kichu vul nei. Shudhu amar mathar moddhe ei jinish ta.",P,id
+Ar tumi kono regular medication nei na tomar doctor er theke ei stage e.,T,crq
+Konotai niyo na.,P,cd
+"Thik ache. Onno kono drugs niye ki? Ami bolchi alcohol, cannabis, pills, erokom kichu?",T,irq
+Ami onek alchohol khai na.,P,id
+Thik ache. Ar cannabis er moto drugs niye ki?,T,irq
+Ei moment e na.,P,id
+"Ami mone kori eta shonar jonno guruttopurno, amra ei bisoy niye tomar maa er sathe kotha bolbo na.",T,irq
+Mone hoy weed.,P,id
+"Mane regularly, proti din?",T,yq
+Haan.,P,ack
+Ar weed er upor tumi koto taka kharch koro?,T,irq
+10 dollar.,P,id
+"Thik ache, mane tumi ekdin er weed er jonno 10 dollar kharch koro, onno kono drugs? Ami bishesh kore bolchi speed ba pills er kotha.",T,crq
+Ektu speed.,P,cd
+Thik ache. Eta niyomito basis e Andy?,T,irq
+Shudhu weekend e.,P,id
+"Thik ache, sheshbar kobe speed niyeche?",T,irq
+Ek week age.,P,id
+"Thik ache, onno kono drugs niye ki?",T,irq
+"Na. eta na. Eta drug er bisoy na, right? Eta amar face e kono farak kore na. Eta shob somoy ache.",P,id
+"Thik ache, ami jante chai, karon ami mone kori bujhte parchi, kichu manush je dhoroner experience gulo tomader ache, tara jodi kono drugs ney, ta hole mone hoy kharap lagte pare. Ami shudhu check korte chai, tumi ki emon kono experience korecho.",T,"yq,gc"
+Na.,P,on
+"Thik ache, thik ache. Ami bujhte parchi je tumi MI5 er conspiracy niye onek chinta korchho, ar eta e tomar samasyar karon. Ami shudhu jante chai, tumi ki mone koro eta onno kichu theke hote pare? Ami obviously onno manush der sathe dekha korechi, je similar experience niye chinta kore, kichu manush onek stressed hoy, kichu mentally unwell hoy, ar ami mone kori eta ki tomar khetre relevant hote pare.",T,"gc,irq"
+"Na, karon ami rogi noi.",P,id
+Thik ache.,T,gc
+"Eta ora, ami boi gulo pori ni. Ami sarkar er kotha jani, ora ei dhoroner kaj onek manusher sathe kore. Ami bujhte parchi na ora kivabe ei sob kaj kore beriye jay. Ami kichu vul kori ni, ami jani na ora amar sathe ei kaj keno kore.",P,gc
+"Thik ache. Sure, ami bujhte parchi. Ami mone kori ki tumi ki mone koro je amar moto kono doctor tumake help korte pare, sometimes psychiatrist er sathe dekha kora, medication niye, ba kichu manush der jonno hospital e short time er jonno thaka helpful hote pare. Tumi ki mone koro ei sob tumake ekhon help korte pare?",T,irq
+"Ami jani na. Ami ekhane aschi, karon kew amake bishwas kore ni. Ami amar maa er sathe ei bisoy niye kotha bolte chai ni. She doesn't understand, she doesn't really believe me. Ami mean, tumi ki amake bishwas koro?",P,id
+"Well, ami certainly bishwas kori je tumi ekhon onek kothin somoy er moddhe acho, ami ki sure noi je ei karon ta ki, ami mone kori ami kom sure je eta MI5 er jonno, ami mone kori hote pare tumi ekhon jemon acho, temon noi. Ami onek prashna korechi, ar ami mone kori amader try korte hobe tumake ei somoy ta support korte. Karon ami jani tomar maa opekkha korchhe, hote pare ekhon valo somoy hobe tomar maa ke niye asha, ar tarpor amra tinjon mil kore kotha bolbo, kothay jete hobe seta niye, ar try korbo tumake proper support pabar jonno. Eta ki thik hobe jodi ami tomar maa ke niye ashi?",T,"id,yq"
+Thik ache.,P,ack
+"Thik ache, tumi ekhane bosho, ami tomar maa ke niye aschi.",T,gc

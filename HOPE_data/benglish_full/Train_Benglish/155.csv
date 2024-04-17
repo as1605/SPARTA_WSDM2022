@@ -1,0 +1,85 @@
+Utterance,Type,Dialogue Act
+"Hi Amy, ami Denise, ekhane ekta pracharok, center e, kamon acho? Ajke tomar kemon acho?",T,gt
+"I'm fine. Thanks. Well, ajke besh ajibon, kintu thik achi.",P,gt
+"Yeah, eta to tomar jonno khub bishesh.",T,"gt, gc"
+"Umm hmm, ami aro kono kaj kori nai.",P,"gt, gc"
+"Tobu, keno na tomay ajke ekta kichu bolen?",T,irq
+"Ami o jani nai, ekhane nie ki kotha hobe, tai amra seidin tomader call korechilam. Tai, amra dekhi ami kemon kore tomake dekhchi. Dhonnobad tomar amake dekhate giye.",P,id
+"Tai tomake ekta bisheshojog korlei thik hobe, ami ajker din e amar kothar kichu bujhate parbo?",T,yq
+"Ha, ha, karon ami jani na ami ki korbo.",P,op
+"Ami tomar jonno asholai kichu bolte jachchhi na, na tomar kach theke kono upadesh nite jachchhi, na kono upodesh dite jachchhi. Ami tomar kotha shunte giye tomar kach theke ki ki korar jonno upakar korte jachchhi, tomai amar kach theke kono dabi nei. Tai, eto shob kichu tomar kache achhe je tumi ajke ki korte chaicho, eta kemon lagche?",T,"gc, id, crq"
+"Eta khub kathin mone hoche karon ami jani na ami nijei ki vabe sob kichu shaja korbo. Ha, ha.",P,cd
+"Tai tomar kache ekhon onek bishesh kichu ghotchhe, ebong tomar kache kotha theke suru korbo ta bujhte parcho na.",T,crq
+"Ha, etai bhalo bhasha. Ami ektu bhulchilam ami ki korbo bhabte. Ar ami ekta chhoto bachcha niye ghar e ache, tai ami kokhono mone mone mone kori na.",P,"cd, id"
+"Ha. Tai abar jekono nirnay tomar, ar kichu o jeno, tomake, ar chhele ke ekai kore prabhavit kore.",T,crq
+"Mm hmm. Ar, ar amar boyfriend, tar kach theke prabhavit. Tai tai ami mone kori, ami etai kotha bole tomar sathe ar amar chhele ke nie amra ki korbo, amra kivabe milai.",P,"cd, id"
+"Tobu, jodi tomar ichha thake, jodi tomar ei avashyak, tahole ki tumi amar kach theke tomar golpo bolte paro?",T,irq
+"Ami jani na kothay suru korbo. Amra ek shonar pore suru korilam. Ar ami baro ekta baby hachi. Ar age ami kaj kortam. Ar, tar pore ami o kono kotha na. Ar, tar por o ami ekoi hoilam. Baro ekta baby hachi. Ar ami tar age baro kaj kori, ar tar poreo amra ektu-e kaj kori. Ar amra, tomra o amra, amader invite niye kaj kori, ar tar pore o kaj korte jay na. Ar ei rokom kotha korchhe. Ar ami ektu-e ektu, beshi confuse hochhi. Karon je ki korbo etai mone hoi na. Ar ektu somoy dhoroner kotha mone hoi na.",P,id
+"Tai, ei ek bochorer poribortone ami ekhane oi matro tomar sathe hoyechhe na, kichhute kichhu jhogra hoyechhe, tar por kichhute kichhu shomoy alada hoyechhe, ar firbe mile thakchho. Kintu to, ekta khub important bishoy chilo je kichhu ghotchhe je ektu bhir. Shobai, tomra, chhele, ar, to, ar ki kichhu, ar eta bishesh kotha holo, ar eta kotha khuje ber kora thik chhilo.",T,"crq, gc"
+"Mm hmm. Ha, oi ghor e aschhe, ami chilam resume niye ekti maner friend chilo amar. Tar por amader mukhe chhilo ektu-beshi onno rokom er akta bhabna. Tai ami protibar-o ami bhalo kori. Ar, chhobishotty, eto bhalo na holo. Ar tomar chhokra ta jeno or kichhu kichhu hoyechhe na. Ar chhokra ta o tai bhalo chhilo, karon o ekta bhalo baba. Ar or onek somoy or sathe onek kichhu kore. Ar amra kichhu kichhu korlam.",P,"cd, id"
+"Tai ei rokom ekta kotha tomay or or sathe shobkichhu bole onno kore. Ekmatro tomake na, to, tomake, ar tomake, ar tomake jokhon dhorechilo, tai, to, ora or, tai, ki korbe eta khub bishesh.",T,"gc, irq"
+"Ha. Ha. Ar o or to, o, o, or tomake onek help korte chhilo. Ar, o, oke niye amar ekti bishesh somoy ekti bishesh bhoy hochchhilo. Tai, etai mone hoi, je oi, etai mone hoi je oi bhabna theke ami ekjon ke call korlam.",P,id
+"Tomar mone hoy ki, tomar jonno ki kichhu opshon ache je tomake korte paro, jodi kichhu, tomar mone kono kotha ache, tomar mone ki ache?",T,irq
+Ami ek bochor er jonno keo kotha bole nai.,P,id
+khub akela hoye gechhen?,T,crq
+"Haan. Haan, ami amar maa baba khub dure thake ar ami bhabte parchi je, je, kono rokom er ekta boyfriend ar moto ache, keu keu kache ache na. Tini mone kore obak. Tini amader niye kheyal rakhe. Ar tai ami abar kaj korte chai. Kintu tini bolche ami kaj korte dorkar nei, karon tini amader niye dekhte hobe. Tini diaper nie ashbe, tini taka debe jabar somoy. Tai shomoytar beshi kichu dorkar nei.",P,"cd, id"
+Tai tumi kaj korte niye mon bhorechile kintu tini bolchen je tini tumader niye dekhboi niye rakte ichhuk. Ar jabar somoy tini tumi niye rakhe.,T,crq
+"Haan, haan. Tini amader niye dekhe ne. Tini amar jonne eto taka debe je gharer basis kichu dorkar nei, rent ta tini dei. Kintu jabar tini thake na, tokhon taka shesh hoye jai, tokhon amar mone hoy, ami kichu nite pari na. Ami khubichh kibhabe korbo bujhte parchi na.",P,cd
+Tai jabar tumi taka nite na pawa tumi khub paristhiti te porte pare?,T,irq
+"Haan, ami jani. Ar ami jani je etake k k bolar, ami bujhte pari na. Kadom kore tini keo keo ke niye kotha bolte chesta korchi. Kabhi kabhi tini tini upare kotha shunte.",P,id
+"Tai jabar tumi taka na pawar shomoy, tumi ki kore tumi cheshta korte barte kintu k?",T,gc
+Haan. Haan. Tai ami bujhte parchi na. Ki kore korte hobe bujhte parchi na. Ami ete khubi bhalo na.,P,gc
+Ami eta bolte chai je amra kuch kotha dekhte parbo jeta shomvob hoite pare je tumi ar kotha bolte chaile bujhte parbo. Kintu ami etar dike tomar kotha bojhar jonno khub kritoggo. Eta kothin kotha. Ar tomar etake niye kotha bolte tui ekti shanto kotha. Ar etai bujhar jonno ami tomake beshi dhonnobad janai.,T,gc
+Dhonnobad. Eta khub kathin.,P,gc
+"Haan, ami jani. Amar kache ekadhorer meye guli etai ekta shomoy dekhe, jara arokomer paristhiti te ache tader ekta kotha dekhte. Ar etar upor amra kotha bolte parbo jeta shomvobho hoite pare je tui aar kichu bhalo kore korte parbi ki na, ki korbo.",T,gc
+Thik ache.,P,gc
+Ar amader jonno kichu kichu kotha ache je amra kotha bolte parbo je je kotha tui bujhte parbi eta diye ki korte parbi ki na. Amra nishchoy amra ei bishoy ta niye kichu kotha bolte pari.,T,"gc, id"
+"Haan, thik ache.",P,gc
+"Haan, haan, ektu ektu notun notun maader jonyo etai khub kothin sob kichu rokomer sthiti te nijer kotha rakhar ekta rasta pawa, aar nijer bhalo theke rakha uchit. Tahole ekhane toh amra oi bisoygulo niye kotha bolte parbo. Aar erokom ar kichu bisoygulo tomar chele meye ke niye khub ujjwal kore rakhar bisoygulo aar tomai ektu ki, ektu ki ki bhabe dhyan debo aar eisob sthiti te? Shuru korar jonno, tomar ki vabcho?",T,"gc, id, orq"
+"Eita hasi ki, ami eta dekhte pelam, ami mone korchi, ami shudhu shudhu baby er opor focus korechi aar ekti bhalo ma hote cheye and, and, aar ami oshudhur ekta kaj korte chai kintu ami janina ei duto kivabe ek sathe fit korbe. Aar ami eto bole jetuku jete parlam. Ami nijer kotha bolchilam jodi. Jeta ekta bhirbhum. Jeta ekta kajkor bondhu, ma o shishu niye boshonto o shongbad sohoje. Aar eta prothom shob, ami eta sob somoy mone kori aar ekhon ami na.",P,"od, id"
+Tai shayad tumi toh onek somoy toh tomake bhabar somoy nitei thako tomar sambandhe aar shomoy ghorate kintu shomoy ki. Aar ekhon toh tomake mone hoy kintu ami kichu aro bisoygulo vabe dekhe dekhte pari ja amra kotha bolte pari.,T,gc
+Ei kajgulo jodi kaj aar bhalo ma howar niye chinta korte pari sheta paribarik sambandher jonno kaj karar jonne shayad ei je.,P,gc
+Tai toh tomar upor ekta dhyan dite parbe kibhabe tomar nijer kotha rakhar jonne kibhabe kaj korar somoy ar shishur niye samay dekhar somoy kibhabe shayad ota tomar shomoshar jonne kibhabe tomay mukt korbe aar sei shomoshar kemon karbo niye tomar kotha bhabar somoy?,T,"gc, crq"
+"Sambandher sathe ki korbo? Haan, sambandher sathe ki korbo? Ami sure na sambandher sathe ki korbo.",P,cd
+Haan. Tumi jano tumi kivabe tobe amra niye ja hobe tao tomar kothay.,T,"gc, id"
+"Ami eitao mone korina ki vabte hobe. Ami jani na kivabe. Haan, ami mone kori ami kono nirnaye nei.",P,gc
+"Haan. Aar eta shuni toh tumi aro kichu khetre kichu nirnaye nite icche korecho. Aar, eta bhabar somoy, eta thik? Ki bolcho tomai kichu kajer chinta korar bishoye?",T,"gc, yq"
+Haan. Aar erokom ektu ma hote thakar sathe ki boshar bishoye kibhabe toh eta toh kintu bhalo bhalo lage.,P,op
+Tumi pele tumi ekta kajer shomoy por theke chakri kora bishoye vabei ki bhabe shayad jodi baby rod hoy jibon ta ki hobe? Aar eivabe bhabte giye ki mone korocho?,T,"gc, orq"
+"Aami mone kori shuru te jodi aami temon aamake aro somoy chai tokhono, aami tar protita abar maddyo dorkar hobe. O toh aaro kichu korena. Ei somoy. Tai ami janina. Aar eto bhoy, ami janina eta ki dekhabe. Tai aar oke jonno kichu aro maddyo pete hobe chakri korar jonne shomoy. Aami aro kichu khujte hobe jebhabe jiboneo eto somoy.",P,"od, id"
+Tai toh tomar dorkar hote pare kichu aro option-er pae aar ekshomoy shishur dorkar khetre kichu arekta dorkar niye jate tomai korar ei nijer kajer bishoye vabei ki bhabe tomai kajer jonno bhalo lagbe eta bhaabe.,T,gc
+"Haan. Haan. Kono jinish jeta amar biswas tomai toh. Haan. Aar ami mone kori eto bhoy. Aar ami dorkar hole ami keu trust korte pari. Haan. Aar ami kintu shudhu er somoy bhule jete hobe ebong ekta chakri jetar chakri te aami still breastfeeding korte pari aar tader ghum e shomoy dhorte pari aar ami sei jonno thakte pari dinshesher shomoy, kintu tar protita din bhalo kore taka korbo etar jonno kintu bhalo kore kaj korar jonno. Haan. Ei onk.",P,gc
+"Eto toh tomar shomoye tomar shishu niye theke priti o purotai dharon kora shunte parcho jeno aar tomar shishur jonno protyekta dorkar niye taka shukti o ondho, ondho rakhbar toiri kora shunte parcho.",T,gc
+Umm Mm hmm. Eita toh amar jonno kono onk boro kaj. Ami mone korina ami cheyeche shishu korte. Aar tarpor ami kintu kori. Ami shishu chini ni. Aar ami naami ami ki korbo. Kintu shishu amar jonno sobcheye important.,P,"gc, id"
+Thik.,T,gc
+Ami ekhon mone hochchhe na je ami tini ke niye mone mone eto somoy kete gechhi. Ar amra ki tini phire ashte pare ar tini amader bhalobase? Ar keno tini oi bishesh kichhu korechhilen oitar karone ar tini keno tader bhalo bashar bishayete keno chintito?,P,gc
+"Eibhabe asha, friend banate ichchha kore na?",T,crq
+"Ha, keno tini. Ar eita ami kichhui khani je ami ekhon mone mone babar kotha mone kori ar",P,cd
+"kintu to, amra ekhane duibar mone mone bolechhi je to, etai toke eto ajib kore, tui etai kivabe mone korechhish ar tui etai kivabe approach korechhish. Eibhabe mone korechhish je tui kichhui bhabte pare bhinn kore",T,"gc, id"
+"Bhabar dukkho to mone korechhi. Mone hochchhe je ami sudhu asha korechhi ar kamona korechhi ar etai mone hochchhe je amar sob focus sudhu ami kichhui mone kori. Eibhabe babar kotha bhabte khub kathin, kintu je, kintu jodi ami ekhon e niye kotha bole je etar chinta nishchinte mone kore bole eta ekhon ami kebol babar kano chhokh gola nishchinte mone kore? ya keno tini amar call gulo phire paayni keno? ya keno amake oi akta nijer lok deyechhilo, jabar age ami kaj niye kotha bollam ei rokom kichhu mone korte khub onnotomo noi.",P,"gc, id"
+Tai tui bujhte jacchhis je koto mone monei babar dike dhyan deoa lagchhe. Ar etar jonno koreo kichhui korte kathin. Dujonkei mone korte kathin.,T,crq
+"Amake tini tar madhyome sahajjo dorkar. Ha, amake tini niye chinta kora dorkar noi.",P,cd
+Hmm,T,gc
+Ami bujhte parchhina safety planning er mane ki?,P,crq
+"Ekhon ekta kichhu je amra dekhi, seta hochche jar dorkar je, jara tui jemon, tader kache jemon, eirokom kichhu chinta korte pare, ja hobe ja hok, kintu sometimes jodi bujhte chokh thake je jodi kichhu ekta hote pare tobe seta karone ki korbo, ar apni o babar jonno kivabe suraksha nite parben, seta bujhar jonno setai hochche.",T,cd
+"Tai jodi tini ekhane onno kore akta ajib lok dekhte paay ar eirokom dorkar dekhechhi, kintu tini age eto kichhu koreni.",P,gc
+Ebar tini ei baro korechhilo?,T,crq
+"Ha. Ok, tai, jodi ami oi khanakhanita drishtir moton dekhte paai ta hole ki korbo?",P,gc
+"Ha, ha. Ar, ar, ar sometimes eta se chokhe dekha jaay je, apnar jonne kotha hochhe, eta nishchoi tomarke suraksha dite jay, ya nishchoi tomar bachcha ke suraksha dite jay, lokederke kotha bole, ar eta just setai kichhu je apni korte paren, apnar jiboner moto ar ki ki, apni ki ki resources ache ta barta dhorar jonno. Tai apni erokom kichhu ki vabben chinta korte chay?",T,gc
+"Mone to thik to bhabte chilo na je ami amake ke niye suraksha nite pari, je tini amake bhalobase boleche, ar babar keo bhalobase boleche. Eta kichhui alochhona mone hocche na.",P,gc
+Kichhui dorkar nei je etai thakbe.,T,gc
+"Na, eto thakbe na. Kintu ami tini ki korechhilen ei bujhte parchhilam na. Tini to eto kichhui koreni abar. Tai etao ektu asamayi hoye elo",P,gc
+Khub e tomarke asamayi hoye elo. Tai tomarke eta kothai bojhar jonno just ektu age bhabte dorkar,T,"gc, crq"
+"Ha. Bujhar por ekbar amar eta sob bujhe nilam, ebong tahole ami etake kothai theke barte hobe ar ebar kivabe agamikal chalan korbo ta niye kichhu nirdeshon banabo. Amake ektu bujhte dorkar je tumi kothay.",P,"cd, gc"
+"Haan, thik aache. Cholo, dekhi jete pare ki ami sob kichu bujhechi na, ebong amra ei theke kothao jete pari ki na, ebong kibhabe tai korbo nirdeshon niye ya jinishgulo. Ami niye nite chai je ami tomader situation er shomossha tike vhalo kore bujte chai.",T,gc
+Thik ache.,P,gc
+"Ar ei, prathome toh, eto pore tomra eshechho. Eto pore eto kichu ghotlo je toke jeno darie dhora fello, je push korechhe tar jonno, tokhono porjonto tomar kache kono oviggota holo ni. Tomar shishur kache tomar kache raksha korte ichchha roilo, tomai rokto nite roilo. Tomar shongshar toiri kora holo on off ekti obosthaye ache, kintu tokhono tomai shikriti korechhe ebong tomar shishu'r mool byabsayik avashyakta gulo pochhondo korechhe ebong tomar shishu'r dorkar gulo pochhondo korechhe ebong tomar kache dekhano roilo. Ar aro kichhu shomoy ache je bhalo. Ar kichhu shomoy ache je tumi kom ovabe monojog rakhecho, ebong ei ghotona tai tokhonoi tomake thikmoto vabe mone hocche kintu tomar ei ghotona tai ektu chintar bodole tai tai holo. Ar tomar ei chinta tomar shongshar theke kichhute thik kora upokrito hoite tomai chintai daach kore niyeche ebong tomar kache dekhte chai ebong, ar kichhu shongshar theke kichhu kora gulo chintai daach kore niyeche, ar tomai chintai daach koreche je bhalo plan kora taile tomar kache surakha roilo. Ami ki sab kichhu bujhechi to?",T,"gc, id"
+"Hm, haan, eita sob capture koreche. Haan. Ami jane na. Ami jane na kothay theke suru korbo. Kintu ekhane achi tai mone hochche ami tomar sathe kotha bolchi.",P,gc
+"Haan. Haan. Tai shomoy thakle amra next step nibo ebong amra aage pore protikkhone kotha bolbo ebong amra tai korbo je amader protikkhone kotha bolar jonno ebong protikkhone amra je duijon poren dekhte pari tike raksha roilo ebong, ebong dekhte pari tike, jodi tomar eirokom karone tomar aage jaoar nirnay niye, ekhane kichhu options aache ebong resources aache.",T,"gc, id"
+"Tai jemon, amar resume niye kichu help korte pare keo.",P,gc
+Option ache beshi kichhu ebong amra erokom kichhu bishoy e giye kotha bolte parbo.,T,gc
+Thik ache. Thik ache. Eta shunno shunno lagche. Thik ache.,P,gc
+"Bhalo korei amra ei bikkhobh er jonno aponi eshecho ajker dine, ar amra ei kotha theke protikkhone follow-up korbo, ar ei kotha theke tomay asha kori je tomar jonno ei sob dorkar holo tomar nirnay gulo niye, ar phirikhon, ei sob tomar nirdeshon tomar jonno, tomar jonno je ki kono pariborton chay na chay, ar tomar next step ki hobe, tomar jonno.",T,gc
+"Dhonnobad. Mone hocche amra amar shishu ke shefa khone theke nie ashbo, ebong, kono rokom appointment korbo naki?",P,"gc, crq"
+"Haan, cholo ekta arekta appointment niye nibo.",T,cd
+Thik ache. Dhonnobad.,P,gc

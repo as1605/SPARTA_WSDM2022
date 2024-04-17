@@ -1,0 +1,24 @@
+Utterance,Type,Dialogue Act
+"Ami jani koyek saptah aage amra dekha korechhilam, tumi depression manage korar kichhu upay dekhte chai, hoi toh medication chara. Ei karon e ajke tumi ekhane eshecho?",T,"gc, yq"
+"Ha, ami seta chai.",P,op
+"Thik achhe. Ami kichhu note nebo, jodi thik thake, just amra ki kotha bolchhilam ta track rakhar jonno. Tumi thik thakbe to?",T,"gc, yq"
+Ha. Thik thakbe.,P,op
+Tumi ekta Coffee niye jete paro pore. Ami mone kori je specific situation niye kotha bolle khub helpful hoi. Tumi ki kono recent somoy mone korte paro jokhon tumi particularly depressed feel korechho ebong eta tomay affect korechhe?,T,"gc, irq"
+"Umm koyek saptah aage, ami kichhu bondhuder sathe dekha korte cholechhilam antenatal classes theke. Amra proti saptah dekha kortam. Kintu ami eto klanto ebong low feel korchhilam. Jete parini.",P,id
+"Thik achhe, tumi klanto ebong low feel korar somoy ki chilo tomader moner moddhe, je tumi jete chai ni?",T,"gc, irq"
+"Jokhon ami bhabte suru korlam onno maader hasi ebong golpo korte, ebong ami kichhu bolte parbo na.",P,id
+Ebong eta ki mane hoto jodi tumi kichhu bolte na paro?,T,irq
+"Tader mone hoto ami boring. Tader ki proyojon amake okhane rakhar, jodi ami onno der miserable kori?",P,id
+"Mone hoi khub kothin chinta, ebong eta tomay ki anubhuti korechhe jokhon tumi ei chinta korchho?",T,irq
+khub low,P,id
+"Thik achhe, eti bujhte parbo. Ami mone kori je tumi low feel korbe jodi tumi nijer upor khub critical ebong negative chinta koro, ebong depression e ei dhoroner chinta khub common. Eta ki tomay kichhu vabte dey ni je tara tomay kemon dekhte pare, udahoronswarup?",T,"gc, irq"
+"Onno bachchagulo sob somoy eto happy mone hoi, ami bhabte suru korlam hoi toh onno ma ra amar theke bhalo job korchhe. Ebong ami Molly niye khub chinta kori, bhablam hoi toh se onno kono ma er kache bhalo thakbe.",P,id
+Thik achhe. Ami bujhte pari je eti khub painful hote pare. Ebong eta tomay ki anubhuti korechhe je Molly hoi toh onno kono ma er kache bhalo thakbe?,T,"gc, irq"
+Eta amay khub sad feel korai.,P,id
+Ki bolche je Molly hoi toh onno kono ma er kache bhalo thakbe?,T,irq
+"Ami depression er moddhe eto control e thaki na, ami feel kori ami khub bhalo ma noi.",P,id
+"Tumi onek emotional anubhuti mention korecho. Tumi boll echo tumi fed up, low, sad ebong sometimes guilty feel koro. Tumi ki kono physical symptoms ba body reactions achhe?",T,irq
+"Ami quite tearful hoi, kintu seta mainly amar ekla thakle. Ami eto tired. Ami just energy pai na.",P,id
+Tumi ki ekhon bhalo ghumi pachho?,T,yq
+"Molly sometimes raat e amake jagiye rakhe, seta amay tired kore. Kintu ekta bhalo raat er ghumi por o, ami still exhausted.",P,op
+Thik achhe,T,ack

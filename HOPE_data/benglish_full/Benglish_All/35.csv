@@ -1,0 +1,76 @@
+Utterance,Type,Dialogue Act
+"Sara, tumi aaj kemon achho?",T,gt
+"Ami thik achhi. Eta ek tu bhalo hote pare kintu sob somoy kharap hote pare, kintu ami thik achhi.",P,gt
+Bhalo. Thik achhe. Ami bujhte parchhi apnar kichu lakshan achhe ja apnake birkat korche.,T,irq
+"Tara amake bother korche. Thik achhe, ami sobematro gato bochor school-e phire jete shuru korechhi, ami bari tei chhilam jokhon amar swami bachchader sathe kaj korchhilen ekhon ghare baire hamaguri dichhe. Tai ami bolechhilam ami school-e phire jabo. Ami 20 bochor dhore school-e achi, ebong ami bhebechhilam ami eti porichalona korte parbo. Kintu ei muhurte, ami nijekete khub udvigna ebong sob somoy chintit pai. Ebong ami ete kire ki korbe jani na. Gato saat-aat mash dhore cholche.",P,id
+Pray saat ba aat mash?,T,yq
+Hyan.,P,ack
+Apni ki bolben je ei udveg apnar upor pravab feleche? Aro din? Je na?,T,irq
+"Um, ami bolbo eta amake pravabito korche. Hyan. Kichu somoy-er jonno, jodi oyi. Aro proyojoni na, hyan.",P,id
+Aro proyojoni na. Hyan. Apni ki nijekete udvigno niontron korte sangram korchen?,T,irq
+Tai eti niontron koren. Ami sob somoy sudhu udvigno. Hyan.,P,id
+Mone hochhe apni niontron-e pete sangram korchen.,T,yq
+Hyan.,P,ack
+Eti kivabe pravabito korche se somporko amake bolun. Apni school-e ullekh korechhen.,T,irq
+"Eta, ami ekhon school-e khub ekta bhalo korchhi na.",P,id
+Moteo na?,T,irq
+"Ami bhebechhilam eti ekta bhalo chatro hobe. Ami sob somoy ekta obichalito chatro phire. Age jokhon ami undergrad chhilam. Ami sob somoy ekjon soja A chatro chhilam, kintu ekhon ami byartho hochchi ebong ami thik pari na, ami school-e fel karaay monoyog dite pari na. Ami ei class-e ki korbo, ki assignment baki ache ta niye ami sob somoy chintit thaki. Ami jodi somoy-mote kajti shompanno kori tobe eti niontron kore. Ami school-e ja kori shobai eto dhorolok korchhe. Tai ami aro beshi chintit je ami ki bhabe korbo, tarpor amar grades-e focus korte somoy ache. Eti thik je sthorer moto.",P,id
+"Eti apnar jonno sotti kosto. Hyan, eti ekta bari-r somporko ekta school",T,irq
+"Ebong bari. Ami school neye eto chintit je eta bari-te amar jibonke pravabito korche. Jemon ami thik achi, amar ei assignment ache kintu tarpor, oh amar shobai-gulo-e shomoyogi. Amra bachchader jonno rater khawar somoy porb. Oh, amar swamir shara bari-te emon jogakhichuri sarakhon. Ebong eta bari-te eto dwandwo srsti korche. Amar swami mone koren amar gharer baiyam kora uchit. Ami school-er sathe khub bhojon kori ebong tar pore ei muhurte eto boro jogakhichuri. Tai ami jokhon school-e thaki tokhon ami kromogoto chintit thaki, ami bari neye chintit ebong jokhon ami bari-te thaki tokhon ami chintit school-e thaki.",P,id
+Deal udveg shonge tai bhalo chukti,T,irq
+"Sob somoy, sob somoy.",P,id
+"Thik achi, tai ami apnake ei somporkhe koyekti prashna jiggasha korbo. Ebong kichu je paniya baa kon oshudh porichito hote pare?",T,yq
+"Na, monto na. Ekdom na.",P,on
+Apnar ki kono chikitsa shart ache?,T,yq
+"Na, monto na.",P,on
+Kichui na. Apni ki kono onyo kono mansik swasthya byadhit hote akronto hoyechhen?,T,yq
+Na.,P,on
+"Kakhono panic attack hoini, apni kono otite kakhono emon akromon korchen?",T,yq
+"Na, na.",P,on
+"Tai anek udveg, kintu kon atanko sudhu sudhu",T,irq
+Apratirodhyo udveger moto udveg.,P,id
+Tivr udveg?,T,yq
+"Hyan,",P,ack
+Kintu eto sob somoye apni anubhav koren ni je apni ekta ghor baa ei jatiyo kichu theke paliye jete hobe.,T,irq
+Oti theke kono ghotona,T,yq
+Na,P,on
+"Thik achi,",T,ack
+Apni kakhono kakhono prante baa asthir bode mone koren?,T,irq
+Asthir?,P,crq
+"Asthir, hyan",T,cd
+Asthir.,P,id
+Apni ki nijekete shojjei kronto mone koren? Ami,T,irq
+Sob somoy kronto.,P,id
+Sob somoy kronto.,T,yq
+Hyan.,P,ack
+Apnar ki manoyog dite baa apnar monke fak korte kono somoy kono problem ache?,T,yq
+"Na, sotti khayal nei.",P,on
+"Kivabe birakti somporkhe nijeke khoje. Khitkite,",T,irq
+"Na, sotti khitkite noy.",P,id
+Kono peshi tano?,T,yq
+"Sotti na. Na, thik achi.",P,on
+"Hello. Ghumer somosya tai ghumiy'e pora, ghumiy'e thaka otriptho ghum, erokom kichu?",T,irq
+"Achha, amar otriptho ghum ache. Kintu amra sobematri sare eshechi ebong amra ekta karkhana'r pashe thaki. Sob somoy truck ache ebong baire ache je songe boste pare? Karkash shobdho hochhe.",P,id
+Tai apni mone koren je eti apnar ghumer byaghato ghôtate pare.,T,orq
+"Eta shompornto bhabe sombhob. Ke jeno ghumat'e pare? Thik ache, amra ratrati rat'er somosto ghonta ebong shokaler bikalear moddhe truckgulike bhêtore-baire peyechi, tai ei awaj pele ghumiy'e pora pray osombhob.",P,od
+Apni shete jawar age.,T,crq
+Amar mone nei.,P,cd
+Koto din age apni Florida'y chole gachen?,T,irq
+"Um, koyek bochor.",P,id
+Koyek bochor?,T,yq
+Haan.,P,ack
+Tahole apnar kache koyek bochor dhore eto golpo ache?,T,yq
+Haan.,P,ack
+Tai lakshanguli ato mash age shuru hoyechhilo.,T,irq
+"Haan, tai ami jani na tara eto toiri korechhe kina. Ami jani na eti toiri korechhe kina jodi eti aro kharap kore tole, ba shudhu golmal hoyeche. Tai ami jani na eti golmal kina ba keno kintu ami ghumate parchi na.",P,id
+"Thik ache, kono chhuti ba onno kichu somporke kemon?",T,irq
+Ami duhkhit.,P,id
+Kono chhuti nei.,T,gc
+Tai apni motamuti ghumiyechhen. Jotodin uposorgo charpase achhe totodin apnar bari te proti rat.,T,yq
+"Oh, haan, haan.",P,ack
+Thik ache.,T,gc
+"Thik ache, sir.",T,gc
+Ami ei prosner uttor dewar jonno apnar proshongsha kori. Amar jonno. Ei shahajjo hoyeche. Ami ekjon counselor'er sathe apnar somoy suchit pete jachhi. Ebong tara hoya uchit. Koyek diner moddhe dekha hobe.,T,gt
+"Oh, apnake dhonnobad. Dhonnobad. Ami eta niyontore pete ami tai proshonno korbo.",P,gt
+"Ekebare. Jotno nin, sir.",T,gt
+Dhonnobad.,P,gt

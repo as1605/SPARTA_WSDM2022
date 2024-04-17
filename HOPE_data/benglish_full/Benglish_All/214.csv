@@ -1,0 +1,19 @@
+Utterance,Type,Dialogue Act
+"Okay, so ami uttor er jonno ekta prescription likhechi. biotic four, eight, and ota ear infection er jonno help kora uchit. But chart ta dekhar pore, I mean, goto bochore kimba tar ashe pashe o etar six or seven ta niyeche. Eta bishal boro ekta problem.",T,gc
+"Yeah, eta ektu beshi stressful amader jonno. Eta asholei kharap hoye jai.",P,gc
+"Accha, bacchader multiple ear infection er primary risk er onnotomo karon actually smoke exposure. Apni ki smoke koren?",T,irq
+"Yeah, Kori, ami smoke kori, but ami or ashepashe kori na. Ami onk try kori or ashepashe na korar.",P,id
+"Well, eta ki obostha je tar kaan-e infection hocche, etai amar kache dhoroner protibedon hoyeche je tini dhuye porche. Tar bishay e ki bolte paro?",T,irq
+"Ami jani na. Maane, ami khub chesta kori je tini ke amar kachhe dhuye na hoye. Ami car-e dhuye na. Tini bari theke ber hoye dhuye. Ami bushe dhuke dhuye kori na. Ami just, maane, ami jani eta bhalo noy. Ar tini o jani eta tiniar jonno kharap. Tai ami chesta kori khub.",P,id
+"Ami khub seriously chai je tumi smoking chhoro, tomar jonno oar jonno. No smoking tiniar pashe na thakar sathe matro kaan-e infection naki, prochur beshi hoite pare, shighroi tiniar kaan-e tube lagano lagte pare oar dhoroner kichu ongsho gulo o ache, jevitamin C-er kortobbo, danta cavity, vartamaner bhalo-bhabe barta na mano, asthma, aar onyanyo uporshwa shonge. Eta to shob kichu tiniar jonno khide othaaye. Oar baire theke dhuyaar bapor ar chhoto theke chhoto lokgulo oar moto smoking kore. Tumi chao o to smoking korar jonno boro hoye?",T,"id,orq"
+"No, kintu ami smoking kori na, ami, ami chinta korechi, kintu eta khub kathin. Tai ami jani na kivabe korbo.",P,"on,od"
+"Toh eita to chhara hoye geche. Ei samayi tomar jonno smoking chhoro. Eta khub beshi holo na shudhu tiniar jonno, je ami bolechi, kintu oar jonno o tumi o chhara khub risk-e rakcho. Tomar jonno lung cancer, emphysema, oral cancer, heart disease, shob rokomer riske o tumi nijei tule niechho. Tumi chao to tini boro hok smoking korte?",T,id
+"Ami jani, jani. Lokgulo bolechhe, amake boleche, ami shunechi shob. Kintu ami jani na kivabe korbo. Etoi kathin.",P,"orq,ack"
+"Ei, eto kichu tomake upokarjonno ache. Ei somoy-e eto kathin holo na. Tumi nicotine replacement use korte paro. Ei aache patch, lozenge, gum, inhaler, nasal spray, oar porichoy korar jonno dawa gulo. Tumi Chantix try korte paro, Ziban try korte paro, ache quit smoking groups jate jaoa jay, ache hotlines, kichu karon-e tumi chhara chhoro na paro. Eta khub important.",T,od
+"Ami bujhte parchi. Ami jani eta important. Maane, shobai-er kachhe problem ache, to? Eta khub, khub kathin.",P,"ack,gc"
+Ektu beshi important ki hote pare tomar cheleder bhalothe?,T,irq
+Ami jani na.,P,on
+Ami khub seriously chai je tumi bolbe je tumi smoking chhoro. Eta khub important.,T,crq
+"Ami sob gulo dekhte jabo. And I'll find, I guess, ami kichu khujte chesta korbo, and ami amar doctor er sathe kotha bolbo.",P,cd
+"Okay, bhalo, ami mone kori tomai seriously ei vabe mone rakhte hobe. Like I said, eta apnake and apnar bacchar jonno bhoyongkor.",T,od
+"Okay, jai hok, okay.",P,ack

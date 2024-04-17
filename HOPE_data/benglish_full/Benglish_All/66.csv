@@ -1,0 +1,33 @@
+Utterance,Type,Dialogue Act
+"Hi, Hazel are aaj korchhi.",T,gt
+Thik achhe.,P,gt
+Thik achhe. Haan. Ami jani jokhon amra apnar grahoner jonno sheshbar dekha korechi. Apni kichu uposthapona samborke udvigna chilen ja apnake school-e dite hoyeche. Haan. Aar apni aaj je samborke kotha bolte chan?,T,id
+"Haan. Tai, school-e. Ami shikkhokotar jonno school-e achi. Aamader uposthapona dite hobe onek kichu jemon apni kalpona korte paren, bibhinn bishoye, aar tai eti eto kichu jeta punoravritti hoy. Aar ki ghoteche, ami ekta sotti kharaap ek ekbar diyechhilam. Amar uposthaponer upay. Haan, ami khub bhalo bodh korchi na. Aar ami diyechhilam, ami mone hoy ami sara raat porashona kore sotti je klanth hoye porechilam aar ami sotti ekta kharaap uposthapona diyechhilam. Aar tarpor theke akhonkar moto, jemon ami poroborti uposthapona deowar chesta korechi, ami khub nervous, aar ami sekhane ghamchi aar ami ja bolte jachchi ta bhule jete shuru korar moto. Aar ami thik moto, ekta bhoy, sekhane utha aar ekta uposthapona pete hocche karon ami mone kori ami eta boma korchhi.",P,id
+"Thik achhe, tai ki emon ekta somoy chhilo, jokhon apnake uposthapona dite hoyeche?",T,irq
+"Haan, mane, amar jiboner age aar ager moto, ami amar degree-r shesher dikhe achi. Tai apni janen, program jure ami achi.",P,id
+Apni kivabe bibechona korben?,T,irq
+"Besh bhalo, mane, ami nijekete khub bhalo chatro hisabe bibechona kori. Tai sadharanot ami besh bhalo kori, mone hochhe, apni janen, kothao theke beriye asun.",P,id
+"Tai apnar dewa ei uposthapona-ti ekta kharaap score peyeche, sambhobot eti ekta bichhinna ghotona chhilo.",T,crq
+"Haan, ami jemon bolchhilam ami khub bhalo bodh korchi na.",P,cd
+"Kintu sei abhijatota akhon o poroborti uposthaponagulir sathe onek kichu udveger dike niye geche,",T,yq
+"Oh, haan. Jemon, ami pholsorup amar grade-er kosto niye chintit. Aar apni janen kotokkhon ami ki korte jachchi.",P,op
+"Thik achhe. Sutaraṅga, eta ki thik hobe jodi amra ekṭi prezenteshon dewar puro prokriyar modhye diye jai",T,yq
+Oboshoi. Thik achhe.,P,op
+"Ami eti diye shuru korar thik age, eti ki emon kichu ja udveger dike porichalito kore? Thik ei mohurte ba onno somoye apni uposthapon korchen jokhon sotti je thik sei mohurte?",T,irq
+"Beshirbhaagoi. Eti sei muhurte sobcheyei tibro. Ebong sambhobat etir dike agiyey jawar moto, prostutir moto je ami jani je eti ghotote cholchhe. Like, ami sobshomoy jani jokhon ami like uposthapon kortey jachchi, eta emon hobe je shikkhok bolben, oh, bhal, aapnijanen, apanar ei brishtibar, onno karo porer brishtibar. Sutroong eti sei event'er joto kache aase, ami toto beshi udvigno, protyashar moto.",P,id
+"Thik achhe, tai aapni udveg anubhob kortey shuru koren. Uposthaponar koyekdin age?",T,crq
+"Haan, ami beshirbhaagoi koyek din bolbo.",P,cd
+Kokhon eta aapanar jonno sotti ei kosto-dayok hote shuru kore?,T,irq
+"Dui din age naki ekdin age? Ami, oh, amar Ishwar, moto, ami prostut? Like ami ki jodi jagakhichudi? Aapni ki janen jodi ekto kharap grade pete ei shob moto ki ifs.",P,id
+"Thik achhe, tahole aapni ki thik thakben jodi amra ei prokriyay porbe and uposthaponar dhapgulo bheenge feli? Thik achhe, tahole chalun tahole aapni ekhon je class ti nichechen tar ektoi ki?",T,irq
+"Shaishob,",P,id
+"Tahole dhora jak ekhon theke koyekdin por sei classe aapanar ekto uposthapona ache. Ami shudhu ekto sadharon uposthapona ache. Haan. Thik achhe. Sutroong, ekhon dui diner baire jawoya jak, jekhane aapni eti somporko ekto udveg anubhob korben. Haan. Je dui diner out point aapanar moner mone ki jacche?",T,irq
+"Um, ami chai, ami ki yatheshto prostut? Jemon, ami ki yatheshto korechi?",P,id
+"Thik achhe. Tahole aapanar chinta hochhe, ami ki yatheshto prostuti niyechi?",T,yq
+"Haan. Jaa hote pare ami jaa korchi ta hol ami sotti je bhabchi, ami yatheshto prostut noi jemonota howa uchit.",P,op
+"Sutroong uposthaponar 40 ghonta age aapni ei chinta korchhen. Ami yatheshto prostut noi. Ebong je chinta somporko chinta dhorno. Ebong pore ki hobe? Aapni je kono dhorno abegporon, abegpurno, abegpurno protikriyo moto ekto protikriyo ache?",T,irq
+"Tai sei muhurte, ami sadharanoto poshondo kori, aro udvigno, hoyto ekto birkhtir moto. Odhikango kshetrey.",P,id
+Ebong eti yatheshto porimane aporibortito thake sei anubhuti kotdin dhore?,T,irq
+"Ami ager diner moto achi jokhon ami nitpikinger moto achi tokhon er moto aro tibro hoy, achha, ami eti bhule gecho ba ami eti bhule jaini ebong, aapni janen, sheshbar jokhon ami na kori tokhon ki hoyechilo ta mone ache eto bhal na kora ebong amar grade niye udvigno howa, jemon amar mathay aro chintabhavana ase ja ami bhule gecho ba ki jinish jodi sajano hoi.",P,id
+"Thik, tai eki dhore je chinta aro tibro, aro tibro ebong anubhutio aro tibro.",T,crq
+Haan.,P,cd

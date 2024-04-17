@@ -1,0 +1,101 @@
+Utterance,Type,Dialogue Act
+"Hello, Judy Thomas.",T,gt
+Haan. Hi.,P,gt
+"Hello there. Ami Dr. Beji. Ami ekjon notun GP, practice e. Ar ami ajke apnar sathe dekha korchi Dr. Jones er bodole, je apnar usual GP?",T,"gt,irq"
+"Haan, uni amar GP. Haan.",P,id
+"Prothome, apni amake ki dakben seta bolen?",T,gt
+"Oh, Julie thik ache.",P,gt
+"Thik ache. Thik ache. But Julie, apni ajke amake dekhte esechhen keno?",T,"gt,irq"
+"Well, etai jeta ami Dr. Jones er sathe dekha kori, amar heart niye.",P,id
+"Haan, ami bujhte parchi je apni koyekbar esechhen tader sathe gat koyek mash e. Apni ki abar bolte parben ki problem, apnar nijer kothay, jate ami bujhte pari.",T,irq
+"Ami shudhu ei obostha gulo peye jachhi je amar heart onek jore jore dhoraf dhoraf korte thake, boom boom boom boom boom. Ami chest pain pachhi, shwas neoa jachhe na, ar eta amake funny feel koriye dey apnar sathe kotha bolte. Amar heart jore dhoraf kore, shwas neoa jachhe na, ar chest pain hochhe. Ami bhoy pachhi ami mara jabo.",P,id
+Ar apni ekhane amar sathe thakte ektu anxious feel korchen.,T,crq
+"Haan, kotha bolte bolte ami feel korte parchi je eti abar shuru hochhe.",P,cd
+Apnar somoy nin. Thik ache. Apnar heart jore jore dhoraf kore ar apni mone koren je apni shwas neoa jachhen na.,T,crq
+"Haan, etai to. Haan. Haan.",P,"ack,cd"
+"Eta koto din dhore cholche, Julie?",T,irq
+"Mone hoy, prai chhoy mash, basically.",P,id
+Thik ache. Ar apni mone korte parben je eta shuru holo kivabe?,T,irq
+"Well, mone hoy amar kajer jaygay kichu problem chhilo. Ar ami normally er cheye beshi stressed feel korchilam kaj niye. Ar basically, ami ekdin chutir dine town e jachhilam, khub gorom chhilo, onek funny gorom din chhilo, ar hothat kore eta shuru hoye gelo. Amar heart jore jore dhoraf korte thake, shwas neoa jachhe na, ami shudhu haa haa kore shwas neobar chesta korchilam. Tarpor chest pain shuru hoye gelo, khub kharap lagchhilo. Ami manage kore boshte pari ar amar husband ke phone kori, uni actually kaj chhere esechhilen amake neobar jonno.",P,id
+Right. Mone hoy eta khub unpleasant experience chhilo.,T,crq
+"Eta chhilo khub awful, bhoyankor, haan.",P,cd
+"Ar Julie, je somoy eta town e ghotechhilo, apni ki mone korchilen je ki hochhe?",T,irq
+"Ami mone korchilam ami heart attack pachhi, ami bhoy pachhi je etai hochhe.",P,id
+Right. Thik ache.,T,ack
+"Apni jani, ami chesta korchilam je emon situation avoid kori je ami etar moto hote pari.",P,gc
+Apni ki ki jinish avoid korchhen?,T,irq
+Ami ekhon town e jete pari na husband chara. Amar husband amake kaj theke neoa ashe. Ar ami mone korchilam je ami amar heart er upor kono strain deoa uchit na. Tai ami ekhon onek exercise ba onno kichhu korchi na.,P,id
+"Ar onno kichhu, ki dhoroner jinish apni korchen na?",T,irq
+"Personal jinish, personal jinish.",P,id
+Thik ache. Ami mone korchilam apni sex life er kotha bolchen.,T,crq
+Haan.,P,"ack,cd"
+Right.,T,ack
+"Ekhn ami mone kori, ami erokom kichhu korle heart er upor beshi strain hote pare.",P,od
+Apni sex avoid korchhen jate heart rate na barhe.,T,crq
+haan haan,P,"ack,cd"
+Thik ache. Eta apnar husband er sathe relation er upor ki prokriya koreche?,T,irq
+"Sotti bolte, amar husband ekhon onek irritated hochhen. Uni khub kind ar supportive chhilen, kintu ami mone kori ekhon eti uni ar tolerate korte parchhen na. Uni amake last week pub e jete bollo, ar ami promise korechilam je ami jabo, karon ami ekhon bahir hote bhoy pachhi. Kintu jokhon time esechhilo, ami parini. Ami shudhu sofa te bosechhilam ar eta abar shuru hoye gelo. Ar ami bhoy pachhilam je pub e giye ami sick hoye jabo, ar eta sobar jonno embarrassing hobe. Tai ami jete parini, ar ami mone kori uni ekhon onek frustrated hochhen, karon eta hothat kore ashe. Ar ami age kokhono ei rokom kichhu suffer kori ni.",P,id
+"Mone hoy uni frustrated hochhen, karon apnio khub fed up feel korchhen ei sob niye. Julie",T,crq
+"Haan, thik. Haan, haan.",P,"cd,ack"
+Shudhu jate ami golpo ta thik bujhte pari. Eta shuru hoyechhilo prai chhoy mash age. Tar age apni erokom kichhu experience korechen?,T,crq
+"Na, ekdom na. I mean, amader kajer jaygay ekjon notun manager esechhilen, ami bank e kaj kori, ar tarpor ekta notun computer system install hoyechhilo, tai staff der jonno onek stressful hoye gechhilo, shudhu ami na. Ar ami bujhte parchi je ami onek beshi pressure te chhilam, ar seta amake affect korte pare.",P,"on,cd"
+"Shudhu jate ami thik bujhte pari. Eta shuru hoyechhilo chhoy mash age, kajer pressure, town e giye prothom attack, tarpor ar kichhu attack, ar ekhn apni town e ekai jete chai na.",T,crq
+"Na, ami risk korte chai na, honestly.",P,cd
+"Apni jani, apni pub e jachhen na, ager moto socialize korchhen na, exercise ba sex er moto jinish avoid korchhen, ar eta apnar relationship er upor impact felche.",T,gc
+Haan haan haan.,P,ack
+"Thik ache. Thik ache. Ar ami jani, apni ekta ECG korechen, Dr. Jones er organize korechhilen koyek mash age.",T,yq
+Haan.,P,ack
+Apni ECG er result niye ki shunechen?,T,irq
+"Well Dr. Jones bollo je sob thik ache. Kono problem nai. Ar ami relief feel korlam, obviously, amar family te events hoyeche, amar baba mara gechen ekta heart attack e, 72 bochor boyose. Tai ami mone korchilam amar heart e hobe. Kichu ekta problem ache eikhane. Dr. Jones je bollo shunle khushi holo. Kintu onno dike, kichu change hoini. Eki problems pachhi. Kono help pachhi na. Ektu mone hocche, well, expert der moton ami bad heart niye bhugchi na, kintu eki symptoms pachhi, aro beshi kore.",P,id
+"Tai, apnar GP je bollo heart e kono chinta korar kichu nai, apni ki mone koren je apnar heart e kichu ekta problem ache?",T,crq
+Ami bujhte parchi na. Apni ki mone koren Dr. Julia?,P,"on,orq"
+"Ami Dr. Jones er sathe ekmat. Ami mone kori apnar heart e kichu problem nai. Ami etai bolchi karon apnar ECG normal esechhe. Usually heart e problem thakle ECG te kichu ekta dekhano uchit chhilo. Ar apnar kono risk factors nai heart disease er jonno, karon apni smoke koren na, apnar blood pressure, notes theke bujhte parchi, sob somoy thik thakche. Apni fairly young. Ei problem aage apni fit chhilen, active chhilen. Ar ami jani apni apnar baba niye chinta korchhen, heart attack paben, kintu uni apnar theke onek beshi boyoska chhilen. Tai apni ekdom eki risk bracket e porchen na jei bracket e uni porchen.",T,"od,id"
+Right.,P,ack
+"Tai ami mone kori apnar heart e kono problem nai. Ami ki bhabei mone kori, actually, eta ki Dr. Jones er moton, actually, eta anxiety je apnake ei symptoms gulo dey. Apni ki mone koren je eta heart problem er cheye anxiety hote pare?",T,"od,irq"
+"Ami recently mone korchilam, hote pare karon amar ek friend panic attacks paben. Ami or sathe discuss korechhi, uni bollo honestly, eta panic attack er moto shonachhe. Ami sob somoy mone korechhi amar heart e problem. Ami bujhte parchi na je amar brain kivabe amar heart ke jore dhoraf korate pare.",P,id
+Thik ache. Okay. Kauke apnake anxiety ba panic attacks niye explain koreche?,T,irq
+Ami jani na.,P,"on,id"
+"Okay, tahole hote pare apnar kache ektu beshi shonar dorkar. Amader kidneys er upore duto chhoto gland ache, ar tara amader adrenal glands.",T,id
+Right.,P,ack
+"Ar tara ekta hormone produce kore, adrenalin. Apni shunechhen eta?",T,yq
+"Haan, shunechhi.",P,ack
+okay. Ar adrenalin amaderke fight ba flight er situation er jonno ready kore. Eta term apni biology class e school e shunechhen?,T,yq
+"Haan, shunechhi. Haan, shunechhi.",P,ack
+Apni mone koren ki fight ba flight mane ki?,T,irq
+"Mone hoy, jodi scary situation hoy, apni fight koren ba palan, basically apnar body trigger kore eta.",P,id
+Haan,T,ack
+eta korar jonno.,P,gc
+"Haan, exactly. Adrenalin release hoye flight ba fight response er jonno. So jokhon apnar body kichu korar jonno ready hote hobe, adrenalin surge kore, ar adrenalin basically apnake action er jonno ready kore.",T,"ack,gc"
+Right.,P,ack
+"Eta apnar heart rate baray, breathing speed up kore, apni run korar jonno ready hoy. Muh shukno lage, mone hoy lightheaded. Kintu ei rokom symptoms paben.",T,gc
+Sob gulo actually. Okay.,P,"ack,gc"
+"Jei lokeder panic hoy, first time adrenalin release hoy, hothat kore, hote pare stress er somoy, ar apni bollo je kajer jaygay kichu chilo, stressed out feel korchhen, town e chhilen, gorom chhilo. Tai hote pare eta first panic attack er piche. Jei lokeder ekbar panic attack hoy, tara aro bar bar paben.",T,gc
+Hmm.,P,ack
+"Ar karon holo, ekbar jei lokeder ei rokom kichu hoy, tara bhabei, Oh, eta abar hobe?",T,gc
+"Absolutely sure. Ami amar heart monitor kora shuru korechhi. Ar jokhon jore dhoraf kore, ami worried hoye jai. Ar tarpor ar beshi jore jore dhoraf kore. Mone hoy eta.",P,gc
+"Haan, apni exactly describe korchhen. Julie, eta amra hyper vigilance bole. Apni apnar heart er upor ektu nazar rakhchen. Beshirbhag lokeder heart rate din er moddhe baray komay, kintu tara chinta kore na, karon tara notice kore na.",T,"ack,gc"
+Right.,P,ack
+"Kintu jokhon apnar panic attack hoy, apni bhaben, Amar heart ki korche?",T,crq
+Haan.,P,"ack,cd"
+"Ar jokhon ektu change hoy, apni clock koren, notice koren, ar tarpor anxious thoughts ashe, apni worry koren.",T,gc
+"Ami really worry kori, bhabei, ekhon hobe? Amar heart ki thambe jabe?",P,gc
+"Right, apni ei rokom anxious thoughts paben, ar gulo bhoyankor, karon apni bhaben, Oh, amar heart ki thambe jabe, eta apnake aro anxious kore dey, ar tarpor aro beshi adrenalin release hoy.",T,gc
+Right.,P,ack
+Ar eta apnar symptoms ke aro pronounced kore. Ar eta apnake aro beshi believe kore tole je apnar sathe kichu ekta problem ache. Eta ki apnar kache sense make kore je ki hochhe?,T,"od,yq"
+"Eta sense make kore, doctor.",P,ack
+"Ekti jinish je apni korchhen, anxiety thakle onek lokeder moto, apni avoid korchhen jei jinish gulo trigger kore.",T,od
+"Haan, town e hathte parina ar kichhu.",P,crq
+"Exactly. Ar short term e eta apnar symptoms alleviate kore, karon apnar panicky hote hobe na, kintu joto beshi avoid koren, toto kom chance apnar kache thake je kichhu awful really hobe ki na.",T,"ack,cd"
+"Right, haan.",P,ack
+Eta ki sense make kore?,T,yq
+"Haan, sense make kore.",P,ack
+"Dekhi, jodi amra ei problem ke anxiety hishebe dekhi, onek rokom approach aache, amra tablets niye vabte pari. Ar amra aro kichhu kotha boler approach niyeo vabte pari. Ei sob approach er pros and cons aache, side effects aache, je gulo amader discuss korte hobe. Ami ektu time er dike nazar rakhchi, mone hocche ajker session er appointment er shomoy shesh hote choleche, kintu thik aache, ami bhabei dekhi, apnake ki next week abar dekha kori, ar treatment options gulo niye aro carefully vabte pari, ar ek sathe decide kori je apnar jonno kon option bhalo hobe.",T,id
+Okay,P,ack
+Eta kemon lagche apnar kache?,T,yq
+"Haan, thik aache. Thik aache.",P,ack
+Session shesh korte aage apnar kono prashna aache?,T,yq
+"Na, ami next week er jonno apnar sathe appointment kore nebo.",P,ack
+"Thik aache, ami apnake next week dekha korbo.",T,gc
+"Okay, dhanyabad, doctor.",P,gt
+Mone holo bhalo. Thik aache.,T,gt
+Bye bye.,P,gt

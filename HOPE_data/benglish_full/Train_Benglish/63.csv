@@ -1,0 +1,73 @@
+Utterance,Type,Dialogue Act
+Shudhu aj eta korte agiye jAn.,T,gc
+Apani bhalo korchhen.,T,gt
+Ami bujhte pechhi je apani somproti ejensite probesh korte kichhu osubidhar shommukhine hoyechhen.,T,gc
+Hyan.,P,ack
+Amake eta somporko bulun.,T,irq
+"Acha, ami prai dedh mash age ekti gari durghotonaay porechhilam. Ebong ami sobematro eiiguli korchi, ei shomoshhyaguli ja amake bAdha diche ja ami kortey obhysto.",P,id
+Durghotona somporko bulun.,T,irq
+"Thik ache, ami kaj theke bari jachchilam, ebong ami ekti stop sign e boshchi ebong amar pala jawar jonno opEkshA korchilam. Ebong ami jokhon stop sign diyechiye agiye jachchilam, tokhon ekta gari eshe amake pash diye dhakka dile ebong amake soja stop sign diyechiye dhakka dile.",P,id
+Apani ki aghat peyechen?,T,irq
+"Ami khub ekta kharap noi, jodi-o khub bhItikor. Eta khub bhItikor chhilo.",P,"on,id"
+Ar eta khon?,T,irq
+Eti prai ek mash chhilo ebong ami onumon korchhi hote dui mash age?,P,id
+Pray dui mash age?,T,crq
+Hyan.,P,cd
+Thik. Ebong khon upshorgo shuru hochhilo?,T,irq
+Kichhukshon pore.,P,id
+Ami prai ek mash dhore besh kharap bodh korchi.,P,id
+Ei anubhutigulir kichu pan.,T,gc
+Amar onek udveg chhilo.,P,id
+Bishesh kore jokhon amar gari te othar kotha ashe ebong jowar jaygaguli sotti bhoye obhibhoot hoye. Shudhu bhoye pacchi je ami arekti gari durghotonaay porte jachchi.,P,id
+"Apani, apani ekhono gari chalachchen?",T,irq
+"Onek na, onek na.",P,"on,id"
+"Eti khub beshi gari chalachchena, tobe apani gari chalate shokkhom. Kintu apani jokhon gari chalan, tokhon onek udveg, onek bhoy thake.",T,od
+Hyan.,P,ack
+Apani ki ghotchhe se somporke onu beshi shocheton? Tomar charpash?,T,irq
+"Oboshhoi. Ami mone kori Um, ami shochetone bhabbo je ami parbo na. Kono kono ami kothay jachhi setiwo focus korte pari na karon ami rastar somosto chaloker dik diye monojog dichchi, shudhu, apani janen, nischoit koren je ami aro ekbar aghat na kori.",P,id
+"Apani nishchit non, apani apanar charpashay ki ghotchhe se somporke onu shochotonotar sathe gari chalachchen. Udbigno ebong bhirki.",T,yq
+"Hyan, hyan. Swabhiker cheye onek beshi.",P,ack
+Eta somporke amake bulun.,T,irq
+"Thik ache, amar kukur ache ebong ami amar kukurke bhalobashi ebong idaning tara ja kore shoboi amar snayute pore. Apani janen shudhu gheu gheu hata. Ami shob kichu bollate chacchi ebong ami jani na eti kotha theke esheche ami age kono somoy tader sathe emon chhilam na kintu tara shudhu amake eto bhirko koreche je ami kono somoy tader ashepaseo chai na.",P,id
+Apani ki akshennt risheshiv lokkhn shuru hobar por theke?,T,irq
+Apanar ki sukh anander moto itibachok anubhuti achhe?,T,irq
+Ekhon sobkichui amake ar bishonno kore. Sobkichu. Kichui thik hochhe bole mone hochhe na.,P,id
+Upsorg shuru hower por theke noy.,T,crq
+"Apani ki janen jokhon kichu apanake obak kore kibhabe? Ebong apani chomke jachen, tai na? Eta sobar jonno svabhavik. Apani ki lokkho korechen je sei chomokprod pratikriya ekhon bhinn,",T,irq
+"Durghotnar por? Eta sobkichui amake chomke deyo shudhu apani janen, darjay toka deoya ba phone-er ring ba ekhane jekono dhore kaj amake amar twak theke bhoy dekhay.",P,id
+"Tai eta, eta atiter cheye onek beshi.",T,gc
+"Hyan, ami age kono emon chhilam na.",P,gc
+Apanar ekagrata pariborton achhe?,T,irq
+Ami kichhutei focus korte parchi na.,P,id
+"Ami school-e achi. Ebong jokhon amar school-e porar jonno kichu karar thake, tokhon ami khub bibhranto hoye jai. Amake boita bondho kore onyo kichu kortehobe. Ami parbo na. Hyan, amar school-er kajer khetre ami oboshoyi focus korte pari na.",P,id
+Tahole jokhon apanar monoyog dite shomosha hochhe? Ki dhorener chinta apani dike bibhranto kora hochhe?,T,irq
+"Jodi amar kothao jawar jinish thake apani janen, gari-te otha ebong driving kora ebong apani onyo durghotnay porar somvobona janen tobe amar onek chintavhabona amar garite thaka ebong durghotnar upor focus kore bole mone hochhe ami je jhakan mone hoy na.",P,id
+Tai chintagulike ekpase thele deoar chesta korechi ebong tar pore tara akhono sekahne roechhe.,T,yq
+Hyan.,P,ack
+Ghumer somoshyay,T,irq
+Ami kichhuta achi,P,id
+Ghumate amar kono somosha nei kintu thakhte somosha hochhe,P,id
+Rater besh koyekbar jagano.,T,yq
+Hyan,P,ack
+Onno lokeder sathe apanar somporke apanar mone hoy eki durattwo roechhe ba apani ki ghonishtho ba aro bichhinno bodh koren?,T,irq
+Achha amar ma sambhobotho ami jar sobcheye kacher manush. Ebong ami sotti te tar sathe ar beshi somoy kata te chai ni. Ami sotti te sudhu bari te thakchi ebong sudhu nijeke thaki.,P,id
+"Swapno somporke, durghotnar ghotonagulir moto swapne pariborton ashe.",T,irq
+"Thik ache, ekdin rate ei swapnati amar kache atke giyechil. Ami kaj theke bari jachhilam. Ebong ami haiowayette uthte jachhilam. Ebong ami Sairen asche shunte. Ebong ami Sairenguli kothay jachhe ta dekhte thamlam ebong tara amar kachakachi ebong kachakachi chole eshechhilo ebong tara amake ghire rekheche bole mone hochhe ebong ami chhilam, opexa korun, ki hochhe? Ebong ami jege uthlam ebong ami chhilam, oh amar Bhagaban, apni ki janen, amar mone hoyeche ami thik sekhane chhilam. Sei mohurte jekhane ami ekati gari durghatnay porechhilam ebong polis durghatnar protikriya janiyeche tobey eti arro tibro hoyeche. Jemon, apni janen, ami er age emon swapn dekhini.",P,id
+"Ebong jokhon apni jege uthlen tokhon mone hochhe apni shonkit chilen stress korte chan na, apni jokhon ghumiye chilen na ebong swapner moto bolechilen tokhon ki emon hoyeche? Apni ki kokhono emon ekoti muhurto peyechen jekhane apni gari durghatnay fere esechen? Apni janen je gari durghatona ghotchhe, mone hochhe apni satyikaron shekhane fire esechen.",T,irq
+Hoyto ekbar ba dui bar kintu.,P,id
+Nischoit noi.,P,od
+Kon chikitsa somossha ache?,T,yq
+Na.,P,on
+"Kichu-i hocche na. Ebong drag ba alcohol boshor,",T,yq
+Na.,P,on
+Temon kichu na.,T,crq
+Apnar ki durghatnar somosto biborno mone ache? Athoba apni ki mone koren je smritir tukroguli onuposthit?,T,irq
+"Ami satyikaron bistarito mone korte pari na. Ami shudhu tar somporke jani. Ami jani na ami na. Ami ki ghoteche mone korte paren na. Ebong lokera amake jiggasha korte thake ebong ami kebol, ami kichutei mone korte pari na. Satyikaron? Ki holo.",P,id
+Tai kichu memory khoti je ghire.,T,crq
+"Haan, oboshoyi.",P,ack
+"Apni ki kokhono ba, ba uposorgguli asar por theke? Apni ki kokhono mone koren je apni satyikaron nijeke non, apni nijer theke bichhinn hoye porechen ek dhonno abostobh abhijnotho ba apni prithibi theke bichhinn hoyechen, jekono ek.",T,irq
+Erokom anubhav koro. Thik ache.,T,ack
+"Jessica, ekhane amader kothopokothoner upor bhitore, ami apnake ekjon poramorshodatar sathe dekha korar jonno set up korte jachchi jodi eti emon kichu hoy jeta apni unmukt. Ebong ami ki ghoteche amake bolrar jonno ebong amar proshner uttor dewar jonno apnake dhonnobad janate chai. Eta khub sahayok hoyeche.",T,id
+Apnake dhonnobad.,P,gt
+Dhonnobad.,T,gt
+Goodbye.,P,gt

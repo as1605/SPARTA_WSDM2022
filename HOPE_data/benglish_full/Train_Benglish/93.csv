@@ -1,0 +1,51 @@
+Utterance,Type,Dialogue Act
+"Jacky, aajke kemon achho?",T,gt
+Thik achhe. Tomar ki obostha?,P,gt
+Ami bhalo korchi. Jijnasha korar jonno dhonobad. Ami bujhte parchi apnar sampratik kichhu somoye hoyeche ja apnake agency te nie esheche.,T,gt
+"Haan, ami amar chakri hariyechi.",P,id
+Aapni apnar chakri hariyechhen?,T,crq
+Karon ami drug porikshay bortho hoyechi.,P,id
+Aapni ekta drug poriksha bortho hoyeche.,T,crq
+"Tai amake amar kajer jonno maje maje golf cart chalate hoye, ami parking loter modhye gari chalachhilam, ami ekta gari te dhakka maram. Tarpor mone koro eti ekta boro chukti chhilo. Eta emonki ekta boro chihno chhede na. Sotti. Gari'r malik eti somporke besh birkotto hoyechhilen ebong ami jante perechhilam je ami eti korechhi. Ete bharti hoyechhi. Tai ami eti jonno jhamelay porte chhaini. Sutara, jehe tu eti ekta durghatona chhilo, apni janen, oshudher poriksha korar jonno ami amar mathay kichhuta aghat korechhilam, ebong ami ager raate kichhu agacha kheye chhilam. Tai ami eti poron ebong boshkar kora hoyeche.",P,id
+Aapni ki sachetan chhilen je eti ekta durghatona chhilo? Tumi ki protibad korbe?,T,yq
+"Um, aami? Aami eti jantam na. Ekhon. Aami onumon kori je tara hoyto amake kono ek somoye bolechhilo, kintu aami sambhobota etir proti manoyog dechhilam na ba aami etir jonno prostut chhilaam na.",P,id
+Tai apnar chakri haranor poriniti hoyechhe.,T,crq
+"Um, haan, mane, ami baba-ma khushi non. Ami kono ortho uporjon korchi na, spashTatay. Tarpor tara, tara khub khushi noy, etir jonno gaser ortho te tader upor nirbhor kore. Khono kothao jan na, amar bondhuder sathe kichu koro tader kachhe taka chai. Tai tara kichhuta, apni janen, amake ekta chakri pete ebong abar nijekete samarthan korte sahayyo korche.",P,cd
+Ki dhoner kaj korte hobe?,T,irq
+"Um, ami nirapottay kaj kori, ami ek dhoner monitor parking lot, apni janen, ticket nin, erokom jinish.",P,id
+"Sutara, ei niyogkartader beshirbhag drug screen proyojon hobe.",T,crq
+"Haan, etai amar somossha. Ami ekta notun chakri khujte chesta korhechi. Ebong motamuti tader shobai drug tester proyojon ache. Tai ami ekhono ekta orjito na. Tai eti ekta somossha hoye utheche. Tai ami katta te chai kintu ami korte parini. Tai amar sottiye ekta chakri dorkar. Mane, ei sob jinish. Eta sob apni janen je dhoner nirobodh. Ami eta nirobodh khujhe. Eta kora ute dorkar. Ami ekta agacha dhumpa korele ke chintakore, apnio janen. Avaidh hote.",P,id
+Kintu apni ki eta avaidh bole mone korechen?,T,yq
+"Haan. Tai ami bolte chachchi, sottiye kichu kshati ghotachhe na, ebong kauke aghat. Tai haan, amar sottiye ekta chakri dorkar. Tai ami ekhane achi dhoner je ekta handle pte.",P,op
+Tahole apni eksathe ganja boshor korte chan?,T,crq
+"Haan, amake chakri pete hobe, ami mone kori na, ami abar elomelo drug poriksha chai na.",P,cd
+"Thik achhe, apni ki ekhon apnar ganjar boshor erokom kotha bolte paren? Sheshbar kheye kothay boshor kora hoyechhilo jemon?",T,irq
+"Um, ami asole ekhon bolchi aaj shokale amar roommate kichu bondhuder kache. Thik achhe, amar roommate noy kintu amar bondhu je ashe ebong majhe majhe amar sathe thake. Ebong amra bolchi kichu ei 'shokale tai korechhi.",P,id
+"Tahole sompriti ebong coke shomporke kemon hoye achen, apni kothokhon ei koto diner dhore boshor shuru korlen?",T,irq
+"Onek din age, ami garbhitobhave byabohar kore aschi jehetu ami bolte chachchi, jehetu ami high school-e chhilam, ami eta shuru korechi amar jiboner ekta boro angsho. Ebong amar bondhura eta kore. Amar bondhura kore. Tai ha.",P,id
+Onyo kono drug ba alcohol ba onyo kichu?,T,irq
+Shudhu matro marijuana. Haan.,P,id
+Aapni ki lakhyo korechen je somoyer sathe sathe aapni aro beshi byabohar korchen?,T,yq
+"Haan, ami bolte chachchi aapni janen, ami, ami ekta komanoar chesta korchhi ami halo bolbo, ekta dhoompan koro ebong tarpare aapni janen, ami amar bondhuder sathe adda diye adda dite jachhi. Shudhu ekta sotti deirgho somoyer jonno ucch hochhe. Ebong cholun shudhu sob sara raat ki. Tai.",P,op
+Tai eta onek somoy gras korche.,T,crq
+"Haan, haan. Haan. Ami kibhabe aro kichu pete jachhi ta niye sob somoy chintakori ebong abar bari te jawaar chesta kori. Ebong tai eto sotti deirgho neye ebong eti ekta bibhranti. Tai",P,cd
+Apanar gajjar jonno lalsa achhe,T,yq
+"Na, na, ami sotti e anuman kori na.",P,on
+"Ekhon, apanar gajja bhabar karone apanar ki kono samajik somossha hoyeche?",T,irq
+"Amar kaj chhada onyo kotha boli, sekhane shobder mane, amar bondhura ami eta korbo, ete somossha ache. Tai",P,id
+Apanar gajja bhabar karone apani ki onyo guruttopurno kriyakalap-guli miss korben?,T,yq
+"Ekhon, mane, ami sotti e onek kichu kori na tai ami sotti e onek kichu miss kori na",P,on
+Apanar gajja sebaner karone apani ki onyo guruttopurno kriyakalap-guli miss korben?,T,yq
+Eibar amar basement theke ber hao ebong sotti e kichu koro na. Tai,P,on
+Apanar ki monoshik shasthya somossha ba chikitsa shongkronto kono itihas achhe?,T,yq
+Na. Na,P,on
+Apani jokhon amar ekoti byabohar bondho koren tokhon ki apani kono udveg ba sharirik lakshan lokkho koren?,T,yq
+"Na, ami thik bodh korchhi.",P,on
+Tahole apani byabohar bondho korte koto anupranito?,T,orq
+"Amar kichu onsho sotti e chay na, kintu eti eto kichu jeta amake korte hobe. Apani janen, amar ekta notun chakri dorkar ebong ami chirakal amar baba-mayer upor nirbhor korte chai na. Eta beshi bhirbiktokor. Tai ami eta beshi protishrutibaddho. Ami bolbo, haan,",P,od
+Apani eta protishrutibaddho.,T,crq
+Haan.,P,op
+Ami apanake ekhane ekjon counselor-er sathe dekha korte jachhi jodi eti apanar sathe thik thake.,T,id
+"Haan, eto sotti e sahayok hobe. Sahayok hao.",P,op
+Ki ghotoche ta amake bolar jonno ebong amar proshner uttor dewar jonno apani ei somoy dewar jonno ami proshansa kori.,T,gt
+Apanake dhonnobad.,P,gt

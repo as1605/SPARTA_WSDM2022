@@ -1,0 +1,87 @@
+Utterance,Type,Dialogue Act
+"Hello, Jane Evans. Hi, ami Dr. Betty. Ami ekjon psychologist, ekhane psychological medicine department e kaj kori. Ar ami ajke apnake dekhte esechhi karon a&e theke apnake refer kora hoyechhe. Ami bujhte parchhi je apni koyek raat aage apnar haat e kete felen.",T,"gt,gc"
+Haan.,P,"gt,ack"
+"Ami mone kori apni esechhilen relationship shesh hobar por, tai na?",T,yq
+Haan.,P,ack
+"Okay. Okay. Ami ki bandage ta ektu khulte pari, apnar haat e?",T,yq
+Haan.,P,ack
+"Okay, okay. Apni kemon achen Jane, sheshbar dekha hobar por theke?",T,yq
+"Baje, ami just bujhte parchi na je she chole geche.",P,on
+"Right. Ar eta apnar boyfriend Mark, tai to?",T,yq
+Haan.,P,ack
+Okay. Okay. Apnara koto din dhore ek sathe chhilen?,T,irq
+"Mone hoy, shudhu koyek saptah. Kintu, jinishgulo khub bhalo cholchhilo. Ami bujhte parchi na. Ami mone korte parchi na je she just chole geche.",P,id
+"Right. Ki holo Jane, je relationship ta shesh hoye gelo?",T,irq
+"Well, ami bolchhilam, jinishgulo bhalo cholchhilo, tai ami or kache bolchhilam je she amar sathe thakuk. Ar uni bollo je she chai na. Ar amra argue korechhilam, boro jhamela hoyechhilo. Tarpor she bollo je she chole jabe, ami or kache binti korechhilam je na jete, kintu she tobuo chole geche.",P,id
+Tai she chole jawaar por apni kete felen?,T,yq
+Haan.,P,ack
+Right. Apni ki bolte parben je kete feleni somoy ki holo?,T,irq
+"Well, she chole jawar por ami eto betha feel korchhilam, ami ar sahte parchhilam na.",P,id
+Right.,T,ack
+"Ar amar voices gulo incessant chhilo, ami just chaichhilam je betha gulo, voices gulo shob shesh hoye jabe, tai ami nijer ke kete feli.",P,id
+Ar eta betha ar voices komate sahajyo korechhe?,T,irq
+"Haan, haan, just haan, ami mone kori betha ta chole geche ar raat e blood dekhe ami bhalo feel korchhilam. Eta amake bhalo lagate sahajyo korechhe.",P,id
+"So, cutting ta, eta ki apni aageo korechhen?",T,crq
+Ami teenager thekei eta kori.,P,cd
+Right. Okay. Ar mone hoy je kichhu somoy e eta apnake sahajyo kore.,T,crq
+Haan.,P,"ack,cd"
+Right.,T,ack
+Ar betha ta komate sahajyo kore.,P,cd
+Right. Ar cutting er kono downside aache?,T,yq
+"Well, haan, mone hoy betha ta ektu beshi hoy. Mone hoy asol kotha holo, amar haat ar paa gulo ekdom mess hoye geche.",P,"ack,id"
+"Right. Okay. Okay. Ar apni Jain voices er kotha bolchhen, ar ami jani apni aageo doctors er sathe ei bisoye kotha bolchen.",T,crq
+Haan.,P,"ack,cd"
+"Kintu ami ki apnake kichhu prashna korbo, e bisoye, jodi thik hoy? Okay, apni bolte parben je voices gulo shunte shuru korechhen kobe theke?",T,irq
+Teenager thekei.,P,id
+"Ar apni ki janan, koyta voice aache ba ke tara?",T,irq
+Ami jani na ke tara. Mone hoy amar stepdad.,P,id
+Right.,T,ack
+She amake bole ami kotota dirty. Ami kotota horrible. Janina kintu sometimes amar ma o bole.,P,id
+Tomar maa ki dhoroner kotha bolche?,T,irq
+Mone hoy se amar jiboner niye kichu bolche.,P,id
+Thik ache. Ar tumi ki koto bar ei voices gulo shunte pao?,T,irq
+"Ora shob somoy ache. Beshirbhag somoy chupchap thake, kintu majhe majhe onek jore hoy, jemon arek raat, mone hoyechilo mice gulo amar ghore ache.",P,id
+Tumi ki mone korecho ora ghore chilo?,T,irq
+"Na, ami jani ora ashe ni, kintu mone hoy amar mathay onek jore.",P,id
+"Thik ache, ami shudhu clarify korte chai, oi voices gulo ki tomar mathar moddhe mone hoy? Naki amar kotha shonar moto kan diye ashe?",T,irq
+"Na, mathar moddhe, haan.",P,id
+"Thik ache. Ar ami ki thik bujhte parchi, ora tomake beshi trouble kore jokhon tumi stressed hoye thako?",T,yq
+"Haan, thik.",P,ack
+"Thik ache. Ami ki kichu general prashna korte pari, tumi ki mood niye kemon feel koro, nijer moddhe?",T,irq
+"Beshirbhag somoy, ami just ami noi.",P,id
+"Mone hoy onek somoy kothin hoy. Mone hoy tumi age cutting use korecho help er jonno, ar ki kichu koro jokhon onek kharap feel koro?",T,gc
+"Drinking, majhe majhe kichu spliffs khai, ekhon onek kom, age jani na, ami khawar niye ekta funny bhabna chilo, binge kore tarpor abar throw up kori.",P,gc
+"Thik ache, kintu eta past e chilo, kintu ekhon ar na?",T,crq
+Ekhon ami eta kori ni.,P,cd
+"Ar ami jante pari Jane, mone hoy jokhon tumi arek raat cutting korecho, tumi pain theke mukti pete chai. Ami shudhu clarify korte chai, tumi ki suicide korte chai?",T,yq
+Na.,P,on
+Thik ache. Past e ki kono somoy ache jokhon tumi suicide korte chaisile?,T,orq
+"Late teens, tarpor 19 bochor boyos e, jani na, ekta point e giye ami ar thakte chai ni. Tai kichu tablets niyechilam.",P,id
+"Tai late teens e, ar sei somoy tumi tablets niyeche karon tumi marte chai. Thik ache?",T,crq
+Haan.,P,ack
+Thik ache. Kintu sei late teens er por theke tumi ar marte chai ni?,T,yq
+Na.,P,on
+"Thik ache. Ami ki kichu general prashna korte pari, tomar bari niye? Bari te ke ke ache?",T,irq
+"Ami amar meye niye thaktam, kintu ekhon se tar baba er kache chole geche.",P,id
+"Thik ache? Se tar baba er kache giyeche, eta ki sesh koyek mash e hoyeche?",T,irq
+Ek bochor age.,P,id
+Ar eta ki niye chilo?,T,irq
+"Se amar cutting niye cope korte parchilo na, tar bondhura janoto. Se janto eta hocche. Ar ami mone kori, ami mone kori, ekta boro karon chilo amar relationships.",P,id
+Tumi ki relationships niye kotha bolcho?,T,yq
+Hmm.,P,ack
+Ektu beshi bolo ki niye?,T,irq
+"Jemon Mark er sathe sesh relationship ta, shuru te bhalo chilo. Tarpor ami onek bhoy peye jai, bhoy peye jai je ora chole jabe, tarpor jhogra hoye jai, ar ora shesh mesh cholei jai.",P,id
+Thik ache. Ar mone hoy tomar meye tar niye struggle koreche.,T,crq
+"Haan, se bujhte parchilo na je se asbe naki jabe.",P,cd
+Thik ache. Onek relationship e emon hoy.,T,gc
+Haan.,P,ack
+"Thik ache. Tumi age koyekjon manush dekhecho, koyekjon psychiatrist ar counselor. Kono kichu ki koreche je bishesh helpful hoyeche?",T,gc
+"Eta faltu chilo, pillar theke post e ghurechi.",P,gc
+"Mane tumi kichu e pao ni je helpful hoyeche, tumi manage korte paro na tumar relationships ba cutting, je sob kichu tumar jibone vul hoye jai.",T,crq
+"Mone hoy keu amake shunte chai na, tumi ekmotro manush je amar kotha shunecho.",P,cd
+"Tumi ki mone koro eta ki worth hobe? Eta ekta long standing problem, clearly eta onek aspect e tumar jibone badha dey. Tumi ki mone koro amra abar dekha kori, ar ekbar bhabte pari kivabe service tumake best support korte pare ei niye?",T,orq
+Tumi ki bolcho ekbar dekha kori? Ami ki tomake properly dekhte pari?,P,crq
+"Well, amader department e amra manush ke ekbar ba dui bar dekhi, ar tader sathe bhabte chai je tader jonno best place ta kothay hobe, tarpor tader refer kori most appropriate parts e service er. Tai amar jonno usual noi je ami tomake ekbar ba dui bar er beshi dekhi.",T,cd
+"Haan, ami bolchi, tumi ekmotro manush je amake shunecho.",P,od
+"Ami jani manush ke open up kora kothin, ar ami jani tumi ekhane ajke open up korecho, ar mone hoy kharap lagche je tumi amake ar dekhte parbe na, kintu amader ei department e ei vabe kaj kora hoy, tumake pass kori onno kauke, je tumar needs er jonno maybe beshi appropriate hobe Jane. Tai ki thik hobe ami tumake next week e abar ekta appointment er jonno book kori, ar amra bhabte pari kothay jete hobe seta niye?",T,gc
+Ta thik hobe.,P,gc

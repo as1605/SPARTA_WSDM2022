@@ -1,0 +1,17 @@
+Utterance,Type,Dialogue Act
+"Okay, Felicity, aage shuru korar age, je kichu niye aascho amader kotha hobe, aajke tomar jonno ami ekta mudda uthate chai. Mone hochhe, tomake ei bhabe amake dekha hoyeche, jabotio tumi eshechile etai dekhechi.",T,id
+"Hmm, ami Jake er maa. Ami tomake kindergarten e dekhechi.",P,ack
+"Hm, exactly. Toke kindergarten e kichu kichu porjonto dekha hoye jay, etai mone hocche amar jonno ekti chhoto issue toiri hoyeche. Ami ekta manoshik rokom, ar amar client der sathe kichu niye amar jonno certain boundaries ache. Ar mone hochhe, amader ei somoy er baire, amader dekha holo kivabe manage korbo ta bole kotha hote pare.",T,id
+Okay. Hmm.,P,ack
+"Ekhane ami ektu bhabe bolbo, amader kichu alada options ache. Pahli option holo je, ami therapy te engage hote decide korbo na. Karon baire dekha te kichu problem hote pare. Tumi eita kemon mone hocche?",T,irq
+"Hm, ami mone kori, amar jonno ekta problem hochhe je ami kichu kotha bole, ar amar kachhe baire giye kichu bole kora jabe na. Okhane aar kauke kotha bole dite parbo na.",P,id
+"Hm, baire sobuj sorone kichu scope thake na, tai ami bujhte chai, tumi kemon manage korbe, amader baire therapy room e giye ami ar tumi kivabe appropriate boundaries maintain korbo. Tumi kindergarten e dekha hole, amra ekare arekare acknowledgment korbo, ar aage thakbo ki kore, eita ki tule nebo, tai tumi ki vabe manage korte chao?",T,irq
+"Na, ami mone kori, bhalo holo je, amra hello bole othoba kichu kotha hobe, kintu ami chhoto te jodi amra ei therapy er kotha kichu bole, tahole arekjon shonbe tahole amar jonno onno kotha, valo lage na.",P,id
+"Bhalo, bhalo. Tumi eita bolar jonno shudhu ami khushi hoyeche, karon ami mone kori je, kintu amra kindergarten e onek bar dekha hobe, tai amra ekare arekare acknowledgment korte parbo, kintu therapy e amra kotha bole, ota amader therapy jonno thakuk.",T,id
+"Hm, ha. Ar mone kori, tumi any mom der kachhe kotha bolbe na, to?",P,irq
+"No, no, ami toh absolutely confidential rakhte pari, je amra ekta therapeutic relationship e achi, onno keu e janabe na. Thik ase?",T,id
+"Tai eto bole, ami mone kori je, therapy room e amra, kintu baire amra matro maa.",P,id
+"Ekdom thik. Tai, jodi amra ektu baire thekeo ektu check korte pari, je ki vabe cholche, tokhon kono problem o hote pare na.",T,ack
+"Ha, ha. Ok, eta bhalo mone hocche.",P,ack
+"Tumi mone koro, eta thik mone hocche? Thik ache. Ekhane ei mudda ta niye amra kotha hochche, tahole ajke tumi ki kothay ascho, tai ami jante chai.",T,id
+Okay.,P,ack

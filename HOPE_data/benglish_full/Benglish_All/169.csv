@@ -1,0 +1,78 @@
+Utterance,Type,Dialogue Act
+"Hi Joe, Kemon acho aaj?",T,gt
+Ami to bhalo.,P,gt
+Sudhu bhalo?,T,crq
+"Bujhtesi, ami jani ami tomar shonge share korechilam suicide niye ar aro mone hoyeche, tokhon theke aaj obdi kichu teji diye mone hoy. Bujhi ekdom klar.",P,cd
+"Tai, thoda kotha bolte paro to?",T,irq
+"Um, ami jani ami mone hoyeche, ami suicide niye jeno bochor dhore esechi, kintu abar ajke to mone hoyeche jeno ekdom besi mone hoy. Bujhi clear kore mone hoyeche ar eta amar jonno khotin.",P,id
+Tomay marte ichhe korche?,T,yq
+"Hmm, hobe. Hmm, kichudin.",P,op
+Kichudin?,T,crq
+"Um, ami mane, to bujhi, etai kotha. Tai kora jeno bhoyonkor hobe, ar amar shohor ke to thik kora jeno na, kintu ekothay ami ei sab kichu shesh korte chai. Ami ei depression er feeling ta shesh korte chai. Hmm.",P,cd
+Thik ache. Tui mane toh kono plan korechish na toh tomar jibon shesh korar jonne?,T,irq
+"Ami mane, ami jani jodi korte chai tahole toh medicine ache almari te. Tai eto kotha na. Ami sodo oi botol ta niye niye.",P,id
+"Ekhanei jeta prescribed kora chilo depression er jonne, seta na?",T,crq
+"Hmm, sei medicine.",P,cd
+Tumi mone koro toh shei plan ta kore felte jaccho?,T,yq
+"Na, mane, part of it. Tai ami chinta kori, karon, ami chinte pari, kintu ekshathe, Tor jonno bhabte darai. Tai kichhutei korte chai na kintu kichhutei darai je korte pari. Korte ichhe kori na kintu kichhutei bhoy pai je korbo.",P,on
+"Ajke tor ekta kichhutei bhoy lage na, naki tumi bhalo thakle o thake? Amar kache amader age kotha hoyeche, tomar plan, tomar jiboner sujog theke bondho kore dite r jeno oikhane thakuk, tar jonno ki bhaloche.",T,gc
+"Age, ami mone kori, ei shob theke bhalo hobe. Amar kache thik hobe. Amar biye kore jokhon aamar chole jabe, aamar paribar, aamar maa-baba, bhai-bon, tokhon mone hoi, eta shob theke bhalo hote pare. Ekdin ei sob bhalo hobe. Kintu akhon ami shuru korchi mone hoi je eto bhalo hobe na.",P,"gc, id"
+"Thik ache, toh ager kichhudin je ekoi bhabe lagchilo, na? Tumi abar je ekdom niche proshno thakcho. Protidin mone hoi je jibon er dhoron kemon kore dekhchilo tokhon?",T,"gc, irq"
+"Mane, ami mone kori ami kichhutei bhalo hotechi. Tumi jaano, ebhabei bhalo lagchilo. Tumi jaano, aami eto oikate shesh korte chai na. Aami na, aami ei shob kichhu shesh korte chai na. Jaani na. Eta ektu aghat kore.",P,id
+"Tai je kotha gulo tomar mone hochhe, eto different from what you've experienced before.",T,crq
+"Aami boli je noto toh prokar, kintu aami bolbo je, tader majhe thik ache. Ektu tader beshi aghat kore,",P,cd
+beshi intense?,T,crq
+haa,P,cd
+"Ei chinta gulo ke mone kore je amader aage kotha hoyeche, toh toh tomar jibon er bikolpo sambandh, ei shomoy eki kotha?",T,irq
+"Mane, shomoy korle shomoy ache, eta kichhu bhalo hobe. Amar sambandh, bhobishshot, ami jokhon dekhi, shob kichhu, jibon, amar sambandh, bhobishshot, ami dekhi ebhabe shob shomoy kharap. Aami dekhi shob kichhu bhul hoye jachhe. Aar aami dekhi je kibhabe ei sob bhalo hote pare, ami eto dekhi na.",P,id
+Asha bishayokota naki?,T,crq
+Haa.,P,cd
+"So ei bar ta alada karon je tumi mone koro eta beshi sithik, sopane beshi jorokom, less tired of relationships ebong more, ki bolbo, darshanik. Tumi tomar outlook dekhte chao ebong bolcho je ei theke aro bhalo hobe na. Ar ki artho ache jeno ei bhorti? Koto din dhore tumi ei bhave mone koro?",T,"gc, irq"
+"Shomoyl kore, shayad ek chotto kom.",P,id
+Ki rokto tumi shomoshsha korar shomoyetake dorshon korteche?,T,irq
+Bhoy ache korte. Eto bhoy koro. Eto ki? Eto ki amon je jehetu ek dube thaka. Jemon dube ashar pore tobe thaka. Eta atai.,P,id
+"Tumi kono korap geche naki nijerke ke apni khare korar jonno? Jemon dhoran niye gelo, dawai khabar jonno almirar dike gelo, kichu to nai?",T,irq
+"Kichudin dekhi, dekhi.",P,id
+Dekhar bade to bujha nei?,T,irq
+"Ar ki bolbo, to amar dawai, amar prescription. Tai jokhon tar somoy ashe tokhon amar kotha mone kore. Jemon somoy ase tokhon ami mone kori jekono bhabe. Karon eta ekta trigger, dawai mone kore ami. Tai ami almirar dike jai, amar dawai niye ashi, ami jeta korte hobe, seta niye jai. Tobe ami sudhu dawai'er botal dekhi ar ami kichu korte parchi na, sudhu dawai'er botal dekhi ar ami ekhane darai.",P,id
+Ar tumi ki kore uthbe?,T,irq
+Ektu somoy lagbe kintu ami taratari botaleti niye ashi. Bhoy achhe. Jemon dawai'er botal dekhe bhoy lage.,P,id
+"Ar tumar shami ebong ar poreibarke jodi tumi shomoshsha korete jaoa bhave kichu lage, ki korbe tader kache?",T,irq
+"Ha, ami oshudh korte chai.",P,id
+Tomake oi bishoye ichha nai?,T,yq
+"Na. Na. Na, amar shami ke ami chai na je amake pabe, amake tar kharap lage na. Amake ami chai na je tar kharap lage. Ami chai na je tar kharap lagbe.",P,on
+Ar jodi keu shomoshsha kore onno kauke shune tahole tara ke blame kore?,T,irq
+"Ha, tader kharap noi. Ar ami jani tara shomoshsha kore, tara shob nijer kharap abong jani tara ki rokom vabe amar jonno obostha achhe, tai tader bhalo lagbe bujte.",P,id
+"Tai ami jane eta onek kathin somoy, kintu bhalo khabar holo je tumi ete bolchho. Ar kintu, tomar kotha barta korte ele. Ei obosthay tumi ki kichu korte chai je bhalo lagbe? Tomar plan ke anujayi korbe naki tumi nijerke kosto dite hobe?",T,"gc, yq"
+"Na, ami chai na.",P,on
+tomar kotha shuntechi?,T,yq
+"Na, ami mone kori na, ami mone kori je, jodi ami shudhu mone rekhte pari tader jonno kivabe hobe ta. Eto bosor dhore ami mone rekhte pari na, tara ki bhabe boshe jabe seta bhule jai. Kintu jokhon ami smaranto, tora jaani, seta mone kore amake kharap lagche je tara ki bhabe boshe jabe. Tai jodi ami smaranto mone korte pari ota amake ei kaj ta na korte sahayak hobe. Kintu ami mone kori je, cabinet e oi guli pill ta rekhe dite joto boro akorshon amar jonno.",P,on
+"Thik aache, toh kintu ki ami ki korte pari? Tui ar husband ghore ache? Bujhechili tui ekdin dui guli khaye?",T,gc
+Hmm.,P,ack
+Shuye theke age?,T,crq
+Thik aache.,P,cd
+"Amra ki tui tui ki ei dhoroner release sign korte parbi jate ami tader shathe kotha bolte pari. Tader kache pill ta rakhte deben. Ek guli niye ekdin shuye ar ek guli ami nebo, eto ki thik aache?",T,"gc, irq"
+"Hmm, mone kori je, mone kori je eta bhalo ekta bhabona.",P,id
+Aar kichu aar ache ki medicine cabinet e ar ghore kahinu danger ashbe?,T,yq
+"Mone kori, mone kori ha, mone kori eta bhalo hoto jeno niye neowa hoye medicine cabinet e sob kichu",P,op
+sab tools?,T,crq
+Hmm.,P,cd
+Tai korte ichchuk?,T,yq
+"Haan. Haan, mone hoy, haan, mone hoy je, tai korte ichchuk hobe. Se chay amake etai korte.",P,op
+"Thik aache. Jodi ami kotha bolte parole, tobe tomar sign hobe?",T,cv
+"Haan. Oh, ami ta korte jabo.",P,cr
+"Thik aache. Tumi aage ki jancho, aage ei niye kotha hochhe tai na, naki ageo amra ei bishay ta niye kotha holo. Ekhane, tomake ei rokom obosthay dekhechi. Tomake amar kache kosto dite hobena.",T,"gc, cv"
+"Haan, haan, ami ta korte parbo. Kamon korte hobe, proti bochhor por amra punoray dekha korar age, ami bishwas korbo.",P,cr
+"Thik aache, ekta beshi nishchoi hote pare, seta er jonno kichu.",T,gc
+"Thik aache, haan, amra nishchoi korte pari, ami ta korte parbo.",P,gc
+"Ami janina, eto kharap obostha ta tomar jonno kemon hocche ta bujhte chai. Amar ichcha tomar kachhe mone rakhar karon je kato gulo shomoy age jevabe mone korechilo. Tomar protidin ei rokom depression e phele na. Ar tomar chokh diye tokhon gulo kichu beshi bhabe dekha jay. Kintu tokhon shei bhabe dekha, etao beshi saral na. Kintu jodi toke shomoy bhenge thakar shakto thake, amra ei depression cycle ta par kore felte pari. Tumi bhalo mone korcho?",T,"id, yq"
+Haan,P,op
+"Tik, toh ajke amra ki korechhi toh?",T,irq
+"Um, toh, ami ghore jabo. Amar shohor ghore thakbe. Kaj korbo, ranna korbo, TV dekhte dekhte dinner khabo.",P,id
+"So, toh, tomar ekhane theke jabe ebong amake dekhte asar modhye kichu shomoye ki tomar shonge hobena?",T,"ack, yq"
+"Um, haan, shakale shomoy bhalo kore ghore thakte parbo, kintu kaj korar jonne busy thakbo.",P,op
+"Okey, jodi ei bhabna ghire jay, athoba tomar mone hoy tomar ei bhabna niye kichu korar ichcha hoy, tahole amake kotha bole dite hobe na ki, 911 number e call korte hobe.",T,cv
+"Haan, toh to kortei hobe. Okey.",P,cr
+"Ami toh release peyeche, tai tomar shohor shonge kotha bolte parbe. Tarpor ek chhoto diner jonno tokhon aashte paren. Thik achhe.",T,gc
+Dhonnobad.,P,gc
+"Thanks, Joe.",T,gc

@@ -1,0 +1,77 @@
+Utterance,Type,Dialogue Act
+"Hi Lacey, tomay dekhe khub bhalo laglo.",T,gt
+Hi,P,gt
+Ami bujhte parchhi tomay GP refer koreche karon tumi recently onek down feel korcho.,T,crq
+"Ha, ami bhablam uchit. Onek din dhore besh kharap lagche. Tai ami bhablam hoi toh ekhon kauke dekha uchit karon ami ar ei rokom feel korte chai na.",P,cd
+"Thik ache, tomar notes theke ami dekhlam tumi GP dekhecho tin mash aage, ebong tumi altogether koto din dhore down feel korcho?",T,irq
+"Ar koyek mash aage thekeo, asole, kintu gat koyek mash e onek beshi kharap lagche. Tai ami ekhane eshechi.",P,id
+"Thik ache, tumi GP dekhar por theke ki ar beshi kharap lagche?",T,yq
+Ha,P,op
+"Thik ache, bolo toh ami shunbo, ekhon obostha kemon?",T,irq
+"Shuru te just ektu low lagto kintu ami jani na, shudhu ektu recently ami kichhu korar jonno bother korte parchhi na. Utsaho khuje pachhi na kichhur jonno ebong ami chai bhalo hote, kintu just ekhon mone hocche mathar upor eshe geche, ami kichhu korte chai ei niye.",P,id
+"Thik ache, tumi boll echo tumi onek down feel korchho, khub sad? Ha. Ebong tumi mone korchho tumi kono motivation pai na. Tumi thik acho?",T,"gc, yq"
+Ha.,P,op
+"Thik ache, ebong tumi motivation pai na, kintu mone hocche tumi nijer upor onek chap dite chao try kore bhalo feel korte.",T,gc
+"Ha, just, eta o kintu kothin karon kauke ache na kotha bolbar moto, tai ami nijer moddhe thaki chesta kori na bhebe dekhte. Kintu",P,"ack, gc"
+"mane tumi bolo, tumi quite isolated feel korchho. Charpashe onek lok nai.",T,crq
+"Ha, kauke nai je amar sathe ei niye kotha boli. Tader bujhte hobe na.",P,cd
+"Thik ache, ami chesta kori ekto beshi jante tomay niye. Ami bujhte parchhi tumi Uni te English student.",T,gc
+Ha.,P,ack
+Ebong tumi bari theke dure kichhu bondhu der sathe thako. Eta ki thik?,T,crq
+"Ha, ami bondhuder sathe thaki.",P,cd
+"Thik ache, tumi Uni theke beshi dure thako na. Kintu tumi bolo, tumi University friends er sathe thako, kintu tumi mone korchho je tader sathe kotha bolte paro na?",T,crq
+"Ha, mane ora khub bhalo, ami ora sathe bhalo bondhutto kori. Kintu ami jani na, shudhu recently jokhon ora bahir jete chai ba onno kichhu, ami chai na ora ke down kori. Ami bujhte pari na je ora amar moddhe ki hocche. Ora amar anubhuti niye maza kore na, kintu bujhte pare na eta kemon. Ami chai na ora sathe bahir giye ora ke down kori.",P,cd
+"Thik ache, mone hocche tumi chesta korchho tomader anubhuti lukaite ora theke.",T,gc
+"I guess I mean, hide kora sohoj, bar bar bujhano theke jokhon keu asole jante chai na.",P,gc
+"Thik ache, mone hocche tumi down feel korchho, motivation nei. Tumi chai bhalo hote, kintu mone hocche tumi help er jonno reach out korte parchho na. Kauke kotha bolte parchho na.",T,"gc, irq"
+"Na, ami amar baba-ma ke ei niye kotha boli na.",P,id
+"Thik ache, ami ekto piche giye dekhi, just wondering, ei shob kobe shuru holo? Tumi boll echo onek mash dhore cholche.",T,irq
+"Ha. Ami guess kori, shuru holo jokhon ami amar exams er jonno pora shuru korlam. Ami guess kori stress. Ami nijer upor onek stress dite thaki. Ami sob somoy bhalo korte chai ami, ebong ami guess kori amar baba-ma er jonno, so exams er stress, eta chhilo, kothin karon amar baba-ma er moddhe somosya chhilo.",P,id
+"Thik ache, eta ki last March last April er moto?",T,crq
+"Ha, ami mone kori.",P,cd
+"Sei somoy, mane prai choy mash, ebong mone hocche onek kichhu hocche. Tumi Uni te onek chap niye chhile ebong tumi boll echo tomader baba-ma er marital problems chhilo?",T,crq
+Ha.,P,cd
+"Thik ache, ebong mone hocche eta tomay real shock diyeche.",T,crq
+"Ha, guess kori eta o kothin chhilo karon ami Uni te bhalo korchi na, ami guess kori ami just guilty feel korchhi. Jani shune boka boka lage, kintu ami mone kori jodi ami bhalo korte pari tahole hoi toh ora bhalo hobe, kintu eta asole hocche na.",P,"cd, id"
+"Thik ache, mone hocche tumi chesta korchho hard work kore beshi successful hote karon tumi bhabcho eta ora ke happier korbe ebong chesta kore fix korte.",T,crq
+"Ha, ami chai ora feel better kore, kintu eta amay just terrified kore diyeche.",P,cd
+Eta ki vabe backfire korlo?,T,irq
+Shudhu ora ar beshi kharap holo ebong ami theke theke beshi kharap feel korchhi.,P,id
+"Thik ache, so gat summer, exam period er por, ebong sei exam period ta kemon chhilo tomay?",T,irq
+Beshi bhalo noi.,P,id
+"Thik ache, onek pressure tomay nijer upor dite hobe, suppose koro.",T,gc
+"Just annoying karon ami jani, ami bhalo korte partam. Ebong ami kori ni ebong ami guess kori ami nijer upor onek mar khai.",P,gc
+"So tumi bolo, ami jani, ami uchit chhilo bhalo korte. Mane ami suppose kori, amar perspective theke shunte, mone hocche tumi onek kichhu niye chhile. Sei somoy. Eta understandable, absolutely, je tumi normal er theke bhalo korte paro ni. Ami just wondering kori, tumi ki nijer jonno onek high standards rakho?",T,gc
+"Hoi toh onno der theke beshi. Amar baba-ma sob somoy shikhiyeche, notun loving way te, guess kori kintu tumi uchit tomader best koro, kintu o best o pao ebong ami eta niye ekmatro. Ami mone kori eta thik vabna. Kintu jokhon ami eta korte pari na, ami jani na, eta amay onek annoy kore. Ami chinta kori eta ora keo annoy kore.",P,gc
+So mone hocche tumi feel korchho je tumi sob somoy tomader best korte hobe. Ha. Ebong eta ki kono exceptions achhe?,T,"gc, yq"
+na.,P,on
+Thik ache. Ami dekhte parchhi eta tomay onek kothin somoy chhilo ebong sei somoy theke tomader mood start kore niche namte. Ebong ekhon o quite bad. Mane ekhon tomader baba-ma er situation ta kemon?,T,"gc, irq"
+"Ami mone kori eta valo na. Ami ora sathe onek kotha boli na, kintu ami mone kori ora bhalo chole na. Ami ora sathe ei niye kotha boli na karon eta amay ar beshi kharap lagay. Kintu ami mone kori eta bhalo hocche na.",P,id
+Ei summer e ki ora sathe chhile?,T,irq
+"Ektu chhilo, ha.",P,id
+Ebong seta kemon chhilo?,T,irq
+"Mone bhalo noi. Na, eta onek tense chhilo sob somoy. Amay beshi stress korechhe relax korar theke gat summer e.",P,id
+"Thik ache. Thik ache, mone hocche onek kichhu ghotechhe, tumi beshi low feel korchho, Uni te chap niye chhile, ebong tomader baba-ma er marriage niye somosya chhilo ebong mone hocche tumi mone korchho je tumi kauke reach out korte paro na mate, bujhte paro na, tomader baba-ma er sathe ekhon kotha boli na. Tumi tomader bondhuder sathe confide korte paro na. Tai ami suppose kori, tumi ki amake ektu beshi bolo kemon feel korchho. Mane ei past week e.",T,gc
+"Sotti bolte giye, khub bhalo noi. Actually, jodi na hote hoi, ami bari theke beri na, bed theke otho na. Ami motivation khuje pachhi na jeta ami age enjoy kortam. Ami age sports ba bahir jete bhalobashtam, ebong ekhon ami shudhu bed e shuye thaki ebong kichhu kori na. Thik ache, ami ei week e koyekta lecture miss korechi je ami jete partam.",P,"gc, id"
+"Thik ache. Tai suppose kori, ami just wondering kori, cholo ekta kotha bhebe dekhi, say ekta lecture er aage, tumi ki dhoroner chinta koro lecture e jaoar aage?",T,irq
+"Ami ar dekhte pai na kono point. Jodi, jodi ami bhalo korte na pari je ami uchit, tahole ki dorkar nijerke oi position e niye jaoar? Ami ar chesta korte pari na, shudhu amay beshi stress kore.",P,id
+"Thik ache, mone hocche tomader mathay je chinta gulo achhe, seta pointless, ebong eta worth noi.",T,gc
+Ha.,P,ack
+Tumi ki ar kono chinta mathay niye thako jokhon just lecture e jaoar aage?,T,yq
+"Jemon ami bollam, Na, ami, ami mone kori ami deserve kori na ekhane thakte. Jodi ami bhalo korte na pari. Ami mone kori ora baki students bhalo korchhe ebong bhalo korte chai. Ami jani na keno ami ekhane achi Uni te thakte.",P,on
+Tai mone hocche tumi feel korchho je tumi onno der theke kom.,T,gc
+Ha.,P,ack
+"Okay. Ami just as far as Okay, if I take notes as we go through is just, Ami trying to, I guess samajhtei ache what you're telling me and it helps me to likhte parchi it down and I'll share this with you later. Okay, so it sounds like those are those are some quite negative thoughts to have. You're kind of saying, you know, it feels like it's pointless, It's more effort than it's worth. And I don't deserve to be here. I mean, when you have those thoughts, how do you feel?",T,"gc, irq"
+Very unworthy. Probably will be the best way to put it kind of I didn't know lower than normal. It makes me think about all the Things I should have been doing better.,P,id
+"Okay, so what you described that you said, Ami unworthy, I should be doing lots of things better. And those are kind of what I would call thoughts Actually, Ami suppose Ami trying to samajhtei ache what it feels like in your gut. What kind of emotions do you feel happier? Do you feel sad? What kind of emotions you're feeling when you have those thoughts?",T,"gc, irq"
+Sad not happy with. Ami have kind of anger and frustration as well.,P,id
+"Okay. I just when you kind of tell me this, and Ami know this is quite heavy topic. But you're kind of laughing and Ami suppose Ami wonder a little bit of your a bit. You know, how do you feel about having these emotions? Talking about these emotions?",T,"gc, irq"
+"Yes. embarrassed. Ami've never yet talked about it, So it's quite uncomfortable to be in this situation.",P,id
+"Well, you're doing a great job because Ami know Ami know that this can be difficult. Okay, so it sounds like some of the thoughts you're describing are, it's pointless, it's more than it's worth. I don't deserve to be here. Ami unworthy. And those kind of thoughts. It sounds like they just flit through your mind. And then he's kind of describing different emotions that those lead to kind of screaming sad, anger, frustration, embarrassed. What about in your body? What happens? How do you feel kind of physically?",T,"gc, irq"
+"Ami used to be, Ami think from those emotions very wound up very kind of stressed all the time. Recently, it's just a lot more draining than anything, just quite lethargic and can't be bothered anymore. And it's, my body reflects that. But then when Ami try and sleep Ami just can't seem to have a satisfied by sleep. It's really, really frustrating.",P,id
+"So it sounds like this is affecting, it's draining you of your energy, like, like your body can't be bothered. Ami think that's a really good way of describing it. And you're noticing sleep problems as well. And then what do you do? So this is so we're back to the point before the lecture. So you start having these thoughts, these emotions, and you know your body, I guess it sounds like those thoughts quite draining. So be draining your energy, what then happens what you do next?",T,"gc, irq"
+"kind of focus on the negative thoughts when Ami probably should not think about them, but Ami focus on them and then Ami don't really want to do anything gonna stay in bed or",P,id
+"So you think even more about those kind of warnings that you have to do a bit of dwelling any say in bed. And it sounds like you don't, you haven't tried speaking to your friends about it. Okay, and then after you've done that, so after you've not gone to the lecture, you've stayed in bed, you kind of spent time As you said, focusing on those those thoughts, those negative thoughts, how do you feel after that to feel better? Or do you feel worse?",T,"gc, irq"
+"Ami guess Ami felt slightly worse, but then a bit numb in a way, kind of once you've felt bad because Ami do feel tired all the time, Ami just try and push it out. And then you don't really think about anything. And it's almost nicer that way than to keep focusing on how much you're getting wrong and how much you can't do stuff. Sometimes it's better just to not think about it at all.",P,id
+"So it sounds like in some ways, it's a bit of a relief to do that, But in other ways, maybe you think it might make things worse,",T,gc
+probably in the long run.,P,gc

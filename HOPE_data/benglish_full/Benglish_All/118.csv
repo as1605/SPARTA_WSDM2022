@@ -1,0 +1,15 @@
+Utterance,Type,Dialogue Act
+Police interview ta ki bujhlam na,P,gc
+"Hmm, tough",T,ack
+Ei rokom khub prothom theke bolte khub kotha tai na. Hmm.,P,id
+"Thik ache, thik ache, thik ache, amar dike firbe to, ekhon amar dike takho, ekhon amar dike takho. Dekhte paro ki, amar dike dekho. Amra ei roome firte chai ekta chhoto ghonta. Tui amar dike ekbar dekho, ekbar dekho, ekbar dekho. Amra bolbo, ami akhono dekhte pari, dekho ki bolcho.",T,
+"Brown,",P,gc
+"Bhalo ghotonagulo tomar sathe fire ashar jonno chesta korchhi. Firte asho amar sathe, amar sathe room-e. Thik ache, tai ekbar ghurte paro. Tui amar dike dekhte paro, ei obbocheton ta dekhte paro? Tui ki bolcho amay onno chobi gulo kotha?",T,irq
+"Oh, haan. Haan, bhalo. Thik ache.",P,ack
+"Amar khub ichhe, tui amay ei dhore fele, tai amra ei phelbo. Thik ache, ei amar dike phelbe, ami dekhte parchi, bhalo suru, amar dike phelbe. Bhalo obbocheton, thik ache ei roome thakbo, amar sathe thakbo. Haan. Ar otoi amar character tao dhoro, ei ta. Thik ache, tai amay ei dhoro, roome thako amar sathe. Haan. Ar otoi, stress e jawa jay tokhono tokhono, kintu amra ekhono jonne jonne achhi. Thik ache, tui tokhono acho. Tui ki mone koro? Haan,",T,irq
+"thik ache. Haan, beshi kotha bolte khub kothin chhilo.",P,id
+"pochondo kore bujhte parchi keno eto kothin chhilo. Oi gulo kotha korte amar dike beshi kothin hote pare. Haan. Ami bujhte parchi. Thik ache. Ekhon ki mone koro? Haan. Thik ache, ekhon ekhon kotha bolte thako. Amar sathe judho ache tai mone rekho. Haan. Amar sathe to achis. Haan. Tai thoda thoda kotha bolo. Tai amar sathe thak. Haan. Thik ache, amake ekhon beshi bolte dao. Thik ache. Tai bolo ekta kichu or dik theke. Tai amar sathe bol.",T,irq
+"thik ache. Haan, ektu tough chhilo.",P,id
+"bujhchi, keno chhilo tough, keno chhilo eki bujhchi. Ei somoy gulo obosthay toh kharap hote pare. Ekhon ki obostha? Haan.",T,irq
+"thik ache. Haan, khub bhalo lagche je ei shesh hoye gechhe. Bujhte parchilam na koto kothin hobe. Haan, haan. Ektu mone holo sob sesh hoye gechhe. Na. Haan. Thik ache, ekhon",P,id
+"bujhte parchi, tai bhalo bujhte parchi. Ei rokom gulo kotha korte somoy gulo kharap hote pare. Haan. Tai amra ekhon ei rokom katha korte thakbo.",T,id

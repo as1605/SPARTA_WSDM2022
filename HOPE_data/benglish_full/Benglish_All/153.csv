@@ -1,0 +1,56 @@
+Utterance,Type,Dialogue Act
+"Hi Kyle, kemon achho?",T,gt
+Bhalo nei dada.,P,gt
+Bhalo nei?,T,crq
+"Haan. Ei pichhle saptah kichhu ghoteche, ami amar bondhur barite jachhilam, bhule gechhilam je amar car er tags ekhono expire hoye gechhe. Tai amake rokto kore niche tulechhilo, ebong ami janina keno, kintu police amake bollo je amar car er search korte pare, ami bollam, thik ache, kichhu hobe na. Karon tar moto duto search ache bole. Ei to tow kora hobe. Ebong ami pochhondo kore bhule gechhilam je amar trunk e amar kachakachi bag ache. Trunk khule dekhi, o ta bag e dhyan diye dekhchhilo. Tai o amake, sob kichhu peye gelo. Bag e amar gondho ache niche, pipe ache, sob piece ache. Tai ami possession er jonno mushkil e porechhilam. Tai ami sudhu sudhu tarai korte giyechhilam ebong judge amake ekta decision dilo. O bollo je ami jodi chai to 2 weeks er community service korbo, kichhu 80 ghonta, naki $1,000 taka dite parbo. Ebong ami mone hochhe ami khub try korchi bujhte ki, kon ta better hote pare, tara dujoner oke bhalo kortei kintu thik ache na.",P,"cd, id"
+"Tai tomake ektu chintar kotha hochhe duto option er moddhe joto ki negative lage tai tomake problem hochhe, thik to?",T,crq
+Haan.,P,cd
+"Abong amader agei kotha holo marijuana use, eta mukher karon hote pare ekhane, thik na?",T,crq
+Haan.,P,cd
+"Kintu mone hochhe, ei bar tomake really change korte ichhe hoini.",T,crq
+"Na, mone hochhe eta kono problem noi, problem hochhe ami caught hoye gechhilam, ami school e valo kore jachhi, sob thik ache. Tai clearly marijuana er baire, court e jete, ei obostha hoini amar.",P,"cd, id"
+Tai cholo ei decision e focus kori.,T,gc
+Haan.,P,gc
+"Tai decision holo duto option er moddhe, kono specific community service toh hobe na?",T,crq
+Matro road er bhetore jinish gulo uthate hobe.,P,cd
+"Naki $1,000 taka?",T,crq
+Haan.,P,cd
+"Ar tomake thakbe $1,000 taka?",T,yq
+"Achhe, kintu amar vacation ashche ebong amar toh niyei kichhu fun korte ichhe, tai taka ta niye rakhate ichhe. Kintu ami community service oto durei hote pare, tai mone hochhe, vacation er kichhu bhag ta dena hote pare duto weeks er jonno. Tai eta mone hochhe amar decision e kichhu help korbe na.",P,op
+"Kono value dekhte pachho toh duto option er moddhe, je obostha ta tomake negative lagechhe?",T,yq
+"Na, mone hochhe, tara obaro ektai negative, ami mone kori. Jodi ami community service kori, tao taka rakhte parbo, kintu dosh holo, taka rakhte parle ami oitake spend korte parbo na. Tai mone hocche, na positive, duto negative e barabar. Tai khub kothin decision neya.",P,on
+"Tai cholo ei decision neya jay. Bujhar jonno amra ki important tai tao discuss kori. Ei decision neya te tomake ki important lage, eta bujhte help korar jonno.",T,gc
+Haan.,P,gc
+"tumi taka rakhte paro, ebong service o korte paro, naki taka kharcha kore o service o korte paro na?",T,crq
+Haan.,P,cd
+"So toh tumi bolte paarbe je ei somoy er upokothito khota, tao tomay taka rakhar jonne boro mahatvaful hote pare, athoba samaj seba theke bachar jonne boro mahatvaful hote pare.",T,crq
+"Hm, thik.",P,cd
+"Ei jonno ekta choto kotha hobe. Tumi kemon mone koro, ek theke das er moddhe koto mahatvaful tomake lage taka rakhar?",T,irq
+"Mane, eta toh oboshshoi beshi. Je dhoroner taka rakhi, oboshshoi hobe ek noy. Karon jodi ami, jodi ami, jodi ami taka rakhi, oboshshoi ami aar kichu kichu anyo kajer jonne oti uttejit hote pari. Ami bolte partam kono khetre oboshshoi noy.",P,id
+"Tumi mone rakhte paro je, eta tomake onek mahatvaful.",T,irq
+Hm.,P,id
+Tahole tai scenario ta beshi taraf chole jabe samaj seba complete korte.,T,irq
+"Hm. Haan, mane, mone hoi eta thik. Ami etake oivabe mone kori nai, mane jodi ami, jodi ami, jodi ami, ami jodi dui saptaher somoy kheye felam, oboshshoi tai bhalo hobe, kintu ami oboshshoi, ami oboshshoi, ami taka diye kichu korar jonne ekta beshi bhorti bhabe chintai chilam. Tui janish to.",P,id
+Aro ek dike dekhi. Tumi jene rakhte chao koto mahatvaful tomake ek noy das er moddhe samaj seba theke bachaite?,T,irq
+Haan.,P,id
+Samaj seba theke bachaite koto mahatvaful tomake?,T,irq
+"Hm, mone hoi, seta hobe mone hoi sat. Karon, samaj seba toh kharap hobe na. Oboshshoi, oboshshoi, oboshshoi, oboshshoi, ekta boro somoy bhranto kaj korte hobe. Amader kaj korar jonno onno kono raste nai, jeta oboshshoi kharap. Oboshshoi ami ekta samay por por ei kharap kaj ta korte hote pari. Tui to janish.",P,id
+"Eibar bolecho, jemon toh toh toh ogo bhalo na thakleo tui mone kori tomake somaj seba poorno korte jete pare. Kintu tui kono ekta choice e khusi noy, toh toh thik?",T,crq
+Hm,P,cd
+Tai mukhe hobe shojjo ta.,T,gc
+"Haan, haan. Haan, ami mone kori nai, tai vabei scale korte hobe mone hoi. Tai, haan, mone kori.",P,gc
+Tomar kothay tomar nishchoi korar dorkar kobe?,T,irq
+"Shei week er shesh porjonto. So, aaj Tuesday, tai amar kache kichu din mone kora jay.",P,id
+"Ochena judge er samne tomar phire jete hobe, Friday te.",T,gc
+"Friday te, haan. Decision pele.",P,gc
+"Kichu kore taka er mahatva o community service er moddhe, eto bhabei ghure felo.",T,gc
+thik,P,gc
+"Cholo, Thursday age phirbo. Okay, Thursday abar dekha hobe. Ar tomar nirnay niye kotha hobe, dekha jak.",T,gc
+thik,P,gc
+Tomader shathe phire dekha hobe.,T,gc
+"Haan, bhalo thakbi.",P,gc
+Ei plan ta kemon mone hoy?,T,crq
+"Thik aache. Haan, mone hoi, korte pari. Haan, thoda more ideas dao.",P,cd
+"Bhalo, tahole Thursday dekha hobe.",T,gc
+"Haan, shuntesi.",P,gc
+Dhyan rakho.,T,gc

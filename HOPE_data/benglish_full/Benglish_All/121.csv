@@ -1,0 +1,54 @@
+Utterance,Type,Dialogue Act
+"Sue, tomar sathe abar dekha hoye bhalo lagche. Ami asha kori, ajke ami tomar memory er ekta test korbo, tomar ki bhalo lagche?",T,yq
+Okay. Thik ase.,P,ack
+"Okay. Tai ami kichu prashna porbo ar tomar kach theke kichu biniyog korte bolbo. Eta kichu minute niye nebe matro. Thik ase. Tai, ajker tarikh ki?",T,irq
+Mone hoy 10 tarikh.,P,id
+10 tarikh. Ajker bochor ki?,T,irq
+2016.,P,id
+Mahina ki?,T,irq
+"January, 2017 er moddhe January.",P,id
+Ajker din ki?,T,irq
+10 tarikh.,P,id
+Tumi ki amay bolte paro ei kono ritu ki?,T,yq
+Christmas.,P,id
+Tumi ki amay bolte paro ei clinic er naam?,T,yq
+"Ami dekhechilam jabar somoy, mone hoy na.",P,id
+Amra kon floor e achi?,T,irq
+Lal.,P,id
+Kon sheher e achi?,T,irq
+"Dover, Dover.",P,id
+Kon County te achi?,T,irq
+Dover County.,P,id
+Dover County? Kon state e achi?,T,irq
+Delaware.,P,id
+"Tai, ami tomar memory test korbo. Ami ei tin ta shabdha pore tomar kach theke shunbo. Ar tumi amay tader punorai bolte paro.",T,id
+Okay. Thik ase.,P,ack
+"Ball, flag. Tree. Can we get those back?",T,irq
+"Um, ball, frog.",P,id
+"Ei, aar korte pari. Okay. Ball, flag and tree.",T,id
+Ball flag and tree.,P,id
+"Thik ache. Tader mne rekho, karon ami tomarke pore abar taderke bolte chai.",T,id
+Okay. Thik ase.,P,ack
+"100 theke shuru kore shatay ek ghato komabo, toh?",T,yq
+"Okay, toh 100, 193",P,id
+Jaate thakuk,T,ci
+"85, 79, 72, 65",P,id
+"Thik ache, bhalo.",T,id
+Dhonnyobad.,P,gt
+Duniya shabdke ulte korte paro?,T,yq
+LR no,P,id
+"Thik, tor mne rekhechilam tini tader mukhe abar bolte chai.",T,ci
+Fall,P,id
+"Thik ache, shetai chilo. Eta ki bolte paro ki?",T,yq
+Ekdin ekta watch.,P,id
+Haan. Eta ki bolte paro ki?,T,yq
+Kalam,P,id
+"Ami ekta kotha bolbo. Tomar mukhe je kotha bolbo, seta ami korte chai. Thik ase? Okay, thik ase. Kotha holo No ifs, ands, or buts.",T,id
+No if and buts,P,id
+Tor dan haat ki na baa baa haat?,T,irq
+dan haat.,P,id
+"Ami chai tor dan haate ei kagoj ta nie, taake dhukiye dhukie, ar kagoj ta mathay rakh. Thik ase?",T,id
+Amar dan haatei kivabe matha hobe.,P,crq
+Tor duto haat kora jabe.,T,id
+Ki koreu?,P,crq
+je kono complete sentence,T,id

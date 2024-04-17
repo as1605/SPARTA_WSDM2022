@@ -1,0 +1,25 @@
+Utterance,Type,Dialogue Act
+"Hello, Sophia.",T,gt
+Hi. Apni kemon achen aaj?,P,gt
+Ami bhalo. Apni kemon achen?,T,gt
+Ami bhalo achi. Jiggasa korar jonno dhonnobad.,P,gt
+Ami apnake sheshbar dekhechhilam ek saptah aage. Ar ami jani apnar kichhu chinta aache chakri niye. Pehle ami jante chai apni emotionally kemon achen. Ami jani gat saptah e apni depression er jonno ekta scale e one theke ten er moddhe seven bolchhilen. Ha. Aaj apni kemon achen?,T,id
+"Eta up and down hoyeche. Ami mone kori aaj abar seven. Kintu jani na, ami gat koyek din e nine e chole gechhilam. Hoi toh ami ektu bhalo feel korchhi karon ami ekhane esechhi. Ar ami jani amra etar kotha bolbo. Kintu ami mone kori, gatbar amra kotha bolchhilam ami full time chakri khujchhi. Ar ami shudhu realize korechhi gat saptah e je amar jonno full time kaj kora khub kothin. Ami part time kaj korchhi work program e, ar tara chai amra volunteer kaj korbo dupur bela, jodi amra nirdishto saptah e full time chakri na pai. Ar ami shudhu vabchhi, ami mone kori na ami parbo. Ami mone kori na ami proti din aat ghonta kaj korte parbo. Eta khub beshi.",P,id
+"Toh apnar kichhu chinta aache full time kaj niye ar sei level er energy, commitment. Thik ache, aaj amra ki kore session structure korbo, apnar ki mone hoy? Ami chaibo etar kotha bolte. Thik ache. Ar ami aro details jante chai ei saptah e ki hoche ar apnar anubhuti niye. Amra gat session e ektu touch korechhilam, kintu ami chaibo apnar core beliefs, central beliefs niye kotha bolte je depression er anubhuti gulo contribute korchhe. Ha. Ar shesh part e, amra interventions niye kaj korbo, jemon age korechhilam, apnar kaj ar depressed mood niye sahajjo korte. Ar amra ei plan e change anate pari jodi proyojon hoy. Ami shudhu ekta outline diye start korte chai je amra follow korte pari. Thik ache. Kichhu add ba remove korte chan?",T,id
+"Na, mane, etai sense kore.",P,on
+Thik ache. Ektu beshi bolen toh kaj niye ki hoche?,T,irq
+"Mane, ami asole jani na keno. Ami jani ami sobsomoy klanto karon ami ghumote onek problem face kori, jemon age bolechhi. Eta matter kore na ami koto klanto, ami ghumote pari na, kintu ami jai, sakal e aat theke dui, kintu dupur bela, eta khub kothin hoye jai chalate. Eta khub lomba somoy. Ar ami mone kori na ami parbo. Ar bishesh kore winter e, jodi aapni aat ghonta kaj koren, ber hobar somoy hoye jai andhokar, ar etai amar depression ke aro kharap kore dey.",P,id
+"Toh, din er shesh part ta apnar jonno beshi struggle hoy.",T,crq
+"Ha, din er onek kothin part.",P,cd
+"Sakal e utha ar somoy moton kaj e jawa, apni thik achen toh?",T,irq
+"Eta kothin. Kothin, kintu ami mone kori ami etate bhalo. Ami toh jeno up anyway. Ami jani ami uthbo. Ami korte hobe je korte hobe.",P,id
+"Toh work program e apni ekhon achen, sakal e kaj koren?",T,yq
+Ha.,P,op
+Koto ghonta achen apni okhane?,T,irq
+Aat theke dui.,P,id
+Ar dupur bela kichhu kaj aache apnar?,T,irq
+"Ha, ami okhane aachi aat saptah. Ar ami ekhono chakri pai ni. Tara chai amra dupur bela volunteer kaj kori. Ar tara amader jonno volunteer jagah khujhe dey. Eta valo, ami nijer theke khujte hobe na. Kintu ami mone kori tara chai amra aat ghonta kichhu kori, ar maybe resume e kichhu thakbe. Ar guess ki? Resume e boro gap thakle valo dekhae na. Tai ami bolte pari na ami kaj korechhi, jodi ami taka na pai. Kintu etai vabte, ami klanto. Ar ami work program theke ber hoi, ami mone kori jodi ami volunteer korte jai, ami barely bari pounchhi. Shudhu bari jete chai.",P,id
+Vabtei klanto. Apni ki dhoroner thoughts niye vabchen?,T,id
+"Ami mone kori na ami parbo. Ami mone kori na ami emon kono manush je aat ghonta kaj korte parbo. Ar etai amake mone koriye dey je ki point ache, ami aat ghonta kaj korbo.",P,id
+"Ami mone kori na ami parbo, just aat ghonta onek beshi mone hocche.",T,id
+"Ha, thik ache.",P,op

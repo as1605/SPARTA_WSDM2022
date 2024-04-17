@@ -1,0 +1,53 @@
+Utterance,Type,Dialogue Act
+"Sir, aajke kemon achen?",T,gt
+"Thik aache aj? Hyan,",P,gt
+Ami bujhte parchi je apnar kichu symptoms ache ebong atiti apnake amader agentite niye esheche. Apni je somporeke amake bolte paren?,T,irq
+"Um, ami onek chinta korchilam. Dushchinta. Hyan. Goto char-panch mash dhore onek dushchinta cholche, hayto char-panch mash, pray chhar-panch mash, pray shoy mash? Hyan, char ba panch, shoy mash. Ebong ami 20 bochor bari te ma thakar pore school e fire jete shuru korechi. Bachchara ekhon college er jonno ekrokom bhoyonkor ebong ami siddhanto niechi keno school e fire jete hobe na ekhon anyo kichu korun.",P,id
+Ebong eti sudhu karon kora hoyeche. Ebong ami idaning khub kharap hoye gechi.,P,id
+"Thik aache, tai onek chinta, grishmo char ba panch ba shoy mash",T,irq
+"Eta sekhaney panch, shoy mash dhore kothao jachche.",P,id
+Goto char theke shoy mash e apnar ei uddweger cheye beshi din hoyeche?,T,irq
+"Amar onek valo din keteche. Mane, amar kichu kharap din geche. Ami ei duiti pete chai. Tai ami jani na. Thik aache,",P,id
+Puro puri nishchit na. Nishchit.,T,crq
+Apni ki dushchinta niontron kora kothin bole mone koren?,T,irq
+"Ki korote hobe ba hyan, hyan.",P,"crq,ack"
+Tai ami apnake ei somporke kichu proshno jijnasha kortey jachchi. Apni jodi ei lakshonguli anubhob koren tobe amake janan. Apni asthir apni prante chabikathi ap.,T,yq
+"Hyan, hyan, ami kori. Thik aache.",P,ack
+Apni kibhabe sohoje klanto?,T,irq
+Sob somoy? Sarakshon eto klanto?,P,id
+Hyan. Sob somoy. Hyan. Apnar mononivesh kortey ba apnar monke fanka korte somossha hochche.,T,irq
+Shudhu bismrit mon khujun. Shudhu thanda kambol abhakado hyan mot shanto. Thik aache.,P,id
+Apni ki khujhe peychen je apni khitkhite chilen?,T,yq
+Khub tai.,P,ack
+Hyan.,T,crq
+Peshi tan nam.,T,yq
+Hyan. Onmoniyota,P,"ack,id"
+Ebong ami bolun apni kibhabe ghumachen.,T,irq
+"Ami khub valo nei, spastotai khub valo nei. Somprotti. Ami je kothin khujhe. Shudhu ami ghumate jete pari na. Ar ami ghumiye thakte pari na. Eta shudhu kothin hoyeche.",P,id
+Ami ki alcohol pan kori ba kono oshudh bbohhar kori?,T,yq
+"Na, ami jani na.",P,on
+Apnar ki kono panic attack hoyeche?,T,yq
+Na,P,on
+"Thik aache, trauma ebong itihas,",T,yq
+Na,P,on
+Kon mental shastho bodhi adou ache?,T,yq
+Na,P,on
+Apni uposorg khujhe,T,yq
+"Khub kastadayok. Um,",T,yq
+Hyan. Kostokor? Hyan.,P,"irq,ack"
+Ebong kon elakay kostokor?,T,irq
+Ami bari te khub bari te achi.,P,id
+"Hyan,",T,crq
+"Ami korchi ami itimodhye school e achi. School thik aache school ami 4.0 valo na, khub valo. Ami shudhu bari te achi ami sob somoy chintar modhe achi.",P,cd
+Apni jokhon bonduder sathe baire jan tokhon moja korun.,T,irq
+Durdanto somoy. Darun somoy. Amar bondhu poriksha dey,P,id
+Beriye geche. Apnar barir poribesher jonno nirdisto kichu ache ja apni mone koren ete obdan rakhte pare karon apnar kache eti nei? School e? Apni samajikbhabe nei,T,irq
+"Mane, amader ekhane kichu somossha ache.",P,id
+Ebong ekhane kichu somossha ache.,P,
+"Eti emon kichu noy ja apni alada korte paren karon lakshonguli hote pare,",T,od
+"Um, janala, hayto jinis na kintu shudhu ekta Ikea noy.",P,od
+Emon kichu ja apni kaj korte parben na.,T,crq
+"Thik aache, tai ami apnake amader ekjon poramorshodata sathe dekha kortey jachchi jodi eti apnar sathe thik thake. Apnar probesher jonno matro koyek din somoy nin, appointment set korun ebong sundorbhabe probesh korun. Eta ki thik aache?",T,"cd,crq"
+Ami apnar bari dekhte chai. Hyan.,P,orq
+Thik aache. Ami je set up korbo. Ebong ami ei prosner uttor deowar jonno apnake dhonnobad janate chai amar pokkhe sotti sohayok.,T,"od,ack"
+Apnake dhonnobad.,P,gt

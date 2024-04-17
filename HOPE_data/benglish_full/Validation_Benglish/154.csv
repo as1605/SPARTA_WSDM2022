@@ -1,0 +1,71 @@
+Utterance,Type,Dialogue Act
+"Hi Kylie, aaj kemon acho?",T,gt
+"Ami to bhalo achi. Apni kemon achen, Dr. Grande?",P,gt
+"Ami to valo achi, thanks for asking. Ki kotha hochhe?",T,"gt, irq"
+"Um, so I've, I've been applying to doctor programs for this upcoming fall. Ar ami, ami kinda stuck, karon amar du school e admission hoyeche, jekhane dekhechilam. Ami aar taratari decide korte parchina.",P,id
+Hmm,T,gc
+"Ar haa, kintu problem hocche ami dui ti school er modhye kevabe decide korbo bujhtei parchina.",P,gc
+"Okay, tai to, tumi dui jaygay apply korechho, ar amni ache duitai?",T,crq
+Hmm,P,cd
+Shune dekhchhe duitai program taratari suited to tomar ichhe gulo?,T,yq
+Haa.,P,op
+Ar tumi kon ekta choose korte problem hocche.,T,irq
+"Haa. Um, haa, ami to shob somoy ektu confused thake, jokhon amar kache dui ti option thake, ar tader modhye ektu difference nai.",P,id
+"Cholo amra suru kore dekhi. Tumi PhD korar jonno nei, ta thik. Tai eita to thik hoche.",T,gc
+Haa.,P,gc
+"Tai ekhane ekta program e tomar jete hobe. Tai ektu baki ache, tobu ke jete hobe seta tai nai?",T,crq
+Haa.,P,cd
+"Arokom kotha holo, ebhabei situation gulo te amra pros and cons dekhe. Tobe kono cons ache ekta program er jonno?",T,irq
+"Aar toh kono cons mone hocche na, pros and cons likhte chesta korechhi kintu dui program er pros ta ekdom mil e lagche. Teacher der kache connection ache, dui joner. Dujoneri shahorei ache, khub ek rakte. Ektu difference ache kintu amar mone hocche kotha ta bujhte parchi na.",P,id
+Tai jodi ekta program e kichu negatives thakto toh decision ta nishchoy hole sotru hoto.,T,gc
+Haa,P,gc
+Tai ekotha to bujhte hoto jodi ektai program e kichu dosh hoto arektai jonno. Ekhanei ami ekta bhalo problem bola.,T,gc
+Haa,P,gc
+Ekhane toh tomar past e tomar indecisiveness er kotha chilo.,T,"gc, crq"
+Haa.,P,cd
+"So maybe amra e process ta korte parbo, help korte, decision making skills gulo build korte paro naki contribute korte. Karon jetao program niye jabe, jekhanei jete chao, later on to decision gulo nite hobe",T,gc
+thik,P,gc
+"ebong shayad alada alada, kono gulo shomoy kom hobe, shayad kono gulo shomoy e bhalo hobe na. Tai ami mone kori eta hobe ekta matter, jeta dekhte hobe tomar jonno ki important. Kintu to jekhanei research agenda tao mention korechile, uttejon naki dui university te, seta o important",T,gc
+thik,P,gc
+"Aspekto gulo ki, ebong mone kori eta gulo mone rakhte hobe naa shob theke jeta, na duita university er bishoye mone rakhte hobe, kintu general, jodi tomarke rank order korte hoye, ki aspekto gulo shob theke important?",T,irq
+"Um, toh, obosshoi, research ta ektu uporer dike ache. Ami obosshoi seta pawa chai jei kono school e jai. Mone kori ekta onno kotha o important, eta holo je university te ekta post doctorate plan thake, jeta mane tara ki business er sathe connection rakhe, jekhanei ami graduate korar por ektu shomoy e job peye jete pari, athoba, jodi ami faculty position e jete chai, tokhon tader ki ekta pathway ache je amar ei kaj ta korte sahajjo korte pare, ei sob shob important",P,id
+"Research ebong guaranteed na, asadharan employment ekta possibility, kintu?",T,crq
+thik,P,cd
+"So besh kichu korte pari ekhon, jodi tomake eki du universiti gulo dekhte icche koro, tader kotha bolar pore ami bujhtesi, tader positive gulo ke rank korte pari, jemon ki tader moddhe ki ki research ache je tomake chay",T,gc
+bright,P,gc
+"tader to hoche. Kintu jodi tomake tader ke rank korte pari ar shayad to ekhon ei information nei, kintu jodi tomake tara ke rank korte paro onno important aspect er maddhome, je ki tomake koto kothin kaje kaj korte hobe?",T,irq
+"Hm, okhane bolecho to.",P,id
+Etai to tomar kotha.,T,gc
+"Ok, thik ase.",P,gc
+Bhalo kore tomake bolar mone hoy,T,gc
+Thik ache,P,gc
+"Thik ache, tomar kache konodin information ache? Na kichu search korte paro?",T,irq
+"Um, actually, eta amar mone hocche na. Jemon ami mone kori nai. Jemon, ami mone kori online e gele onk bar university ra job acceptance rates post kore, tara percentage diye, tader por ki kore. Tai jodi ami tader website e jai ar information collect kori, tokhon dekha jabe je koto jon tara professor hishabe kaj kore ar koto jon industry te kaj kore, tai mone hocche, eta amar jonno upokarok hote pare",P,id
+"Eta tomake alada korte pare, karon eikhane to abar tader dhong ache",T,gc
+thik,P,gc
+Abar to abar tader alada kore nite parbe na,T,gc
+thik,P,gc
+"Tai ete bhalo hote pare jemon ektu bhinn kore dite parbe je, ektu fark ase tader moddhe",T,gc
+Ok,P,gc
+Eta tomar jonno kichu sense kore?,T,yq
+"Ha, makes sense. Ha.",P,op
+"Ei rokom mone hoy, ami mone kori jokhon kono ke bolte shei manush ke ba kono obosthay, toh, ami somoy chere jete bujhi sob prashner uttor jante chai. Tai jokhon tumi ekhane chere jabe, tumi onno kichu pechone dhyan dile valo hoto, bhishon important toh amar jonno, ebong tara duibhabe alada kore dekha jay. Ekta possible option hoitash shei information gulo ber kore ber kore shikar korte, shayad proti university er representative der sathe kotha bole.",T,"gc, id"
+Okay,P,gc
+"Jodi tader kache thakte pare anek information potential pros er bishoye, ebong tader kache thakte pare kichu cons. Ami chini tara plate manner e present korte pare kintu tader bole dite pare shayad kichu negative asha thakleo.",T,"gc, id"
+Okay.,P,gc
+"Onnora university er sathe jorito, kintu shayad kichu positive asha tara bujhte pare je valo lage na.",T,gc
+"thik, thik,",P,gc
+"kichu kichu kaj tara aro bhalo kore kore, onnora university kore na.",T,gc
+Okay.,P,gc
+Tai mone hoy ei information joma kora tai tomar porer kaj.,T,gc
+Hmm. Hmm. Ami obosthay prottek ta positive er rank kora keu vabei mone kori nai. Tai ami mone kori ei ekta bhalo idea. Hmm.,P,gc
+"Ekti helpful jinish hoite pare tomar jonno ei gulo bishoy gulo ke koto important bujhte, toh kinda clarify korte hobe, ar amra abar dekha hobe, kintu clarify koro tomar values ebong je ki tomar jonno important.",T,"gc, id"
+Okay.,P,gc
+Ar tai toh tomar jonno ei help korbe tomar jonno kichu attributes gulo er rank kora.,T,gc
+"Thik. Okay. Hmm, eta besh bhalo obostha.",P,ack
+"Thik ache. Chol, eikhanei chere dei. Abar dekha hobe next bar amader kotha kichu dekhar jonno. Jodi thakuk kono proshno aro thakuk.",T,gc
+"Na, na, mone hoy, ami mone kori, ami jani ami ki korte pari poroborti, na amra nirnay nichi.",P,comp
+"Tai dekhbo toh abar ek shoptahe, ar dekha hobe sei jonno.",T,"gc, id"
+"Thik ache, dhorchi.",P,gc
+"Dhonnobad, Kyle.",T,gc
+Hmm.,P,gc

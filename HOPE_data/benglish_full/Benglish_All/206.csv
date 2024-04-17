@@ -1,0 +1,73 @@
+Utterance,Type,Dialogue Act
+"Haan, thik ache. Oke. Tui tui ki tui tomar shikkhokder sathe ki bhalo bondhutto chhilona? Ar shayad schooler kichu shei bondhura, tui ki tader sathe kichu bondhutto chhilo? Ar kono?",T,irq
+"Na, amar kichu shomoy shikkhokder sathe dui boleni. Sachetone, ami chhiloam shoho class clown. Tai ami shadharonoto shikkhokder sathe bhison durer shanti na pai, tui jani, tai ami shikhano class er kotha mone koreni.",P,id
+"Thik ache. Toh ekhon, tui aaj oboshhoy ki tomar shikkha ar barta barate chao?",T,irq
+"Haan, amar college e dhukte chesta korchi.",P,id
+"Thik ache. Haan. Tui 4 bachor junior college er jonno dekhechish, toh?",T,crq
+"Haan, ekta swapno college.",P,cd
+"Ar shikkhokder shathe thakar somoy, school e chhile, tui ki kono kaj korechhish, kaj bhaari?",T,irq
+"Ami cost wise restaurant e kaj korechhilam. School er maddhome, thik ache, ar seta ekta kaj poramorsho chhilo na, chhakur ar chamoch gulo package kore salt ar pepper e bhoron kore, seta school er theke restaurant e pathai dito.",P,id
+Restaurant e pathai dito.,T,yq
+Haan.,P,ack
+"Thik ache. Tui shob kichhu prepa korechhish, toh, sob tensoil ready chhilo?",T,yq
+Haan.,P,ack
+"Thik ache. Ekhon, kaj korechhile, seta korar somoy, tui ki bhabchhilis? Tui kemon lagchhilo kaj korte?",T,irq
+"Tui janish, kichhute monoton hochchhilo, clearly. Ar karon Patriots o beshi chhoto chhilo.",P,id
+kintu shuru hoto?,T,yq
+"Haan, shuru hoto.",P,ack
+"Thik ache. Ar tui kemon lagchhilo, karon tui kichhu korchhish, ar tui kajer parot toke paycheck diye dito, seta shesh hoto.",T,yq
+Haan.,P,ack
+"Toh jodi tui jibaney kichhu chai, toh pratisthan kore dite hobe, kaj korte hobe. Gaadi chai naki? Tomar age koto bochor chhilo kaj korar somoy?",T,irq
+10 bochor.,P,id
+"10 bochor, ar tarpor thekei kaj korte shuru korle. Tai tui chhoto shomoy theke jantey gechhish, kothay kothay kaj korte hobe,",T,gc
+"Haan, kichhu paowar jonno kaj korte hobe, kichhu paowar jonno.",P,gc
+"Ekhon, tui ki dream job shonge kothay jachhish? Jodi kal boli, ami kalke ei lokta hobo? Naki kal amar nijer shikkha hobe?",T,irq
+Ekta Pilot.,P,id
+Wow. Aur etaar peechone tomar karon ki chhilo?,T,irq
+"Ami uddoplanegulo bhalobashi, ami chhoto uddoplanegulo banano kora used to kori.",P,id
+"Ei bisay e beshi bol. Tumi jodi tomader dream job e thakto, tobe tumi ki koroto?",T,irq
+"Ami sudhu uddote chai, uddotar shesh e thakbo, ami gati te giye bhalobashi.",P,id
+"Gati te aakaash e, ooper theke dekha, haa, pilot hote amader ki kore dekhochho?",T,gc
+"Tui jani, oi ektai problem, ami protidin khamu, ami mone kori ei kaj hobe na.",P,gc
+Tumi next dream job ki?,T,irq
+Police Officer.,P,id
+"Police Officer, ki kore dekhechho tai?",T,orq
+"Haan, ami try korchhi cadet program e firte, tai ki proyash korte parchhi.",P,od
+"Thik ache, mone kori amra ei bisay e kotha hote pari, tomake cadet program er kache niye jaanar jonno kichhu lakshya set korte parbo. Kintu cholo, tomar marijuana bisay e ekhon ekta kotha hobe, tumi jani, police force e thakar jonno, marijuana o kichhu",T,gc
+"Haan, haan.",P,ack
+Ar tumi ki korote?,T,irq
+"Chhodte hobe, ami chhodte hobe.",P,id
+"Tai, amra jeta chaichi, tumi ei bhalo bhabe treatment plan ebong treatment model develop korte cheye, jate tumi kichhu realistic goals anuyayi korte paro. Aar tomar medical history bisay e kichhu bolo, tomar hospital e jaoa holo kina, kichhu bone bhanga holo kina",T,irq
+Amar cybereason e surgery hoyeche.,P,id
+"Aar tomar family te ki kono rog ache? Kono byadhik keu suffer koreche kina, kichhu roga ache?",T,irq
+No.,P,on
+"Aar amra je korbo, ami tomar ei somporko te help korte chai, ekta treatment plan develop korte chai marijuana use bisay e. Amra tomar support system dekhte chai, tumi jara tomar jibone aacho, tader moddhe ki ki manush marijuana khawar jonno amantran kore? Tader sobujh hote pare kina? Kintu amader mool opekkha holo tomarke chhoto kore shuru korte. Tai aaj, tumi marijuana koto bar use koro, ektu bolte paro?",T,yq
+Haan.,P,ack
+Koto bar?,T,irq
+3-4 bar.,P,id
+Ar tumi uthe uthe koro?,T,irq
+"Haan, subah e. Tai ami kori. Ektu pore dui baje porjonto, aar firte puro ratri. Or pore, dobar koro.",P,id
+"Tai mone kori, ekti bhalo lakshya hote pare je tumi aaj tomar onnoder moddhe konodin sei friends gulo dekho, tader moddhe koyta marijuana khawa holo",T,irq
+Prai six seven,P,id
+"Hmm, tobe ekta realistic short term goal hote pare jate dekha jay kon bondhuder shathe time katbo, to bujho, ar tomar ma to manei kichu na kichu, either way.",T,gc
+"Tini amake bolechilen je, ""dui chara lokder modhe pore geleo, oshudhro kichu hoye jete pare."" Tini ektu bojhano korechilen je, ei rokom kono kichu korle, ekhon amay oi dike jete hobe, na ki jail e dhuke thakbo, karon sei jayga theke kichu kora bondho kore dite pare, ja legal noi.",P,gc
+"Tai nishchit karor, amra tomar bondhuder shathe shob dekhte chai, ar tomar momer shatheo. Tomi bolar kotha mone ache je tomake beriye beriye kichu korar jonno kisu somoy deoa uchit, to ami bolchi, ar tomake tomar sob bondhu shathe dekhte chai. Ar, toki niye dekha jabe. Tomi ageo bolchish tomake kaj korte hobe, tomi ki aaj kaj korchis?",T,"yq,id"
+Na.,P,on
+"Thik ache, tai ekta onno kichu realistic goal hote pare, ja amader dekhte uchit hote pare, ar tomake seta achieve korte amra help korte pari. Mone kori, kaj korte giye jodi beshi somoy thake tahole kichu ghotte trigger hote pare, bujho, marijuana use korte ichhe korte pare, ar amra seta nijei chiniye felte pari, tomar ki obostha. Ekdom briefly dekhiye dekha jete pare. Tomar kono ekta emotion feel korte paro, je shob theke age tomake marijuana khete ichhe kore, tahole amra depression er shathe kivabe deal korte pari seta dekhte chai. Ar, ar ki ki obostha gulo ache, seta ki bujhte paro?",T,irq
+"Gussa, to bujho.",P,id
+Tui ki mone korchis?,T,orq
+"Thik thakte beshi bosor hoyeche, kintu amar meye bandhobi amay ekhon oshojjo mone hoteche. Tai shuru holo. Ar ekhon ota amake khub pechone tene ney, jeno ami oi bishoye bhule jai. Kintu, mone hoye na, abar ota amake khub pechone tole.",P,od
+"Hm, bujhechi. Kichu din ya kichu ghotona mone ache, shayad toh tomake mone pore.",T,"ack,od"
+"Thanksgiving, Christmas, ar holidays, ebong etai rokom kichu.",P,gc
+"Ota holo jabar somoy, tomai kotha bolte?",T,crq
+Haan.,P,ack
+Tomar boro hote ki vabe niyeche?,T,irq
+"Haan, eto ki amar foster parents ke ami mone kori na. Thik na? Kintu Billy ke niye, amar janmo hoyeche amar jatio-mool.",P,id
+"Tai amra chaitesi tomar sathe kichu cope korar upay dite, sei kivabe tader sathe cope korbo, tader jonno prepare korar kono rokom, holidays er age. Ei rokom emotions gulo ami mone kori. Tai amra ei emotions gulo identify korte chai, ebong tomar proshikhan korte chai, jate tomai proshikhan kore tomay chhutir pore mjor korar aagei tomaro marijuana use e poron korte na hoi. Tui Christmas e ki ektu eki rokom feel kori?",T,"yq,id"
+Haan.,P,ack
+"Shomoy boro hole mayer din, pitrer din, ei rokom somoy gulo teo amader tomake prepare korte pari. Karon abar, eto chhoto chhoto steps niyei tomake ready korte hobe, realistic goals. Ar por, oi goals gulo pore tomay ready korte chai long term goal er jonno. Kintu, Curtis, ami khushi je tomake amar office e dekhte pelam. Tomar sathe kaj korte anondo hobe.",T,id
+Thik ache.,P,ack
+Aro kono prosno aache tomake?,T,irq
+Ami kotobar haftay ashbo?,P,irq
+"Amra ekta treatment plan toiri korte parbo. Ebong amar kache tomake dui bar contact korte chai tomay week e. Amra ei niye charcha korte parbo. Ar ekta contact e tomake shayto ekta kaj kore dite parbo. Thik ache? Ebong emotions gulo identify korar jonno help korte parbo. Ar por marijuana use gulo oke komate dekhte parbo, eto din kichu na, everyday. Haan, amra ei rokom dekhte parbo kivabe shayto komano jay. Thik ache, phire ashte khushi holam. Khub bhalo laglo tomake dekhte. Ami tomake prothombar dekhar jonno wait kori. Amra touch e thakbo ar phire dekha hobe, phire ei rokom kaj korte parbo.",T,id
+Thik ache. Thik ache.,P,gt

@@ -1,0 +1,67 @@
+Utterance,Type,Dialogue Act
+"Jason, Ami ekhane thakte chai na.",T,gc
+Ami ekhane.,P,gc
+Tumi bhalo achho?,T,yq
+"Tai amake apnar sathe kotha bolar jonno taiyari kora hoyeche. Karon base kichu ekta ghotese. Ebong sekhane ami kauke kichu bole thakte pari, ebong tara thik eirokom, oh, apni eti bolte paren na. Tai tara asli bolechilo, amra tomake jele niye jabo. Jele theke. Tara shudhu amake ekhane dekeche.",P,id
+Apni ki janen je apnar biruddhe abhoyog anachhe?,T,yq
+Tara kichui byakhya koreni. Shorkar kono kichu byakhya kore na. Tara shudhu chai na je ami bujhte pari ki hochhe karon tara amake bondidasha theke dure rakhte chai.,P,on
+Shorkar. Apni nirdishto keu achhe?,T,irq
+"Na, eta puro shorkar, puro shorkar, uchchhotar shorkar.",P,id
+Kotdin dhore tara apnar sathe eti korte chai?,T,irq
+Amar shara jibon. Ami sarajibon ei kaj korechi. Tara sob somoy shunte hoy. Tara sob somoy kachakachi ache. Tara sob somoy ache.,P,id
+Sob somoy ache?,T,crq
+"Sob somoy ache. Jemon, udahoronshorup, tara ekhon alo te ache. Amra je bishaye kotha bolchi tara sobi shunte pare. Tai ei karone ami base ki ghotese ta niye kotha bolte pari na karon tara kebol etirokhom, oho, apni eti bolte paren na. Tai tara asli bolechilo, amra tomake jele niye jabo. Jele theke.",P,cd
+Emonki oshudh khawa.,T,crq
+"Haan, ami oshudh khai, karon jodi ami oshudh na khai, shorkar ashe amake niye jay ebong amake ekta hospital e bhorti kore jekhane tara amake oshudh khetey badhyo kore. Ebong tarpor light sob somoy chhilo ebong tara shorbohara ami je bolchi ebong ami je bhabchi ebong ami je korchi ta sobai shunte pare.",P,id
+Apni ki janen je tara sei tottho diye ki korte chai?,T,irq
+"Amra chai je amra biswokhe dokhol kori, biswokhe dokhol kori, biswoker lokera oboshshoi, tara sobkichu boshsho korte chai ebong protyeker chhara tader shobkichu boshsho korte boshsho korte chai jate tara prokritipokkhe tader pochonder prithibi pete pare sei shishur modhe ebong sobaike emon bhabon kora je tara jane na ki ghotchhe. Tai, tara protyeker chhara shobaike tader birudhdhe boshsho kore, jate shorkar tader suvidhar jonno boshsho korte pare.",P,id
+"Tahole apni ekta poristhiti te ki korte paren? Achha, apni bolechen je shorkar sobkichu poribekkhan korse ebong tara apnake jele dhokate chai. Apni jodi apnar osudh ghran na koren, kono bikalpo aache. Apni ki atke achen?",T,irq
+"Na. Tai jokhon ami bari te thaki, ami mone kori ami puroposhori bhalo achi karon ami amar ghor e amar ghorti sthapon korechi asle atike shorkari proman kore tarpor keu shekhane ki ghotche ta dekhte na pay. Tai jokhon ami bari te thaki, ami puroposhori bhalo thaki.",P,on
+"Tai ekta bikolpo hol bari te thakar, bari te thakar, apni nirapad.",T,crq
+Bari te thaka ebong bari te thaka ami amar maa ke bachiyechi amar bhai ke bachao sobai ke bachao. Ar duniyar duniyay out hocche. Eta keu nirapod noy.,P,cd
+Apni ki ekhane nirapad?,T,yq
+"Na, ami tomake bolechi tara chakurizibi, ebong amra ekhon je bolchi ta tara shunte pachche. Tai na, amra ekhane nirapod noi.",P,on
+"Eta ekhane nirapod noy. Eta prithibite nirapod noy. Bari te, apni nirapad.",T,cd
+"Bari te ebong amar ghor e nirapad, mane shorkar.",P,cd
+"Tai jodi apani apanar upay karte paren, apani sob somoy bari te thakte hobe?",T,irq
+"Ami sob somoy bari te thakbo, kintu ami bari te thakte parbo na karon ami jete chai ebong daktar dekhate ebong manusher sathe kotha bolte chai ebong sorkar amake je kajguli korte chai ba korte chai ta korte. Kintu ami ei jinishguli korte chai na karon se amar chintay royeche ebong tara sobaike boshano korer ebong ghuranoar chesta korche. Ami eta mokabela korte paren na.",P,id
+"Tahale apani kibhabe bujhben je tara alo te ache? Bhalo lage, apani kibhabe abiskar korlen?",T,irq
+Sobai jane je tara alo te ache. Eta sadharan gyan. Eta sadharan gyan. Sokalei ta jane.,P,id
+Apani ki khono emon kichu shunte pan ja onyo lokera shunte pay na ba emon jinish dekhte pay ja lokera dekhte pay na?,T,yq
+"Na, oboshoi, sobai apanar sathe kotha bolte shuneche. Ami jani na apani ki sompore kotha bolchen. Jemon sobai shuneche. Khono khono eto ekta phisphis. Kichu manusher jonno. Khono khono eto ekta chitkar. Ebong apani jodi aloguli apanake ki bolche sedike monoyog na dile chan, tobe ami jani na apanar ki hoyeche, tobe sobai eti shunte pare.",P,id
+Apanar moto shobdo ki?,T,irq
+Eti ekta robot kotha bolar moto shonachche. Mone hochhe amader ei totho jante hobe apani ki korte chan.,P,id
+Ami shudhu kichu note tori korchhi. Kichu adbuth oprogoti note kotha bola je apani udvigno?,T,id
+Haan. Apanar note kothay jabe?,P,op
+"Achha, ei charti hol-er niche-er chart room-e lock hobe.",T,id
+Chart room-e jar access ache.,P,irq
+Ekhane proyojone almost sobai kaj kore.,T,id
+Apanar kaj shesh korar pore ami ki apanar notegulir ekta anulipi pete pari?,P,yq
+Eta ki chinta kore je note ache?,T,yq
+"Haan, karon ami apanake biswas korte pari. Ebong ami akhono jani na. Kintu ami ei jinishguli korte chai na karon se amar chintay royeche ebong tara sobaike boshano korer ebong ghuranoar chesta korche. Ami etake mokabela korte paren na.",P,op
+"Ami note nite parini, sorkar ki dhonno-rokone totho o note pabe bole apani chintit?",T,id
+"Thik achhe, jehetu ami bari te amar ghorti sorkari praman kore diyechhi, ami mone kori tara sei proyokti churi koraar chesta korbe jokhon ami eti tori kori jate tara amar room ebong tarpor onno sobar roomgulike byahot korte pare jara amar moto je tara tahole tader mone noyontroon boshano korte pare tarpor ami ke noyontroon korte pari ja tara amake korte chai.",P,id
+Tai apanar ghor je suraksha dey ta chhadaai tai tara apanar mone noyontroon korte pare.,T,crq
+"Sotik. Amar room chhadaai, ebong proyokti ebong system ebong ami je jinishguliti tori korechi ta chhadaai, sorkar amar sobkichhu noyontroon korte shokkhom hobe.",P,cd
+"Thik achhe. Tai apani ki amake ei somosto kichur madhyame apanar mejaj sambhorko bolte paren, eti sotti chap-er bole mone hochhe apani eto bostute apani eki proshongshite baron korechen jekhane sorkar proyashi apanar anubhutir jonno jeta korchen ta dekhe apani ki dukkhito ba raganiyo?",T,irq
+Ami bhalo anubhav korchi.,P,id
+Aponi bhalo bodh korchen.,T,crq
+"Amar ashle kon somosha nei, ami thik bodh korchi. Ami sukho anubhav kori na. Ami duhkhit na. Ami shudhu, ami ekhane achi.",P,cd
+Ek prokar podtyag kore sorkar eta korbe.,T,id
+"Thik ache, sorkar ja korche ta korbe. Tai eta kon bapar na. Ami sukhi, duhkhit, rag bondho birkto. Jekono sorkar amake ja chay ta korbe. Tai ami kemon anubhav kori tate kichu jay ashe na.",P,id
+Aponi ki udvigno je kichu ekta ghote jachhe base eki rokom ghote hobe?,T,yq
+"Na, karon ami amar path shikhechi je sorkar ki korche se sambhokre kotha bolaar jonno ei jinisguli ucchshore na bola karon ami ashle onyo kauke janate pari na karon keu amar kotha shone na karon tara itimodhye sorkar dware niontit. Tader ghore amar moto ghore nei.",P,on
+"Bhobishote eti edate, karon eti satyoi chilo na, eti satyoi kaj koreni. Ki ghotechhe ta bujhte tader sahayyo korte apni shokkhom honni.",T,id
+"Manush bujhte parche na ki ghotechhe, tobe eti tader dosh. Eta tader somossha. Tader amar kotha shona uchit chhilo. Aar ami tader prokrito pshete korar jonno proyojoniyo projukti dite pari jate sorkar tader kotha shunte na pare.",P,id
+Kintu tara ei dharonar jonno unmukt chhilo na.,T,crq
+Na. Ekebare biporit. Eta sampoorna biporit.,P,id
+Apanar paribarik somporko kemon?,T,irq
+"Thik ache. Haan, amra amar mayer sathe thaki. Se emon kore je se amar ghore jabena karon se jane. Tini robotgulite jano proyoktike bishringkol kore feleben tai tini baire thakben.",P,id
+Tai aponi thik ache madhyome songe pete. Apanar sathe onyo keu jogajog achhe? Bondhu poribar?,T,irq
+"Ami sob somoy manusher sathe kotha boli, kintu tara amar mathay thake. Amra kibhabe bishwke ekto bhalo jayga kore tulbo ebong tarpor kibhabe ami sorkarke dhongsho korbo ba bhalo korbo se somporkhe amader shorbo kothopokathon thakbe. Shudhu eta pampe up.",P,id
+"Jason Well, aponi chaper moddhe achen shune ami duhkhit. Eta thik ache moto apanar onubhuti shune ami khushi. Aponi hotash ba udvigna ba kichu nei. Amar jonno ei proshnoer uttor ei sahajok hoyeche. Ebong ami suporish korte jachchi aponi ekhane ekjon counselor dekha chaliye jan jodi eti thik thake. Ami bujhte pari je aponar adaloter adesh aseni.",T,id
+Eta bhalo hobe.,P,id
+"Acha, tahole ami somoyshuchi korbo. Amra samne ekto somoy set korbo, jekhane ami aponake dekhte pabo. Tin din er moddhe boli. Oi kajgulo?",T,id
+Tin diner kaj.,P,id
+"Tarpor amra shekhane theke jab. Thik ache. Dhonnobad, Jason.",T,gt
+Apanake dhonnobad.,P,gt

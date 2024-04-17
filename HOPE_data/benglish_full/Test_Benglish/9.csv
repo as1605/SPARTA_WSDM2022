@@ -1,0 +1,69 @@
+Utterance,Type,Dialogue Act
+Apni kemon asen? Bhalo na?,T,yk
+Na,P,on
+Ki hocche.,T,irq
+"Thik ase, mone rakhben ami apnake bolechhilam je tara amar chakorite sizing korche.",P,id
+Amar mone ache.,T,ack
+"Tai ami, apni janen, amar chakorite 20 bochor chhilam. Hyan. Ebong tara idaning chhoto korche ebong tara amake jete dise.",P,id
+Eta bhoyonok. Ami eta shune duhkhit.,T,gt
+"Na, na, na. Tai hyan, eta thik, apni janen, tara amake jete dise. Amar asle kichui korar nei. Ami ki korte hobe ta jani na. Ami je hoyechi. Etodin chakri. Ami sotti janina kivabe onyo kichu korte hoy.",P,gc
+Apanar kajer kotha bola uchit. Apni sekhane khushi.,T,irq
+"Hyan. Ami chhilam, ami bhebhechhilam, apni janen, ami dirghodin dhore sei kajti korar kalpona korechhi. Suton, apni janen,",P,id
+Ebong etta ghotebe na. Na na. Eti kivabe apnar biler moto apnar arthik drishtibhangike pravabito kore?,T,irq
+"Oh, etta bhoyonok. Ami bolte chacchi, amra oboshoi amar swami ebong ami, etti sotti niyontorer bahire chhle gechhe. Amar swami ebong ami ek dhore, amra eksange bil porishodh. Ebong tai etti amader ayer ardhoksho chhilo, ebong etti chhle gechhe. Ebong karon etti aro aksmik chhilo, amader kache onyo kichu karar somoy chhilo na, apni janen, prastuti neowar somoy.",P,id
+Suton etti oboshoi apnake rakhse. Apanar maulik bilguli kobhar korar jonno apanar swamir chakrir sathe apanar ki yatheṣṭ ayo ache?,T,irq
+"Ektu chhilo. Hyan, e porjonto. Kintu ami jodi shighroi chakri khujte na pai, tahole ami jani na ki hobe. Ami jani na etta koto ta kharap hobe.",P,id
+Kon arthik pratishruti puron korte bhyrtho hole apnar kache kotokhon somoy ache ta jante.,T,irq
+"Amar swami sadharanotobilo nio kore, tai ami puro puri nischoit noi. Tobe sambhabot onyo ek maser moddhe etti proyojonmukhe ek maser jonno khub kharap hote cholbe.",P,id
+Apni ki chintachen?,T,crq
+"Sob dhorte. Mane, ami, ami chintit je, apni janen, amar swami ebong ami torko korchi karon amra ei shomosto chap er moddhe achi. Ami chintakori, amra amader ghore harabo. Apni janen, ami udvigno je ami grihhin hote jachchi. Apni janen, etta bibroto kor. Amar akhon chakri nei. Ami jodi onyo chakri khujte na pai? Tumi jano, amar bachchara ki korbe? Amar bachchara, apni janen, tader chai mètate amader upor nirbhor kore. Hyan hyan. Tai ami bolte chacchi, amra grihhin hote pari. Ami ar kono somoy chakri pabo na, tumi jano, amar boyosh kom hochhe na. Tai ami bhoy pachchi je ami onyo chakri pabo na.",P,cd
+"Ekhon, apni bolechhen je apnake chhatai kora hoyechhe, tai na?",T,yq
+Hyan.,P,ack
+Poder jonno. Aponi ki bekartober jonno joggo?,T,orq
+Ami nischoit noi je ami akhono eti khujchi.,P,od
+"Karon aponi jodi bolte chan, ami shram ain bisheshjno noi. Kintu ami mone kori jodi aponi, jodi aponake chatayi kora hoy, tahole sambhobotho aponi chakri pete paren. Shikkhar jonno koto?",T,crq
+Ami shudhu amar bachelor ache.,P,cd
+"Thik ache, eti, eti beshirbhave snatak degree-r cheye beshi. Hyaa. Ekhane aponake dirghodin dhore chakri khojte hobe na. Karon ami onumon korchhi aponi bhebhechhilen aponi oboshor nite chhilen.",T,orq
+Hyaa.,P,od
+"Tai eti onek karon-e birakhtikor. Tai apanar arthik chap ache, tai na? Ami chhoto kora jabe na. Relational stress-er ullekh kora hoyeche, eta ekti dhonno bibrotokor. Hyaa, eta ekti identity jinisher moto ja ami dekhte pachhi aponi ekhon ki korchen. Aponi toto korben na, karon aponi shokriyobhabe ete kaj korchen na. Hyaa. Apanar ki kono emon shokormi achhe jara sechchhaye onno chakrir jonno chole geche?",T,crq
+Na je na.,P,cd
+Aponi sekhane kaj korar somoy noi.,T,crq
+"Ami je shocheton chhilam na. Ami mone kori eti hoyto kichukkhon age ekta mato hote pare, kintu eti ekta chomotkar bhalo kaj chhilo. Tai.",P,cd
+Tai onek manush thake.,T,crq
+Hyaa.,P,cd
+Aponi ki kono emon kauke chhinen jini ekoi company-r jonno ba ekoi khetre kaj korechen? Kara chakri poriborton kore?,T,orq
+"Hyaa, amar bondhuder modhye ekjon ekoi khetre chhilen ebong se chakri chhede diye onno chakri khoje peyechhilen. Koto-khon legeche jenen. Ektu somoy laglo. Ektu somoy laglo. Like, sambhobotho dui bochor ba taro kom prae, hyaa, eti tader poribarer jonno ekta songram chhilo. Tai ami je somporkhe chinta.",P,od
+Aponar bil ba sei ayyer onsho porishode-r jonno aponake ki sei shomporke ay pothapon korte hobe?,T,irq
+"Ami bolte chacchi, sambhobotho etir kichu onsho purno hote pare adorsho karon, aponi janen, amra etodin jevabe beche chhilam ta adorsho hobe, kintu aponi janen, amra sambhobotho etir onsho beshi na, eti thik no pashapashi amra basi chhilam.",P,id
+"Tai amra ager session-e somossha shomadhaner dokkhoto somporkhe kotha bolechhi, thik ache. Tai aponi ekhon ki ghotche ekta jara dharonar proyojone porichalit.",T,crq
+"Ami bolte chacchi, ami chinta karar chesta korchi, aponi janen, bibhinno sujog ja ekhon amar jonno unmukto hote pare ebong aponi janen, amar bachchader sathe arro beshi somoy kata te ebong er moto jinishguli. Ami amar poristhiti onyobhabe chinta korar chesta korchi.",P,cd
+"Sutotrangi bache, ebong tarpor somoy onsho onudhabon, kichu somoye ayo protisthapon proyojon. Hyaa, ortho-r khetre eto bostoboshto. Aponi ki bibechona korechen je aponi jodi kaj korar jonno ekta full-time chakri khoje jachen tobe aponi khondokalin chakrir dike nazar dite paren?",T,orq
+"Ami eti somporkhe chinta korchi, kintu ami eti niye sotti kothin somoy par korchi.",P,od
+"Eta ki hobe eta apanar somporko ki mane? Eta apanar somporko ki bolbe jodi apanake ekati part time chakori nite hoy, tai ar ekati full time chakori khujhe pawar eta khoti?",T,orq
+"Amar somporko er arth ki hobe ta holo ami mone kori jodi amar shudhumatra ekati part time chakori thakto jeta ami jogyo chhilam na, je ami puro somoyer jonno jathechilam na.",P,od
+Sutaraṅg apani etike abhyantrin karte chan ebang er arth hobe je apani totota mulyabanon na.,T,yq
+Hyām.,P,ack
+Tai eti sbo-mulyer katha bole.,T,crq
+"Acha, ei mohorte eti bhalo na. Oẏēl, māne, ami amar swāmir sāthe tôrkô karechhi, ami aneka beshi pān karechhi, apani jānena, biṣônnatā aneka khārāp phire esechhe. Sutaraṅg eti kebala ekti chôkro hoye uṭhche jeḥane apani jānena, môdôpān kôra ebang tôrkô-bitôrke jôṛiẏe pora ebang parishtiti bhalo hôche na ebang eti snōbōliṅkē snōbōlik rākhe.",P,cd
+Hyām. Ebang ei ācaranguli ēmana sômosto jinis ja sambhābẏabẏē apanara lakhyakē bādhāgôrsta karate pāre. Sutaraṅg eti ekaṭi swa pūrṇa bhôbiṣyadbanī upādānamata ei dhôrône.,T,crq
+"Kintu yakhana ami satyī bishônnô thāki ebang parishtitir unnati hōna nā tōkhana eti kôṭhina. Ebang ami shudhu bāṛite bôse achi, apani jānena, môdôpān kôrchen, yakhana ônẏa sabai tādera jibōn cāliẏẏē yāchche, ebang ami ekhāne aṭake achi.",P,cd
+"Ebang eti sei dhôrṇēr ôkējō, ṭāipi phāivēra sāthe sambandhayukta. Tai apani sei bhūmika pālana karachhēn. Mūlyahīna. Yē apanāra jōnō udvāsit sōnācchē. Ebang yē ēka jinis apani karate pārēn. Eṭi ēmana ēkaṭi bikalpa ja apani pan karate pārēn ebang apanāra somporkaẏō lôṛā'i hōtē pārē. Kintu eti ki satyī?",T,crq
+"Satyī? Na, eti shāhāẏẏa karachhē nā.",P,cd
+Apani kibhābē ei chôkṛi bhāṅtē pārēn bōlē mōnē karēn?,T,irq
+"Ami cintā karachhilām, apani jānēna, ôrō sôngôṭi hōẏē ṭōlā ṭōlā kôra, jēmana āmra āgē arthaniẏē kathā balēchhi ebang ebang cēsṭā karachhi, apani jānēna, āmra jēkhānē chai sēkhānē ṭhikatā āẏ kôṭa āra ki tā āẏ koṛa dôrakār, kī? Karata ebang hayaẏōta śiśur padakṣēpēra, tai eti bhālō, saṭhika prabhu, āmi eti r jatita ābarjanaō kôra nā kōra taibhāla, bāghē, āmār samajē paribāraẏō ḍē'ō'ẏār cintaẏē baṛāẏōta. Ebang eti bhēṅē phēlāra mōṭō.",P,id
+"Oẏēl, eti bōjhā yāẏa. Hyām, tāi prathama dhāpaṭi bēra karā hōbē apanāra āsali nûnata para, tāi nā? Tāi apani pūrō samayer jônō bhāṛāra jônō shuṭinga karabēna, kintu apani bôjhata para jē apani sôrḍōr ôphāraṭi grôhaṇa karata para jē yatē āmi pratyākhyan karār jōnya binamūlya samaya chāẏi. Ṭhika? Tai eti arthē tōlē. Tāi sei tattwa diẏē śasthra ebang apani kôrmōshētrē jētē para, tai nā? Ebang eti kôma udvēgajnak chila jadi āmi eti pai tōbē ei kāji karatē calēchē, eti bhala, sathika prabhu, āmi eti jōnya ābēdana'ō karatē pāri nā kāraṇa eti kāja karabē nā. Tai samaya hisābē ḍakṣa hisābē, eti bhala. Jē jauktika śōnāchchē.",T,crq
+"Āmār mōnē hae môṭā môṭā ôjānā bhôẏēra matan, cintāẏē thāki yadi ēmantā nā haẏa āmāra jōnō? Tumi kibhābē jānō, āmi jadi chākōri nā pai? Apani ki jānēna, yadi amra āmādēra ghara hārābēna?",P,cd
+"Eta cintita hyām, kōna chinta nēi. Bōkājhōkā hyām hyām. Tai",T,gc
+"Ami bolte chachchi, sobcheye kharap kshetre, jodi amra chakri na pai, mane, sambhobat. Ami jani na, poshondo kori, ekta chhoto bari pete, ba etir ashepashay kono upay khujhe pabo. Ami bolte chachchi, tar kichu kothin somoy thakbe.",P,gc
+"Hyan. Eta kothin hobe, tai na? Nyayyo hote, tai na? Eta kothin hobe, kintu apni maniyenite hobe.",T,crq
+"Thik? Tai, eti kothin hobe kintu ami mone kori jodi ami satyoi eti somporke chintai kori, apni janen, amra sambhobat etir moddhe jabe.",P,cd
+"Tai jodi amra etir sathe grahan kori amra boli je eti satyoi ekta abhiyojit protikriya jokhon amra swankriyo chintabhabnar abhiyojit protikriya somporke katha boli, tai na? Tai apni jodi nijeke bolchen je apnar hotasha ache ebong oboshoyi udbeg ache, madhyapaner akangksha royeche, apni nijeke bhalo vabe bulun, sobcheye kharap ja ghotote pare ta holo ami amar baki jibon ar kaj korbo na, shokor kore eti khub kome. Kintu sobcheye kharap ghotona holo ami ar kaj korbo na. Ebong ami maniyenite pare, ami bastugot jinispatro ebong chhoto ghor poriprekshte ekta soho jibon thakte pare, kintu ami beche thakte hobe je amar batteryr upor pravab feleben apnar mojaj, ba apnar chinta?",T,orq
+"Ami bolte chachchi, ami mone kori jokhon ami satyoi eti somporke chintai kori, apni janen, jemon apni bolechilen, ami mone kori ami kom hotashagrosto ba mone kori je ami, apni janen, ami eti mukabela korte orjojito. Apni janen, thik ache, bhalo, eti sobcheye kharap ja ghotote pare, kintu ami joto bhebechilam toto kharap noy. Embed kora hobe.",P,od
+"Tai emon ekta onsho royeche ja soprostotar sathe ashe ja sobcheye kharap poristhiti ki hote pare ta grahon koraar sathe ashe. Thik? Ebong sambhobat obhiyojito protikriyar onno ek onsho hote pare, apni janen, ami sobcheye kharap poristhiti te beche thakte pari. Ami mone kori eti asombhobyo sikkorito. Je asombhobyo. Thik? Tai porishongkhoan sambhabna ekhane apnar pokkhe. Thik? Sutonoto, apni jokhon kormoshetra te ebong kormoshetra te jabe ebong chakri khujben, apnar sambhabot kichu, kichu interview thakbe, amra chakrir offer pai na, thik ache. Kintu shesh porjonto, jodi ami ekta jekhane apni, hyan, thik ache. Eta, eta sudhu ganit. Thik? Apni jodi sobcheye kharap kosto grottonao te pere jete pare ja sambhobat sei alcohol sebonkotek kamate ba shimit korte pare, sei bishonnota, udbeg komiye din.",T,crq
+Hyan.,P,cd
+"Tahole ajker jonno ekhanei shesh kora jak. Kintu ami chai apni porer shoptaher jonno chesta korun. Ami je abhiyojit protikriya chesta korar sathe asha kori, tai na? Asle, amra dan sambhabe katha bolchi du ache? Ekti holo apni sobcheye kharap poristhiti te beche thakten. Ebong onno ekta holo je sambhobat eti ghote na. Thik? Tai apni dui dhoroner ache. Thik ache, apnar kache dui abhiyojit protikriya ache ami chai apni proyojon koren jokhon setai swanokriyo chintagulir ashe, jemon, ami ami ar kobeo kaj korbo na. Thik ache, eta ekta biborno. Tai je proyojon, hyan, sei proyojonke proyog korun. Thik? Tai je swanokriyo chintar chinnoti korun, karon amra je kichu bolechi, tai na? Ebong setarpor sei swanokriyo chintake shorashori proyog korbun. Thik ache, ar dekha jak, apni chinta record ache. Thik. Sutonoto, jokhon apni janen je, jokhon apni tader moddhe ekta puron korten, thik ache, jokhon seti ghote jokhon apnar sei swanokriyo chintabhabna thake ebong apni abhiyojit protikriya proyog koren, eti jodi apni sompurno roope puron korte na pare, ami bujhte pari. Ami jani setikhane onek kichu ache. Sudhu ki apni je kaj pete paren. Apni je korte paren. Je sob help korbe.",T,crq
+Thik ache.,P,cd
+Bhalo shonachchho?,T,gt
+Hyan.,P,gt
+Tai ek shoptaher jonno nirodho. Tai ami apnar sathe dekha korbo tarpor ami dekhte pabo kibhabe eti ogorjorir dik e jay amra alcohol ebong bishonnota ebong udbeg nie eti korte pari.,T,ci
+"Thik ache, dhonnobad.",P,ack

@@ -1,0 +1,231 @@
+Utterance,Type,Dialogue Act
+"Hello Kelly, kemon acho ajke?",T,gt
+"Ami to bhalo, mone hocche.",P,gt
+"Thanks for coming in for the Cintiq. Ami janina tomake tomar agency te screening process e giye geso. Yeah, tader kheyal e variety questions kore, like 40 questions. Social security number, date of birth, r oshob information gulo tara bill korte ar administrative functions carry out korar jonno dorkar. But ajker intake er purpose ektu different. Ami kichu personal questions korbo.",T,"gc, id"
+Ok.,P,ack
+"Specifically related to jinish gulo jara tomar life e hoche, ar tomar symptoms. Tumi tader sathe comfortable?",T,yq
+"Haan, sure.",P,op
+"Ok. First section e shuru korar age, ami ekta kichu confidentiality niye kotha bolte chai. Jokhon tumi counselor er treatment niye ashbe, tomake oi counselor er sathe communication ta confidential. Kintu oi shob confidentiality er por ekta boro asterisk ase. Ok. Ar ami certain circumstances gulo tomake explain korte chai under which confidentiality might be broken.",T,"gc, id"
+Ok.,P,ack
+"So, shuru kori, sob kichu confidential. Ar pore ami tomake oi exceptions explain korbo, jemon sense kore.",T,gc
+Sure.,P,ack
+"The probably the largest exception. One of the most frequently used exceptions holo, jodi tumi ekta release sign koro, amar jonno confidentiality break korar jonno, eta uncommon noy. For example, jodi tomar physician er sathe ami kotha bolte chai, karon ekta physical condition or medication je tumi niyecho, oi ta tomar mood e effect korte pare.",T,"gc, id"
+Ok.,P,ack
+"Tumi ekta release sign korte pare je amake tumar physician er sathe communicate korte allow korbe. Oftentimes, physician o ei rokom kichu chai. So eta dui releases, ok, ekta oi rakhe, ar ekta ami rakhi. Ok. Similarly, jodi tomar kono family member thake, jake tumi session e niye aste chai, karon somehow ota tomar kotha sathe related hoite pare, tahole tumi ekta release sign korte hobe. Jodi tumi tai koro, tahole ami oi family member er sathe communicate korte pari.",T,id
+"Oh, ok.",P,ack
+Eta tomake sense kore?,T,yq
+"Haan, sense kore.",P,op
+"Even though releases likhte hoy je effect e ashte, except in extreme circumstances, tumi anytime release discontinued korte paro. Ami agency ke call kore bolte pari je tumi tomake release cancel korte chai. So, jodi mone hocche, je reasonably eta case, tahole, bhabo jodi tomar kono family member ashe ar session e jabe ar session ta bhalo jay, tahole oi relation er jonno eta cholbe. Kintu pore relationship break down hoy, ar tomar mone hocche tumi chai na je oi family member ta call korte pare ar counselor er sathe kotha bolte pare. Tahole tumi just call in ar administrative staff tumar release cancel korbe.",T,id
+Ok.,P,ack
+"Jodi tumi seta koro, thik ache. Kintu porerbar amake dekhar shomoy bolbe, ami double check kore nishchoi kori chart e cancel hoyeche. Eta bujhte parcho?",T,"id, yq"
+Umm ha.,P,op
+"Okay. Ar ekta exception confidentiality er holo cognitive care, mane tumi ekhane agency te eshe amake dekho, kintu onek lok kaj kore ekhane, ar tomader care e involved. Jemon, keu chart follow kore, keu billing kore. Ekhane ekjon director ache, right, tadero tomader care e interest ache. Tai ami permitted ami orader sathe kotha bolte, jeta amra discuss kori. Kintu ami shudhu oi parjonto kori je parjonto amar dorkar, jemon billing er lok er sathe kotha bolle, ami tomader deep dark secrets share korbo na, jemon tomader life history ba kichu. Ami shudhu taderke bolbo je taderke jante hobe, jemon tomader insurance ki type er, ba insurance e change asche ki na, erokom question tara amake jiggasa kore. Ar tader question gulo typically personal nature er na. Ar jodi hoto, ami uttor dibo na. Kintu agency er director er sathe, disclosure ta different level er hobe. Eta bujhte parcho? Karon tara clinical person.",T,"id, yq"
+Mane tumi tader amar deep dark secrets bolte paro?,P,crq
+"Ami parbo, kintu ami generally avoid kori.",T,cd
+Bhalo.,P,gc
+"Kintu jodi treatment team meeting hoy, ar tomader case discuss hoy, tahole onno clinicians ar director er access thakbe information e. Tadero same confidentiality rules follow korte hobe je ami follow kori. Amra eta kori karon eta valo care promote kore.",T,id
+Eta sense kore.,P,ack
+"Amader kache information ache je tumi voluntarily release koro, right cognitive care ar ekta exception holo jodi ami mone kori tumi keu ke harm korar kotha bhabcho. Eta tarifs of duty. Right? Eta duty to warn. Tai ami imagine kori eta unlikely general e, ar tomader specific case e ami imagine kori unlikely. Kintu jodi tumi amake bolo tumi keu ke harm korbe, ar tumi office chere chole jao, ami contact korte hobe taderke warn korte je tumi path e acho harm korar jonno. Eta involve korbe na family secrets ba diagnoses. Eta shudhu hobe, Hey, Kelly harm korar jonno asche. Okay, ami warn korchhi, ar tumi uchit byabostha nite, jemon police ke call korte ba flee korte.",T,id
+Okay. Eta hobe na.,P,gc
+"Ha, ami chaibo ei jinish gulo cover kori. Eta oftentimes use hoi na, kintu rare jinish gulo hoyeche past e, ami imagine kori hobe na, kintu jano hoi.",T,id
+Okay. Okay.,P,ack
+"Ar ekta exception confidentiality er holo jodi ami mone kori tumi nijer ke ba onno ke danger e felcho, specific target na thakle, ami feel kori ami evidence support kori je tumi danger hobe onno ke ba public ke, ba nijer ke. Ami have to ar ami ability ache, authority ache steps nite prevent korar jonno tumi nijer ke ba onno ke harm korte. Ami shudhu je information dorkar shei ta disclose korbo prevent korar jonno.",T,id
+"Okay, eta sense kore.",P,ack
+Ar same apply hobe jodi tumi threaten korecho harm korar kotha onno ke.,T,id
+Okay.,P,ack
+"Ami emphasize korte chai ei point e, jodi tumi amake bolo tumi suicidal thoughts ba homicidal thoughts ache, eta mane ei na law enforcement ba inpatient facilities involved hobe. Okay, amra kotha bolte pari. Onek manush, especially jodi depression thake, suicidal thoughts thake. Eta extremely common, ar homicidal thoughts actually fairly common. Rarely acted upon hoi, kintu common thoughts. Tai ami chai tumi free feel koro discuss korar jonno, fear na niye je ami just phone tule police ke call korbo, karon eta hobe na. Kintu jodi clear threat thake, ar ami really worried hoi, tahole ami act korbo, ar ei shob actually protect korar jonno tomader ar public.",T,id
+Okay.,P,ack
+"Ar ekta exception confidentiality er holo jodi tumi amake information dao je leads me to believe je ekta child ba elderly person abused hocche. Ei exception e interestingly, matter na tumi abuser ki na. Tumi amake bolte paro tomader neighbor somporke, ar kivabe therapy te ashar pothe tumi dekhecho she tar child ke abused koreche, tahole ami report korbo. Ar ami shudhu je information dorkar shei ta diye try korbo prevent korar jonno harm child ba elderly person ke. Eta sense kore?",T,"id, yq"
+Ha.,P,op
+"Okay, ar last thing exception confidentiality holo, eta khub rare, kintu hote pare. Tai ami bolte chai. Jodi kono karon e, therapy er shomoy ba therapy shesh hobar por, tumi involve hote civil legal system ba criminal legal system e, ar ekjon judge order kore amake disclose korar jonno information tomader chart theke ba amader experiences theke, okay. Technically, judge ta parbe, ar ami follow korte hobe or/ her order. Kintu ami disclosure korte age ami judge ke case korbo, je ami chai na korte, ar restrict korte chai disclosure ta joto possible. Kintu shesh e, guruttopurno jante holo je ami final decision nite parbo na, judge er haate thakbe. Abar, eta hoy khub rarely, kintu ami jano hoi, eta exception confidentiality.",T,id
+Okay. Okay.,P,ack
+Tumi ki bujhte parcho ami je bolchi?,T,yq
+Ha.,P,op
+Tumar ki kono question ache ei gulo niye?,T,yq
+"Na. Mane, jodi ami boli ami khub sad feel korchhi, ar ami suicide korar kotha bhabchhi, tumi ki...",P,on
+"Amra kotha bolbo seta niye. Ha, ami just phone tule police ke call korbo na, okay. Ami actually authority nei keu ke lock korte. Ami parbo, shudhu try korte, first thing hobe seriousness assess kora, ar safety plan korte try korte ami duijon happy thakte pari. Okay, ar eta keep korte safe. Kintu extreme terms e, jodi tumi bolo, Look, ami really harm korbo nijer ke, ar ami korbo soon, ar ei holo ami korbo ki, amar recourse hobe law enforcement ke call kora, ar tader kache variety options ache. Of course, ekta holo taking into an inpatient facility ba something. Sometimes tader arrive kore situation change hoye jai, all kinds of possibilities. Eta really last resort move. Eta hobe na amar first call. Amar first action hobe communicate kora tomader sathe, dekha kothay achi. Ar eta unusual na je clients suicidal ideation thake onek session e row. Thik?",T,id
+"Okay, so eta unusual na.",P,gc
+"Na, particularly jodi kono type depressive disorder thake, ba just feelings of depression thake je rise na diagnostic level e. Eta uncommon na passive suicidal ideation thake, jemon maybe wishing je tumi wake up na korbe next day ba something. Eta onek different tumi amake bolo je tumi plan ache harm korar, ar tumi korbe. Eta sense kore?",T,"id, yq"
+Ha.,P,op
+Kono other question ache tomader limits of confidentiality niye?,T,crq
+"Na, eta pretty clear.",P,cd
+"Jodi kono point e unsure hoi, tumi mone na rakho ki gulo, of course, tader include kora ache information received screening e, ar ekta sheet ache je tader upor. Kintu free feel koro jiggasa korte amake. Thik? Ar ami happy hobo clarify korte kono points, kichu tumi bhule gechho now theke oi point porjonto, ar ami happy hobo explain korte abar.",T,id
+Okay.,P,ack
+Thik ache. Cholo next step e jai. Cholo tomader sathe kaj kori.,T,gc
+Check.,P,gc
+"Ami tomader kache question korbo wide variety domains theke. Subject matters, like relational history, emotional history. Kichu area ache je tumi maybe beshi discuss korte chao, ar ami note korbo. Kintu ami chai na onek depth e jete ei point e, karon ei point e ami try korchhi data collect korte. Eta set kore framework ar structure amader later on part er jonno. Kintu ami bujhte pari kichu topic niye tumi expand korte chao. Tai jodi eta hoy, ami probably point korbo tomader back toward jei kaj korchilam. Kintu ami note korbo ekhane make sure amra cover kori later. Eta sense kore?",T,"id, yq"
+Sure.,P,op
+"Okay, ready to get started.",T,gc
+Ha.,P,ack
+Thik ache. Ki niye tumi amader agency te eshecho? Ki bother korchhe?,T,irq
+"Well, ami guess kori, ami khub well feel korchhi na, kintu ami mone kori eta work. Ami amar boss ar kichu onno women er sathe work e valo jachche na, ar eta kinda embarrassing, kintu eta prothombar na je eta hocche. Ar ami mone kori ami kichu vul ache.",P,id
+"Mane tumi bolo tumi ektu down, kintu tumi o relational difficulties face korchho jei manush gulo work koro.",T,crq
+"Ha, ar maybe ektu beshi down. Ami ekhon valo feel korchhi. Kintu ami khub sad chilam.",P,cd
+"Okay, amra ei niye kichu beshi kotha bolbo.",T,gc
+Okay.,P,ack
+Anxiety er kono anubhuti?,T,yq
+"Mone hocche ektu. Kintu ha, mone hocche worried, huh?",P,op
+"Worried, nervous, on edge, kichu?",T,irq
+"Well, ami ekta worrywart. Tai ha, ami shob shomoy worried thaki.",P,id
+"Ami tomader kichu question korbo, ei ke symptom checklist bole. Onek gulo question ektu apply hobe na tomader khetre. Kintu ami cover korte chai sob kichu ei section e, regardless. Okay. So ami jokhon ekta topic touch korbo, jemon prothomta holo memory loss. Okay. Jokhon ami ekta topic touch korbo, tumi janao jodi eta currently hocche. Jodi ghotona ghotche, ba jodi notice korecho last 30 days e, jodi ever hocche, okay, so amader ache current, last month ba so, three days, ever hocche, ba jodi never hocche,",T,id
+okay.,P,ack
+"thik ache. Jodi tumi chaile ami remind kori dibo ei four categories, just janao.",T,gc
+Alright.,P,ack
+"so current, last three days, ever hocche, ba never hocche. Okay, so amra start korbo memory loss diye. Tumi ki memory loss face korcho currently? Ba last three days e, ba ever?",T,"gc, yq"
+"Na, mone hocche kichu childhood memories mone nei, kintu ami mone kori seta normal.",P,on
+Ha. Kono substance related problems ba issues?,T,yq
+"Na. Never. Well, maybe jokhon ami teenager chilam.",P,on
+tumi ki bolte paro eta kobe hocche?,T,irq
+"Well, ami university te chilam, ar ami mone kori... ami beshi drink ba party kori ni, jano. Kintu ekbar campus police ekta party te raid korechilo jekhane ami chilam, ar tara amake dhoreche. Ami just ekta nickel bag niye chilam. Ar tara actually amake station e niye geche, police er moto. Kintu kichu hoini poroborti.",P,id
+"Okay. Ar amra legal problems niye poroborti kotha bolbo. Tai mone hocche kichu substance related issues chilo, kintu mone hocche na etai troubling ekhon.",T,"gc, crq"
+"Oh, na, ami drink kori, kintu seta... Okay.",P,cd
+Amra ei niye ektu kotha bolbo. Sheshbar kobe drink korecho?,T,"gc, irq"
+Goto kal.,P,id
+Tumi ki withdrawal symptoms face korecho kabhu?,T,yq
+Nope.,P,on
+Tumi ki auditory hallucinations shobdo ta shunecho? Mane holo jokhon keu shune jeta onno ke shunte pare na. Tumi ki kabhu face korecho?,T,yq
+Na.,P,on
+"Visualizations same jinish, kintu dekhar dike. Tumi ki dekhecho jeta onno ke dekhte pare ni?",T,"gc, irq"
+"Na, mone hocche na. Mane, maybe college e ekbar high thakar shomoy, kintu ha.",P,id
+Tumi ki mone koro ba bolte paro je tumi delusions ba paranoia face korecho?,T,yq
+Na.,P,on
+Kichu emon ki holo? Okay. Tumi ki mone koro tomader thoughts disorganized?,T,yq
+Na.,P,on
+"Tumi bollle tumi ektu down feel korchho, tumi ki kabhu Really up feel korecho, manic bolte. Jemon onek energy thake ar ghum hoi na onek din dhore, emon kichu?",T,"gc, yq"
+Ha.,P,op
+"Racing thoughts niye ki kotha? General e, tomader mood stable thake, na ki ek extreme theke arek extreme e jai? Eta ki kabhu hocche? Amra bolte pari lay bottom mood.",T,irq
+"Ha, ami khub sad feel kori. Mone kori ami happy hoi na tarpor, emon kichu na.",P,id
+Okay. Irritability niye ki?,T,irq
+"Ha, jodi tumi amar husband ke jiggasa koro, probably, kintu ami mone kori na onno der theke beshi.",P,id
+Tumi ki sleeping niye kono trouble face korecho?,T,yq
+"Ha, sometimes.",P,op
+Sheshbar kobe trouble hocche ghumate?,T,irq
+"Dekho, jokhon ami khub sad feel kori, ami sometimes ghumai, kintu sometimes, jani na, ghumate pari na. Sheshbar kobe? Mone nei. Mone hocche, ei spring e koyek mash agey.",P,id
+Tumi ki nijer moddhe obsessive thoughts ba compulsive behaviors peye thako?,T,yq
+"Mane, worry, jokhon worry hoy?",P,crq
+"Ha, repetitive thoughts je anxiety create kore ba behaviors je tumi stop korte paro na.",T,cd
+Na.,P,on
+"Tumi sleep problems niye bollile, tumi ki nightmares niye problem face koro?",T,crq
+"Na, significantly na.",P,cd
+"Thik ache. Tumi ki khawa-dawa niye trouble face koro, jemon, khub kom khawa ba beshi khawa, erokom kichu?",T,irq
+"Ha. Mane, sometimes ami overeat kori, kintu ami khawa-dawa kom kori, amar husband bolche ami enough khacchi na.",P,id
+Tumi mone koro tumi enough khaccho na?,T,crq
+"Hote pare, karon ami khidhe pai na.",P,cd
+"Eta problem hocche recently, ar currently food niye problem hocche.",T,gc
+"Well, not like a believer, ami just khete chai na. Energy nei uthar, interest nei.",P,gc
+Just food e interest nei. Okay.,T,gc
+Appetite nei.,P,gc
+Okay. Thik ache. Tumi ki mone koro tumi ekhon ba agey kauke danger e felcho?,T,"gc, yq"
+Na.,P,on
+Okay. Tumi ki suicidal thoughts niye vabcho?,T,yq
+Ha.,P,op
+"Thik ache, amra ei niye ektu pore kotha bolbo. suicidal plan niye ki, kono plan korecho ba attempt korecho? Ki occasional thoughts?",T,yq
+Ha. Maybe plan korechilam onek agey.,P,op
+Onek agey?,T,crq
+Ha.,P,cd
+Shesh suicidal thought kobe chilo?,T,irq
+Goto shoptahe.,P,id
+"Tumi ki nijer ke harm korecho? Jemon, self mutilation, cutting?",T,yq
+Na.,P,on
+"Amra dangerousness niye kotha bollam, tumi bollle kono danger e nei. Tumi ki homicidal thoughts niye vabcho?",T,yq
+"Mane, manush ke marar kotha?",P,crq
+Hmm.,T,cd
+Na.,P,on
+"Tumi ki violent hoyecho? Jemon, violent outburst ba kichu?",T,yq
+"Mane, amar husband ke chillachi? Kintu na, na, na.",P,on
+Thik ache.,T,gc
+"Mane, eta sometimes hoy.",P,gc
+Eta rare?,T,crq
+Ha.,P,cd
+"Okay, ami symptom checklist ta complete korechi. Obviously, ekhane kichu area ache je amra pore discuss korbo. Kintu eta amake ekta valo overview dey ki hocche ek page e. Ami ekhon gears switch korte chai trauma screening er dike.",T,id
+Okay.,P,ack
+"Thik ache. Ami tomader jiggasa korbo, tumi ki kabhu exposed hoye thako ei incidents gulo te, list e different types of incidents ache. Okay. Shudhu tumi ha bolo, eta mane ei na trauma associated, kintu amar jonno guruttopurno jante je eta tomader sathe ghoteche. Tumi ki kabhu motor vehicle accident e involved hoye chile?",T,"gc, yq"
+Ha.,P,op
+Agun niye ki?,T,irq
+Ha.,P,id
+Work accident?,T,irq
+Na.,P,id
+Tumi ki crime er victim hoye chile?,T,yq
+Ha ha.,P,op
+"Amra ei niye pore asbo. Tumi ki kabhu weather related trauma face korecho, jemon, tornado ba flood ba kichu?",T,yq
+Na.,P,on
+Kabhu ki flashbacks hoyeche?,T,yq
+Na.,P,on
+Tumi ki kabhu physically abused hoye chile?,T,yq
+Na.,P,on
+Tumi sure mone hocche na?,T,irq
+"Well ami jani na, physically abused ki na, amar maa amake smack korechilo.",P,id
+Eta koto bar hoyeche?,T,irq
+"Ektu kom, jano, maybe bochhor e dui ekbar.",P,id
+Sexual abuse niye ki?,T,yq
+Never.,P,on
+"Traumatic loss niye ki, jemon, keu ke mara jete dekha ba kichu?",T,yq
+Na.,P,on
+"Domestic violence niye amra kichu kotha bollam, ar tumi bollle mostly argue, kono physical component chilo ki?",T,yq
+Na.,P,on
+Okay. Tumi ki ektu bolo motor vehicle accident ta niye?,T,irq
+"Ha, um, ami ar amar husband just movie dekhte jachchilam ek raate, ar keu amader gari ke red light e rear ended korechilo. Ha, airbags deploy hoye gechilo.",P,id
+Tumi ki ekhon o shake up feel korchho eta niye?,T,crq
+Na.,P,cd
+Tumi bollle crime er victim hoye chile. Ektu bolo briefly?,T,irq
+"Oh ha, ami amar gari Philadelphia te rekhechilam. Symphony te giyechilam, ar street e park korechilam. Fire eshe dekhi amar gari theke radio, CD player churi hoye geche.",P,id
+Ar result ki hoyeche?,T,irq
+"Oh, actually, amar husband police ke call korechilo, ar tara recover korechilo. Koyek din pore amar radio phire peyechilam.",P,id
+Tumar gari repair hoyeche?,T,yq
+"Ha ha, insurance repair kore diyeche. Ektu hassle chilo kintu okay.",P,op
+"So ami appreciate kori tomader ei questions answer kora potential trauma niye, ar ami ekhon switch korte chai substance abuse er dike. Ami jani tumi age ektu touch korechile, tumi bollle law er sathe involve hoye marijuana use niye. So ekbar tumi marijuana use korechile. Tumi marijuana koto din use korechile?",T,"id, irq"
+"Honestly, occasionally kori, mane, shob shomoy na.",P,id
+Alcohol niye ki?,T,irq
+"Ami boli, jano, ami dinner e wine er couple glasses kori week e koyek raat.",P,id
+Eta thik?,T,yq
+Ha.,P,op
+"Tumi ki kabhu trouble face korecho alcohol use niye, jemon, lie kora ba eto intoxicated hoye kichu regrettable kaj kora?",T,yq
+"Ha, ekbar restaurant e embarrass korechilam. Ektu loud hoye gechilam.",P,op
+Alcohol er jonno?,T,yq
+"Ha, beshi korechilam. Khushi noi, kintu just ekbar.",P,op
+Tumi ki mone koro alcohol niye problem ache?,T,orq
+Na.,P,od
+"Jodi tumi entirely use kora bandho korte hoto, tumi parbe?",T,irq
+Ha. Ha. Mone kori na ami chai.,P,id
+Kintu tumi parbe?,T,yq
+Ha.,P,op
+Marijuana use er agey o ki same jinish chilo?,T,irq
+"Oh, ha. Mone hocche ha. Just majhe majhe.",P,id
+Ar kono substances niye ki bolo?,T,irq
+"Well, college e ektu experiment korechilam, jemon LSD, speed, ar cocaine koyekbar, kintu ami beshi pasand kori ni.",P,id
+Ar tarpor theke use koro ni?,T,yq
+Na.,P,on
+Thik ache. Tumi ki kabhu substance abuse er jonno treatment niye chile?,T,yq
+Na.,P,on
+"Thik ache, ebar gears switch kori gambling er dike. Tumi ki kabhu gamble korecho?",T,"gc, yq"
+"Ha, ha.",P,op
+Ektu bolo seta niye.,T,irq
+"Ha. Um, ami ekbar amar husband er sathe business trip e Las Vegas giyechilam. Ar jani, Atlantic City teo giyechi, jemon... Well, ami guess kori, amra gechi... Well, ekbar bochhor e, na quite ekbar bochhor e na.",P,id
+"Thik ache. Tumi ki ektu bolo, jokhon tumi giyecho gambling korecho, ki holo?",T,irq
+"Um, well, ami mostly giyechilam shows dekhte. Ar tarpor ami boli, ha, amra ekta certain amount spend korbo, ar amra oi taka niye jai, ar oi taka shesh hole, shesh.",P,id
+Thik ache. Tumi ki mone koro tumi gambling problem acho?,T,orq
+Na.,P,on
+"Thik ache. Dhonnobad. Ami abar gears switch korte chai, ami kotha bolte chai kono previous treatment history niye. Tumi ki kabhu dekha korecho counselor, mental health clinician, ba psychiatrist? Ei dhoroner keu?",T,"gc, yq"
+"Ha, korechilam. Ami ekjon counselor dekhechilam koyek bochhor age.",P,op
+Tumi ki mone koro kon bochhor chilo?,T,irq
+"Eta chilo, jemon 2010.",P,id
+Tumi counselor ke koto din dekhecho?,T,irq
+"Eta chilo beshi din na. She kinda... ami impressed chilam na. Jani na, maybe dui mash.",P,id
+Toh ki holo je dui mash?,T,crq
+"Well, ami comfortable chilam na or sathe. She just mone hocche... ami kivabe bolbo... confident chilam na or upor. She really sure mone hocche na nijer upor. She insecure mone hocche. Ar ami mone korchilam ami amar problems niye jabo kake? Jemon, ami explain korte pari na... effective mone hocche na.",P,cd
+"Thik ache, tumi ki bolo treatment kivabe terminate korecho? Appointment cancel korecho, naki shesh session e wrap up korecho?",T,irq
+"Na, ami just ar jai ni.",P,id
+Ar jao ni?,T,crq
+"Ha. Ekta appointment miss korechilam, ar tarpor call kore reschedule kori ni.",P,cd
+"Mane holo, tumi continue koro ni treatment karon mone hocche counselor ta valo kaj korchilo na, confident mone hocche na.",T,crq
+"Ha, she bujhte parche na amake. Ha. Ki kore help korbe amake mone hocche na.",P,cd
+"Eta uncommon na treatment er shomoy, counselor, mental health clinician er sathe sync hote na. Eta uncommon na. Jemon, tumi recognize korecho, hote pare she bujhte parche na tomader ke. Eta uncommon na. Kintu ami chai amader counseling relationship e, jodi tumi feel koro ei case, tumi communicate koro amake, ar amra kotha bolte pari.",T,gc
+oka Ha. Appreciate kori.,P,gc
+"Ar kono mental health treatment tumi ki peye esecho? Inpatient, outpatient?",T,yq
+"Ha, college er por oi incident er por. Amake chaiche dekhte counselor ke, ar ami giyechilam... jemon dui ba teenbar.",P,op
+Marijuana incident er por?,T,crq
+Ha.,P,cd
+Mane ki mandatory chilo?,T,yq
+"Ha, exactly. Ami group e giyechilam. Ar karo sathe kotha boltechi, tara amake onek question koreche erokom, ar ami arekjon ke dekhechilam arekbar.",P,op
+"Ami abar gears switch kori, next section e jabo. Tumi ki ready continue korar jonno?",T,"gc, yq"
+Ha.,P,op

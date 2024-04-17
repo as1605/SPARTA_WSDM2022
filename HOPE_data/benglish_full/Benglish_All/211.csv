@@ -1,0 +1,67 @@
+Utterance,Type,Dialogue Act
+"Hi, Miss Jones.",T,gt
+Haan,P,gt
+"Ami Jane Corona. Ami ekjon medical student, university te.",T,gt
+Apnar sathe dekha kore khub bhalo laglo.,P,gt
+"Ami Dr. Smith er sathe boshe achi, amra medical student hishebe apnar interview korte chai. Thik ache? Tarpor ami ei information Dr. Smith ke debo, ar tarpor uni apnar sathe dekha korben.",T,gt
+Thik ache.,P,gt
+Thik ache. Apni kivabe addressed hote chan?,T,irq
+Mrs. Jones bhalo.,P,id
+Thik ache. Dhanyabad. Apni ajke kotha bolte comfortable achhen?,T,yq
+"Haan. Thik ache, dhanyabad.",P,ack
+Ami ajke shuru korechi apnar chief complaint niye kotha bolte. Apni ekhane keno esechhen?,T,irq
+"Sure, amar bame konu actually onek betha hochhe. Majhe majhe, amar haat extend kore ar bend korte betha hochhe. Etai asol karon ami ekhane esechhi. Ami Tylenol niyechhi betha komate, kintu seta beshi kaaj koreni.",P,id
+"Thik ache, amra ektu pore betha niye ar beshi kotha bolbo. Apni ki Dr. Smith ba amar sathe ar kichu discuss korte chan?",T,yq
+"Na, ami mone kori na.",P,on
+Thik ache. Ektu beshi bolen apnar betha niye.,T,irq
+"Um, eta ekta throbbing betha, randomly din er moddhe akti hochhe. Eta specific kore sokal ba sandhya ba madhyarate na. Randomly akti hochhe. Ami beshi kaj korle, jemon bason dhuye, tokhon betha hochhe. Amar bachcha ke tule, tokhon betha hochhe. Erokom exertion er somoy betha beshi hochhe.",P,id
+"Ar bolen, eta kobe shuru hoyechilo apnar jonno?",T,irq
+"Ami boli, maybe ek week ba dui week age.",P,id
+Ar apni betha ke throbbing bolchen. Bethar quality niye ar kichu bolen?,T,yq
+"Na, shudhu throbbing.",P,on
+"Thik ache, ek week ba dui week age shuru hoyechilo. Ar apni mone koren ki apni ki korchen je somoy betha shuru hoyechilo?",T,yq
+"Ami amar husband er sathe garage clean korchilam, ar kichu box tulechilam. Tokhon mone kori ni, kintu sandhyar dike betha shuru hoyechilo.",P,id
+"Thik ache. Umm, ami bethar severity niye ektu shunte chai, pain scale e one to 10, 10 holo worst pain apni kokhono peyechhen, one ba zero holo kono betha na. Eta kemon betha?",T,irq
+"Ami boli, maybe chhoy ba sat. Eta ekta nuisance er moto hoye geche, asol betha na.",P,id
+Thik ache. Ar eta chhoy ba sat sobsomoy?,T,yq
+"Um, je somoy betha shuru hoy, haan.",P,id
+Thik ache. Ar din e koto bar eta hochhe?,T,irq
+"Ami boli, maybe dui ba teen bar.",P,id
+Apni ki kono pattern notice korechen?,T,yq
+Na.,P,on
+Thik ache. Ar apni exactly bolte parben betha kothay hochhe?,T,irq
+"Eta basically konur moto wrap koreche amar konu ke, ar seta amake beshi betha dey.",P,id
+"Ar betha ki apnar haat er upore ba niche, ba onno kothao choriye jachhe?",T,yq
+"Na, seta oi area tei thake.",P,id
+Ar kono onno symptoms achhe? Betha chhara onno kichu hochhe apnar sathe?,T,yq
+"Na, ami mone kori na.",P,on
+Kichu achhe je betha komate sahajyo kore?,T,yq
+"Um, kichu nei je betha purapuri chole jabe. Ektu somoyer jonno betha komate sahajyo kore, kintu chole jay na.",P,id
+Ar koto somoy lagbe?,T,irq
+"Jei bottle e lekha thake, usually ek ba dui tablet.",P,id
+Eta ki regular strength na extra strength?,T,yq
+regular strength.,P,op
+"Apni shudhu counter theke kinchen, normal directions on the bottle mato.",T,crq
+thik ache,P,cd
+Thik ache. Ar kichu achhe je betha beshi kore?,T,yq
+"Um, jei rokom ami age bollen, kono exertion, bachcha ke tule, bason dhuye, basically daily living er moto kaj.",P,id
+"Mane, betha hochhe je somoy apni use korchhen.",T,crq
+Haan.,P,ack
+Tumi ei complaint-er sathe aar kaoke dekhechho?,T,yq
+"Um, na.",P,on
+Aar ki ki cheshecho Tylenol er baire kono kichhu?,T,irq
+"Um, ami ekta heating pad niye chesta korlam. Aar ami ice o chesta korlam. Kono labh hoyni.",P,id
+"Okay. Shuniyechi je tomake kichhu chinta hochhe, tor ki tor garaz e kaj korte, bartan dhone, bachhar ke uthate ashte help korte aar ki? Anyo kichhu asar ache tomake jiban e?",T,crq
+"Umm je ami ullekh korlam tar jonye beshi kotha bolechhi. Raat e ghum theke uthle, baar baar to aram na. Kintu, nijeke dubar ghumate mushkil hoy.",P,cd
+Raat e tomake uthiye dite?,T,yq
+"Na, kintu raat e ghum theke uthle to ektu disturb kore ar phire aram peye mushkil hoy.",P,on
+"Okay. Tomar kotha moto, eta ki hobe?",T,irq
+"Um, ami nije nije jani na. Amar bhalo mone hoy je shayad kono khechu chera hati jaita hoche. Kintu, honestly ami bujhte parchhi na.",P,id
+"Thik ache. Ekhon ami je korte chai shudhu tomar kotha gulo niye ghuriye nite, taar somoy tumi amay help korte paro. Eto shob kichhu ami thik moto bujhechi na. Tumi kichhu bhule gechho ki na, ar ki vabe bolte chaile, please, amake janao.",T,id
+Thik ache.,P,ack
+"Tumi ajke clinic e eshecho ekta complaint er jonno, baam haater pain er jonno, jeta tomar mostly bend korle naki use korle observe kora. Eta ekta throbbing pain jeta ashadharon kotha, random vabe ghotbe, kintu dui tene tin bar tomar din e hobe, to bujhechhi je jodi tomar haat taao ekta kichhu korte ba flix korte habe, tahole to bujha jai je sei shomoy e shob shokto hobe. Ei roge eki du hafty holo, mone korle dui. Eta shuru holo jokhon tomar shohor garaz saaf korche aar tumi dhorai dhorai box uthate aschhilo. Tai poyshu shtey tola ekti pain scale e, shesto sokto, eta shara din achhe, aar eta bhalo kore uddipon korteche tomay. Tomar jonno ei roge tobuo ektu ektu din e dui tene tin bar hotbe, aar eta joint e porimane pain bishesh kore, Tylenol niye chesta korle kichhu beshi aram pai ni.",T,id
+thik,P,ack
+"kintu to to ektu beshi help hoini. Aar tomar kotha moto, tumi heating pad o cheshecho, ice o cheshecho, tokhon-o kono onno kichhu labh hoyni. Bhalo moto tobuo eta shomoshsha hoi. Eta to, tobuo, tomar daily activities er way e dhuke aschhe. Raat e shob theke jore tomake ghum na diye, kintu raat e ghum theke uthle o tumi notice korte thako je eto toh chole jachche. Kintu, oboshho, eirokom mostly mone hocche je eta ekta tene khicha muscle hote pare. Ki kichhu bhule gechhi ki na, ya to tumi amay bhalo moto janate chao?",T,"yq,id"
+"Mone hocche na, jeta ami mone korte perechi na.",P,on
+Tomar pradhon songe tomar bishesh chinta niye katha bole dhonnobad. Tai ami abar Dr. Smith er kachhe nie jabo.,T,gt
+Dhonnobad tomakeo.,P,gt

@@ -1,0 +1,56 @@
+Utterance,Type,Dialogue Act
+"Hi Jack, kemon acho aj?",T,gt
+"Hey, ami bhalo achi. Tumi kemon acho?",P,gt
+"Ami bhalo achi, dhonnobad. Tomake ek assessment dite chai, tomar bhabna o memory test korar jonno. Thik ase?",T,"gt, crq"
+Haan.,P,cd
+"Tai, ami tomake kichu prashna korbo. Tumi tader uttar dao, je tomake shakti te parbe.",T,gc
+Okay.,P,gc
+Okay. Ajker tithi ta ki?,T,irq
+26th,P,id
+Ajker bachor ki?,T,irq
+2015,P,id
+Aaj kon mas?,T,irq
+May,P,id
+Aaj kon din?,T,irq
+Tuesday,P,id
+"Tumi ki bolte paro, eti kon ritu?",T,irq
+Grishho,P,id
+"Tumi bolte paro, amader thik jaygai konti building e achi?",T,irq
+Wilmington University.,P,id
+Ei building er kon floor achi?,T,irq
+Pehli floor?,P,id
+Amra konti shahore achi?,T,irq
+Newcastle,P,id
+Amra konti zile achi?,T,irq
+Newcastle.,P,id
+Ar amra konti rajye achi?,T,irq
+Delware,P,id
+"Okay. Ami tomake kichu object memorize korar jonno bolbo. Tai, tader naam bolte bolbo, tumi tader amay repeat korte paro?",T,cv
+"Ball, flag, and tree.",P,cr
+"Dhonnobad. Tumi 100 theke shuru kore 7 ghatiye ulta theke ghotte jao, ami tomay stop korar jonno prochur try korbo.",T,cv
+"94, 88, 70, 65, 53",P,cr
+"Bhalo. Dhonnobad. Ami chai tumi ""world"" shabd ta ulte bolte paro.",T,cv
+D L O R W,P,cr
+"Tumi ki mone rekhecho, ami tor kachhe ekhane bochhor kichu shabd bolchilam?",T,cv
+"Ball, flower, tree.",P,cr
+Dhonnobad.,T,gc
+hmm,P,gc
+Tumi eta ki bujhte paro?,T,irq
+Kalam,P,id
+"Ami ekta phrase bolbo, tumi tar proti ghuriye mukhe ferot dao. Phrase ta holo ""no ifs, ands, or buts"". Tader amay ghuriye mukhe bolte paro?",T,cv
+"No ifs, ands, or buts.",P,cr
+"Tumi kon haate lekha kaj koro, right-handed naki left-handed?",T,irq
+Right hand.,P,id
+"Ami chai je tumi ei kagaj ta right haate nite, tate ekbar fold koro, ebong tarpor floor e rakho.",T,cv
+......,P,cr
+"Dhonnobad. Ami ekta sign dhore rakhi. Abar instructions dei, tader anukoron korte bola. Tumi tader instructions anukoron korte paro?",T,"gc, cv"
+......,P,cr
+"Dhonnobad. Baam pashe ekta chair ase, shei chair er upor ekta clipboard aache. Tumi ota nilo?",T,"gc, cv"
+.....,P,cr
+"Er nicher dike space diye ekta sentence likhte bolbo, mone rekho?",T,cv
+.....,P,cr
+"Dhonnobad. Otaar upor dekha jabe, sei paper e ekta chobi ache, sei area te otaa likhte bolbo. Tumi otaa copy korte paro?",T,"gc, cv"
+.....,P,cr
+"Bhalo, dhonnobad.",T,gc
+Ei amar jonno khub upokar hoyeche. Tomake bhule onnoke dhonnobad bolte chai.,P,gc
+Dhonnobad.,T,gc
